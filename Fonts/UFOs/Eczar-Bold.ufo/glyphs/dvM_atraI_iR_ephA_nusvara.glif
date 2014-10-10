@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraIiRephAnusvara" format="1">
+  <advance width="316"/>
+  <outline>
+    <contour>
+      <point x="301" y="709"/>
+      <point x="332" y="748"/>
+      <point x="345" y="781" type="curve"/>
+      <point x="327" y="804"/>
+      <point x="288" y="839"/>
+      <point x="255" y="852" type="curve"/>
+      <point x="225" y="836"/>
+      <point x="197" y="797"/>
+      <point x="180" y="761" type="curve"/>
+      <point x="200" y="734"/>
+      <point x="244" y="701"/>
+      <point x="273" y="690" type="curve"/>
+    </contour>
+    <component base="dvMatraIiReph"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

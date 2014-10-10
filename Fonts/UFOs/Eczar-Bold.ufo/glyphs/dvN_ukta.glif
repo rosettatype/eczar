@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNukta" format="1">
+  <advance width="600"/>
+  <unicode hex="093C"/>
+  <outline>
+    <contour>
+      <point x="58" y="-275"/>
+      <point x="97" y="-226"/>
+      <point x="113" y="-184" type="curve"/>
+      <point x="90" y="-154"/>
+      <point x="41" y="-109"/>
+      <point x="-1" y="-93" type="curve"/>
+      <point x="-36" y="-114"/>
+      <point x="-73" y="-163"/>
+      <point x="-96" y="-208" type="curve"/>
+      <point x="-71" y="-243"/>
+      <point x="-15" y="-285"/>
+      <point x="22" y="-299" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
