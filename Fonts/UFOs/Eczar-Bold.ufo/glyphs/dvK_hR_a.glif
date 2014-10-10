@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvKhRa" format="1">
+  <advance width="920"/>
+  <outline>
+    <contour>
+      <point x="315" y="-95" type="line"/>
+      <point x="422" y="-205" type="line"/>
+      <point x="775" y="31" type="line"/>
+      <point x="706" y="75" type="line" smooth="yes"/>
+    </contour>
+    <component base="dvKha"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

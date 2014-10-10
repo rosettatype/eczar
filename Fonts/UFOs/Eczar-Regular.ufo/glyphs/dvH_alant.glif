@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvHalant" format="1">
+  <advance width="0"/>
+  <unicode hex="094D"/>
+  <outline>
+    <contour>
+      <point x="86" y="-236" type="line"/>
+      <point x="-29" y="-127" type="line" smooth="yes"/>
+      <point x="-84" y="-75"/>
+      <point x="-113" y="-56"/>
+      <point x="-151" y="-56" type="curve" smooth="yes"/>
+      <point x="-187" y="-56"/>
+      <point x="-211" y="-74"/>
+      <point x="-256" y="-105" type="curve"/>
+      <point x="-196" y="-179" type="line"/>
+      <point x="-115" y="-127" type="line"/>
+      <point x="51" y="-273" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

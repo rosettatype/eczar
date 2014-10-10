@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNDRa" format="1">
+  <advance width="981"/>
+  <outline>
+    <contour>
+      <point x="460" y="538" type="line"/>
+      <point x="485" y="587" type="line"/>
+      <point x="420" y="670" type="line"/>
+      <point x="-40" y="670" type="line"/>
+      <point x="-65" y="621" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="7" y="336" type="line"/>
+      <point x="20" y="250"/>
+      <point x="101" y="134"/>
+      <point x="190" y="90" type="curve"/>
+      <point x="262" y="126" type="line"/>
+      <point x="262" y="352" type="line"/>
+      <point x="195" y="394" type="line"/>
+      <point x="43" y="394" type="line"/>
+    </contour>
+    <contour>
+      <point x="501" y="273" type="line"/>
+      <point x="437" y="394" type="line"/>
+      <point x="139" y="394" type="line"/>
+      <point x="170" y="228" type="line"/>
+      <point x="474" y="228" type="line"/>
+    </contour>
+    <component base="dvDRa" xOffset="352"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvGRa" format="1">
+  <advance width="590"/>
+  <outline>
+    <contour>
+      <point x="120" y="-12" type="line"/>
+      <point x="184" y="-64" type="line"/>
+      <point x="471" y="171" type="line"/>
+      <point x="437" y="235" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="45" y="292" type="line"/>
+      <point x="64" y="237"/>
+      <point x="125" y="178"/>
+      <point x="177" y="148" type="curve"/>
+      <point x="225" y="168" type="line"/>
+      <point x="225" y="296" type="line"/>
+      <point x="164" y="331" type="line"/>
+      <point x="73" y="331" type="line"/>
+    </contour>
+    <contour>
+      <point x="417" y="5" type="line"/>
+      <point x="476" y="-33" type="line"/>
+      <point x="500" y="-26" type="line"/>
+      <point x="500" y="500" type="line"/>
+      <point x="442" y="551" type="line"/>
+      <point x="417" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="611" y="538" type="line"/>
+      <point x="620" y="558" type="line"/>
+      <point x="590" y="608" type="line"/>
+      <point x="-21" y="608" type="line"/>
+      <point x="-30" y="588" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="283" type="line"/>
+      <point x="225" y="252" type="line"/>
+      <point x="225" y="500" type="line"/>
+      <point x="167" y="551" type="line"/>
+      <point x="142" y="562" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
