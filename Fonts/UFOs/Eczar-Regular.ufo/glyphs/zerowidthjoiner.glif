@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zerowidthjoiner" format="1">
+  <advance width="0"/>
+  <unicode hex="200D"/>
+  <outline>
+    <contour>
+      <point x="100" y="725" type="line"/>
+      <point x="100" y="795" type="line"/>
+      <point x="-99" y="795" type="line"/>
+      <point x="-99" y="725" type="line"/>
+      <point x="-72" y="725" type="line"/>
+      <point x="-72" y="769" type="line"/>
+      <point x="73" y="769" type="line"/>
+      <point x="73" y="725" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

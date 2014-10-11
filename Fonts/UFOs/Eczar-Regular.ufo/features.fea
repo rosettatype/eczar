@@ -191,3 +191,36 @@ script dev2;
 		lookup PRES;
 } pres;
 
+feature abvs {
+sub dvIi dvAnusvara by dvIi_dvAnusvara;
+sub dvDa dvMatraU by dvDa_dvMatraU;
+sub dvDa dvMatraUu by dvDa_dvMatraUu;
+sub dvDa dvMatraVocalicR by dvDa_dvMatraVocalicR;
+sub dvRa dvMatraU by dvRa_dvMatraU;
+sub dvRa dvMatraUu by dvRa_dvMatraUu;
+sub dvSha dvMatraVocalicR by dvSha_dvMatraVocalicR;
+sub dvHa dvMatraVocalicR by dvHa_dvMatraVocalicR;
+sub dvHa dvMatraU by dvHa_dvMatraU;
+sub dvHa dvMatraUu by dvHa_dvMatraUu;
+
+sub dvMatraIi dvReph dvAnusvara by dvMatraIi_dvReph_dvAnusvara;
+sub dvMatraE dvReph dvAnusvara by dvMatraE_dvReph_dvAnusvara;
+sub dvMatraAi dvReph dvAnusvara by dvMatraAi_dvReph_dvAnusvara;
+sub dvMatraO dvReph dvAnusvara by dvMatraO_dvReph_dvAnusvara;
+sub dvMatraAu dvReph dvAnusvara by dvMatraAu_dvReph_dvAnusvara;
+sub dvReph dvAnusvara by dvReph_dvAnusvara;
+
+sub dvMatraIi dvReph by dvMatraIi_dvReph;
+sub dvMatraE dvReph by dvMatraE_dvReph;
+sub dvMatraAi dvReph by dvMatraAi_dvReph;
+sub dvMatraO dvReph by dvMatraO_dvReph;
+sub dvMatraAu dvReph by dvMatraAu_dvReph;
+sub dvMatraE dvAnusvara by dvMatraE_dvAnusvara;
+sub dvMatraAi dvAnusvara by dvMatraAi_dvAnusvara;
+} abvs;
+
+feature blws {
+sub dvRakar dvMatraU by dvRakar_dvMatraU;
+sub dvRakar dvMatraUu by dvRakar_dvMatraUu;
+} blws;
+

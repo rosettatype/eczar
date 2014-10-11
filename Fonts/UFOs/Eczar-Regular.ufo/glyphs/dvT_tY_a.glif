@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvTtYa" format="1">
-  <advance width="1091"/>
+  <advance width="1128"/>
   <outline>
     <component base="dvTta"/>
-    <component base="dvYa.post" xOffset="509"/>
+    <component base="dvYa.post" xOffset="541"/>
   </outline>
   <lib>
     <dict>

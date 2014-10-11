@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvKSsVa" format="1">
-  <advance width="1078"/>
+  <advance width="1076"/>
   <outline>
-    <component base="dvVa" xOffset="513"/>
-    <component base="dvKSs"/>
+    <component base="dvVa"/>
+    <component base="dvKSs" xOffset="565"/>
   </outline>
   <lib>
     <dict>
