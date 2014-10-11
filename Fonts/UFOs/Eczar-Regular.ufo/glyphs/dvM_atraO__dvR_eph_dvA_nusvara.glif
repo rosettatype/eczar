@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvMatraEAnusvara" format="1">
-  <advance width="0"/>
+<glyph name="dvMatraO_dvReph_dvAnusvara" format="1">
+  <advance width="263"/>
   <outline>
-    <component base="dvMatraE"/>
-    <component base="dvAnusvara" xOffset="-73"/>
+    <component base="dvMatraAa"/>
+    <component base="dvMatraE_dvReph_dvAnusvara" xOffset="254"/>
   </outline>
   <lib>
     <dict>

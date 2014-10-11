@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvShortE" format="1">
-  <advance width="545"/>
+  <advance width="555"/>
   <unicode hex="090E"/>
   <outline>
     <component base="dvE"/>

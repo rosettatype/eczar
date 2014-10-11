@@ -21,9 +21,6 @@
 	<false/>
 	<key>public.glyphOrder</key>
 	<array>
-		<string>.notdef</string>
-		<string>.null</string>
-		<string>CR</string>
 		<string>A</string>
 		<string>B</string>
 		<string>C</string>
@@ -76,14 +73,9 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
+		<string>dottedCircle</string>
 		<string>dvShortA</string>
 		<string>dvA</string>
-		<string>dvAa</string>
-		<string>dvI</string>
-		<string>dvIi</string>
-		<string>dvU</string>
-		<string>dvUu</string>
-		<string>dvVocalicR</string>
 		<string>dvVocalicL</string>
 		<string>dvCandraE</string>
 		<string>dvShortE</string>
@@ -93,10 +85,12 @@
 		<string>dvShortO</string>
 		<string>dvO</string>
 		<string>dvAu</string>
+		<string>dvAa</string>
 		<string>dvKa</string>
 		<string>dvKha</string>
 		<string>dvGa</string>
 		<string>dvGha</string>
+		<string>dvI</string>
 		<string>dvNga</string>
 		<string>dvCa</string>
 		<string>dvCha</string>
@@ -107,6 +101,7 @@
 		<string>dvTtha</string>
 		<string>dvDda</string>
 		<string>dvDdha</string>
+		<string>dvIi</string>
 		<string>dvNna</string>
 		<string>dvTa</string>
 		<string>dvTha</string>
@@ -120,11 +115,13 @@
 		<string>dvBha</string>
 		<string>dvMa</string>
 		<string>dvYa</string>
+		<string>dvYa.post</string>
 		<string>dvRa</string>
 		<string>dvRra</string>
 		<string>dvLa</string>
 		<string>dvVa</string>
 		<string>dvSha</string>
+		<string>dvU</string>
 		<string>dvSsa</string>
 		<string>dvSa</string>
 		<string>dvHa</string>
@@ -135,28 +132,19 @@
 		<string>dvDddha</string>
 		<string>dvRha</string>
 		<string>dvFa</string>
+		<string>dvUu</string>
 		<string>dvYya</string>
-		<string>dvMatraAa</string>
-		<string>dvMatraI</string>
-		<string>dvMatraIi</string>
-		<string>dvMatraU</string>
-		<string>dvMatraUu</string>
-		<string>dvMatraVocalicR</string>
-		<string>dvMatraCandraE</string>
-		<string>dvMatraShortE</string>
-		<string>dvMatraE</string>
-		<string>dvMatraAi</string>
-		<string>dvMatraCandraO</string>
-		<string>dvMatraShortO</string>
-		<string>dvMatraO</string>
-		<string>dvMatraAu</string>
-		<string>dvHalant</string>
-		<string>dvCandrabindu</string>
-		<string>dvAnusvara</string>
-		<string>dvVisarga</string>
-		<string>dvNukta</string>
-		<string>dvReph</string>
-		<string>dvRakar</string>
+		<string>dvVocalicR</string>
+		<string>dvDa_dvMatraU</string>
+		<string>dvDa_dvMatraUu</string>
+		<string>dvDa_dvMatraVocalicR</string>
+		<string>dvIi_dvAnusvara</string>
+		<string>dvRa_dvMatraU</string>
+		<string>dvRa_dvMatraUu</string>
+		<string>dvSha_dvMatraVocalicR</string>
+		<string>dvHa_dvMatraU</string>
+		<string>dvHa_dvMatraUu</string>
+		<string>dvHa_dvMatraVocalicR</string>
 		<string>dvKRa</string>
 		<string>dvKhRa</string>
 		<string>dvGRa</string>
@@ -165,6 +153,7 @@
 		<string>dvJRa</string>
 		<string>dvJhRa</string>
 		<string>dvTRa</string>
+		<string>dvTRa.alt</string>
 		<string>dvThRa</string>
 		<string>dvDRa</string>
 		<string>dvDhRa</string>
@@ -185,15 +174,28 @@
 		<string>dvKhhRa</string>
 		<string>dvKSsa</string>
 		<string>dvJNya</string>
+		<string>dvTtTtYa</string>
+		<string>dvTthTthYa</string>
+		<string>dvDdDdYa</string>
+		<string>dvDDYa</string>
+		<string>dvDDhYa</string>
+		<string>dvDBhYa</string>
 		<string>dvDRYa</string>
 		<string>dvDVYa</string>
 		<string>dvShRYa</string>
+		<string>dvSsTtYa</string>
+		<string>dvSsTthYa</string>
+		<string>dvNgYa</string>
 		<string>dvTtTta</string>
 		<string>dvTtTtha</string>
+		<string>dvTtYa</string>
 		<string>dvTthTtha</string>
+		<string>dvTthYa</string>
 		<string>dvDdDda</string>
 		<string>dvDdDdha</string>
+		<string>dvDdYa</string>
 		<string>dvDdhDdha</string>
+		<string>dvDdhYa</string>
 		<string>dvDGa</string>
 		<string>dvDDa</string>
 		<string>dvDDha</string>
@@ -205,12 +207,17 @@
 		<string>dvDVa</string>
 		<string>dvKSsMa</string>
 		<string>dvKSsYa</string>
+		<string>dvKSsVa</string>
+		<string>dvNDRa</string>
 		<string>dvKCa</string>
 		<string>dvCCha</string>
 		<string>dvTTa</string>
+		<string>dvDhVa</string>
 		<string>dvShCa</string>
 		<string>dvShNa</string>
 		<string>dvShVa</string>
+		<string>dvSsTta</string>
+		<string>dvSsTtha</string>
 		<string>dvK</string>
 		<string>dvKh</string>
 		<string>dvG</string>
@@ -247,28 +254,6 @@
 		<string>dvSeven</string>
 		<string>dvEight</string>
 		<string>dvNine</string>
-		<string>dvDanda</string>
-		<string>dvDoubleDanda</string>
-		<string>dvYa.post</string>
-		<string>dvTtTtYa</string>
-		<string>dvTthTthYa</string>
-		<string>dvDdDdYa</string>
-		<string>dvDDYa</string>
-		<string>dvDDhYa</string>
-		<string>dvDBhYa</string>
-		<string>dvSsTtYa</string>
-		<string>dvSsTthYa</string>
-		<string>dvNgYa</string>
-		<string>dvTtYa</string>
-		<string>dvTthYa</string>
-		<string>dvDdYa</string>
-		<string>dvDdhYa</string>
-		<string>dvKSsVa</string>
-		<string>dvNDRa</string>
-		<string>dvDhVa</string>
-		<string>dvSsTta</string>
-		<string>dvSsTtha</string>
-		<string>dvTRa.alt</string>
 		<string>asterisk</string>
 		<string>comma</string>
 		<string>exclam</string>
@@ -281,43 +266,61 @@
 		<string>hyphen</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
+		<string>dvDanda</string>
+		<string>dvDoubleDanda</string>
 		<string>emspace</string>
 		<string>enspace</string>
 		<string>hairspace</string>
 		<string>space</string>
 		<string>thinspace</string>
+		<string>zerowidthjoiner</string>
+		<string>zerowidthnonjoiner</string>
+		<string>.notdef</string>
+		<string>.null</string>
+		<string>CR</string>
+		<string>dvVisarga</string>
+		<string>dvHalant</string>
+		<string>dvCandrabindu</string>
+		<string>dvAnusvara</string>
+		<string>dvNukta</string>
+		<string>dvReph</string>
+		<string>dvReph_dvAnusvara</string>
+		<string>dvRakar</string>
+		<string>dvRakar_dvMatraU</string>
+		<string>dvRakar_dvMatraUu</string>
+		<string>dvMatraU</string>
+		<string>dvMatraUu</string>
+		<string>dvMatraVocalicR</string>
+		<string>dvMatraCandraE</string>
+		<string>dvMatraShortE</string>
+		<string>dvMatraE</string>
+		<string>dvMatraE_dvAnusvara</string>
+		<string>dvMatraE_dvReph</string>
+		<string>dvMatraE_dvReph_dvAnusvara</string>
+		<string>dvMatraAi</string>
+		<string>dvMatraAi_dvAnusvara</string>
+		<string>dvMatraAi_dvReph</string>
+		<string>dvMatraAi_dvReph_dvAnusvara</string>
 		<string>dvHalant.small</string>
 		<string>dvRakar.small</string>
 		<string>dvMatraU.small</string>
 		<string>dvMatraUu.small</string>
 		<string>dvMatraVocalicR.small</string>
+		<string>dvMatraAa</string>
+		<string>dvMatraI</string>
+		<string>dvMatraIi</string>
+		<string>dvMatraIi_dvReph</string>
+		<string>dvMatraIi_dvReph_dvAnusvara</string>
+		<string>dvMatraCandraO</string>
+		<string>dvMatraShortO</string>
+		<string>dvMatraO</string>
+		<string>dvMatraO_dvReph</string>
+		<string>dvMatraO_dvReph_dvAnusvara</string>
+		<string>dvMatraAu</string>
+		<string>dvMatraAu_dvReph</string>
+		<string>dvMatraAu_dvReph_dvAnusvara</string>
 		<string>quotesingleleft</string>
 		<string>quotesingleright</string>
-		<string>dvHU</string>
-		<string>dvHu</string>
-		<string>dvDU</string>
-		<string>dvDu</string>
-		<string>dvDRi</string>
-		<string>dvShMatraVocalicR</string>
-		<string>dvRMatraUu</string>
-		<string>dvRMatraU</string>
-		<string>dvHMatraVocalicR</string>
-		<string>dvRakarMatraUu</string>
-		<string>dvRakarMatraU</string>
-		<string>dvMatraAuRephAnusvara</string>
-		<string>dvMatraORephAnusvara</string>
-		<string>dvMatraAuReph</string>
-		<string>dvMatraOReph</string>
-		<string>dvMatraAiRephAnusvara</string>
-		<string>dvMatraAiReph</string>
-		<string>dvMatraAiAnusvara</string>
-		<string>dvMatraERephAnusvara</string>
-		<string>dvMatraEReph</string>
-		<string>dvMatraIiRephAnusvara</string>
-		<string>dvMatraIiReph</string>
-		<string>dvMatraEAnusvara</string>
-		<string>dvRephAnusvara</string>
-		<string>dvIiAnusvara</string>
 	</array>
 </dict>
 </plist>

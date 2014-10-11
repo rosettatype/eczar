@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvMatraIiRephAnusvara" format="1">
+<glyph name="dvMatraIi_dvReph_dvAnusvara" format="1">
   <advance width="263"/>
   <outline>
     <contour>
@@ -16,7 +16,7 @@
       <point x="195" y="668"/>
       <point x="216" y="660" type="curve"/>
     </contour>
-    <component base="dvMatraIiReph"/>
+    <component base="dvMatraIi_dvReph"/>
   </outline>
   <lib>
     <dict>
