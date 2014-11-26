@@ -48443,8 +48443,8 @@ position = "{480, 475}";
 background = {
 anchors = (
 {
-name = bottom;
-position = "{360, 0}";
+name = candrabinduCXT;
+position = "{770, 670}";
 },
 {
 name = nukta;
@@ -48459,12 +48459,12 @@ name = top;
 position = "{465, 475}";
 },
 {
-name = candrabinduCXT;
-position = "{770, 670}";
-},
-{
 name = candrabindu;
 position = "{450, 670}";
+},
+{
+name = bottom;
+position = "{360, 0}";
 }
 );
 paths = (
@@ -48947,8 +48947,8 @@ position = "{485, 475}";
 background = {
 anchors = (
 {
-name = bottom;
-position = "{360, 0}";
+name = candrabinduCXT;
+position = "{770, 670}";
 },
 {
 name = nukta;
@@ -48963,12 +48963,12 @@ name = top;
 position = "{465, 475}";
 },
 {
-name = candrabinduCXT;
-position = "{770, 670}";
-},
-{
 name = candrabindu;
 position = "{450, 670}";
+},
+{
+name = bottom;
+position = "{360, 0}";
 }
 );
 paths = (
