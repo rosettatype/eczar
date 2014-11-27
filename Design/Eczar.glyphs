@@ -8497,7 +8497,7 @@ unicode = 091A;
 },
 {
 glyphname = dvCha;
-lastChange = "2014-11-22 14:55:46 +0000";
+lastChange = "2014-11-27 18:33:48 +0000";
 layers = (
 {
 anchors = (
@@ -24452,7 +24452,7 @@ unicode = 0941;
 },
 {
 glyphname = dvMatraUu;
-lastChange = "2014-11-22 14:52:28 +0000";
+lastChange = "2014-11-27 18:42:43 +0000";
 layers = (
 {
 anchors = (
@@ -48443,8 +48443,8 @@ position = "{480, 475}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{450, 670}";
+name = bottom;
+position = "{360, 0}";
 },
 {
 name = nukta;
@@ -48459,12 +48459,12 @@ name = top;
 position = "{465, 475}";
 },
 {
-name = bottom;
-position = "{360, 0}";
-},
-{
 name = candrabinduCXT;
 position = "{770, 670}";
+},
+{
+name = candrabindu;
+position = "{450, 670}";
 }
 );
 paths = (
@@ -48947,8 +48947,8 @@ position = "{485, 475}";
 background = {
 anchors = (
 {
-name = candrabindu;
-position = "{450, 670}";
+name = bottom;
+position = "{360, 0}";
 },
 {
 name = nukta;
@@ -48963,12 +48963,12 @@ name = top;
 position = "{465, 475}";
 },
 {
-name = bottom;
-position = "{360, 0}";
-},
-{
 name = candrabinduCXT;
 position = "{770, 670}";
+},
+{
+name = candrabindu;
+position = "{450, 670}";
 }
 );
 paths = (
@@ -74924,36 +74924,36 @@ width = 1031;
 },
 {
 glyphname = dvNCha;
-lastChange = "2014-11-22 15:45:53 +0000";
+lastChange = "2014-11-27 18:36:02 +0000";
 layers = (
 {
 anchors = (
 {
 name = bindu;
-position = "{729, 630}";
+position = "{650, 630}";
 },
 {
 name = bottom;
-position = "{679, 5}";
+position = "{645, -30}";
 },
 {
 name = candrabindu;
-position = "{714, 630}";
+position = "{675, 630}";
 },
 {
 name = candrabinduCXT;
-position = "{884, 630}";
+position = "{945, 630}";
 },
 {
 name = top;
-position = "{729, 468}";
+position = "{803, 468}";
 }
 );
 components = (
 {
 disableAlignment = 1;
-name = dvCa;
-transform = "{1, 0, 0, 1, 210, 0}";
+name = dvCha;
+transform = "{1, 0, 0, 1, 270, 0}";
 }
 );
 layerId = UUID0;
@@ -74973,56 +74973,56 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"12 246 LINE",
-"35 187 OFFCURVE",
-"79 127 OFFCURVE",
-"118 90 CURVE",
-"166 109 LINE",
-"166 248 LINE",
-"99 293 LINE",
-"53 293 LINE"
+"12 326 LINE",
+"35 267 OFFCURVE",
+"79 207 OFFCURVE",
+"118 170 CURVE",
+"166 189 LINE",
+"166 328 LINE",
+"99 373 LINE",
+"53 373 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"390 237 LINE",
-"364 293 LINE",
-"66 293 LINE",
-"97 217 LINE",
-"376 217 LINE"
+"370 317 LINE",
+"344 373 LINE",
+"66 373 LINE",
+"97 297 LINE",
+"356 297 LINE"
 );
 }
 );
-width = 864;
+width = 1005;
 },
 {
 anchors = (
 {
 name = bindu;
-position = "{801, 670}";
+position = "{724, 670}";
 },
 {
 name = bottom;
-position = "{691, 0}";
+position = "{684, -92}";
 },
 {
 name = candrabindu;
-position = "{781, 670}";
+position = "{744, 670}";
 },
 {
 name = candrabinduCXT;
-position = "{1101, 670}";
+position = "{1204, 670}";
 },
 {
 name = top;
-position = "{796, 475}";
+position = "{909, 475}";
 }
 );
 components = (
 {
-name = dvCa;
-transform = "{1, 0, 0, 1, 233, 0}";
+name = dvCha;
+transform = "{1, 0, 0, 1, 319, 0}";
 }
 );
 layerId = "818F884A-9448-4DD2-A77B-976162CCCBC7";
@@ -75031,9 +75031,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"380 538 LINE",
-"405 587 LINE",
-"340 670 LINE",
+"370 538 LINE",
+"395 587 LINE",
+"330 670 LINE",
 "-40 670 LINE",
 "-65 621 LINE",
 "0 538 LINE"
@@ -75042,28 +75042,28 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"-3 262 LINE",
-"17 186 OFFCURVE",
-"117 70 OFFCURVE",
-"180 36 CURVE",
-"252 72 LINE",
-"252 278 LINE",
-"185 320 LINE",
-"33 320 LINE"
+"-3 362 LINE",
+"17 286 OFFCURVE",
+"117 170 OFFCURVE",
+"180 136 CURVE",
+"252 172 LINE",
+"252 378 LINE",
+"185 420 LINE",
+"33 420 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"501 202 LINE",
-"437 320 LINE",
-"139 320 LINE",
-"170 167 LINE",
-"474 167 LINE"
+"481 302 LINE",
+"427 420 LINE",
+"139 420 LINE",
+"170 267 LINE",
+"464 267 LINE"
 );
 }
 );
-width = 971;
+width = 1124;
 }
 );
 },
@@ -105186,13 +105186,13 @@ width = 0;
 },
 {
 glyphname = dvMatraU.small;
-lastChange = "2014-11-22 18:18:25 +0000";
+lastChange = "2014-11-27 18:44:10 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-position = "{-170, 0}";
+position = "{-213, 0}";
 }
 );
 background = {
@@ -105258,7 +105258,7 @@ width = 0;
 anchors = (
 {
 name = _bottom;
-position = "{-274, 0}";
+position = "{-290, 0}";
 }
 );
 layerId = "818F884A-9448-4DD2-A77B-976162CCCBC7";
@@ -105300,13 +105300,13 @@ width = 0;
 },
 {
 glyphname = dvMatraUu.small;
-lastChange = "2014-11-22 18:18:25 +0000";
+lastChange = "2014-11-27 18:43:20 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-position = "{-185, 0}";
+position = "{-187, 0}";
 }
 );
 background = {
@@ -105375,7 +105375,7 @@ width = 0;
 anchors = (
 {
 name = _bottom;
-position = "{-126, 0}";
+position = "{-226, 0}";
 }
 );
 layerId = "818F884A-9448-4DD2-A77B-976162CCCBC7";
@@ -108850,6 +108850,151 @@ width = 0;
 }
 );
 unicode = 200D;
+},
+{
+glyphname = dvNCa;
+lastChange = "2014-11-27 18:32:43 +0000";
+layers = (
+{
+anchors = (
+{
+name = bindu;
+position = "{729, 630}";
+},
+{
+name = bottom;
+position = "{679, 5}";
+},
+{
+name = candrabindu;
+position = "{714, 630}";
+},
+{
+name = candrabinduCXT;
+position = "{884, 630}";
+},
+{
+name = top;
+position = "{729, 468}";
+}
+);
+components = (
+{
+disableAlignment = 1;
+name = dvCa;
+transform = "{1, 0, 0, 1, 210, 0}";
+}
+);
+layerId = UUID0;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"329 538 LINE",
+"338 558 LINE",
+"308 608 LINE",
+"-21 608 LINE",
+"-30 588 LINE",
+"0 538 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"12 246 LINE",
+"35 187 OFFCURVE",
+"79 127 OFFCURVE",
+"118 90 CURVE",
+"166 109 LINE",
+"166 248 LINE",
+"99 293 LINE",
+"53 293 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"390 237 LINE",
+"364 293 LINE",
+"66 293 LINE",
+"97 217 LINE",
+"376 217 LINE"
+);
+}
+);
+width = 864;
+},
+{
+anchors = (
+{
+name = bindu;
+position = "{801, 670}";
+},
+{
+name = bottom;
+position = "{691, 0}";
+},
+{
+name = candrabindu;
+position = "{781, 670}";
+},
+{
+name = candrabinduCXT;
+position = "{1101, 670}";
+},
+{
+name = top;
+position = "{796, 475}";
+}
+);
+components = (
+{
+name = dvCa;
+transform = "{1, 0, 0, 1, 233, 0}";
+}
+);
+layerId = "818F884A-9448-4DD2-A77B-976162CCCBC7";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"380 538 LINE",
+"405 587 LINE",
+"340 670 LINE",
+"-40 670 LINE",
+"-65 621 LINE",
+"0 538 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-3 262 LINE",
+"17 186 OFFCURVE",
+"117 70 OFFCURVE",
+"180 36 CURVE",
+"252 72 LINE",
+"252 278 LINE",
+"185 320 LINE",
+"33 320 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"501 202 LINE",
+"437 320 LINE",
+"139 320 LINE",
+"170 167 LINE",
+"474 167 LINE"
+);
+}
+);
+width = 971;
+}
+);
 }
 );
 disablesNiceNames = 1;
@@ -108883,6 +109028,12 @@ weightClass = ExtraBold;
 );
 kerning = {
 "UUID0" = {
+"@MMK_L_K.half" = {
+dvCha = "-30";
+};
+"@MMK_L_K.half.alt" = {
+"@MMK_R_Ma" = "-10";
+};
 "@MMK_L_V.half" = {
 "@MMK_R_Da" = "-40";
 "@MMK_R_Dda" = "-30";
@@ -109136,9 +109287,9 @@ dvJha = "-30";
 };
 dvPh.alt = {
 "@MMK_R_Gha" = "-60";
+"@MMK_R_Ma" = "-10";
 "@MMK_R_Ra" = "-40";
 "@MMK_R_Ya" = "-20";
-"@MMK_R_Ma" = "-10";
 };
 dvS = {
 "@MMK_R_Da" = "-20";
@@ -109259,14 +109410,11 @@ dvSix = "-30";
 dvThree = "-20";
 dvZero = "-20";
 };
+};
+"818F884A-9448-4DD2-A77B-976162CCCBC7" = {
 "@MMK_L_K.half" = {
 dvCha = "-30";
 };
-"@MMK_L_K.half.alt" = {
-"@MMK_R_Ma" = "-10";
-};
-};
-"818F884A-9448-4DD2-A77B-976162CCCBC7" = {
 "@MMK_L_V.half" = {
 "@MMK_R_Da" = "-70";
 "@MMK_R_Gha" = "-50";
@@ -109606,9 +109754,6 @@ dvOne.ss05 = "-30";
 dvSeven = 20;
 dvSix = "-20";
 dvThree = "-30";
-};
-"@MMK_L_K.half" = {
-dvCha = "-30";
 };
 };
 };
