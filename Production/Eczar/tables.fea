@@ -58,10 +58,6 @@ table name {
 	nameid 14 1 "https://github.com/rosettatype/Eczar/blob/master/LICENSE.txt";
 } name;
 
-table GDEF {
-	include(gdef.fea)
-} GDEF;
-
 
 #----------------------------------------------------------------------------
 # Language systems

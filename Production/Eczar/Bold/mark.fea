@@ -167,18 +167,18 @@
 		pos base [ncaron]  <anchor 325 468> mark @mark_top <anchor 333 0> mark @mark_bottom;
 		pos base [ncommaaccent]  <anchor 325 468> mark @mark_top <anchor 333 0> mark @mark_bottom;
 		pos base [ntilde]  <anchor 325 468> mark @mark_top <anchor 333 0> mark @mark_bottom;
-		pos base [r]  <anchor 89 188> mark @mark_top <anchor 72 0> mark @mark_bottom;
-		pos base [racute]  <anchor 89 188> mark @mark_top <anchor 72 0> mark @mark_bottom;
-		pos base [rcaron]  <anchor 89 188> mark @mark_top <anchor 72 0> mark @mark_bottom;
-		pos base [rcommaaccent]  <anchor 89 188> mark @mark_top <anchor 72 0> mark @mark_bottom;
+		pos base [r]  <anchor 263 468> mark @mark_top <anchor 193 0> mark @mark_bottom;
+		pos base [racute]  <anchor 263 468> mark @mark_top <anchor 193 0> mark @mark_bottom;
+		pos base [rcaron]  <anchor 263 468> mark @mark_top <anchor 193 0> mark @mark_bottom;
+		pos base [rcommaaccent]  <anchor 263 468> mark @mark_top <anchor 193 0> mark @mark_bottom;
 		pos base [w]  <anchor 152 200> mark @mark_top;
 		pos base [y]  <anchor 297 468> mark @mark_top;
 		pos base [yacute]  <anchor 297 468> mark @mark_top;
 		pos base [ydieresis]  <anchor 297 468> mark @mark_top;
-		pos base [z]  <anchor 100 188> mark @mark_top;
-		pos base [zacute]  <anchor 100 188> mark @mark_top;
-		pos base [zcaron]  <anchor 100 188> mark @mark_top;
-		pos base [zdotaccent]  <anchor 100 188> mark @mark_top;
+		pos base [z]  <anchor 268 468> mark @mark_top;
+		pos base [zacute]  <anchor 268 468> mark @mark_top;
+		pos base [zcaron]  <anchor 268 468> mark @mark_top;
+		pos base [zdotaccent]  <anchor 268 468> mark @mark_top;
 	} marklatin;
 	lookupflag 0;
 

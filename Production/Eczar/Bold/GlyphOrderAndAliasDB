@@ -305,7 +305,7 @@ approxequal	approxequal	uni2248
 notequal	notequal	uni2260
 lessequal	lessequal	uni2264
 greaterequal	greaterequal	uni2265
-lozenge	lozenge	uni25CA
+uni25CA	lozenge	uni25CA
 f_b.liga	f_b.liga	
 f_f.liga	f_f.liga	
 f_h.liga	f_h.liga	
@@ -812,18 +812,18 @@ uni0928094D092D094D	dvNBh
 uni0928094D0938094D	dvNS	
 uni092E094D092D094D	dvMBh	
 uni0932094D092D094D	dvLBh	
-u09260941	dvDa_dvMatraU	
-u09260942	dvDa_dvMatraUu	
-u09260943	dvDa_dvMatraVocalicR	
-u09260943.ss06	dvDa_dvMatraVocalicR.ss06	
-u0926094D092C0943	dvDBa_dvMatraVocalicR	
-u0926094D09350943	dvDVa_dvMatraVocalicR	
-u09300941	dvRa_dvMatraU	
-u09300942	dvRa_dvMatraUu	
-u09360943	dvSha_dvMatraVocalicR	
-u09390943	dvHa_dvMatraVocalicR	
-u09390941	dvHa_dvMatraU	
-u09390942	dvHa_dvMatraUu	
+uni09260941	dvDa_dvMatraU	
+uni09260942	dvDa_dvMatraUu	
+uni09260943	dvDa_dvMatraVocalicR	
+uni09260943.ss06	dvDa_dvMatraVocalicR.ss06	
+uni0926094D092C0943	dvDBa_dvMatraVocalicR	
+uni0926094D09350943	dvDVa_dvMatraVocalicR	
+uni09300941	dvRa_dvMatraU	
+uni09300942	dvRa_dvMatraUu	
+uni09360943	dvSha_dvMatraVocalicR	
+uni09390943	dvHa_dvMatraVocalicR	
+uni09390941	dvHa_dvMatraU	
+uni09390942	dvHa_dvMatraUu	
 uni0966	dvZero	uni0966
 uni0967	dvOne	uni0967
 uni0968	dvTwo	uni0968
