@@ -659,6 +659,7 @@ feature abvs {
 		sub dvReph.alt [dvAnusvara dvAnusvara.alt] by dvReph_dvAnusvara.alt;
 		sub dvReph.alt2 dvAnusvara.alt2 by dvReph_dvAnusvara.alt2;
 		sub dvMatraE dvReph dvAnusvara by dvMatraE_dvReph_dvAnusvara;
+		sub dvMatraShortE dvAnusvara by dvMatraShortE_dvAnusvara;
 		sub dvMatraE dvReph by dvMatraE_dvReph;
 		sub dvMatraE dvAnusvara by dvMatraE_dvAnusvara;
 		sub dvMatraAi dvReph dvAnusvara by dvMatraAi_dvReph_dvAnusvara;
@@ -707,38 +708,47 @@ feature abvs {
 
 
 feature blws {
-	lookupflag MarkAttachmentType @MK_dvMarksBelow;
+	lookup BLWS_RakarLigatures {
+		sub dvRakar dvMatraU by dvRakar_dvMatraU;
+		sub dvRakar dvMatraUu by dvRakar_dvMatraUu;
+	} BLWS_RakarLigatures;
+	
+	lookup BLWS_MarkLigatures {
+		lookupflag MarkAttachmentType @MK_dvMarksBelow;
 
-	sub dvRakar dvMatraU by dvRakar_dvMatraU;
-	sub dvRakar dvMatraUu by dvRakar_dvMatraUu;
-	sub dvDa dvMatraU by dvDa_dvMatraU;
-	sub dvDa dvMatraUu by dvDa_dvMatraUu;
-	sub dvDa [dvMatraVocalicR dvMatraVocalicR.small] by dvDa_dvMatraVocalicR;
-	sub dvDBa [dvMatraVocalicR dvMatraVocalicR.small] by dvDBa_dvMatraVocalicR;
-	sub dvDVa [dvMatraVocalicR dvMatraVocalicR.small] by dvDVa_dvMatraVocalicR;
-	sub dvRa dvMatraU by dvRa_dvMatraU;
-	sub dvRa dvMatraUu by dvRa_dvMatraUu;
-	sub [dvSha dvSha.MAR] dvMatraVocalicR by dvSha_dvMatraVocalicR;
-	sub dvHa dvMatraVocalicR by dvHa_dvMatraVocalicR;
-	sub dvHa dvMatraU by dvHa_dvMatraU;
-	sub dvHa dvMatraUu by dvHa_dvMatraUu;
+		sub dvDa dvMatraU by dvDa_dvMatraU;
+		sub dvDa dvMatraUu by dvDa_dvMatraUu;
+		sub dvDa [dvMatraVocalicR dvMatraVocalicR.small] by dvDa_dvMatraVocalicR;
+		sub dvDBa [dvMatraVocalicR dvMatraVocalicR.small] by dvDBa_dvMatraVocalicR;
+		sub dvDVa [dvMatraVocalicR dvMatraVocalicR.small] by dvDVa_dvMatraVocalicR;
+		sub dvRa dvMatraU by dvRa_dvMatraU;
+		sub dvRa dvMatraUu by dvRa_dvMatraUu;
+		sub [dvSha dvSha.MAR] dvMatraVocalicR by dvSha_dvMatraVocalicR;
+		sub dvHa dvMatraVocalicR by dvHa_dvMatraVocalicR;
+		sub dvHa dvMatraU by dvHa_dvMatraU;
+		sub dvHa dvMatraUu by dvHa_dvMatraUu;
 
-	sub [dvLa dvLa.MAR] dvMatraVocalicR by dvVocalicL;
-	sub [dvLa dvLa.MAR] dvMatraVocalicRr by dvVocalicLl;
+		sub [dvLa dvLa.MAR] dvMatraVocalicR by dvVocalicL;
+		sub [dvLa dvLa.MAR] dvMatraVocalicRr by dvVocalicLl;
+	} BLWS_MarkLigatures;
 
-	sub @dvMatraU_CXT dvMatraU' by dvMatraU.small;
-	sub @dvMatraU_CXT dvMatraUu' by dvMatraUu.small;
+	lookup BLWS_ContextualForms {
+		lookupflag MarkAttachmentType @MK_dvMarksBelow;
+		
+		sub @dvMatraU_CXT dvMatraU' by dvMatraU.small;
+		sub @dvMatraU_CXT dvMatraUu' by dvMatraUu.small;
 
-	sub @dvMatraVocalicR_CXT dvMatraVocalicR' by dvMatraVocalicR.small;
+		sub @dvMatraVocalicR_CXT dvMatraVocalicR' by dvMatraVocalicR.small;
 
-	sub dvRa' dvMatraVocalicR by dvVocalicR;
-	sub dvRa' dvMatraVocalicRr by dvVocalicRr;
-	sub dvRa' dvMatraVocalicL by dvVocalicL;
-	sub dvRa' dvMatraVocalicLl by dvVocalicLl;
-	sub dvVocalicR dvMatraVocalicR' by dvReph;
-	sub dvVocalicRr dvMatraVocalicRr' by dvReph;
-	sub dvVocalicL dvMatraVocalicL' by dvReph;
-	sub dvVocalicLl dvMatraVocalicLl' by dvReph;
+		sub dvRa' dvMatraVocalicR by dvVocalicR;
+		sub dvRa' dvMatraVocalicRr by dvVocalicRr;
+		sub dvRa' dvMatraVocalicL by dvVocalicL;
+		sub dvRa' dvMatraVocalicLl by dvVocalicLl;
+		sub dvVocalicR dvMatraVocalicR' by dvReph;
+		sub dvVocalicRr dvMatraVocalicRr' by dvReph;
+		sub dvVocalicL dvMatraVocalicL' by dvReph;
+		sub dvVocalicLl dvMatraVocalicLl' by dvReph;
+	} BLWS_ContextualForms;
 } blws;
 
 

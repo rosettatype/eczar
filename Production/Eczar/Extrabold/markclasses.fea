@@ -63,6 +63,7 @@
 	markClass [dvMatraE_dvAnusvara] <anchor -170 475> @mark_top;
 	markClass [dvMatraE_dvReph] <anchor -170 475> @mark_top;
 	markClass [dvMatraE_dvReph_dvAnusvara] <anchor -170 475> @mark_top;
+	markClass [dvMatraShortE_dvAnusvara] <anchor -165 475> @mark_top;
 	markClass [dvMatraAi_dvAnusvara] <anchor -170 475> @mark_top;
 	markClass [dvMatraAi_dvReph] <anchor -170 475> @mark_top;
 	markClass [dvMatraAi_dvReph_dvAnusvara] <anchor -170 475> @mark_top;
