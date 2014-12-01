@@ -797,6 +797,8 @@ feature psts {
 
 feature ccmp {
 	
+	sub dvIi by dvI dvReph;
+	
 	lookup CCMP_dissolveIntoMatraCandraE {
 		sub dvCandraE by dvE dvMatraCandraE;
 		sub dvCandraO by dvAa dvMatraCandraE;
