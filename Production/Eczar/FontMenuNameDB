@@ -14,15 +14,15 @@
 	
 [Eczar-Medium]
 	f=Eczar
-	s=Light
-	c=Eczar Me
-	c=1,Eczar Me
+	s=Medium
+	l=Eczar Me
+	m=1,Eczar Me
 
 [Eczar-Semibold]
 	f=Eczar
 	s=Semibold
-	c=Eczar Sb
-	c=1,Eczar Sb
+	l=Eczar Sb
+	m=1,Eczar Sb
 
 [Eczar-Bold]
 	f=Eczar
@@ -30,6 +30,6 @@
 	
 [Eczar-Extrabold]
 	f=Eczar
-	s=Semibold
-	c=Eczar Sb
-	c=1,Eczar Sb
+	s=Extrabold
+	l=Eczar Eb
+	m=1,Eczar Eb
