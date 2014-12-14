@@ -98,6 +98,13 @@
          -moz-font-feature-settings: "ss06" 1; /* Firefox 15.0 onwards explicitly set feature values */
               font-feature-settings: "ss06" 1; /* No variation */
   	}
+  	.ss14 {
+      -webkit-font-feature-settings: "ss14" 1; /* No variation */
+         -moz-font-feature-settings: "ss14=1"; /* Firefox 4.0 to 14.0 */
+         -moz-font-feature-settings: "ss14"; /* Firefox 15.0 onwards */
+         -moz-font-feature-settings: "ss14" 1; /* Firefox 15.0 onwards explicitly set feature values */
+              font-feature-settings: "ss14" 1; /* No variation */
+  	}
     </style>
 </head>
 <body>
@@ -207,7 +214,7 @@
       </p>
 
     <h2>SS01: Marathi forms</h2>
-      <p class="sample ss01" contenteditable="true">
+      <p class="sample ss01 ss14" contenteditable="true">
         ल श त्ल भ्ल ष्ल म्ल ल्ल व्ल स्ल ल्र ब्ल ल्क क्स्प्ल ल्क श्क
         <br />
         लि शि त्लि भ्लि ष्लि म्लि ल्लि व्लि स्लि ल्रि ब्लि ल्कि क्स्प्लि
@@ -216,7 +223,7 @@
       </p>
 
     <h2>SS02: Nepali forms</h2>
-      <p class="sample ss02" contenteditable="true">
+      <p class="sample ss02 ss14" contenteditable="true">
         झ क्झ च्झ फ्झ ब्झ झ्क
         <br />
         झि क्झि च्झि फ्झि ब्झि 
