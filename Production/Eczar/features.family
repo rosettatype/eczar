@@ -532,7 +532,7 @@ feature pres {
 				sub dvM dvBh by dvMBh;
 				sub dvL dvBh by dvLBh;
 			} PRES;
-			lookup PRES_CONTEXTUAL {
+			lookup PRES_CXT {
 				lookupflag IgnoreMarks;
 
 				# Contextual alternates for half forms
@@ -544,11 +544,12 @@ feature pres {
 				sub dvN' [dvKha dvGha dvJha.NEP dvTta dvTtha dvDdha dvDa dvPa dvPha dvSa] by dvN.alt;
 				sub dvL' [dvKha dvGa dvJha.NEP dvBha dvMa dvLa dvSa  ] by dvL.alt;
 				sub dvL' [dvGha dvNga dvDda dvDha dvSha dvSha.MAR] by dvL.alt1;
-			} PRES_CONTEXTUAL;	
+			} PRES_CXT;	
 
 	script dev2;
 		language dflt;
 			lookup PRES;
+			lookup PRES_CXT;
 
 		language MAR include_dflt;
 		language NEP include_dflt;
@@ -772,21 +773,18 @@ feature psts {
 	sub @dvMatraIi_CXT1 [dvMatraIi dvMatraIi_dvReph dvMatraIi_dvReph_dvAnusvara]' by [dvMatraIi.1 dvMatraIi_dvReph.1 dvMatraIi_dvReph_dvAnusvara.1];
 	sub @dvMatraIi_CXT2 [dvMatraIi dvMatraIi_dvReph dvMatraIi_dvReph_dvAnusvara]' by [dvMatraIi.2 dvMatraIi_dvReph.2 dvMatraIi_dvReph_dvAnusvara.2];
 
-	sub dvMatraAa [dvAnusvara dvMatraCandraE dvCandrabindu]' by [dvAnusvara.calt dvMatraCandraE.calt dvCandrabindu.calt];
 
 	lookup PSTS_makeCandrabindu {
 		sub dvCandraE [dvAnusvara dvCandrabindu dvAnusvara.calt dvCandrabindu.calt]' by dvCandrabindu;
 		sub dvCandraO [dvAnusvara dvCandrabindu dvAnusvara.calt dvCandrabindu.calt]' by dvCandrabindu;
 		sub dvCandraA [dvAnusvara dvCandrabindu dvAnusvara.calt dvCandrabindu.calt]' by dvCandrabindu;
-		sub dvMatraCandraLongE [dvAnusvara dvCandrabindu dvAnusvara.calt dvCandrabindu.calt]' by dvCandrabindu;
-		sub dvMatraCandraO [dvAnusvara dvCandrabindu dvAnusvara.calt dvCandrabindu.calt]' by dvCandrabindu.calt;
+		sub [dvMatraCandraLongE dvMatraCandraO] [dvAnusvara dvCandrabindu dvAnusvara.calt dvCandrabindu.calt]' by dvCandrabindu;
 	} PSTS_makeCandrabindu;
 	lookup PSTS_removeMatraCandraEMain {
 		sub dvCandraE' lookup PSTS_removeMatraCandraE dvCandrabindu;
 		sub dvCandraO' lookup PSTS_removeMatraCandraE dvCandrabindu;
 		sub dvCandraA' lookup PSTS_removeMatraCandraE dvCandrabindu;
-		sub dvMatraCandraLongE' lookup PSTS_removeMatraCandraE dvCandrabindu;
-		sub dvMatraCandraO' lookup PSTS_removeMatraCandraE [dvCandrabindu dvCandrabindu.calt];
+		sub [dvMatraCandraLongE dvMatraCandraO]' lookup PSTS_removeMatraCandraE dvCandrabindu;
 	} PSTS_removeMatraCandraEMain;
 } psts;
 
@@ -797,14 +795,12 @@ feature psts {
 
 feature ccmp {
 	
-	sub dvIi by dvI dvReph;
-	
 	lookup CCMP_dissolveIntoMatraCandraE {
 		sub dvCandraE by dvE dvMatraCandraE;
 		sub dvCandraO by dvAa dvMatraCandraE;
 		sub dvCandraA by dvA dvMatraCandraE;
 		sub dvMatraCandraLongE by dvHeadline dvMatraCandraE;
-		sub dvMatraCandraO by dvMatraAa dvMatraCandraE.calt;
+		sub dvMatraCandraO by dvMatraAa dvMatraCandraE;
 	} CCMP_dissolveIntoMatraCandraE;
 
 	lookup CCMP_makeCandrabindu {
@@ -813,6 +809,30 @@ feature ccmp {
 	} CCMP_makeCandrabindu;
 } ccmp;
 
+
+
+#----------------------------------------------------------------------------
+# Contextual forms
+
+
+@dvKaAndFriends = [dvKa dvJha.NEP dvPha dvQa dvFa dvKRa dvPhRa dvQRa dvFRa dvKNa dvPhNa dvQPha dvQQa dvQFa];
+
+lookup RCLT_insertHeadline {
+	sub dvReph by dvReph dvHeadline.small;
+} RCLT_insertHeadline;
+
+feature rclt {
+	lookup RCLT_1 {
+		sub @dvKaAndFriends dvMatraAa [dvMatraCandraE dvAnusvara dvCandrabindu dvCandrabinduInverted]' by [dvMatraCandraE.calt dvAnusvara.calt dvCandrabindu.calt dvCandrabinduInverted.calt];
+	} RCLT_1;
+	lookup RCLT_2 {
+		sub [dvPa dvVa] dvReph' lookup RCLT_insertHeadline dvRa [dvMatraE dvMatraAi]; # !!
+	} RCLT_2;
+} rclt;
+
+feature calt {
+	lookup RCLT_1;
+} calt;
 
 
 #----------------------------------------------------------------------------
@@ -1025,6 +1045,31 @@ feature ss06 {
 
 
 #----------------------------------------------------------------------------
+# ss14: Reset matras for alternates
+
+feature ss14 {
+	featureNames {
+		name 1 "Reset matras for alternates";
+		name 3 "Reset matras for alternates";
+	};
+	
+	lookup resetMatraI {
+		lookupflag IgnoreMarks;
+
+		include(dvMatraI.salt.fea);
+	} resetMatraI;
+	
+	sub @dvMatraU_CXT dvMatraU' by dvMatraU.small;
+	sub @dvMatraU_CXT dvMatraUu' by dvMatraUu.small;
+
+	sub @dvMatraVocalicR_CXT dvMatraVocalicR' by dvMatraVocalicR.small;
+	
+	sub @dvMatraIi_CXT1 [dvMatraIi dvMatraIi_dvReph dvMatraIi_dvReph_dvAnusvara]' by [dvMatraIi.1 dvMatraIi_dvReph.1 dvMatraIi_dvReph_dvAnusvara.1];
+	sub @dvMatraIi_CXT2 [dvMatraIi dvMatraIi_dvReph dvMatraIi_dvReph_dvAnusvara]' by [dvMatraIi.2 dvMatraIi_dvReph.2 dvMatraIi_dvReph_dvAnusvara.2];
+
+} ss14;
+
+#----------------------------------------------------------------------------
 # Stylistic alternates
 
 feature salt {
@@ -1050,15 +1095,8 @@ feature dist { # Distances = kerning
 } dist;
 
 include(markclasses.fea);
-# !!
-#include(context.abvm.fea);
 feature abvm { # Above-base marks
 	include(abvm.fea);
-	
-	# !!
-	#@dvKaAndFriends = [dvKa dvJha.NEP dvPha dvQa dvFa dvKRa dvKRa.SAN dvPhRa dvQRa dvFRa dvSKRa.SAN dvKKa.SAN dvKJha.NEP dvKTa.SAN dvKTVa.SAN dvKNa dvKVa.SAN dvCJha.NEP dvJKa dvPhNa dvQPha dvQQa dvQFa];
-	#pos @dvKaAndFriends dvMatraAa @MC_abvmCANDRABINDUCXT' lookup abvmContextualCandrabinduMarks;
-
 } abvm;
 
 feature blwm { # Below-base marks

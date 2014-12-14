@@ -42,6 +42,7 @@
 		pos base [dvSha.MAR]  <anchor 577 -128> mark @mark_bottom;
 		pos base [dvSsa]  <anchor 383 0> mark @mark_bottom;
 		pos base [dvSa]  <anchor 530 -26> mark @mark_bottom;
+		pos base [dvHa]  <anchor 365 -160> mark @mark_bottom;
 		pos base [dvQa]  <anchor 308 -100> mark @mark_bottom;
 		pos base [dvKhha]  <anchor 560 -110> mark @mark_bottom;
 		pos base [dvGhha]  <anchor 410 -125> mark @mark_bottom;

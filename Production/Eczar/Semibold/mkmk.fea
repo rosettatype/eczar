@@ -4,10 +4,8 @@
 		pos mark [dvMatraShortE] <anchor -14 640> mark @mark_bindu;
 		pos mark [dvMatraE] <anchor -59 640> mark @mark_bindu;
 		pos mark [dvMatraAi] <anchor -35 640> mark @mark_bindu;
-		pos mark [dvMatraE_dvAnusvara] <anchor -59 640> mark @mark_bindu;
 		pos mark [dvMatraE_dvReph] <anchor -59 640> mark @mark_bindu;
 		pos mark [dvMatraE_dvReph_dvAnusvara] <anchor -59 640> mark @mark_bindu;
-		pos mark [dvMatraShortE_dvAnusvara] <anchor -14 640> mark @mark_bindu;
 		pos mark [dvMatraAi_dvAnusvara] <anchor -35 640> mark @mark_bindu;
 		pos mark [dvMatraAi_dvReph] <anchor -35 640> mark @mark_bindu;
 		pos mark [dvMatraAi_dvReph_dvAnusvara] <anchor -35 640> mark @mark_bindu;
@@ -15,8 +13,6 @@
 	lookup mkmkdevanagari_bottom {
 		lookupflag MarkAttachmentType @mark_bottom;
 		pos mark [dvRakar.small] <anchor 13 -228> mark @mark_bottom;
-		pos mark [dvRakar_dvMatraU] <anchor 13 -228> mark @mark_bottom;
-		pos mark [dvRakar_dvMatraUu] <anchor 13 -228> mark @mark_bottom;
 	} mkmkdevanagari_bottom;
 	lookupflag 0;
 

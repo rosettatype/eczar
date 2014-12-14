@@ -1,6 +1,4 @@
 
-	#script latn;
-	#language dflt;
 	lookup marklatin {
 		pos base [A]  <anchor 696 0> mark @mark_ogonek <anchor 354 650> mark @mark_top;
 		pos base [C]  <anchor 334 650> mark @mark_top <anchor 334 0> mark @mark_bottom;
@@ -13,7 +11,6 @@
 		pos base [J]  <anchor 212 650> mark @mark_top;
 		pos base [K]  <anchor 381 650> mark @mark_top <anchor 397 0> mark @mark_bottom;
 		pos base [L]  <anchor 213 650> mark @mark_top <anchor 317 0> mark @mark_bottom <anchor 576 650> mark @mark_topright;
-		pos base [M]  <anchor 110 163> mark @mark_top <anchor 110 0> mark @mark_bottom;
 		pos base [N]  <anchor 374 650> mark @mark_top <anchor 392 0> mark @mark_bottom;
 		pos base [O]  <anchor 344 650> mark @mark_top;
 		pos base [Q]  <anchor 344 650> mark @mark_top;
@@ -30,10 +27,16 @@
 		pos base [g]  <anchor 265 468> mark @mark_top;
 		pos base [i]  <anchor 92 0> mark @mark_ogonek;
 		pos base [j]  <anchor 60 200> mark @mark_top;
+		pos base [k]  <anchor 316 0> mark @mark_bottom;
 		pos base [l]  <anchor 167 735> mark @mark_top <anchor 182 0> mark @mark_bottom <anchor 334 468> mark @mark_topright;
+		pos base [n]  <anchor 325 468> mark @mark_top <anchor 333 0> mark @mark_bottom;
 		pos base [o]  <anchor 261 468> mark @mark_top;
+		pos base [r]  <anchor 263 468> mark @mark_top <anchor 193 0> mark @mark_bottom;
 		pos base [t]  <anchor 197 0> mark @mark_bottom <anchor 394 468> mark @mark_topright;
 		pos base [u]  <anchor 569 11> mark @mark_ogonek <anchor 294 468> mark @mark_top;
+		pos base [w]  <anchor 152 200> mark @mark_top;
+		pos base [y]  <anchor 297 468> mark @mark_top;
+		pos base [z]  <anchor 269 468> mark @mark_top;
 		pos base [Agrave]  <anchor 696 0> mark @mark_ogonek <anchor 354 650> mark @mark_top;
 		pos base [Aacute]  <anchor 696 0> mark @mark_ogonek <anchor 354 650> mark @mark_top;
 		pos base [Acircumflex]  <anchor 696 0> mark @mark_ogonek <anchor 354 650> mark @mark_top;
@@ -79,6 +82,7 @@
 		pos base [iacute]  <anchor 318 10> mark @mark_ogonek <anchor 159 468> mark @mark_top;
 		pos base [icircumflex]  <anchor 318 10> mark @mark_ogonek <anchor 159 468> mark @mark_top;
 		pos base [idieresis]  <anchor 318 10> mark @mark_ogonek <anchor 159 468> mark @mark_top;
+		pos base [ntilde]  <anchor 325 468> mark @mark_top <anchor 333 0> mark @mark_bottom;
 		pos base [ograve]  <anchor 261 468> mark @mark_top;
 		pos base [oacute]  <anchor 261 468> mark @mark_top;
 		pos base [ocircumflex]  <anchor 261 468> mark @mark_top;
@@ -89,6 +93,8 @@
 		pos base [uacute]  <anchor 569 11> mark @mark_ogonek <anchor 294 468> mark @mark_top;
 		pos base [ucircumflex]  <anchor 569 11> mark @mark_ogonek <anchor 294 468> mark @mark_top;
 		pos base [udieresis]  <anchor 569 11> mark @mark_ogonek <anchor 294 468> mark @mark_top;
+		pos base [yacute]  <anchor 297 468> mark @mark_top;
+		pos base [ydieresis]  <anchor 297 468> mark @mark_top;
 		pos base [Amacron]  <anchor 696 0> mark @mark_ogonek <anchor 354 650> mark @mark_top;
 		pos base [amacron]  <anchor 265 468> mark @mark_top;
 		pos base [Abreve]  <anchor 696 0> mark @mark_ogonek <anchor 354 650> mark @mark_top;
@@ -122,6 +128,7 @@
 		pos base [Idotaccent]  <anchor 321 0> mark @mark_ogonek <anchor 200 650> mark @mark_top;
 		pos base [dotlessi]  <anchor 318 10> mark @mark_ogonek <anchor 159 468> mark @mark_top;
 		pos base [Kcommaaccent]  <anchor 381 650> mark @mark_top <anchor 397 0> mark @mark_bottom;
+		pos base [kcommaaccent]  <anchor 316 0> mark @mark_bottom;
 		pos base [Lacute]  <anchor 213 650> mark @mark_top <anchor 317 0> mark @mark_bottom <anchor 576 650> mark @mark_topright;
 		pos base [lacute]  <anchor 167 735> mark @mark_top <anchor 182 0> mark @mark_bottom <anchor 334 468> mark @mark_topright;
 		pos base [Lcommaaccent]  <anchor 213 650> mark @mark_top <anchor 317 0> mark @mark_bottom <anchor 576 650> mark @mark_topright;
@@ -131,16 +138,22 @@
 		pos base [Lslash]  <anchor 231 650> mark @mark_top <anchor 335 0> mark @mark_bottom <anchor 594 650> mark @mark_topright;
 		pos base [lslash]  <anchor 190 735> mark @mark_top <anchor 205 0> mark @mark_bottom <anchor 357 468> mark @mark_topright;
 		pos base [Nacute]  <anchor 374 650> mark @mark_top <anchor 392 0> mark @mark_bottom;
+		pos base [nacute]  <anchor 325 468> mark @mark_top <anchor 333 0> mark @mark_bottom;
 		pos base [Ncommaaccent]  <anchor 374 650> mark @mark_top <anchor 392 0> mark @mark_bottom;
+		pos base [ncommaaccent]  <anchor 325 468> mark @mark_top <anchor 333 0> mark @mark_bottom;
 		pos base [Ncaron]  <anchor 374 650> mark @mark_top <anchor 392 0> mark @mark_bottom;
+		pos base [ncaron]  <anchor 325 468> mark @mark_top <anchor 333 0> mark @mark_bottom;
 		pos base [Omacron]  <anchor 344 650> mark @mark_top;
 		pos base [omacron]  <anchor 261 468> mark @mark_top;
 		pos base [Ohungarumlaut]  <anchor 344 650> mark @mark_top;
 		pos base [ohungarumlaut]  <anchor 261 468> mark @mark_top;
 		pos base [oe]  <anchor 805 26> mark @mark_ogonek <anchor 603 0> mark @mark_bottom <anchor 600 468> mark @mark_top;
 		pos base [Racute]  <anchor 338 650> mark @mark_top <anchor 353 0> mark @mark_bottom;
+		pos base [racute]  <anchor 263 468> mark @mark_top <anchor 193 0> mark @mark_bottom;
 		pos base [Rcommaaccent]  <anchor 338 650> mark @mark_top <anchor 353 0> mark @mark_bottom;
+		pos base [rcommaaccent]  <anchor 263 468> mark @mark_top <anchor 193 0> mark @mark_bottom;
 		pos base [Rcaron]  <anchor 338 650> mark @mark_top <anchor 353 0> mark @mark_bottom;
+		pos base [rcaron]  <anchor 263 468> mark @mark_top <anchor 193 0> mark @mark_bottom;
 		pos base [Sacute]  <anchor 310 650> mark @mark_top <anchor 298 0> mark @mark_bottom;
 		pos base [Scedilla]  <anchor 310 650> mark @mark_top <anchor 298 0> mark @mark_bottom;
 		pos base [Scaron]  <anchor 310 650> mark @mark_top <anchor 298 0> mark @mark_bottom;
@@ -157,28 +170,12 @@
 		pos base [Uogonek]  <anchor 528 0> mark @mark_ogonek <anchor 378 650> mark @mark_top;
 		pos base [uogonek]  <anchor 569 11> mark @mark_ogonek <anchor 294 468> mark @mark_top;
 		pos base [Ydieresis]  <anchor 354 650> mark @mark_top;
+		pos base [zacute]  <anchor 269 468> mark @mark_top;
+		pos base [zdotaccent]  <anchor 269 468> mark @mark_top;
+		pos base [zcaron]  <anchor 269 468> mark @mark_top;
 		pos base [Scommaaccent]  <anchor 310 650> mark @mark_top <anchor 298 0> mark @mark_bottom;
 		pos base [Tcommaaccent]  <anchor 334 0> mark @mark_bottom <anchor 334 650> mark @mark_top;
 		pos base [tcommaaccent]  <anchor 197 0> mark @mark_bottom <anchor 394 468> mark @mark_topright;
-		pos base [k]  <anchor 316 0> mark @mark_bottom;
-		pos base [kcommaaccent]  <anchor 316 0> mark @mark_bottom;
-		pos base [n]  <anchor 325 468> mark @mark_top <anchor 333 0> mark @mark_bottom;
-		pos base [nacute]  <anchor 325 468> mark @mark_top <anchor 333 0> mark @mark_bottom;
-		pos base [ncaron]  <anchor 325 468> mark @mark_top <anchor 333 0> mark @mark_bottom;
-		pos base [ncommaaccent]  <anchor 325 468> mark @mark_top <anchor 333 0> mark @mark_bottom;
-		pos base [ntilde]  <anchor 325 468> mark @mark_top <anchor 333 0> mark @mark_bottom;
-		pos base [r]  <anchor 263 468> mark @mark_top <anchor 193 0> mark @mark_bottom;
-		pos base [racute]  <anchor 263 468> mark @mark_top <anchor 193 0> mark @mark_bottom;
-		pos base [rcaron]  <anchor 263 468> mark @mark_top <anchor 193 0> mark @mark_bottom;
-		pos base [rcommaaccent]  <anchor 263 468> mark @mark_top <anchor 193 0> mark @mark_bottom;
-		pos base [w]  <anchor 152 200> mark @mark_top;
-		pos base [y]  <anchor 297 468> mark @mark_top;
-		pos base [yacute]  <anchor 297 468> mark @mark_top;
-		pos base [ydieresis]  <anchor 297 468> mark @mark_top;
-		pos base [z]  <anchor 268 468> mark @mark_top;
-		pos base [zacute]  <anchor 268 468> mark @mark_top;
-		pos base [zcaron]  <anchor 268 468> mark @mark_top;
-		pos base [zdotaccent]  <anchor 268 468> mark @mark_top;
 	} marklatin;
 	lookupflag 0;
 

@@ -1,6 +1,4 @@
 
-	#script latn;
-	#language dflt;
 	lookup marklatin {
 		pos base [A]  <anchor 651 1> mark @mark_ogonek <anchor 341 650> mark @mark_top;
 		pos base [C]  <anchor 321 650> mark @mark_top <anchor 321 0> mark @mark_bottom;
@@ -13,7 +11,6 @@
 		pos base [J]  <anchor 193 650> mark @mark_top;
 		pos base [K]  <anchor 344 650> mark @mark_top <anchor 376 0> mark @mark_bottom;
 		pos base [L]  <anchor 178 650> mark @mark_top <anchor 287 0> mark @mark_bottom <anchor 477 650> mark @mark_topright;
-		pos base [M]  <anchor 331 488> mark @mark_top <anchor 331 0> mark @mark_bottom;
 		pos base [N]  <anchor 360 650> mark @mark_top <anchor 386 0> mark @mark_bottom;
 		pos base [O]  <anchor 331 650> mark @mark_top;
 		pos base [Q]  <anchor 331 650> mark @mark_top;

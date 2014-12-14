@@ -6,7 +6,6 @@ uni00A0	nbspace	uni00A0
 uni2002	enspace	uni2002
 uni2003	emspace	uni2003
 uni2009	thinspace	uni2009
-exclam	exclam	uni0021
 quotedbl	quotedbl	uni0022
 numbersign	numbersign	uni0023
 dollar	dollar	uni0024
@@ -880,6 +879,7 @@ uni0964	dvDanda	uni0964
 uni0965	dvDoubleDanda	uni0965
 uni0970	dvAbbreviation	uni0970
 uniA8FB	dvHeadline	uniA8FB
+uniA8FB.small	dvHeadline.small	
 uniA8FB0901	dvHeadlineCandrabindu	
 uni534D	svastika	uni534D
 uni0950	dvOm	uni0950
