@@ -752,6 +752,8 @@ feature blws {
 	} BLWS_ContextualForms;
 	
 	lookup BLWS_RakarHalant {
+		lookupflag MarkAttachmentType @MK_dvMarksBelow;
+		
 		sub dvRakar' dvHalant by dvRakar.small;
 	} BLWS_RakarHalant;
 } blws;
