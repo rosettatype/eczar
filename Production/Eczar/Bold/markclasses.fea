@@ -28,9 +28,9 @@
 	markClass [dvMatraU] <anchor -274 0> @mark_bottom;
 	markClass [dvMatraUu] <anchor -263 0> @mark_bottom;
 	markClass [dvMatraVocalicR] <anchor -256 0> @mark_bottom;
-	markClass [dvMatraVocalicRr] <anchor -136 0> @mark_bottom;
-	markClass [dvMatraVocalicL] <anchor 0 0> @mark_bottom;
-	markClass [dvMatraVocalicLl] <anchor 0 0> @mark_bottom;
+	markClass [dvMatraVocalicRr] <anchor -256 0> @mark_bottom;
+	markClass [dvMatraVocalicL] <anchor -68 0> @mark_bottom;
+	markClass [dvMatraVocalicLl] <anchor -73 0> @mark_bottom;
 	markClass [dvMatraCandraE] <anchor -173 665> @mark_candrabindu;
 	markClass [dvMatraShortE] <anchor -159 473> @mark_top;
 	markClass [dvMatraE] <anchor -163 473> @mark_top;
@@ -38,7 +38,7 @@
 	markClass [dvMatraUE] <anchor -261 0> @mark_bottom;
 	markClass [dvMatraUUE] <anchor -261 0> @mark_bottom;
 	markClass [dvMatraOE] <anchor -162 473> @mark_top;
-	markClass [dvHalant] <anchor -112 0> @mark_bottom;
+	markClass [dvHalant] <anchor -187 -10> @mark_bottom;
 	markClass [dvCandrabinduInverted] <anchor -228 665> @mark_candrabindu;
 	markClass [dvCandrabindu] <anchor -193 665> @mark_candrabindu;
 	markClass [dvAnusvara] <anchor 0 665> @mark_bindu;
@@ -49,7 +49,7 @@
 	markClass [dvAcute] <anchor -143 473> @mark_top;
 	markClass [dvReph] <anchor -176 473> @mark_top;
 	markClass [dvRakar] <anchor 0 0> @mark_bottom;
-	markClass [dvHalant.small] <anchor -117 0> @mark_bottom;
+	markClass [dvHalant.small] <anchor -185 -40> @mark_bottom;
 	markClass [dvRakar.small] <anchor 0 0> @mark_bottom;
 	markClass [dvMatraU.small] <anchor -271 0> @mark_bottom;
 	markClass [dvMatraUu.small] <anchor -216 0> @mark_bottom;

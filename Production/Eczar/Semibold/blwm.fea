@@ -5,7 +5,7 @@
 		pos base [dvVocalicL]  <anchor 354 3> mark @mark_bottom;
 		pos base [dvVocalicLl]  <anchor 354 3> mark @mark_bottom;
 		pos base [dvKa]  <anchor 309 3> mark @mark_bottom;
-		pos base [dvKha]  <anchor 589 -55> mark @mark_bottom;
+		pos base [dvKha]  <anchor 619 -65> mark @mark_bottom;
 		pos base [dvGa]  <anchor 408 3> mark @mark_bottom;
 		pos base [dvGha]  <anchor 457 3> mark @mark_bottom;
 		pos base [dvNga]  <anchor 317 -56> mark @mark_bottom;
@@ -15,13 +15,14 @@
 		pos base [dvJha]  <anchor 604 3> mark @mark_bottom;
 		pos base [dvJha.NEP]  <anchor 438 3> mark @mark_bottom;
 		pos base [dvNya]  <anchor 560 3> mark @mark_bottom;
-		pos base [dvTta]  <anchor 304 -19> mark @mark_bottom;
+		pos base [dvTta]  <anchor 309 -19> mark @mark_bottom;
 		pos base [dvTtha]  <anchor 319 -29> mark @mark_bottom;
 		pos base [dvDda]  <anchor 294 -58> mark @mark_bottom;
 		pos base [dvDdha]  <anchor 346 -55> mark @mark_bottom;
 		pos base [dvNna]  <anchor 495 3> mark @mark_bottom;
 		pos base [dvTa]  <anchor 378 3> mark @mark_bottom;
 		pos base [dvTha]  <anchor 422 3> mark @mark_bottom;
+		pos base [dvDa]  <anchor 389 -181> mark @mark_bottom;
 		pos base [dvDha]  <anchor 458 3> mark @mark_bottom;
 		pos base [dvNa]  <anchor 357 3> mark @mark_bottom;
 		pos base [dvNnna]  <anchor 357 3> mark @mark_bottom;
@@ -48,7 +49,7 @@
 		pos base [dvGhha]  <anchor 408 -90> mark @mark_bottom;
 		pos base [dvZa]  <anchor 467 -125> mark @mark_bottom;
 		pos base [dvDddha]  <anchor 315 -279> mark @mark_bottom;
-		pos base [dvRha]  <anchor 348 -278> mark @mark_bottom;
+		pos base [dvRha]  <anchor 348 -268> mark @mark_bottom;
 		pos base [dvFa]  <anchor 333 -73> mark @mark_bottom;
 		pos base [dvYya]  <anchor 386 -93> mark @mark_bottom;
 		pos base [dvZha]  <anchor 462 -241> mark @mark_bottom;

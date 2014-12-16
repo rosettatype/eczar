@@ -750,6 +750,10 @@ feature blws {
 		sub dvVocalicL dvMatraVocalicL' by dvReph;
 		sub dvVocalicLl dvMatraVocalicLl' by dvReph;
 	} BLWS_ContextualForms;
+	
+	lookup BLWS_RakarHalant {
+		sub dvRakar' dvHalant by dvRakar.small;
+	} BLWS_RakarHalant;
 } blws;
 
 
@@ -817,8 +821,52 @@ feature ccmp {
 
 @dvKaAndFriends = [dvKa dvJha.NEP dvPha dvQa dvFa dvKRa dvPhRa dvQRa dvFRa dvKNa dvPhNa dvQPha dvQQa dvQFa];
 
+@dvAllHeadlinedForms = [dvShortA dvA dvAa dvI dvIi dvU dvUu dvVocalicR dvVocalicR.ss06 dvVocalicRr dvVocalicL dvVocalicLl dvCandraE dvShortE dvE dvAi dvCandraO dvShortO dvO dvCandraA dvOE dvOOE dvAW dvUE dvUUE dvAu dvKa dvKha dvGa dvGha dvNga dvCa dvCha dvJa dvJha dvJha.NEP dvNya dvTta dvTtha dvDda dvDdha dvNna dvTa dvTha dvDa dvDha dvNa dvNnna dvPa dvPha dvBa dvBha dvMa dvYa dvRa dvRra dvLa dvLa.MAR dvLla dvLlla dvVa dvSha dvSha.MAR dvSsa dvSa dvHa dvQa dvKhha dvGhha dvZa dvDddha dvRha dvFa dvYya dvZha dvYaHeavy dvGga dvJja dvDdda dvBba dvMatraAa dvMatraI dvMatraIi dvMatraCandraO dvMatraShortO dvMatraO dvMatraAu dvMatraOOE dvMatraAW dvMatraCandraLongE dvReph.MAR dvKRa dvKRa.ss03 dvKhRa dvGRa dvGhRa dvCRa dvJRa dvJhRa dvTRa dvTRa.ss03 dvThRa dvDRa dvDhRa dvNRa dvPRa dvPhRa dvBRa dvBhRa dvMRa dvYRa dvLRa dvLRa.MAR dvVRa dvShRa dvSsRa dvSRa dvHRa dvQRa dvKhhRa dvGhhRa dvZRa dvFRa dvYyRa dvKSsRa dvKSsa dvJNya dvGRYa dvNgKRa dvChRYa dvTtTtYa dvTthTthYa dvDdDdYa dvDdhRYa dvDGRa dvDDYa dvDDRa dvDDhYa dvDBRa dvDBhYa dvDBhRa dvDRYa dvDVYa dvDVRa dvDhNYa dvDhVa dvNNYa dvPTta dvPTtha dvPTtYa dvPTthYa dvBhRYa dvShRYa dvSsTtYa dvSsTthYa dvHMYa dvHMYa.ss06 dvNgKa dvNgGa dvNgGRa dvNgGha dvNgGhRa dvNgMa dvNgYa dvTtKa dvTtTta dvTtTtha dvTtDdha dvTtYa dvTtVa dvTthTtha dvTthYa dvTthVa dvDdKa dvDdGa dvDdTta dvDdDda dvDdDdha dvDdYa dvDdVa dvDdhDdha dvDdhYa dvDdhVa dvDGa dvDGha dvDDa dvDDha dvDNa dvDBa dvDBha dvDMa dvDYa dvDVa dvHNna dvHNa dvHMa dvHYa dvHLa dvHVa dvKSsMYa dvKSPRa dvKSPLa dvKSPLa.MAR dvTSNYa dvNSMYa dvKTYa dvKTRa dvKVYa dvKSsMa dvKSsYa dvKSsVa dvKSTta dvKSDda dvKSTa dvGDhYa dvGDhVa dvGNYa dvGBhYa dvCChVa dvJJYa dvJJVa dvJNyYa dvNyCYa dvNyJYa dvTKYa dvTKSsa dvTTYa dvTRYa dvNJYa dvNTYa dvNTRa dvNTSa dvNThYa dvNThVa dvNDRa dvNDhYa dvNDhRa dvNDhVa dvNBhYa dvNBhVa dvNMYa dvPTYa dvBJYa dvBDhVa dvBBhRa dvBLYa dvMBYa dvMBhYa dvMBhRa dvMBhVa dvLKYa dvLThYa dvLLYa dvLVDda dvSsKRa dvSsMYa dvSTYa dvSTRa dvSThYa dvSMYa dvKKa.ss03 dvKCa dvKDda dvKTa.ss03 dvKTha dvKDha dvKNa dvKYa dvKVa.ss03 dvKSha dvKSha.MAR dvKHa dvKhNa dvGNa dvGhNa dvCCha dvCDda dvCNa dvChYa dvChVa dvJJa dvJNa dvJMa dvJYa dvJhNa dvNyCa dvNyJa dvNySha dvTNya dvTTa dvTTha dvTNa dvTYa dvThDda dvThTha dvThNa dvDhDha dvDhNa dvNGa dvNCa dvNCha dvNDda dvNDha dvNNa dvNBha dvNMa dvNSha dvPDda dvPTha dvPNa dvPSha dvPhGa dvPhCa dvPhTha dvPhNa dvPhSha dvBNa dvBhNa dvBhBha dvMDda dvMNa dvMBha dvMSha dvYDda dvYTha dvYNa dvYSha dvLCa dvLNa dvLBha dvVNa dvVHa dvShCa dvShNa dvShVa dvSsTta dvSsTtha dvSNa dvSMa dvQTa dvQPha dvQBa dvQMa dvQQa dvQFa dvKhhTa dvKhhMa dvKhhYa dvKhhVa dvKhhSha dvKhhSa dvZYa dvZZa dvFTa dvFSa dvFZa dvFFa dvDa_dvMatraU dvDa_dvMatraUu dvDa_dvMatraVocalicR dvDa_dvMatraVocalicR.ss06 dvDBa_dvMatraVocalicR dvDVa_dvMatraVocalicR dvRa_dvMatraU dvRa_dvMatraUu dvSha_dvMatraVocalicR dvHa_dvMatraVocalicR dvHa_dvMatraU dvHa_dvMatraUu dvHeadline dvHeadline.small dvHeadline.dvDha dvHeadline.dvKSsa dvHeadline.dvShRa dvHeadline.dvTha dvHeadlineCandrabindu dvMatraI.1 dvMatraI.2 dvMatraI.3 dvMatraI.4 dvMatraI.5 dvMatraI.6 dvMatraI.7 dvMatraI.8 dvMatraI.9 dvMatraI.10 dvMatraI.11 dvMatraI.12 dvMatraI.13 dvMatraI.14 dvMatraI.15 dvMatraI.16 dvMatraI.17 dvMatraI.18 dvMatraI.19 dvMatraI.20 dvMatraI.21 dvMatraIi.1 dvMatraIi.2 dvIi_dvAnusvara dvMatraIi_dvReph dvMatraIi_dvReph_dvAnusvara dvMatraIi_dvReph.1 dvMatraIi_dvReph_dvAnusvara.1 dvMatraIi_dvReph.2 dvMatraIi_dvReph_dvAnusvara.2 dvMatraO_dvReph dvMatraAu_dvReph dvMatraO_dvReph_dvAnusvara dvMatraAu_dvReph_dvAnusvara];
+
+@dvRephForms = [dvReph dvReph.alt2 dvReph_dvAnusvara.alt2 dvMatraIi_dvReph dvMatraIi_dvReph_dvAnusvara dvMatraIi_dvReph.1 dvMatraIi_dvReph_dvAnusvara.1 dvMatraIi_dvReph.2 dvMatraIi_dvReph_dvAnusvara.2 dvMatraE_dvReph dvMatraE_dvReph_dvAnusvara dvMatraAi_dvReph dvMatraAi_dvReph_dvAnusvara dvMatraO_dvReph dvMatraAu_dvReph dvMatraO_dvReph_dvAnusvara dvMatraAu_dvReph_dvAnusvara];
+
+@dvPreHeadlineForms = [
+dvTha dvThRa dvThDda dvThTha dvThNa dvTh
+dvDha dvDhRa dvDhNYa dvDhVa dvDhDha dvDhNa dvDh dvDhR
+dvKSsRa dvKSsa dvKSsMYa dvKSsMa dvKSsYa dvKSsVa dvKSs dvKSsM
+dvShRa dvShRYa dvShCa dvShNa dvShVa dvShR dvSha_dvMatraVocalicR
+];
+
 lookup RCLT_insertHeadline {
 	sub dvReph by dvReph dvHeadline.small;
+
+	sub dvTha by dvHeadline.dvTha dvTha;
+	sub dvThRa by dvHeadline.dvTha dvThRa;
+	sub dvThDda by dvHeadline.dvTha dvThDda;
+	sub dvThTha by dvHeadline.dvTha dvThTha;
+	sub dvThNa by dvHeadline.dvTha dvThNa;
+	sub dvTh by dvHeadline.dvTha dvTh;
+
+	sub dvDha by dvHeadline.dvDha dvDha;
+	sub dvDhRa by dvHeadline.dvDha dvDhRa;
+	sub dvDhNYa by dvHeadline.dvDha dvDhNYa;
+	sub dvDhVa by dvHeadline.dvDha dvDhVa;
+	sub dvDhDha by dvHeadline.dvDha dvDhDha;
+	sub dvDhNa by dvHeadline.dvDha dvDhNa;
+	sub dvDh by dvHeadline.dvDha dvDh;
+	sub dvDhR by dvHeadline.dvDha dvDhR;
+
+	sub dvKSsRa by dvHeadline.dvKSsa dvKSsRa;
+	sub dvKSsa by dvHeadline.dvKSsa dvKSsa;
+	sub dvKSsMYa by dvHeadline.dvKSsa dvKSsMYa;
+	sub dvKSsMa by dvHeadline.dvKSsa dvKSsMa;
+	sub dvKSsYa by dvHeadline.dvKSsa dvKSsYa;
+	sub dvKSsVa by dvHeadline.dvKSsa dvKSsVa;
+	sub dvKSs by dvHeadline.dvKSsa dvKSs;
+	sub dvKSsM by dvHeadline.dvKSsa dvKSsM;
+
+	sub dvShRa by dvHeadline.dvShRa dvShRa;
+	sub dvShRYa by dvHeadline.dvShRa dvShRYa;
+	sub dvShCa by dvHeadline.dvShRa dvShCa;
+	sub dvShNa by dvHeadline.dvShRa dvShNa;
+	sub dvShVa by dvHeadline.dvShRa dvShVa;
+	sub dvShR by dvHeadline.dvShRa dvShR;
+	sub dvSha_dvMatraVocalicR by dvHeadline.dvShRa dvSha_dvMatraVocalicR;
 } RCLT_insertHeadline;
 
 feature rclt {
@@ -826,8 +874,14 @@ feature rclt {
 		sub @dvKaAndFriends dvMatraAa [dvMatraCandraE dvAnusvara dvCandrabindu dvCandrabinduInverted]' by [dvMatraCandraE.calt dvAnusvara.calt dvCandrabindu.calt dvCandrabinduInverted.calt];
 	} RCLT_1;
 	lookup RCLT_2 {
-		sub [dvPa dvVa] dvReph' lookup RCLT_insertHeadline dvRa [dvMatraE dvMatraAi]; # !!
+		lookupflag MarkAttachmentType @MK_dvMarksAbove;
+		
+		ignore sub @dvKaAndFriends @dvRephForms' dvRa [dvMatraE dvMatraAi];
+		sub @dvAllHeadlinedForms @dvRephForms' lookup RCLT_insertHeadline dvRa [dvMatraE dvMatraAi]; # !!
 	} RCLT_2;
+	lookup RCLT_3 {
+		sub @dvAllHeadlinedForms @dvPreHeadlineForms' lookup RCLT_insertHeadline;
+	} RCLT_3;
 } rclt;
 
 feature calt {
@@ -1085,13 +1139,14 @@ include(kernclasses.fea);
 
 feature kern {
 	lookup KERN_LTR {
-		lookupflag IgnoreMarks;
 		include(kern.fea)
 	} KERN_LTR;	
 } kern;
 
-feature dist { # Distances = kerning
-	lookup KERN_LTR;
+feature dist { # Distances
+	lookup DIST_LTR {
+		include(dist.fea)
+	} DIST_LTR;
 } dist;
 
 include(markclasses.fea);

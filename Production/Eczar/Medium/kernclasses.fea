@@ -44,10 +44,11 @@
 @MMK_L_o = [ b o p ograve oacute ocircumflex otilde odieresis oslash thorn omacron ohungarumlaut f_b.liga ];
 @MMK_L_E = [ E AE Egrave Eacute Ecircumflex Edieresis Emacron Edotaccent Eogonek Ecaron OE ];
 @MMK_L_K.half.alt = [ dvK.alt dvQ.alt dvF.alt ];
-@MMK_L_K.half = [ dvK dvJh.NEP dvPh dvQ dvF dvKR ];
+@MMK_R_Na = [ dvNa dvNnna ];
 @MMK_L_G = [ G Gbreve Gcommaaccent ];
 @MMK_R_f = [ f germandbls f_b.liga f_f.liga f_h.liga f_i.liga f_j.liga f_k.liga f_l.liga f_t.liga ];
 @MMK_L_r = [ r racute rcommaaccent rcaron ];
+@MMK_L_K.half = [ dvK dvJh.NEP dvPh dvQ dvF dvKR ];
 @MMK_R_g = [ g gbreve gcommaaccent ];
 @MMK_L_s = [ s sacute scedilla scaron scommaaccent ];
 @MMK_L_I = [ H I M N Igrave Iacute Icircumflex Idieresis Ntilde Imacron Iogonek Idotaccent Nacute Ncommaaccent Ncaron ];

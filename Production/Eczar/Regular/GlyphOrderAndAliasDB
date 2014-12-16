@@ -880,8 +880,12 @@ uni0965	dvDoubleDanda	uni0965
 uni0970	dvAbbreviation	uni0970
 uniA8FB	dvHeadline	uniA8FB
 uniA8FB.small	dvHeadline.small	
+uniA8FB.dvDha	dvHeadline.dvDha	
+uniA8FB.dvKSsa	dvHeadline.dvKSsa	
+uniA8FB.dvShRa	dvHeadline.dvShRa	
+uniA8FB.dvTha	dvHeadline.dvTha	
 uniA8FB0901	dvHeadlineCandrabindu	
-uni534D	svastika	uni534D
+uni0FD5	svastika	uni0FD5
 uni0950	dvOm	uni0950
 uni093F.1	dvMatraI.1	
 uni093F.2	dvMatraI.2	

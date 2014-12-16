@@ -12,7 +12,8 @@
 	} mkmkdevanagari_bindu;
 	lookup mkmkdevanagari_bottom {
 		lookupflag MarkAttachmentType @mark_bottom;
-		pos mark [dvRakar.small] <anchor 11 -254> mark @mark_bottom;
+		pos mark [dvRakar] <anchor 36 -245> mark @mark_bottom;
+		pos mark [dvRakar.small] <anchor 19 -254> mark @mark_bottom;
 	} mkmkdevanagari_bottom;
 	lookupflag 0;
 
