@@ -15,7 +15,7 @@
 		pos base [dvE]  <anchor 305 670> mark @mark_bindu <anchor 320 670> mark @mark_candrabindu;
 		pos base [dvAi]  <anchor 570 670> mark @mark_bindu <anchor 320 670> mark @mark_candrabindu;
 		pos base [dvCandraO]  <anchor 926 670> mark @mark_bindu <anchor 1041 475> mark @mark_top <anchor 916 670> mark @mark_candrabindu;
-		pos base [dvShortO]  <anchor 1041 475> mark @mark_top;
+		pos base [dvShortO]  <anchor 1028 465> mark @mark_top;
 		pos base [dvO]  <anchor 1152 670> mark @mark_bindu <anchor 708 670> mark @mark_candrabindu;
 		pos base [dvCandraA]  <anchor 728 670> mark @mark_bindu <anchor 708 670> mark @mark_candrabindu;
 		pos base [dvOE]  <anchor 728 670> mark @mark_bindu <anchor 708 670> mark @mark_candrabindu;

@@ -44,13 +44,13 @@
 		pos base [dvSsa]  <anchor 387 3> mark @mark_bottom;
 		pos base [dvSa]  <anchor 521 -11> mark @mark_bottom;
 		pos base [dvHa]  <anchor 360 -139> mark @mark_bottom;
-		pos base [dvQa]  <anchor 309 -73> mark @mark_bottom;
-		pos base [dvKhha]  <anchor 559 -78> mark @mark_bottom;
+		pos base [dvQa]  <anchor 309 -69> mark @mark_bottom;
+		pos base [dvKhha]  <anchor 619 -65> mark @mark_bottom;
 		pos base [dvGhha]  <anchor 408 -90> mark @mark_bottom;
 		pos base [dvZa]  <anchor 467 -125> mark @mark_bottom;
 		pos base [dvDddha]  <anchor 315 -279> mark @mark_bottom;
 		pos base [dvRha]  <anchor 348 -268> mark @mark_bottom;
-		pos base [dvFa]  <anchor 333 -73> mark @mark_bottom;
+		pos base [dvFa]  <anchor 327 -69> mark @mark_bottom;
 		pos base [dvYya]  <anchor 386 -93> mark @mark_bottom;
 		pos base [dvZha]  <anchor 462 -241> mark @mark_bottom;
 		pos base [dvYaHeavy]  <anchor 402 3> mark @mark_bottom;
@@ -310,8 +310,8 @@
 		pos base [dvQPha]  <anchor 883 3> mark @mark_bottom;
 		pos base [dvQBa]  <anchor 980 3> mark @mark_bottom;
 		pos base [dvQMa]  <anchor 1008 3> mark @mark_bottom;
-		pos base [dvQQa]  <anchor 900 -69> mark @mark_bottom;
-		pos base [dvQFa]  <anchor 883 -69> mark @mark_bottom;
+		pos base [dvQQa]  <anchor 900 -66> mark @mark_bottom;
+		pos base [dvQFa]  <anchor 883 -67> mark @mark_bottom;
 		pos base [dvKhhTa]  <anchor 1029 3> mark @mark_bottom;
 		pos base [dvKhhMa]  <anchor 1084 3> mark @mark_bottom;
 		pos base [dvKhhYa]  <anchor 1060 3> mark @mark_bottom;

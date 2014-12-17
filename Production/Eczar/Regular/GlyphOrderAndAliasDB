@@ -6,6 +6,7 @@ uni00A0	nbspace	uni00A0
 uni2002	enspace	uni2002
 uni2003	emspace	uni2003
 uni2009	thinspace	uni2009
+exclam	exclam	uni0021
 quotedbl	quotedbl	uni0022
 numbersign	numbersign	uni0023
 dollar	dollar	uni0024
@@ -946,6 +947,7 @@ uni094B0930094D0902	dvMatraO_dvReph_dvAnusvara
 uni094C0930094D0902	dvMatraAu_dvReph_dvAnusvara	
 uni094D09300941	dvRakar_dvMatraU	
 uni094D09300942	dvRakar_dvMatraUu	
+u094D0930094D	dvRakar_dvHalant	
 period.deva	period.deva	
 hyphen.deva	hyphen.deva	
 uni25CC	dottedCircle	uni25CC

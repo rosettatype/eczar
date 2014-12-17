@@ -709,9 +709,12 @@ feature abvs {
 
 
 feature blws {
+
 	lookup BLWS_RakarLigatures {
 		sub dvRakar dvMatraU by dvRakar_dvMatraU;
 		sub dvRakar dvMatraUu by dvRakar_dvMatraUu;
+		sub dvRakar dvHalant by dvRakar_dvHalant;
+		#sub dvHalant dvRakar by dvRakar_dvHalant;
 	} BLWS_RakarLigatures;
 	
 	lookup BLWS_MarkLigatures {
@@ -750,12 +753,6 @@ feature blws {
 		sub dvVocalicL dvMatraVocalicL' by dvReph;
 		sub dvVocalicLl dvMatraVocalicLl' by dvReph;
 	} BLWS_ContextualForms;
-	
-	lookup BLWS_RakarHalant {
-		lookupflag MarkAttachmentType @MK_dvMarksBelow;
-		
-		sub dvRakar' dvHalant by dvRakar.small;
-	} BLWS_RakarHalant;
 } blws;
 
 
