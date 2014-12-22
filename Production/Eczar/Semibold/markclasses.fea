@@ -71,5 +71,4 @@
 	markClass [dvMatraAi_dvReph_dvAnusvara] <anchor -156 472> @mark_top;
 	markClass [dvRakar_dvMatraU] <anchor 0 0> @mark_bottom;
 	markClass [dvRakar_dvMatraUu] <anchor 1 0> @mark_bottom;
-	markClass [dvRakar_dvHalant] <anchor 0 0> @mark_bottom;
 

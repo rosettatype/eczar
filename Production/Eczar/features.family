@@ -713,7 +713,7 @@ feature blws {
 	lookup BLWS_RakarLigatures {
 		sub dvRakar dvMatraU by dvRakar_dvMatraU;
 		sub dvRakar dvMatraUu by dvRakar_dvMatraUu;
-		sub dvRakar dvHalant by dvRakar_dvHalant;
+		#sub dvRakar dvHalant by dvRakar_dvHalant; #!!
 		#sub dvHalant dvRakar by dvRakar_dvHalant;
 	} BLWS_RakarLigatures;
 	
