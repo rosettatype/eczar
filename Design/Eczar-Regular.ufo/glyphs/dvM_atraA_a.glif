@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraAa" format="1">
+  <advance width="263"/>
+  <unicode hex="093E"/>
+  <outline>
+    <contour>
+      <point x="284" y="538" type="line"/>
+      <point x="293" y="558" type="line"/>
+      <point x="263" y="608" type="line"/>
+      <point x="-21" y="608" type="line"/>
+      <point x="-30" y="588" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="5" type="line"/>
+      <point x="149" y="-33" type="line"/>
+      <point x="173" y="-26" type="line"/>
+      <point x="173" y="500" type="line"/>
+      <point x="115" y="551" type="line"/>
+      <point x="90" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="630" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="134" y="468" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="5" y="630" type="move" name="candrabindu"/>
+    </contour>
+  </outline>
+</glyph>

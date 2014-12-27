@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSeven.tf" format="1">
+  <advance width="575"/>
+  <outline>
+    <component base="dvSeven" xOffset="-8"/>
+  </outline>
+</glyph>

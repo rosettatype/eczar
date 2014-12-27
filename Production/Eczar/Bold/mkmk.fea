@@ -1,2 +1,19 @@
-# Could not find feature 'mkmk' in /Users/davidbrezina/Library/Application Support/Glyphs/Temp/Eczar-Bold/features.fea
+
+	lookup mkmkdevanagari_bindu {
+		lookupflag MarkAttachmentType @mark_bindu;
+		pos mark [dvMatraShortE] <anchor -1 655> mark @mark_bindu;
+		pos mark [dvMatraE] <anchor -58 655> mark @mark_bindu;
+		pos mark [dvMatraAi] <anchor -33 655> mark @mark_bindu;
+		pos mark [dvMatraE_dvReph] <anchor -58 655> mark @mark_bindu;
+		pos mark [dvMatraE_dvReph_dvAnusvara] <anchor -58 655> mark @mark_bindu;
+		pos mark [dvMatraAi_dvAnusvara] <anchor -33 655> mark @mark_bindu;
+		pos mark [dvMatraAi_dvReph] <anchor -33 655> mark @mark_bindu;
+		pos mark [dvMatraAi_dvReph_dvAnusvara] <anchor -33 655> mark @mark_bindu;
+	} mkmkdevanagari_bindu;
+	lookup mkmkdevanagari_bottom {
+		lookupflag MarkAttachmentType @mark_bottom;
+		pos mark [dvRakar] <anchor 36 -245> mark @mark_bottom;
+		pos mark [dvRakar.small] <anchor 19 -254> mark @mark_bottom;
+	} mkmkdevanagari_bottom;
+	lookupflag 0;
 

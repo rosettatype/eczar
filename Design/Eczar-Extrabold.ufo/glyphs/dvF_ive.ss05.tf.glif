@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvFive.ss05.tf" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="dvFive.ss05" xOffset="30"/>
+  </outline>
+</glyph>

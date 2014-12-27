@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="softhyphen" format="1">
+  <advance width="463"/>
+  <unicode hex="00AD"/>
+  <outline>
+    <contour>
+      <point x="393" y="222" type="line"/>
+      <point x="414" y="264" type="line"/>
+      <point x="358" y="354" type="line"/>
+      <point x="54" y="354" type="line"/>
+      <point x="33" y="312" type="line"/>
+      <point x="89" y="222" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

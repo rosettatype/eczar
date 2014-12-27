@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.case" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-103" y="811"/>
+      <point x="-146" y="806"/>
+      <point x="-185" y="786" type="curve"/>
+      <point x="-179" y="742" type="line"/>
+      <point x="159" y="742" type="line"/>
+      <point x="206" y="776" type="line"/>
+      <point x="201" y="811" type="line"/>
+      <point x="-72" y="811" type="line"/>
+    </contour>
+    <contour>
+      <point x="1" y="650" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notequal" format="1">
+  <advance width="588"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="169" y="-23" type="line"/>
+      <point x="477" y="475" type="line"/>
+      <point x="427" y="503" type="line"/>
+      <point x="119" y="7" type="line"/>
+    </contour>
+    <component base="equal"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

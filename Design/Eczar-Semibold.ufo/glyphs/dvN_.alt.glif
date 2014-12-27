@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvN.alt" format="1">
+  <advance width="296"/>
+  <outline>
+    <contour>
+      <point x="349" y="538" type="line"/>
+      <point x="366" y="573" type="line"/>
+      <point x="319" y="639" type="line"/>
+      <point x="-31" y="639" type="line"/>
+      <point x="-48" y="605" type="line"/>
+      <point x="-1" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="9" y="295" type="line"/>
+      <point x="27" y="222"/>
+      <point x="90" y="134"/>
+      <point x="154" y="94" type="curve"/>
+      <point x="214" y="121" type="line"/>
+      <point x="214" y="304" type="line"/>
+      <point x="147" y="347" type="line"/>
+      <point x="48" y="347" type="line"/>
+    </contour>
+    <contour>
+      <point x="460" y="264" type="line"/>
+      <point x="415" y="347" type="line"/>
+      <point x="102" y="347" type="line"/>
+      <point x="133" y="231" type="line"/>
+      <point x="440" y="231" type="line"/>
+    </contour>
+  </outline>
+</glyph>

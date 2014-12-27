@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvUu" format="1">
+  <advance width="855"/>
+  <unicode hex="090A"/>
+  <outline>
+    <contour>
+      <point x="891" y="538" type="line"/>
+      <point x="912" y="580" type="line"/>
+      <point x="855" y="655" type="line"/>
+      <point x="380" y="655" type="line"/>
+      <point x="359" y="613" type="line"/>
+      <point x="415" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="697" y="-4" type="line"/>
+      <point x="786" y="58"/>
+      <point x="838" y="129"/>
+      <point x="838" y="208" type="curve" smooth="yes"/>
+      <point x="838" y="309"/>
+      <point x="752" y="416"/>
+      <point x="641" y="416" type="curve" smooth="yes"/>
+      <point x="570" y="416"/>
+      <point x="504" y="371"/>
+      <point x="436" y="286" type="curve"/>
+      <point x="518" y="164" type="line"/>
+      <point x="584" y="244"/>
+      <point x="646" y="289"/>
+      <point x="684" y="289" type="curve" smooth="yes"/>
+      <point x="705" y="289"/>
+      <point x="717" y="276"/>
+      <point x="717" y="260" type="curve" smooth="yes"/>
+      <point x="717" y="220"/>
+      <point x="650" y="163"/>
+      <point x="589" y="114" type="curve"/>
+    </contour>
+    <component base="dvU"/>
+    <contour>
+      <point x="384" y="660" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="400" y="660" type="move" name="candrabindu"/>
+    </contour>
+  </outline>
+</glyph>

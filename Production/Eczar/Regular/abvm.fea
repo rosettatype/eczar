@@ -21,10 +21,8 @@
 		pos base [dvCandraA]  <anchor 607 630> mark @mark_bindu <anchor 592 630> mark @mark_candrabindu;
 		pos base [dvOE]  <anchor 607 630> mark @mark_bindu <anchor 592 630> mark @mark_candrabindu;
 		pos base [dvOOE]  <anchor 750 630> mark @mark_bindu <anchor 876 468> mark @mark_top <anchor 745 630> mark @mark_candrabindu;
-		pos base [dvAW]  <anchor 984 610> mark @mark_bindu <anchor 592 630> mark @mark_candrabindu;
 		pos base [dvUE]  <anchor 607 630> mark @mark_bindu <anchor 592 630> mark @mark_candrabindu;
 		pos base [dvUUE]  <anchor 607 630> mark @mark_bindu <anchor 592 630> mark @mark_candrabindu;
-		pos base [dvAu]  <anchor 949 610> mark @mark_bindu <anchor 592 630> mark @mark_candrabindu;
 		pos base [dvKa]  <anchor 370 630> mark @mark_bindu <anchor 380 468> mark @mark_top <anchor 380 630> mark @mark_candrabindu;
 		pos base [dvKha]  <anchor 474 630> mark @mark_bindu <anchor 647 468> mark @mark_top <anchor 492 630> mark @mark_candrabindu;
 		pos base [dvGa]  <anchor 335 630> mark @mark_bindu <anchor 455 468> mark @mark_top <anchor 340 630> mark @mark_candrabindu;
@@ -86,9 +84,7 @@
 		pos base [dvMatraCandraO]  <anchor 10 630> mark @mark_bindu <anchor 134 468> mark @mark_top <anchor 5 630> mark @mark_candrabindu;
 		pos base [dvMatraShortO]  <anchor 234 610> mark @mark_bindu <anchor 134 468> mark @mark_top <anchor 5 630> mark @mark_candrabindu;
 		pos base [dvMatraO]  <anchor 201 610> mark @mark_bindu;
-		pos base [dvMatraAu]  <anchor 210 610> mark @mark_bindu;
 		pos base [dvMatraOOE]  <anchor 10 630> mark @mark_bindu <anchor 134 468> mark @mark_top <anchor 5 630> mark @mark_candrabindu;
-		pos base [dvMatraAW]  <anchor 239 610> mark @mark_bindu;
 		pos base [dvKRa]  <anchor 370 630> mark @mark_bindu <anchor 380 468> mark @mark_top <anchor 380 630> mark @mark_candrabindu;
 		pos base [dvKRa.ss03]  <anchor 428 630> mark @mark_bindu <anchor 428 468> mark @mark_top <anchor 438 630> mark @mark_candrabindu;
 		pos base [dvKhRa]  <anchor 474 630> mark @mark_bindu <anchor 647 468> mark @mark_top <anchor 492 630> mark @mark_candrabindu;
@@ -402,17 +398,7 @@
 		pos base [dvMatraIi_dvReph.2]  <anchor 228 608> mark @mark_bindu <anchor 173 468> mark @mark_top;
 		pos base [dvMatraIi_dvReph_dvAnusvara.2]  <anchor 228 608> mark @mark_bindu <anchor 173 468> mark @mark_top;
 		pos base [dvMatraO_dvReph]  <anchor 198 588> mark @mark_bindu <anchor 134 468> mark @mark_top <anchor 5 630> mark @mark_candrabindu;
-		pos base [dvMatraAu_dvReph]  <anchor 248 588> mark @mark_bindu <anchor 134 468> mark @mark_top <anchor 5 630> mark @mark_candrabindu;
+		pos base [dvMatraAu_dvReph]  <anchor 134 468> mark @mark_top;
 		pos base [dvMatraO_dvReph_dvAnusvara]  <anchor 198 588> mark @mark_bindu <anchor 134 468> mark @mark_top <anchor 5 630> mark @mark_candrabindu;
-		pos base [dvMatraAu_dvReph_dvAnusvara]  <anchor 248 588> mark @mark_bindu <anchor 134 468> mark @mark_top <anchor 5 630> mark @mark_candrabindu;
-	lookup abvm_mkmkdevanagari_bindu {
-		pos mark [dvMatraShortE] <anchor -38 610> mark @mark_bindu;
-		pos mark [dvMatraE] <anchor -60 610> mark @mark_bindu;
-		pos mark [dvMatraAi] <anchor -39 610> mark @mark_bindu;
-		pos mark [dvMatraE_dvReph] <anchor -60 610> mark @mark_bindu;
-		pos mark [dvMatraE_dvReph_dvAnusvara] <anchor -60 610> mark @mark_bindu;
-		pos mark [dvMatraAi_dvAnusvara] <anchor -39 610> mark @mark_bindu;
-		pos mark [dvMatraAi_dvReph] <anchor -39 610> mark @mark_bindu;
-		pos mark [dvMatraAi_dvReph_dvAnusvara] <anchor -39 610> mark @mark_bindu;
-	} abvm_mkmkdevanagari_bindu;
+		pos base [dvMatraAu_dvReph_dvAnusvara]  <anchor 134 468> mark @mark_top;
 

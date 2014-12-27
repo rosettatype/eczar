@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvTSNYa" format="1">
+  <advance width="1746"/>
+  <outline>
+    <component base="dvT.alt1"/>
+    <component base="dvS" xOffset="338"/>
+    <component base="dvN.alt" xOffset="795"/>
+    <component base="dvYa" xOffset="1088"/>
+    <contour>
+      <point x="1468" y="660" type="move" name="candrabindu"/>
+    </contour>
+    <contour>
+      <point x="1848" y="660" type="move" name="candrabinduCXT"/>
+    </contour>
+    <contour>
+      <point x="1439" y="660" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="1581" y="473" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1489" y="1" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

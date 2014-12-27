@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foursuperior" format="1">
+  <advance width="330"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="76" y="526" type="line"/>
+      <point x="199" y="696" type="line"/>
+      <point x="220" y="692" type="line"/>
+      <point x="205" y="739" type="line"/>
+      <point x="167" y="751" type="line"/>
+      <point x="-2" y="537" type="line"/>
+      <point x="19" y="489" type="line"/>
+      <point x="292" y="489" type="line"/>
+      <point x="310" y="510" type="line"/>
+      <point x="310" y="547" type="line"/>
+      <point x="54" y="544" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="418" type="line"/>
+      <point x="253" y="418" type="line"/>
+      <point x="253" y="736" type="line"/>
+      <point x="166" y="751" type="line"/>
+      <point x="175" y="689" type="line"/>
+      <point x="155" y="582" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="418" type="line"/>
+      <point x="290" y="447" type="line"/>
+      <point x="229" y="460" type="line"/>
+      <point x="227" y="418" type="line"/>
+    </contour>
+    <contour>
+      <point x="165" y="418" type="line"/>
+      <point x="165" y="465" type="line"/>
+      <point x="140" y="459"/>
+      <point x="107" y="446"/>
+      <point x="87" y="433" type="curve"/>
+      <point x="90" y="418" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

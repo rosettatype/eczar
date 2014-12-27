@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvKVa.ss03" format="1">
+  <advance width="761"/>
+  <outline>
+    <contour>
+      <point x="232" y="456" type="line"/>
+      <point x="129" y="484"/>
+      <point x="29" y="411"/>
+      <point x="29" y="309" type="curve" smooth="yes"/>
+      <point x="29" y="192"/>
+      <point x="158" y="107"/>
+      <point x="253" y="107" type="curve" smooth="yes"/>
+      <point x="313" y="107"/>
+      <point x="359" y="141"/>
+      <point x="392" y="190" type="curve"/>
+      <point x="352" y="296" type="line"/>
+      <point x="313" y="216"/>
+      <point x="220" y="170"/>
+      <point x="153" y="201" type="curve"/>
+      <point x="102" y="275"/>
+      <point x="146" y="372"/>
+      <point x="242" y="372" type="curve" smooth="yes"/>
+      <point x="287" y="372"/>
+      <point x="329" y="351"/>
+      <point x="374" y="322" type="curve"/>
+      <point x="382" y="381" type="line"/>
+    </contour>
+    <contour>
+      <point x="787" y="538" type="line"/>
+      <point x="800" y="565" type="line"/>
+      <point x="762" y="624" type="line"/>
+      <point x="-26" y="624" type="line"/>
+      <point x="-39" y="596" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="331" y="-146" type="line"/>
+      <point x="408" y="-192" type="line"/>
+      <point x="440" y="-180" type="line"/>
+      <point x="440" y="497" type="line"/>
+      <point x="366" y="555" type="line"/>
+      <point x="331" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="201" type="line"/>
+      <point x="71" y="176"/>
+      <point x="46" y="125"/>
+      <point x="46" y="78" type="curve" smooth="yes"/>
+      <point x="46" y="-26"/>
+      <point x="167" y="-107"/>
+      <point x="256" y="-107" type="curve" smooth="yes"/>
+      <point x="312" y="-107"/>
+      <point x="364" y="-74"/>
+      <point x="389" y="-28" type="curve"/>
+      <point x="348" y="76" type="line"/>
+      <point x="319" y="-1"/>
+      <point x="221" y="-41"/>
+      <point x="162" y="-14" type="curve"/>
+      <point x="121" y="37"/>
+      <point x="148" y="119"/>
+      <point x="212" y="129" type="curve"/>
+    </contour>
+    <contour>
+      <point x="408" y="181" type="line"/>
+      <point x="468" y="266"/>
+      <point x="530" y="318"/>
+      <point x="582" y="318" type="curve" smooth="yes"/>
+      <point x="625" y="318"/>
+      <point x="640" y="288"/>
+      <point x="640" y="259" type="curve" smooth="yes"/>
+      <point x="640" y="204"/>
+      <point x="583" y="149"/>
+      <point x="498" y="88" type="curve"/>
+      <point x="576" y="4" type="line"/>
+      <point x="669" y="65"/>
+      <point x="729" y="141"/>
+      <point x="729" y="229" type="curve" smooth="yes"/>
+      <point x="729" y="330"/>
+      <point x="650" y="416"/>
+      <point x="557" y="416" type="curve" smooth="yes"/>
+      <point x="478" y="416"/>
+      <point x="410" y="352"/>
+      <point x="372" y="281" type="curve"/>
+    </contour>
+    <contour>
+      <point x="404" y="640" type="move" name="candrabindu"/>
+    </contour>
+    <contour>
+      <point x="680" y="640" type="move" name="candrabinduCXT"/>
+    </contour>
+    <contour>
+      <point x="384" y="640" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="400" y="470" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="316" y="-152" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

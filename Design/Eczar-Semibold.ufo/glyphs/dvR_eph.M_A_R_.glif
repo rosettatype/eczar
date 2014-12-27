@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvReph.MAR" format="1">
+  <advance width="287"/>
+  <outline>
+    <contour>
+      <point x="344" y="339" type="line"/>
+      <point x="283" y="266"/>
+      <point x="143" y="242"/>
+      <point x="45" y="392" type="curve"/>
+      <point x="-15" y="329" type="line"/>
+      <point x="114" y="118"/>
+      <point x="323" y="120"/>
+      <point x="416" y="222" type="curve"/>
+      <point x="374" y="339" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="538" type="line"/>
+      <point x="338" y="573" type="line"/>
+      <point x="290" y="639" type="line"/>
+      <point x="-31" y="639" type="line"/>
+      <point x="-48" y="605" type="line"/>
+      <point x="-1" y="538" type="line"/>
+    </contour>
+  </outline>
+</glyph>

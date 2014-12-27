@@ -1,0 +1,807 @@
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem dev2 dflt;
+languagesystem dev2 MAR;
+languagesystem dev2 NEP;
+
+# Prefix: Lookups
+lookup ABVS_changeCandrabindu {
+	sub dvCandrabindu by dvAnusvara;
+} ABVS_changeCandrabindu;
+
+lookup ABVS_insertRephAnusvara {
+	sub dvMatraI by dvMatraI dvReph_dvAnusvara.alt;
+	sub dvMatraI.1 by dvMatraI.1 dvReph_dvAnusvara.alt;
+	sub dvMatraI.2 by dvMatraI.2 dvReph_dvAnusvara.alt;
+	sub dvMatraI.3 by dvMatraI.3 dvReph_dvAnusvara.alt;
+	sub dvMatraI.4 by dvMatraI.4 dvReph_dvAnusvara.alt;
+	sub dvMatraI.5 by dvMatraI.5 dvReph_dvAnusvara.alt;
+	sub dvMatraI.6 by dvMatraI.6 dvReph_dvAnusvara.alt;
+	sub dvMatraI.7 by dvMatraI.7 dvReph_dvAnusvara.alt;
+	sub dvMatraI.8 by dvMatraI.8 dvReph_dvAnusvara.alt;
+	sub dvMatraI.9 by dvMatraI.9 dvReph_dvAnusvara.alt;
+	sub dvMatraI.10 by dvMatraI.10 dvReph_dvAnusvara.alt;
+	sub dvMatraI.11 by dvMatraI.11 dvReph_dvAnusvara.alt;
+	sub dvMatraI.12 by dvMatraI.12 dvReph_dvAnusvara.alt;
+	sub dvMatraI.13 by dvMatraI.13 dvReph_dvAnusvara.alt;
+	sub dvMatraI.14 by dvMatraI.14 dvReph_dvAnusvara.alt;
+	sub dvMatraI.15 by dvMatraI.15 dvReph_dvAnusvara.alt;
+	sub dvMatraI.16 by dvMatraI.16 dvReph_dvAnusvara.alt;
+	sub dvMatraI.17 by dvMatraI.17 dvReph_dvAnusvara.alt;
+	sub dvMatraI.18 by dvMatraI.18 dvReph_dvAnusvara.alt;
+	sub dvMatraI.19 by dvMatraI.19 dvReph_dvAnusvara.alt;
+	sub dvMatraI.20 by dvMatraI.20 dvReph_dvAnusvara.alt;
+	sub dvMatraI.21 by dvMatraI.21 dvReph_dvAnusvara.alt;
+} ABVS_insertRephAnusvara;
+
+lookup ABVS_insertReph {
+	sub dvMatraI by dvMatraI dvReph.alt;
+	sub dvMatraI.1 by dvMatraI.1 dvReph.alt;
+	sub dvMatraI.2 by dvMatraI.2 dvReph.alt;
+	sub dvMatraI.3 by dvMatraI.3 dvReph.alt;
+	sub dvMatraI.4 by dvMatraI.4 dvReph.alt;
+	sub dvMatraI.5 by dvMatraI.5 dvReph.alt;
+	sub dvMatraI.6 by dvMatraI.6 dvReph.alt;
+	sub dvMatraI.7 by dvMatraI.7 dvReph.alt;
+	sub dvMatraI.8 by dvMatraI.8 dvReph.alt;
+	sub dvMatraI.9 by dvMatraI.9 dvReph.alt;
+	sub dvMatraI.10 by dvMatraI.10 dvReph.alt;
+	sub dvMatraI.11 by dvMatraI.11 dvReph.alt;
+	sub dvMatraI.12 by dvMatraI.12 dvReph.alt;
+	sub dvMatraI.13 by dvMatraI.13 dvReph.alt;
+	sub dvMatraI.14 by dvMatraI.14 dvReph.alt;
+	sub dvMatraI.15 by dvMatraI.15 dvReph.alt;
+	sub dvMatraI.16 by dvMatraI.16 dvReph.alt;
+	sub dvMatraI.17 by dvMatraI.17 dvReph.alt;
+	sub dvMatraI.18 by dvMatraI.18 dvReph.alt;
+	sub dvMatraI.19 by dvMatraI.19 dvReph.alt;
+	sub dvMatraI.20 by dvMatraI.20 dvReph.alt;
+	sub dvMatraI.21 by dvMatraI.21 dvReph.alt;
+} ABVS_insertReph;
+
+lookup ABVS_insertAnusvara {
+	sub dvMatraI by dvMatraI dvAnusvara.alt;
+	sub dvMatraI.1 by dvMatraI.1 dvAnusvara.alt;
+	sub dvMatraI.2 by dvMatraI.2 dvAnusvara.alt;
+	sub dvMatraI.3 by dvMatraI.3 dvAnusvara.alt;
+	sub dvMatraI.4 by dvMatraI.4 dvAnusvara.alt;
+	sub dvMatraI.5 by dvMatraI.5 dvAnusvara.alt;
+	sub dvMatraI.6 by dvMatraI.6 dvAnusvara.alt;
+	sub dvMatraI.7 by dvMatraI.7 dvAnusvara.alt;
+	sub dvMatraI.8 by dvMatraI.8 dvAnusvara.alt;
+	sub dvMatraI.9 by dvMatraI.9 dvAnusvara.alt;
+	sub dvMatraI.10 by dvMatraI.10 dvAnusvara.alt;
+	sub dvMatraI.11 by dvMatraI.11 dvAnusvara.alt;
+	sub dvMatraI.12 by dvMatraI.12 dvAnusvara.alt;
+	sub dvMatraI.13 by dvMatraI.13 dvAnusvara.alt;
+	sub dvMatraI.14 by dvMatraI.14 dvAnusvara.alt;
+	sub dvMatraI.15 by dvMatraI.15 dvAnusvara.alt;
+	sub dvMatraI.16 by dvMatraI.16 dvAnusvara.alt;
+	sub dvMatraI.17 by dvMatraI.17 dvAnusvara.alt;
+	sub dvMatraI.18 by dvMatraI.18 dvAnusvara.alt;
+	sub dvMatraI.19 by dvMatraI.19 dvAnusvara.alt;
+	sub dvMatraI.20 by dvMatraI.20 dvAnusvara.alt;
+	sub dvMatraI.21 by dvMatraI.21 dvAnusvara.alt;
+} ABVS_insertAnusvara;
+
+lookup PSTS_removeMatraCandraE {
+	sub dvCandraE by dvE;
+	sub dvCandraO by dvAa;
+	sub dvCandraA by dvA;
+	sub dvMatraCandraLongE by dvHeadline;
+	sub dvMatraCandraO by dvMatraAa;
+} PSTS_removeMatraCandraE;
+
+@dvKaAndFriends = [ dvKa dvJha.NEP dvPha dvQa dvFa dvKRa dvPhRa dvQRa dvFRa dvKNa dvPhNa dvQPha dvQQa dvQFa ];
+
+@dvAllHeadlinedForms = [ dvShortA dvA dvAa dvI dvIi dvU dvUu dvVocalicR dvVocalicR.ss06 dvVocalicRr dvVocalicL dvVocalicLl dvCandraE dvShortE dvE dvAi dvCandraO dvShortO dvO dvCandraA dvOE dvOOE dvAW dvUE dvUUE dvAu dvKa dvKha dvGa dvGha dvNga dvCa dvCha dvJa dvJha dvJha.NEP dvNya dvTta dvTtha dvDda dvDdha dvNna dvTa dvTha dvDa dvDha dvNa dvNnna dvPa dvPha dvBa dvBha dvMa dvYa dvRa dvRra dvLa dvLa.MAR dvLla dvLlla dvVa dvSha dvSha.MAR dvSsa dvSa dvHa dvQa dvKhha dvGhha dvZa dvDddha dvRha dvFa dvYya dvZha dvYaHeavy dvGga dvJja dvDdda dvBba dvMatraAa dvMatraI dvMatraIi dvMatraCandraO dvMatraShortO dvMatraO dvMatraAu dvMatraOOE dvMatraAW dvMatraCandraLongE dvReph.MAR dvKRa dvKRa.ss03 dvKhRa dvGRa dvGhRa dvCRa dvJRa dvJhRa dvTRa dvTRa.ss03 dvThRa dvDRa dvDhRa dvNRa dvPRa dvPhRa dvBRa dvBhRa dvMRa dvYRa dvLRa dvLRa.MAR dvVRa dvShRa dvSsRa dvSRa dvHRa dvQRa dvKhhRa dvGhhRa dvZRa dvFRa dvYyRa dvKSsRa dvKSsa dvJNya dvGRYa dvNgKRa dvChRYa dvTtTtYa dvTthTthYa dvDdDdYa dvDdhRYa dvDGRa dvDDYa dvDDRa dvDDhYa dvDBRa dvDBhYa dvDBhRa dvDRYa dvDVYa dvDVRa dvDhNYa dvDhVa dvNNYa dvPTta dvPTtha dvPTtYa dvPTthYa dvBhRYa dvShRYa dvSsTtYa dvSsTthYa dvHMYa dvHMYa.ss06 dvNgKa dvNgGa dvNgGRa dvNgGha dvNgGhRa dvNgMa dvNgYa dvTtKa dvTtTta dvTtTtha dvTtDdha dvTtYa dvTtVa dvTthTtha dvTthYa dvTthVa dvDdKa dvDdGa dvDdTta dvDdDda dvDdDdha dvDdYa dvDdVa dvDdhDdha dvDdhYa dvDdhVa dvDGa dvDGha dvDDa dvDDha dvDNa dvDBa dvDBha dvDMa dvDYa dvDVa dvHNna dvHNa dvHMa dvHYa dvHLa dvHVa dvKSsMYa dvKSPRa dvKSPLa dvKSPLa.MAR dvTSNYa dvNSMYa dvKTYa dvKTRa dvKVYa dvKSsMa dvKSsYa dvKSsVa dvKSTta dvKSDda dvKSTa dvGDhYa dvGDhVa dvGNYa dvGBhYa dvCChVa dvJJYa dvJJVa dvJNyYa dvNyCYa dvNyJYa dvTKYa dvTKSsa dvTTYa dvTRYa dvNJYa dvNTYa dvNTRa dvNTSa dvNThYa dvNThVa dvNDRa dvNDhYa dvNDhRa dvNDhVa dvNBhYa dvNBhVa dvNMYa dvPTYa dvBJYa dvBDhVa dvBBhRa dvBLYa dvMBYa dvMBhYa dvMBhRa dvMBhVa dvLKYa dvLThYa dvLLYa dvLVDda dvSsKRa dvSsMYa dvSTYa dvSTRa dvSThYa dvSMYa dvKKa.ss03 dvKCa dvKDda dvKTa.ss03 dvKTha dvKDha dvKNa dvKYa dvKVa.ss03 dvKSha dvKSha.MAR dvKHa dvKhNa dvGNa dvGhNa dvCCha dvCDda dvCNa dvChYa dvChVa dvJJa dvJNa dvJMa dvJYa dvJhNa dvNyCa dvNyJa dvNySha dvTNya dvTTa dvTTha dvTNa dvTYa dvThDda dvThTha dvThNa dvDhDha dvDhNa dvNGa dvNCa dvNCha dvNDda dvNDha dvNNa dvNBha dvNMa dvNSha dvPDda dvPTha dvPNa dvPSha dvPhGa dvPhCa dvPhTha dvPhNa dvPhSha dvBNa dvBhNa dvBhBha dvMDda dvMNa dvMBha dvMSha dvYDda dvYTha dvYNa dvYSha dvLCa dvLNa dvLBha dvVNa dvVHa dvShCa dvShNa dvShVa dvSsTta dvSsTtha dvSNa dvSMa dvQTa dvQPha dvQBa dvQMa dvQQa dvQFa dvKhhTa dvKhhMa dvKhhYa dvKhhVa dvKhhSha dvKhhSa dvZYa dvZZa dvFTa dvFSa dvFZa dvFFa dvDa_dvMatraU dvDa_dvMatraUu dvDa_dvMatraVocalicR dvDa_dvMatraVocalicR.ss06 dvDBa_dvMatraVocalicR dvDVa_dvMatraVocalicR dvRa_dvMatraU dvRa_dvMatraUu dvSha_dvMatraVocalicR dvHa_dvMatraVocalicR dvHa_dvMatraU dvHa_dvMatraUu dvHeadline dvHeadline.small dvHeadline.dvDha dvHeadline.dvKSsa dvHeadline.dvShRa dvHeadline.dvTha dvHeadlineCandrabindu dvMatraI.1 dvMatraI.2 dvMatraI.3 dvMatraI.4 dvMatraI.5 dvMatraI.6 dvMatraI.7 dvMatraI.8 dvMatraI.9 dvMatraI.10 dvMatraI.11 dvMatraI.12 dvMatraI.13 dvMatraI.14 dvMatraI.15 dvMatraI.16 dvMatraI.17 dvMatraI.18 dvMatraI.19 dvMatraI.20 dvMatraI.21 dvMatraIi.1 dvMatraIi.2 dvIi_dvAnusvara dvMatraIi_dvReph dvMatraIi_dvReph_dvAnusvara dvMatraIi_dvReph.1 dvMatraIi_dvReph_dvAnusvara.1 dvMatraIi_dvReph.2 dvMatraIi_dvReph_dvAnusvara.2 dvMatraO_dvReph dvMatraAu_dvReph dvMatraO_dvReph_dvAnusvara dvMatraAu_dvReph_dvAnusvara ];
+
+@dvRephForms = [ dvReph dvReph.alt2 dvReph_dvAnusvara.alt2 dvMatraIi_dvReph dvMatraIi_dvReph_dvAnusvara dvMatraIi_dvReph.1 dvMatraIi_dvReph_dvAnusvara.1 dvMatraIi_dvReph.2 dvMatraIi_dvReph_dvAnusvara.2 dvMatraE_dvReph dvMatraE_dvReph_dvAnusvara dvMatraAi_dvReph dvMatraAi_dvReph_dvAnusvara dvMatraO_dvReph dvMatraAu_dvReph dvMatraO_dvReph_dvAnusvara dvMatraAu_dvReph_dvAnusvara ];
+
+@dvPreHeadlineForms = [ 
+dvTha dvThRa dvThDda dvThTha dvThNa dvTh
+dvDha dvDhRa dvDhNYa dvDhVa dvDhDha dvDhNa dvDh dvDhR
+dvKSsRa dvKSsa dvKSsMYa dvKSsMa dvKSsYa dvKSsVa dvKSs dvKSsM
+dvShRa dvShRYa dvShCa dvShNa dvShVa dvShR dvSha_dvMatraVocalicR
+ ];
+
+lookup RCLT_insertHeadline {
+	sub dvReph by dvReph dvHeadline.small;
+
+	sub dvTha by dvHeadline.dvTha dvTha;
+	sub dvThRa by dvHeadline.dvTha dvThRa;
+	sub dvThDda by dvHeadline.dvTha dvThDda;
+	sub dvThTha by dvHeadline.dvTha dvThTha;
+	sub dvThNa by dvHeadline.dvTha dvThNa;
+	sub dvTh by dvHeadline.dvTha dvTh;
+
+	sub dvDha by dvHeadline.dvDha dvDha;
+	sub dvDhRa by dvHeadline.dvDha dvDhRa;
+	sub dvDhNYa by dvHeadline.dvDha dvDhNYa;
+	sub dvDhVa by dvHeadline.dvDha dvDhVa;
+	sub dvDhDha by dvHeadline.dvDha dvDhDha;
+	sub dvDhNa by dvHeadline.dvDha dvDhNa;
+	sub dvDh by dvHeadline.dvDha dvDh;
+	sub dvDhR by dvHeadline.dvDha dvDhR;
+
+	sub dvKSsRa by dvHeadline.dvKSsa dvKSsRa;
+	sub dvKSsa by dvHeadline.dvKSsa dvKSsa;
+	sub dvKSsMYa by dvHeadline.dvKSsa dvKSsMYa;
+	sub dvKSsMa by dvHeadline.dvKSsa dvKSsMa;
+	sub dvKSsYa by dvHeadline.dvKSsa dvKSsYa;
+	sub dvKSsVa by dvHeadline.dvKSsa dvKSsVa;
+	sub dvKSs by dvHeadline.dvKSsa dvKSs;
+	sub dvKSsM by dvHeadline.dvKSsa dvKSsM;
+
+	sub dvShRa by dvHeadline.dvShRa dvShRa;
+	sub dvShRYa by dvHeadline.dvShRa dvShRYa;
+	sub dvShCa by dvHeadline.dvShRa dvShCa;
+	sub dvShNa by dvHeadline.dvShRa dvShNa;
+	sub dvShVa by dvHeadline.dvShRa dvShVa;
+	sub dvShR by dvHeadline.dvShRa dvShR;
+	sub dvSha_dvMatraVocalicR by dvHeadline.dvShRa dvSha_dvMatraVocalicR;
+} RCLT_insertHeadline;
+
+@MK_dvConjunctMarks = [ dvHalant dvRakar ];
+
+@MK_dvMarksAbove = [ dvMatraCandraE dvMatraShortE dvMatraE dvMatraAi dvMatraOE dvCandrabinduInverted dvCandrabindu dvAnusvara dvUdatta dvGrave dvAcute dvReph dvCandrabindu.calt dvAnusvara.alt dvAnusvara.alt2 dvAnusvara.calt dvMatraCandraE.calt dvReph.alt dvReph.alt2 dvReph_dvAnusvara dvReph_dvAnusvara.alt dvReph_dvAnusvara.alt2 dvMatraE_dvReph dvMatraE_dvAnusvara dvMatraE_dvReph_dvAnusvara dvMatraAi_dvAnusvara dvMatraAi_dvReph dvMatraAi_dvReph_dvAnusvara ];
+
+@MK_dvMarksBelow = [ dvMatraU dvMatraUu dvMatraU.small dvMatraUu.small dvMatraVocalicR dvMatraVocalicRr dvMatraVocalicR.small ];
+
+@dvMatraI = [ dvMatraI dvMatraI.1 dvMatraI.2 dvMatraI.3 dvMatraI.4 dvMatraI.5 dvMatraI.6 dvMatraI.7 dvMatraI.8 dvMatraI.9 dvMatraI.10 dvMatraI.11 dvMatraI.12 dvMatraI.13 dvMatraI.14 dvMatraI.15 dvMatraI.16 dvMatraI.17 dvMatraI.18 dvMatraI.19 dvMatraI.20 dvMatraI.21 ];
+
+@dvConsonants = [ dvKa dvKha dvGa dvGha dvNga dvCa dvCha dvJa dvJha dvJha.NEP dvNya dvTta dvTtha dvDda dvDdha dvNna dvTa dvTha dvDa dvDha dvNa dvNnna dvPa dvPha dvBa dvBha dvMa dvYa dvRa dvRra dvLa dvLa.MAR dvLla dvLlla dvVa dvSha dvSha.MAR dvSsa dvSa dvHa dvQa dvKhha dvGhha dvZa dvDddha dvRha dvFa dvYya dvZha dvYaHeavy dvGga dvJja dvDdda dvBba ];
+
+@dvConjuncts = [ dvKRa dvKRa.ss03 dvKhRa dvGRa dvGhRa dvCRa dvJRa dvJhRa dvTRa dvTRa.ss03 dvThRa dvDRa dvDhRa dvNRa dvPRa dvPhRa dvBRa dvBhRa dvMRa dvYRa dvLRa dvLRa.MAR dvVRa dvShRa dvSsRa dvSRa dvHRa dvQRa dvKhhRa dvGhhRa dvZRa dvFRa dvYyRa dvKSsRa dvKSsa dvJNya dvGRYa dvNgKRa dvChRYa dvTtTtYa dvTthTthYa dvDdDdYa dvDdhRYa dvDGRa dvDDYa dvDDRa dvDDhYa dvDBRa dvDBhYa dvDBhRa dvDRYa dvDVYa dvDVRa dvDhNYa dvDhVa dvNNYa dvPTta dvPTtha dvPTtYa dvPTthYa dvBhRYa dvShRYa dvSsTtYa dvSsTthYa dvHMYa dvHMYa dvNgKa dvNgGa dvNgGRa dvNgGha dvNgGhRa dvNgMa dvNgYa dvTtKa dvTtTta dvTtTtha dvTtDdha dvTtYa dvTtVa dvTthTtha dvTthYa dvTthVa dvDdKa dvDdGa dvDdTta dvDdDda dvDdDdha dvDdYa dvDdVa dvDdhDdha dvDdhYa dvDdhVa dvDGa dvDGha dvDDa dvDDha dvDNa dvDBa dvDBha dvDMa dvDYa dvDVa dvHNna dvHNa dvHMa dvHYa dvHLa dvHVa dvKSsMYa dvKSPRa dvKSPLa dvKSPLa.MAR dvTSNYa dvNSMYa dvKTYa dvKTRa dvKVYa dvKSsMa dvKSsYa dvKSsVa dvKSTta dvKSDda dvKSTa dvGDhYa dvGDhVa dvGNYa dvGBhYa dvCChVa dvJJYa dvJJVa dvJNyYa dvNyCYa dvNyJYa dvTKYa dvTKSsa dvTTYa dvTRYa dvNJYa dvNTYa dvNTRa dvNTSa dvNThYa dvNThVa dvNDRa dvNDhYa dvNDhRa dvNDhVa dvNBhYa dvNBhVa dvNMYa dvPTYa dvBJYa dvBDhVa dvBBhRa dvBLYa dvMBYa dvMBhYa dvMBhRa dvMBhVa dvLKYa dvLThYa dvLLYa dvLVDda dvSsKRa dvSsMYa dvSTYa dvSTRa dvSThYa dvSMYa dvKKa.ss03 dvKCa dvKDda dvKTa.ss03 dvKTha dvKDha dvKNa dvKYa dvKVa.ss03 dvKSha dvKSha.MAR dvKHa dvKhNa dvGNa dvGhNa dvCCha dvCDda dvCNa dvChYa dvChVa dvJJa dvJNa dvJMa dvJYa dvJhNa dvNyCa dvNyJa dvNySha dvTNya dvTTa dvTTha dvTNa dvTYa dvThDda dvThTha dvThNa dvDhDha dvDhNa dvNGa dvNCa dvNCha dvNDda dvNDha dvNNa dvNBha dvNMa dvNSha dvPDda dvPTha dvPNa dvPSha dvPhGa dvPhCa dvPhTha dvPhNa dvPhSha dvBNa dvBhNa dvBhBha dvMDda dvMNa dvMBha dvMSha dvYDda dvYTha dvYNa dvYSha dvLCa dvLNa dvLBha dvVNa dvVHa dvShCa dvShNa dvShVa dvSsTta dvSsTtha dvSNa dvSMa dvQTa dvQPha dvQBa dvQMa dvQQa dvQFa dvKhhTa dvKhhMa dvKhhYa dvKhhVa dvKhhSha dvKhhSa dvZYa dvZZa dvFTa dvFSa dvFZa dvFFa ];
+
+@dvHalfForms = [ dvK dvK.alt dvKh dvG dvGh dvC dvCh dvJ dvJ.alt dvJh dvJh.NEP dvNy dvNn dvT dvT.alt dvT.alt1 dvTh dvDh dvN dvN.alt dvNnn dvP dvPh dvPh.alt dvB dvBh dvM dvY dvYa.post dvL dvL.alt dvL.alt1 dvLl dvLll dvV dvSh dvSh.MAR dvSs dvS dvH dvQ dvQ.alt dvKhh dvGhh dvZ dvZ.alt dvF dvF.alt dvYy dvKSs dvJNy dvKR dvGhR dvTR dvTR.ss03 dvDhR dvPR dvVR dvShR dvSsR dvSR dvKSsM dvTT dvTT.alt dvTT.alt1 dvNBh dvNS dvMBh dvLBh ];
+
+# automatic
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccaron Dcaron Dcroat Emacron Edotaccent Eogonek Ecaron Gbreve Gcommaaccent Imacron Iogonek Idotaccent Kcommaaccent Lacute Lcommaaccent Lcaron Lslash Nacute Ncommaaccent Ncaron Omacron Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scedilla Scaron Tcedilla Tcaron Umacron Uring Uhungarumlaut Uogonek Ydieresis Zacute Zdotaccent Zcaron Scommaaccent Tcommaaccent ];
+
+feature aalt {
+	feature locl;
+	feature sups;
+	feature numr;
+	feature dnom;
+	feature ordn;
+	feature pnum;
+	feature tnum;
+	feature case;
+	feature ss01;
+	feature ss02;
+	feature ss03;
+	feature ss05;
+	feature ss06;
+
+	sub period by ellipsis;
+	sub hyphen from [endash emdash];
+} aalt;
+
+feature ccmp {
+lookup CCMP_dissolveIntoMatraCandraE {
+	sub dvCandraE by dvE dvMatraCandraE;
+	sub dvCandraO by dvAa dvMatraCandraE;
+	sub dvCandraA by dvA dvMatraCandraE;
+	sub dvMatraCandraLongE by dvHeadline dvMatraCandraE;
+	sub dvMatraCandraO by dvMatraAa dvMatraCandraE.calt;
+} CCMP_dissolveIntoMatraCandraE;
+
+lookup CCMP_makeCandrabindu {
+	sub dvMatraCandraE [dvAnusvara dvCandrabindu dvAnusvara.calt dvCandrabindu.calt] by dvCandrabindu;
+	sub dvMatraCandraE.calt [dvAnusvara dvCandrabindu dvAnusvara.calt dvCandrabindu.calt] by dvCandrabindu.calt;
+} CCMP_makeCandrabindu;
+} ccmp;
+
+feature locl {
+script dev2;
+language dflt;
+	sub hyphen by hyphen.deva;
+	sub period by period.deva;
+language NEP;
+	sub dvJha by dvJha.NEP;
+	sub dvJh by dvJh.NEP;
+language MAR;
+	sub dvLa by dvLa.MAR;
+	sub dvSha by dvSha.MAR;
+} locl;
+
+feature sups {
+# automatic
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+sub one by onesuperior;
+} sups;
+
+feature numr {
+# automatic
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+} numr;
+
+feature dnom {
+# automatic
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+} dnom;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature pnum {
+# automatic
+sub dvZero.tf by dvZero;
+sub dvOne.tf by dvOne;
+sub dvTwo.tf by dvTwo;
+sub dvThree.tf by dvThree;
+sub dvFour.tf by dvFour;
+sub dvFive.tf by dvFive;
+sub dvSix.tf by dvSix;
+sub dvSeven.tf by dvSeven;
+sub dvEight.tf by dvEight;
+sub dvNine.tf by dvNine;
+sub dvOne.ss05.tf by dvOne.ss05;
+sub dvFive.ss05.tf by dvFive.ss05;
+sub dvEight.ss05.tf by dvEight.ss05;
+sub dvNine.ss05.tf by dvNine.ss05;
+} pnum;
+
+feature tnum {
+sub dvZero by dvZero.tf;
+sub dvOne by dvOne.tf;
+sub dvTwo by dvTwo.tf;
+sub dvThree by dvThree.tf;
+sub dvFour by dvFour.tf;
+sub dvFive by dvFive.tf;
+sub dvSix by dvSix.tf;
+sub dvSeven by dvSeven.tf;
+sub dvEight by dvEight.tf;
+sub dvNine by dvNine.tf;
+sub dvOne.ss05 by dvOne.ss05.tf;
+sub dvFive.ss05 by dvFive.ss05.tf;
+sub dvEight.ss05 by dvEight.ss05.tf;
+sub dvNine.ss05 by dvNine.ss05.tf;
+} tnum;
+
+feature case {
+# automatic
+sub acutecomb by acutecomb.case;
+sub brevecomb by brevecomb.case;
+sub caroncomb by caroncomb.case;
+sub cedillacomb by cedillacomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub commaaccentcomb by commaaccentcomb.case;
+sub dieresiscomb by dieresiscomb.case;
+sub dotaccentcomb by dotaccentcomb.case;
+sub dotbelowcomb by dotbelowcomb.case;
+sub gravecomb by gravecomb.case;
+sub hungarumlautcomb by hungarumlautcomb.case;
+sub macronbelowcomb by macronbelowcomb.case;
+sub macroncomb by macroncomb.case;
+sub ogonekcomb by ogonekcomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub commaaccentturnedabovecomb by commaaccentturnedabovecomb.case;
+} case;
+
+feature liga {
+# automatic
+sub f b by f_b.liga;
+sub f f by f_f.liga;
+sub f h by f_h.liga;
+sub f i by f_i.liga;
+sub f j by f_j.liga;
+sub f k by f_k.liga;
+sub f l by f_l.liga;
+sub f t by f_t.liga;
+} liga;
+
+feature ss01 {
+sub dvLa by dvLa.MAR;
+sub dvSha by dvSha.MAR;
+sub dvLRa by dvLRa.MAR;
+sub dvKSPLa by dvKSPLa.MAR;
+sub dvKSha by dvKSha.MAR;
+sub dvSh by dvSh.MAR;
+} ss01;
+
+feature ss02 {
+sub dvJha by dvJha.NEP;
+sub dvJh by dvJh.NEP;
+} ss02;
+
+feature ss03 {
+sub dvKRa by dvKRa.ss03;
+sub dvK dvKa by dvKKa.ss03;
+sub dvK dvTa by dvKTa.ss03;
+sub dvK dvVa by dvKVa.ss03;
+sub dvTRa by dvTRa.ss03;
+sub dvTR by dvTR.ss03;
+} ss03;
+
+feature ss06 {
+sub dvVocalicR by dvVocalicR.ss06;
+sub dvDa_dvMatraVocalicR by dvDa_dvMatraVocalicR.ss06;
+sub dvHMYa by dvHMYa.ss06;
+} ss06;
+
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+} cpsp;
+
+feature nukt {
+sub dvNa dvNukta by dvNnna;
+sub dvRa dvNukta by dvRra;
+sub dvLla dvNukta by dvLlla;
+sub dvKa dvNukta by dvQa;
+sub dvKha dvNukta by dvKhha;
+sub dvGa dvNukta by dvGhha;
+sub dvJa dvNukta by dvZa;
+sub dvDda dvNukta by dvDddha;
+sub dvDdha dvNukta by dvRha;
+sub dvPha dvNukta by dvFa;
+sub dvYa dvNukta by dvYya;
+} nukt;
+
+feature akhn {
+lookupflag MarkAttachmentType @MK_dvConjunctMarks;
+	
+sub dvKa dvHalant dvSsa by dvKSsa;
+sub dvJa dvHalant dvNya by dvJNya;
+	
+sub dvRa' dvHalant' zerowidthjoiner by dvReph.MAR;
+} akhn;
+
+feature rphf {
+lookupflag MarkAttachmentType @MK_dvConjunctMarks;
+	
+sub dvRa' dvHalant' by dvReph;
+} rphf;
+
+feature rkrf {
+script DFLT;
+	language dflt;
+		lookup RKRF {
+			lookupflag MarkAttachmentType @MK_dvConjunctMarks;
+			
+			sub [dvSha dvSha.MAR] dvHalant dvRa dvHalant dvYa by dvShRYa;
+			
+			sub dvKa dvHalant dvSa dvHalant dvPa dvHalant dvRa by dvKSPRa;
+			sub dvNga dvHalant dvKa dvHalant dvRa by dvNgKRa;
+			sub dvDa dvHalant dvGa dvHalant dvRa by dvDGRa;
+			sub dvDa dvHalant dvDa dvHalant dvRa by dvDDRa;
+			sub dvDa dvHalant dvBa dvHalant dvRa by dvDBRa;
+			sub dvDa dvHalant dvBha dvHalant dvRa by dvDBhRa;
+			sub dvDa dvHalant dvVa dvHalant dvRa by dvDVRa;
+			sub dvNga dvHalant dvGa dvHalant dvRa by dvNgGRa;
+			sub dvNga dvHalant dvGha dvHalant dvRa by dvNgGhRa;
+			sub dvKa dvHalant dvTa dvHalant dvRa by dvKTRa;
+			sub dvNa dvHalant dvTa dvHalant dvRa by dvNTRa;
+			sub dvNa dvHalant dvDha dvHalant dvRa by dvNDhRa;
+			sub dvBa dvHalant dvBha dvHalant dvRa by dvBBhRa;
+			sub dvMa dvHalant dvBha dvHalant dvRa by dvMBhRa;
+			sub dvSsa dvHalant dvKa dvHalant dvRa by dvSsKRa;
+			sub dvSa dvHalant dvTa dvHalant dvRa by dvSTRa;
+			
+			sub dvGa dvHalant dvRa dvHalant dvYa by dvGRYa;
+			sub dvCha dvHalant dvRa dvHalant dvYa by dvChRYa;
+			sub dvDdha dvHalant dvRa dvHalant dvYa by dvDdhRYa;
+			sub dvShRa dvHalant dvYa by dvShRYa;
+			sub dvDa dvHalant dvRa dvHalant dvYa by dvDRYa;
+			sub dvBha dvHalant dvRa dvHalant dvYa by dvBhRYa;
+			
+			sub dvKa dvHalant dvRa by dvKRa;
+			sub dvKha dvHalant dvRa by dvKhRa;
+			sub dvGa dvHalant dvRa by dvGRa;
+			sub dvGha dvHalant dvRa by dvGhRa;
+			sub dvCa dvHalant dvRa by dvCRa;
+			sub dvJa dvHalant dvRa by dvJRa;
+			sub dvJha dvHalant dvRa by dvJhRa;
+			sub dvTa dvHalant dvRa by dvTRa;
+			sub dvTha dvHalant dvRa by dvThRa;
+			sub dvDa dvHalant dvRa by dvDRa;
+			sub dvDha dvHalant dvRa by dvDhRa;
+			sub dvNa dvHalant dvRa by dvNRa;
+			sub dvPa dvHalant dvRa by dvPRa;
+			sub dvPha dvHalant dvRa by dvPhRa;
+			sub dvBa dvHalant dvRa by dvBRa;
+			sub dvBha dvHalant dvRa by dvBhRa;
+			sub dvMa dvHalant dvRa by dvMRa;
+			sub dvYa dvHalant dvRa by dvYRa;
+			sub dvLa dvHalant dvRa by dvLRa;
+			sub dvLa.MAR dvHalant dvRa by dvLRa.MAR;
+			sub dvVa dvHalant dvRa by dvVRa;
+			sub [dvSha dvSha.MAR] dvHalant dvRa by dvShRa;
+			sub dvSsa dvHalant dvRa by dvSsRa;
+			sub dvSa dvHalant dvRa by dvSRa;
+			sub dvHa dvHalant dvRa by dvHRa;
+			sub dvQa dvHalant dvRa by dvQRa;
+			sub dvKhha dvHalant dvRa by dvKhhRa;
+			sub dvGhha dvHalant dvRa by dvGhhRa;
+			sub dvZa dvHalant dvRa by dvZRa;
+			sub dvFa dvHalant dvRa by dvFRa;
+			sub dvYya dvHalant dvRa by dvYyRa;
+			sub dvKSsa dvHalant dvRa by dvKSsRa;
+		} RKRF;
+
+script dev2;
+	language dflt;
+		lookup RKRF;
+
+		language MAR include_dflt;
+		language NEP include_dflt;
+} rkrf;
+
+feature blwf {
+script DFLT;
+	language dflt;
+		sub dvHalant dvRa by dvRakar;
+
+script dev2;
+	language dflt;
+		sub dvHalant dvRa by dvRakar;
+
+		language MAR include_dflt;
+		language NEP include_dflt;
+} blwf;
+
+feature half {
+script DFLT;
+	language dflt;
+		lookup HALF {
+			lookupflag MarkAttachmentType @MK_dvConjunctMarks;
+			
+			sub dvKa dvHalant by dvK;
+			sub dvKha dvHalant by dvKh;
+			sub dvGa dvHalant by dvG;
+			sub dvGha dvHalant by dvGh;
+			sub dvCa dvHalant by dvC;
+			sub dvJa dvHalant by dvJ;
+			sub dvJha dvHalant by dvJh;
+			sub dvJha.NEP dvHalant by dvJh.NEP;
+			sub dvNya dvHalant by dvNy;
+			sub dvNna dvHalant by dvNn;
+			sub dvTa dvHalant by dvT;
+			sub dvTha dvHalant by dvTh;
+			sub dvDha dvHalant by dvDh;
+			sub dvNa dvHalant by dvN;
+			sub dvNnna dvHalant by dvNnn;
+			sub dvPa dvHalant by dvP;
+			sub dvPha dvHalant by dvPh;
+			sub dvBa dvHalant by dvB;
+			sub dvBha dvHalant by dvBh;
+			sub dvMa dvHalant by dvM;
+			sub dvYa dvHalant by dvY;
+			sub dvRra dvHalant by dvReph.MAR;
+			sub [dvLa dvLa.MAR] dvHalant by dvL;
+			sub dvLla dvHalant by dvLl;
+			sub dvLlla dvHalant by dvLll;
+			sub dvVa dvHalant by dvV;
+			sub dvSha dvHalant by dvSh;
+			sub dvSha.MAR dvHalant by dvSh.MAR;
+			sub dvSsa dvHalant by dvSs;
+			sub dvSa dvHalant by dvS;
+			sub dvHa dvHalant by dvH;
+			sub dvQa dvHalant by dvQ;
+			sub dvKhha dvHalant by dvKhh;
+			sub dvGhha dvHalant by dvGhh;
+			sub dvZa dvHalant by dvZ;
+			sub dvFa dvHalant by dvF;
+			sub dvYya dvHalant by dvYy;
+			sub dvKSsa dvHalant by dvKSs;
+			sub dvJNya dvHalant by dvJNy;
+
+			sub dvKRa dvHalant by dvKR;
+			sub dvGhRa dvHalant by dvGhR;
+			sub dvTRa dvHalant by dvTR;
+			sub dvDhRa dvHalant by dvDhR;
+			sub dvPRa dvHalant by dvPR;
+			sub dvVRa dvHalant by dvVR;
+			sub dvShRa dvHalant by dvShR;
+			sub dvSsRa dvHalant by dvSsR;
+			sub dvSRa dvHalant by dvSR;
+		} HALF;
+
+script dev2;
+	language dflt;
+		lookup HALF;
+
+		language MAR include_dflt;
+		language NEP include_dflt;
+} half;
+
+feature cjct {
+script DFLT;
+	language dflt;
+		lookup CJCT {
+			lookupflag MarkAttachmentType @MK_dvConjunctMarks;
+			
+			sub dvDa dvHalant dvV dvYa by dvDVYa;
+			sub dvTta dvHalant dvTta by dvTtTta;
+			sub dvTta dvHalant dvTtha by dvTtTtha;
+			sub dvTta dvHalant dvDdha by dvTtDdha;
+			sub dvTta dvHalant dvVa by dvTtVa;
+			sub dvTtha dvHalant dvTtha by dvTthTtha;
+			sub dvDda dvHalant dvDda by dvDdDda;
+			sub dvDda dvHalant dvDdha by dvDdDdha;
+			sub dvDdha dvHalant dvDdha by dvDdhDdha;
+			sub dvDa dvHalant dvGa by dvDGa;
+			sub dvDa dvHalant dvGha by dvDGha;
+			sub dvDa dvHalant dvDa by dvDDa;
+			sub dvDa dvHalant dvDha by dvDDha;
+			sub dvDa dvHalant dvNa by dvDNa;
+			sub dvDa dvHalant dvBa by dvDBa;
+			sub dvDa dvHalant dvBha by dvDBha;
+			sub dvDa dvHalant dvMa by dvDMa;
+			sub dvDa dvHalant dvYa by dvDYa;
+			sub dvDa dvHalant dvVa by dvDVa;
+			
+			sub dvDDa dvHalant dvYa by dvDDYa;
+			sub dvDa dvHalant dvDh dvYa by dvDDhYa;
+			sub dvDa dvHalant dvBh dvYa by dvDBhYa;
+			sub dvDVa dvHalant dvYa by dvDVYa;
+			sub dvTtTta dvHalant dvYa by dvTtTtYa;
+			sub dvTthTtha dvHalant dvYa by dvTthTthYa;
+			sub dvDdDda dvHalant dvYa by dvDdDdYa;
+			
+			sub dvNga dvHalant dvKa by dvNgKa;
+			sub dvNga dvHalant dvGa by dvNgGa;
+			sub dvNga dvHalant dvGha by dvNgGha;
+			sub dvNga dvHalant dvMa by dvNgMa;
+			sub dvNga dvHalant dvYa by dvNgYa;
+			sub dvTta dvHalant dvKa by dvTtKa;
+			sub dvTta dvHalant dvYa by dvTtYa;
+			sub dvTtha dvHalant dvYa by dvTthYa;
+			sub dvTtha dvHalant dvVa by dvTthVa;
+			sub dvDda dvHalant dvKa by dvDdKa;
+			sub dvDda dvHalant dvGa by dvDdGa;
+			sub dvDda dvHalant dvTta by dvDdTta;
+			sub dvDda dvHalant dvYa by dvDdYa;
+			sub dvDda dvHalant dvVa by dvDdVa;
+			sub dvDdha dvHalant dvYa by dvDdhYa;
+			sub dvDdha dvHalant dvVa by dvDdhVa;
+			
+			sub dvC dvCha dvHalant dvVa by dvCChVa;
+			sub dvCha dvHalant dvYa by dvChYa;
+			sub dvCha dvHalant dvVa by dvChVa;
+		} CJCT;
+
+script dev2;
+	language dflt;
+		lookup CJCT;
+
+		language MAR include_dflt;
+		language NEP include_dflt;
+} cjct;
+
+feature pres {
+script DFLT;
+	language dflt;
+		lookup PRES {
+			lookupflag IgnoreMarks;
+
+			sub dvK dvS dvP dvLa by dvKSPLa;
+			sub dvK dvS dvP dvLa.MAR by dvKSPLa.MAR;
+			sub dvN dvS dvM dvYa by dvNSMYa;
+			sub dvT dvS dvN dvYa by dvTSNYa;
+			
+			sub dvTR dvYa by dvTRYa;
+			sub dvP dvTtYa by dvPTtYa;
+			sub dvP dvTthYa by dvPTthYa;
+			sub dvSs dvTtYa by dvSsTtYa;
+			sub dvSs dvTthYa by dvSsTthYa;
+
+			sub dvB dvDh dvVa by dvBDhVa;
+			sub dvB dvJ dvYa by dvBJYa;
+			sub dvB dvL dvYa by dvBLYa;
+			sub dvDh dvN dvYa by dvDhNYa;
+			sub dvG dvBh dvYa by dvGBhYa;
+			sub dvG dvDh dvVa by dvGDhVa;
+			sub dvG dvDh dvYa by dvGDhYa;
+			sub dvG dvN dvYa by dvGNYa;
+			sub dvH dvM dvYa by dvHMYa;
+			sub dvJ dvJ dvVa by dvJJVa;
+			sub dvJ dvJ dvYa by dvJJYa;
+			sub dvK dvS dvDda by dvKSDda;
+			sub dvK dvS dvTa by dvKSTa;
+			sub dvK dvS dvTta by dvKSTta;
+			sub dvK dvT dvYa by dvKTYa;
+			sub dvK dvV dvYa by dvKVYa;
+			sub dvL dvK dvYa by dvLKYa;
+			sub dvL dvL dvYa by dvLLYa;
+			sub dvL dvTh dvYa by dvLThYa;
+			sub dvL dvV dvDda by dvLVDda;
+			sub dvM dvBh dvVa by dvMBhVa;
+			sub dvM dvBh dvYa by dvMBhYa;
+			sub dvM dvB dvYa by dvMBYa;
+			sub dvN dvBh dvVa by dvNBhVa;
+			sub dvN dvBh dvYa by dvNBhYa;
+			sub dvN dvDh dvVa by dvNDhVa;
+			sub dvN dvDh dvYa by dvNDhYa;
+			sub dvN dvJ dvYa by dvNJYa;
+			sub dvN dvM dvYa by dvNMYa;
+			sub dvN dvN dvYa by dvNNYa;
+			sub dvN dvTh dvVa by dvNThVa;
+			sub dvN dvTh dvYa by dvNThYa;
+			sub dvN dvT dvSa by dvNTSa;
+			sub dvN dvT dvYa by dvNTYa;
+			sub dvNy dvC dvYa by dvNyCYa;
+			sub dvNy dvJ dvYa by dvNyJYa;
+			sub dvP dvT dvYa by dvPTYa;
+			sub dvS dvM dvYa by dvSMYa;
+			sub dvSs dvM dvYa by dvSsMYa;
+			sub dvS dvTh dvYa by dvSThYa;
+			sub dvS dvT dvYa by dvSTYa;
+			sub dvT dvKSsa by dvTKSsa;
+			sub dvT dvK dvYa by dvTKYa;
+			sub dvT dvT dvYa by dvTTYa;
+			sub dvKSs dvM dvYa by dvKSsMYa;
+			
+			sub dvBh dvBha by dvBhBha;
+			sub dvBh dvNa by dvBhNa;
+			sub dvB dvNa by dvBNa;
+			sub dvC dvCha by dvCCha;
+			sub dvC dvDda by dvCDda;
+			sub dvC dvNa by dvCNa;
+			sub dvDh dvDha by dvDhDha;
+			sub dvDh dvNa by dvDhNa;
+			sub dvDh dvVa by dvDhVa;
+			sub dvG dvNa by dvGNa;
+			sub dvGh dvNa by dvGhNa;
+			sub dvH [dvLa dvLa.MAR] by dvHLa;
+			sub dvH dvMa by dvHMa;
+			sub dvH dvNa by dvHNa;
+			sub dvH dvNna by dvHNna;
+			sub dvH dvVa by dvHVa;
+			sub dvH dvYa by dvHYa;
+			sub dvJ dvJa by dvJJa;
+			sub dvJ dvMa by dvJMa;
+			sub dvJ dvNa by dvJNa;
+			sub dvJ dvYa by dvJYa;
+			sub dvJh dvNa by dvJhNa;
+			sub dvNy dvCa by dvNyCa;
+			sub dvNy dvJa by dvNyJa;
+			sub dvNy dvSha by dvNySha;
+			sub dvK dvCa by dvKCa;
+			sub dvK dvDda by dvKDda;
+			sub dvK dvDha by dvKDha;
+			sub dvK dvHa by dvKHa;
+			sub dvK dvNa by dvKNa;
+			sub dvK dvSha by dvKSha;
+			sub dvK dvSha.MAR by dvKSha.MAR;
+			sub dvK dvTha by dvKTha;
+			sub dvK dvYa by dvKYa;
+			sub dvKh dvNa by dvKhNa;
+			sub dvL dvBha by dvLBha;
+			sub dvL dvCa by dvLCa;
+			sub dvL dvNa by dvLNa;
+			sub dvM dvBha by dvMBha;
+			sub dvM dvDda by dvMDda;
+			sub dvM dvNa by dvMNa;
+			sub dvM dvSha by dvMSha;
+			sub dvN dvBha by dvNBha;
+			sub dvN dvCa by dvNCa;
+			sub dvN dvCha by dvNCha;
+			sub dvN dvDda by dvNDda;
+			sub dvN dvDha by dvNDha;
+			sub dvN dvGa by dvNGa;
+			sub dvN dvMa by dvNMa;
+			sub dvN dvNa by dvNNa;
+			sub dvN dvSha by dvNSha;
+			sub dvP dvDda by dvPDda;
+			sub dvP dvNa by dvPNa;
+			sub dvP dvSha by dvPSha;
+			sub dvP dvTha by dvPTha;
+			sub dvP dvTta by dvPTta;
+			sub dvP dvTtha by dvPTtha;
+			sub dvPh dvCa by dvPhCa;
+			sub dvPh dvGa by dvPhGa;
+			sub dvPh dvNa by dvPhNa;
+			sub dvPh dvSha by dvPhSha;
+			sub dvPh dvTha by dvPhTha;
+			sub dvS dvMa by dvSMa;
+			sub dvS dvNa by dvSNa;
+			sub dvSs dvTta by dvSsTta;
+			sub dvSs dvTtha by dvSsTtha;
+			sub dvSh dvCa by dvShCa;
+			sub dvSh dvNa by dvShNa;
+			sub dvSh dvVa by dvShVa;
+			sub dvTh dvDda by dvThDda;
+			sub dvTh dvNa by dvThNa;
+			sub dvTh dvTha by dvThTha;
+			sub dvT dvNya by dvTNya;
+			sub dvT dvTa by dvTTa;
+			sub dvT dvTha by dvTTha;
+			sub dvT dvNa by dvTNa;
+			sub dvT dvYa by dvTYa;
+			sub dvV dvHa by dvVHa;
+			sub dvV dvNa by dvVNa;
+			sub dvY dvDda by dvYDda;
+			sub dvY dvNa by dvYNa;
+			sub dvY dvSha by dvYSha;
+			sub dvY dvTha by dvYTha;			
+			sub dvQ dvBa by dvQBa;
+			sub dvQ dvFa by dvQFa;
+			sub dvQ dvMa by dvQMa;
+			sub dvQ dvPha by dvQPha;
+			sub dvQ dvQa by dvQQa;
+			sub dvQ dvTa by dvQTa;
+			sub dvKhh dvMa by dvKhhMa;
+			sub dvKhh dvSa by dvKhhSa;
+			sub dvKhh dvSha by dvKhhSha;
+			sub dvKhh dvTa by dvKhhTa;
+			sub dvKhh dvVa by dvKhhVa;
+			sub dvKhh dvYa by dvKhhYa;
+			sub dvZ dvYa by dvZYa;
+			sub dvZ dvZa by dvZZa;
+			sub dvF dvFa by dvFFa;
+			sub dvF dvSa by dvFSa;
+			sub dvF dvTa by dvFTa;
+			sub dvF dvZa by dvFZa;
+			
+			sub dvKSs dvMa by dvKSsMa;
+			sub dvKSs dvYa by dvKSsYa;
+			sub dvKSs dvVa by dvKSsVa;
+			sub dvJNy dvYa by dvJNyYa;
+
+			sub dvKSs dvM by dvKSsM;
+			sub dvT dvT by dvTT;
+			sub dvN dvBh by dvNBh;
+			sub dvN dvS by dvNS;
+			sub dvM dvBh by dvMBh;
+			sub dvL dvBh by dvLBh;
+		} PRES;
+		lookup PRES_CONTEXTUAL {
+			lookupflag IgnoreMarks;
+			
+			# Contextual alternates for half forms
+			sub [dvK dvPh dvQ dvF]' [dvKha dvGa dvGha dvJha.NEP dvDha dvBha dvMa dvSa] by [dvK.alt dvPh.alt dvQ.alt dvF.alt];
+		
+			sub [dvJ dvZ]' [dvKha dvGa dvTta dvTtha dvDdha dvTa dvDa dvSa] by [dvJ.alt dvZ.alt];
+			sub [dvT dvTT]' [dvDda dvNna dvPa dvPha] by [dvT.alt dvTT.alt];
+			sub [dvT dvTT]' [dvKha dvGa dvMa dvSa] by [dvT.alt1 dvTT.alt1];
+			sub dvN' [dvKha dvGha dvJha.NEP dvTta dvTtha dvDdha dvDa dvPa dvPha dvSa] by dvN.alt;
+			sub dvL' [dvKha dvGa dvJha.NEP dvBha dvMa dvLa dvSa  ] by dvL.alt;
+			sub dvL' [dvGha dvNga dvDda dvDha dvSha dvSha.MAR] by dvL.alt1;
+		} PRES_CONTEXTUAL;	
+		
+script dev2;
+	language dflt;
+		lookup PRES;
+		lookup PRES_CONTEXTUAL;
+
+		language MAR include_dflt;
+		language NEP include_dflt;
+} pres;
+
+feature rclt {
+	lookup RCLT_1 {
+		sub @dvKaAndFriends dvMatraAa [dvMatraCandraE dvAnusvara dvCandrabindu dvCandrabinduInverted]' by [dvMatraCandraE.calt dvAnusvara.calt dvCandrabindu.calt dvCandrabinduInverted.calt];
+	} RCLT_1;
+	lookup RCLT_2 {
+		lookupflag MarkAttachmentType @MK_dvMarksAbove;
+		
+		ignore sub @dvKaAndFriends @dvRephForms' dvRa [dvMatraE dvMatraAi];
+		sub @dvAllHeadlinedForms @dvRephForms' lookup RCLT_insertHeadline dvRa [dvMatraE dvMatraAi]; # !!
+	} RCLT_2;
+	lookup RCLT_3 {
+		sub @dvAllHeadlinedForms @dvPreHeadlineForms' lookup RCLT_insertHeadline;
+	} RCLT_3;
+} rclt;
+

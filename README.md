@@ -1,7 +1,7 @@
 Eczar
 =====
 
-Type family **Eczar** designed by Vaibhav Singh (@errorsinc), produced by David Březina (@MrBrezina) and published by [Rosetta Type Foundry](https://www.rosettatype.com) and Google. 
+Type family **Eczar** designed by Vaibhav Singh (@errorsinc), produced by David Březina (@MrBrezina) and published by [Rosetta Type Foundry](https://www.rosettatype.com). Big thanks to Google for their support. 
 
 Eczar started as a student project in 2010–11 during Vaibhav’s MA studies in Typeface Design at the University of Reading. Eczar was designed to bring liveliness and vigor to multi-script typesetting in Latin and Devanagari – with the intention of providing an alternative to existing designs by imparting a strong mix of personality and performance, both at text sizes and in display settings. The family offers a wide expressive range and the display qualities of the design intensify with corresponding increase in weight, making the heaviest weights best suited for headlines and display purposes.
 The family includes 5 weights in upright style. The final version will support following languages.
@@ -24,6 +24,6 @@ You can contact us at <ask@rosettatype.com>.
 
 See `LICENSE.txt` for licensing information. Essentially, the fonts and related code are licensed under [Open Font License](http://scripts.sil.org/OFL) with registered font name “Eczar”.
 
-## TODO
+## Feedback
 
-Please, be patient with us. **The fonts are not ready from our point of view.** The OT layout for Devanagari is extremely preliminary. We are on it. See `TODO.md` to see what is planned.
+We consider this a stable version. Let us know if you spot any problem. See `TODO.md` to see what is planned.

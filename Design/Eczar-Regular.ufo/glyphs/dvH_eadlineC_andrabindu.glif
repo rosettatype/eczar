@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvHeadlineCandrabindu" format="1">
+  <advance width="264"/>
+  <outline>
+    <contour>
+      <point x="284" y="538" type="line"/>
+      <point x="293" y="558" type="line"/>
+      <point x="263" y="608" type="line"/>
+      <point x="-21" y="608" type="line"/>
+      <point x="-30" y="588" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+    <component base="dvCandrabindu" xOffset="299"/>
+  </outline>
+</glyph>

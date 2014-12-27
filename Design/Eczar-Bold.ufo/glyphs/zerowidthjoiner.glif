@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zerowidthjoiner" format="1">
+  <advance width="0"/>
+  <unicode hex="200D"/>
+  <outline>
+    <contour>
+      <point x="100" y="725" type="line"/>
+      <point x="100" y="793" type="line"/>
+      <point x="-99" y="793" type="line"/>
+      <point x="-99" y="725" type="line"/>
+      <point x="-76" y="725" type="line"/>
+      <point x="-76" y="771" type="line"/>
+      <point x="77" y="771" type="line"/>
+      <point x="77" y="725" type="line"/>
+    </contour>
+  </outline>
+</glyph>

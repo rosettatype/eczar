@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="1">
+  <advance width="143"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="-170" y="18" type="line"/>
+      <point x="407" y="621" type="line"/>
+      <point x="356" y="673" type="line"/>
+      <point x="-223" y="68" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

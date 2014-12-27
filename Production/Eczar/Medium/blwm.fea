@@ -332,8 +332,4 @@
 		pos base [dvDVa_dvMatraVocalicR]  <anchor 481 -225> mark @mark_bottom;
 		pos base [dvRa_dvMatraU]  <anchor 446 4> mark @mark_bottom;
 		pos base [dvRa_dvMatraUu]  <anchor 446 4> mark @mark_bottom;
-	lookup blwm_mkmkdevanagari_bottom {
-		pos mark [dvRakar] <anchor 12 -204> mark @mark_bottom;
-		pos mark [dvRakar.small] <anchor 16 -201> mark @mark_bottom;
-	} blwm_mkmkdevanagari_bottom;
 

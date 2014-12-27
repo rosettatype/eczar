@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="1">
+  <advance width="1047"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="117" y="328"/>
+      <point x="74" y="321"/>
+      <point x="35" y="302" type="curve"/>
+      <point x="41" y="217" type="line"/>
+      <point x="947" y="217" type="line"/>
+      <point x="994" y="270" type="line"/>
+      <point x="989" y="328" type="line"/>
+      <point x="148" y="328" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="199"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="118" y="205"/>
+      <point x="140" y="233"/>
+      <point x="149" y="257" type="curve"/>
+      <point x="136" y="274"/>
+      <point x="108" y="300"/>
+      <point x="84" y="309" type="curve"/>
+      <point x="64" y="297"/>
+      <point x="43" y="269"/>
+      <point x="30" y="243" type="curve"/>
+      <point x="44" y="223"/>
+      <point x="76" y="199"/>
+      <point x="97" y="191" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvShortO" format="1">
+  <advance width="1057"/>
+  <unicode hex="0912"/>
+  <outline>
+    <component base="dvA"/>
+    <component base="dvMatraShortO" xOffset="781"/>
+    <contour>
+      <point x="1025" y="625" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="917" y="465" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

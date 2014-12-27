@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNTRa" format="1">
+  <advance width="859"/>
+  <outline>
+    <contour>
+      <point x="329" y="538" type="line"/>
+      <point x="338" y="558" type="line"/>
+      <point x="308" y="608" type="line"/>
+      <point x="-21" y="608" type="line"/>
+      <point x="-30" y="588" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="12" y="360" type="line"/>
+      <point x="35" y="301"/>
+      <point x="79" y="241"/>
+      <point x="118" y="204" type="curve"/>
+      <point x="166" y="223" type="line"/>
+      <point x="166" y="362" type="line"/>
+      <point x="99" y="407" type="line"/>
+      <point x="53" y="407" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="351" type="line"/>
+      <point x="364" y="407" type="line"/>
+      <point x="66" y="407" type="line"/>
+      <point x="97" y="331" type="line"/>
+      <point x="376" y="331" type="line"/>
+    </contour>
+    <component base="dvTRa" xOffset="295"/>
+    <contour>
+      <point x="709" y="630" type="move" name="candrabindu"/>
+    </contour>
+    <contour>
+      <point x="879" y="630" type="move" name="candrabinduCXT"/>
+    </contour>
+    <contour>
+      <point x="724" y="630" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="724" y="468" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="674" y="5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

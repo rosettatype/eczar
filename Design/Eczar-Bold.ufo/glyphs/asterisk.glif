@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="418"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="16" y="651" type="line"/>
+      <point x="132" y="584" type="line"/>
+      <point x="162" y="639" type="line"/>
+      <point x="69" y="775" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="784" type="line"/>
+      <point x="152" y="653" type="line"/>
+      <point x="214" y="640" type="line"/>
+      <point x="316" y="769" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="668" type="line"/>
+      <point x="228" y="653" type="line"/>
+      <point x="237" y="592" type="line"/>
+      <point x="390" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="461" type="line"/>
+      <point x="255" y="584" type="line"/>
+      <point x="198" y="558" type="line"/>
+      <point x="192" y="394" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="454" type="line"/>
+      <point x="196" y="543" type="line"/>
+      <point x="154" y="589" type="line"/>
+      <point x="-4" y="547" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

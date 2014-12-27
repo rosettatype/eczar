@@ -67,6 +67,17 @@ feature locl {
 		language MAR;
 			sub dvLa by dvLa.MAR;
 			sub dvSha by dvSha.MAR;
+	script latn;
+		language ROM;
+			sub Scedilla by Scommaaccent;
+			sub scedilla by scommaaccent;
+			sub Tcedilla by Tcommaaccent;
+			sub tcedilla by tcommaaccent;
+		language MOL;
+			sub Scedilla by Scommaaccent;
+			sub scedilla by scommaaccent;
+			sub Tcedilla by Tcommaaccent;
+			sub tcedilla by tcommaaccent;
 } locl;
 
 

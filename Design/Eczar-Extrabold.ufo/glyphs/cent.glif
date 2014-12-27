@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="1">
+  <advance width="495"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="218" y="469" type="line"/>
+      <point x="328" y="469" type="line"/>
+      <point x="328" y="597" type="line"/>
+      <point x="218" y="597" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="-117" type="line"/>
+      <point x="328" y="-117" type="line"/>
+      <point x="328" y="11" type="line"/>
+      <point x="218" y="11" type="line"/>
+    </contour>
+    <component base="c" yOffset="15" yScale="0.945"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

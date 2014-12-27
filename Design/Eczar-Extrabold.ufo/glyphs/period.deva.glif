@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.deva" format="1">
+  <advance width="320"/>
+  <outline>
+    <contour>
+      <point x="263" y="-19"/>
+      <point x="303" y="33"/>
+      <point x="320" y="77" type="curve"/>
+      <point x="296" y="109"/>
+      <point x="245" y="155"/>
+      <point x="201" y="173" type="curve"/>
+      <point x="163" y="151"/>
+      <point x="125" y="99"/>
+      <point x="101" y="51" type="curve"/>
+      <point x="127" y="15"/>
+      <point x="186" y="-29"/>
+      <point x="225" y="-45" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

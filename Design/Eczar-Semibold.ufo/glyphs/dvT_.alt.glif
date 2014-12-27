@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvT.alt" format="1">
+  <advance width="317"/>
+  <outline>
+    <contour>
+      <point x="482" y="337" type="line"/>
+      <point x="420" y="433" type="line"/>
+      <point x="248" y="433" type="line" smooth="yes"/>
+      <point x="101" y="433"/>
+      <point x="32" y="354"/>
+      <point x="32" y="265" type="curve" smooth="yes"/>
+      <point x="32" y="169"/>
+      <point x="112" y="66"/>
+      <point x="226" y="-43" type="curve"/>
+      <point x="293" y="16" type="line"/>
+      <point x="202" y="106"/>
+      <point x="168" y="166"/>
+      <point x="168" y="214" type="curve" smooth="yes"/>
+      <point x="168" y="273"/>
+      <point x="219" y="302"/>
+      <point x="286" y="302" type="curve" smooth="yes"/>
+      <point x="465" y="302" type="line"/>
+    </contour>
+    <contour>
+      <point x="423" y="538" type="line"/>
+      <point x="440" y="573" type="line"/>
+      <point x="393" y="639" type="line"/>
+      <point x="-31" y="639" type="line"/>
+      <point x="-48" y="605" type="line"/>
+      <point x="-1" y="538" type="line"/>
+    </contour>
+  </outline>
+</glyph>
