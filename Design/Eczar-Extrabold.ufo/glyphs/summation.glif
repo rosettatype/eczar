@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="summation" format="1">
+  <advance width="719"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="629" y="735" type="line"/>
+      <point x="30" y="735" type="line"/>
+      <point x="30" y="655" type="line"/>
+      <point x="299" y="613" type="line"/>
+      <point x="612" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="482" type="line"/>
+      <point x="620" y="533"/>
+      <point x="632" y="689"/>
+      <point x="628" y="735" type="curve"/>
+      <point x="402" y="726" type="line"/>
+      <point x="483" y="482" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="655" type="line"/>
+      <point x="229" y="236" type="line"/>
+      <point x="392" y="308" type="line"/>
+      <point x="201" y="724" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="-27" type="line"/>
+      <point x="133" y="-92" type="line"/>
+      <point x="392" y="308" type="line"/>
+      <point x="307" y="377" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="14" type="line"/>
+      <point x="46" y="-28" type="line"/>
+      <point x="46" y="-100" type="line"/>
+      <point x="657" y="-100" type="line"/>
+      <point x="640" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="-91" type="line"/>
+      <point x="656" y="-100" type="line"/>
+      <point x="660" y="-54"/>
+      <point x="648" y="102"/>
+      <point x="634" y="153" type="curve"/>
+      <point x="511" y="153" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

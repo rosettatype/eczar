@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvHeadline.dvDha" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="41" y="538" type="line"/>
+      <point x="62" y="580" type="line"/>
+      <point x="6" y="655" type="line"/>
+      <point x="-36" y="655" type="line"/>
+      <point x="-57" y="613" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

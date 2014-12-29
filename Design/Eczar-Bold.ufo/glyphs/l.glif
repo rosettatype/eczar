@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="351"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="86" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="259" y="687" type="line"/>
+      <point x="205" y="737" type="line"/>
+      <point x="86" y="684" type="line"/>
+    </contour>
+    <contour>
+      <point x="129" y="629" type="line"/>
+      <point x="205" y="666" type="line"/>
+      <point x="205" y="737" type="line"/>
+      <point x="135" y="733"/>
+      <point x="65" y="721"/>
+      <point x="7" y="700" type="curve"/>
+      <point x="12" y="650" type="line"/>
+    </contour>
+    <contour>
+      <point x="329" y="0" type="line"/>
+      <point x="331" y="49" type="line"/>
+      <point x="294" y="75"/>
+      <point x="238" y="93"/>
+      <point x="196" y="103" type="curve"/>
+      <point x="171" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="0" type="line"/>
+      <point x="134" y="83" type="line"/>
+      <point x="96" y="74"/>
+      <point x="48" y="57"/>
+      <point x="10" y="35" type="curve"/>
+      <point x="12" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="167" y="735" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="182" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="334" y="468" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNn" format="1">
+  <advance width="429"/>
+  <outline>
+    <contour>
+      <point x="470" y="538" type="line"/>
+      <point x="483" y="565" type="line"/>
+      <point x="444" y="624" type="line"/>
+      <point x="-31" y="624" type="line"/>
+      <point x="-44" y="596" type="line"/>
+      <point x="-5" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="324" y="555" type="line"/>
+      <point x="291" y="571" type="line"/>
+      <point x="291" y="300" type="line" smooth="yes"/>
+      <point x="291" y="201"/>
+      <point x="194" y="206"/>
+      <point x="165" y="248" type="curve"/>
+      <point x="165" y="497" type="line"/>
+      <point x="94" y="555" type="line"/>
+      <point x="59" y="571" type="line"/>
+      <point x="59" y="333" type="line" smooth="yes"/>
+      <point x="59" y="232"/>
+      <point x="184" y="136"/>
+      <point x="272" y="136" type="curve" smooth="yes"/>
+      <point x="332" y="136"/>
+      <point x="398" y="168"/>
+      <point x="398" y="299" type="curve" smooth="yes"/>
+      <point x="398" y="497" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

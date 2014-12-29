@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraCandraLongE" format="1">
+  <advance width="317"/>
+  <unicode hex="0955"/>
+  <outline>
+    <contour>
+      <point x="323" y="538" type="line"/>
+      <point x="332" y="558" type="line"/>
+      <point x="302" y="608" type="line"/>
+      <point x="-21" y="608" type="line"/>
+      <point x="-30" y="588" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+    <component base="dvMatraCandraE" xOffset="315"/>
+  </outline>
+</glyph>

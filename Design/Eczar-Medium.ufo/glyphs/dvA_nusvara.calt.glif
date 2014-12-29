@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAnusvara.calt" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-59" y="721"/>
+      <point x="-31" y="758"/>
+      <point x="-19" y="788" type="curve"/>
+      <point x="-36" y="809"/>
+      <point x="-71" y="842"/>
+      <point x="-101" y="854" type="curve"/>
+      <point x="-127" y="839"/>
+      <point x="-154" y="803"/>
+      <point x="-171" y="770" type="curve"/>
+      <point x="-153" y="745"/>
+      <point x="-112" y="714"/>
+      <point x="-85" y="704" type="curve"/>
+    </contour>
+    <contour>
+      <point x="0" y="655" type="move" name="_bindu"/>
+    </contour>
+  </outline>
+</glyph>

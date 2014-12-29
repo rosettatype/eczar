@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="1">
+  <advance width="413"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="314" y="327"/>
+      <point x="264" y="375"/>
+      <point x="198" y="400" type="curve"/>
+      <point x="133" y="367"/>
+      <point x="89" y="314"/>
+      <point x="76" y="240" type="curve"/>
+      <point x="103" y="181"/>
+      <point x="152" y="141"/>
+      <point x="220" y="122" type="curve"/>
+      <point x="283" y="153"/>
+      <point x="322" y="200"/>
+      <point x="337" y="261" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

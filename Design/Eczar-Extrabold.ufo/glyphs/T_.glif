@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="692"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="242" y="666" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="452" y="0" type="line"/>
+      <point x="452" y="666" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="73"/>
+      <point x="175" y="54"/>
+      <point x="147" y="32" type="curve"/>
+      <point x="153" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="249" y="91" type="line"/>
+    </contour>
+    <contour>
+      <point x="403" y="0" type="line"/>
+      <point x="543" y="0" type="line"/>
+      <point x="544" y="55" type="line"/>
+      <point x="406" y="79" type="line"/>
+    </contour>
+    <contour>
+      <point x="396" y="666"/>
+      <point x="302" y="666"/>
+      <point x="7" y="672" type="curve"/>
+      <point x="24" y="558" type="line"/>
+      <point x="347" y="595" type="line"/>
+      <point x="668" y="558" type="line"/>
+      <point x="685" y="672" type="line"/>
+    </contour>
+    <contour>
+      <point x="664" y="419" type="line"/>
+      <point x="678" y="486"/>
+      <point x="690" y="626"/>
+      <point x="686" y="672" type="curve"/>
+      <point x="532" y="658" type="line"/>
+      <point x="557" y="419" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="160" y="658" type="line"/>
+      <point x="7" y="672" type="line"/>
+      <point x="2" y="626"/>
+      <point x="14" y="486"/>
+      <point x="29" y="419" type="curve"/>
+      <point x="135" y="419" type="line"/>
+    </contour>
+    <contour>
+      <point x="346" y="325" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="346" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="346" y="650" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

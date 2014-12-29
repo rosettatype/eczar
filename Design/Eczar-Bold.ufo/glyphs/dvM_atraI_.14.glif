@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraI.14" format="1">
+  <advance width="303"/>
+  <outline>
+    <contour>
+      <point x="338" y="538" type="line"/>
+      <point x="359" y="580" type="line"/>
+      <point x="303" y="655" type="line"/>
+      <point x="-36" y="655" type="line"/>
+      <point x="-57" y="613" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="19" type="line"/>
+      <point x="189" y="-43" type="line"/>
+      <point x="235" y="-21" type="line"/>
+      <point x="235" y="490" type="line"/>
+      <point x="131" y="564" type="line"/>
+      <point x="75" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="1723" y="754" type="line"/>
+      <point x="1160" y="951"/>
+      <point x="758" y="1018"/>
+      <point x="502" y="1018" type="curve" smooth="yes"/>
+      <point x="176" y="1018"/>
+      <point x="27" y="918"/>
+      <point x="27" y="785" type="curve" smooth="yes"/>
+      <point x="27" y="741"/>
+      <point x="43" y="693"/>
+      <point x="93" y="638" type="curve"/>
+      <point x="185" y="638" type="line"/>
+      <point x="173" y="662"/>
+      <point x="168" y="679"/>
+      <point x="168" y="698" type="curve" smooth="yes"/>
+      <point x="168" y="817"/>
+      <point x="333" y="885"/>
+      <point x="597" y="885" type="curve" smooth="yes"/>
+      <point x="891" y="885"/>
+      <point x="1287" y="800"/>
+      <point x="1687" y="679" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1692" y="681" type="move" name="matra"/>
+    </contour>
+    <contour>
+      <point x="1724" y="754" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

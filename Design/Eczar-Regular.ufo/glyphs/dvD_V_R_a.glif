@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDVRa" format="1">
+  <advance width="551"/>
+  <outline>
+    <contour>
+      <point x="249" y="-301" type="line"/>
+      <point x="306" y="-335" type="line"/>
+      <point x="469" y="-106" type="line"/>
+      <point x="419" y="-68" type="line" smooth="yes"/>
+    </contour>
+    <component base="dvDVa"/>
+    <contour>
+      <point x="381" y="630" type="move" name="candrabindu"/>
+    </contour>
+    <contour>
+      <point x="551" y="630" type="move" name="candrabinduCXT"/>
+    </contour>
+    <contour>
+      <point x="396" y="630" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="396" y="468" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="439" y="-286" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

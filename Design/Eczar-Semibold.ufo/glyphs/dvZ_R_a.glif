@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvZRa" format="1">
+  <advance width="719"/>
+  <outline>
+    <component base="dvJRa"/>
+    <component base="dvNukta" xOffset="494" yOffset="15"/>
+    <contour>
+      <point x="549" y="650" type="move" name="candrabindu"/>
+    </contour>
+    <contour>
+      <point x="794" y="650" type="move" name="candrabinduCXT"/>
+    </contour>
+    <contour>
+      <point x="566" y="650" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="564" y="472" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="470" y="-223" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

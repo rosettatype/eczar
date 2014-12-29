@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>735</integer>
+	<key>capHeight</key>
+	<integer>650</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2014, Vaibhav Singh (design) and Rosetta Type Foundry s.r.o. (post-production).</string>
+	<key>descender</key>
+	<integer>-265</integer>
+	<key>familyName</key>
+	<string>Eczar</string>
+	<key>license</key>
+	<string>IMPORTANT, please read our license agreement at https://github.com/rosettatype/Eczar/</string>
+	<key>licenseURL</key>
+	<string>https://github.com/rosettatype/Eczar/</string>
+	<key>openTypeHeadCreated</key>
+	<string>2014/12/24 09:45:10</string>
+	<key>openTypeNameDesigner</key>
+	<string>Vaibhav Singh</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.rosettatype.com</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Rosetta Type Foundry</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.rosettatype.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Eczar</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Medium</string>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string> RST</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>500</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-20</integer>
+		<integer>0</integer>
+		<integer>472</integer>
+		<integer>493</integer>
+		<integer>654</integer>
+		<integer>674</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-228</integer>
+		<integer>-203</integer>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>trademark</key>
+	<string>Eczar is a trademark of Vaibhav Singh.</string>
+	<key>unicodeRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>6</integer>
+		<integer>15</integer>
+		<integer>31</integer>
+		<integer>32</integer>
+		<integer>33</integer>
+		<integer>35</integer>
+	</array>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>470</integer>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvHeadline" format="1">
+  <advance width="303"/>
+  <unicode hex="A8FB"/>
+  <outline>
+    <contour>
+      <point x="338" y="538" type="line"/>
+      <point x="359" y="580" type="line"/>
+      <point x="303" y="655" type="line"/>
+      <point x="-36" y="655" type="line"/>
+      <point x="-57" y="613" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+  </outline>
+</glyph>

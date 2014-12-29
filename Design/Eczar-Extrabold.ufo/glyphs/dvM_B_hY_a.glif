@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMBhYa" format="1">
+  <advance width="1548"/>
+  <outline>
+    <contour>
+      <point x="8" y="293" type="line"/>
+      <point x="33" y="207"/>
+      <point x="153" y="97"/>
+      <point x="239" y="72" type="curve"/>
+      <point x="304" y="109" type="line"/>
+      <point x="304" y="309" type="line"/>
+      <point x="237" y="351" type="line"/>
+      <point x="44" y="351" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="538" type="line"/>
+      <point x="405" y="587" type="line"/>
+      <point x="340" y="670" type="line"/>
+      <point x="-40" y="670" type="line"/>
+      <point x="-65" y="621" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="227" type="line"/>
+      <point x="304" y="185" type="line"/>
+      <point x="304" y="486" type="line"/>
+      <point x="184" y="568" type="line"/>
+      <point x="115" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="519" y="351" type="line"/>
+      <point x="191" y="351" type="line"/>
+      <point x="222" y="195" type="line"/>
+      <point x="561" y="195" type="line"/>
+    </contour>
+    <component base="dvBh" xOffset="425"/>
+    <component base="dvYa" xOffset="867"/>
+    <contour>
+      <point x="1258" y="670" type="move" name="candrabindu"/>
+    </contour>
+    <contour>
+      <point x="1678" y="670" type="move" name="candrabinduCXT"/>
+    </contour>
+    <contour>
+      <point x="1228" y="670" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="1373" y="475" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1268" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

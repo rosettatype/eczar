@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="621"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="248" y="633" type="line"/>
+      <point x="390" y="633" type="line"/>
+      <point x="390" y="785" type="line"/>
+      <point x="248" y="785" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="-145" type="line"/>
+      <point x="391" y="35" type="line"/>
+      <point x="248" y="35" type="line"/>
+      <point x="248" y="-145" type="line"/>
+    </contour>
+    <component base="S"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

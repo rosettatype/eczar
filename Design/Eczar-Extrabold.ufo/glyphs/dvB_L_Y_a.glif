@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvBLYa" format="1">
+  <advance width="1619"/>
+  <outline>
+    <component base="dvB"/>
+    <component base="dvL.alt" xOffset="388"/>
+    <component base="dvYa" xOffset="938"/>
+    <contour>
+      <point x="1329" y="670" type="move" name="candrabindu"/>
+    </contour>
+    <contour>
+      <point x="1749" y="670" type="move" name="candrabinduCXT"/>
+    </contour>
+    <contour>
+      <point x="1299" y="670" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="1444" y="475" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1339" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

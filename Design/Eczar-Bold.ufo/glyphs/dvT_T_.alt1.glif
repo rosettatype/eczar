@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvTT.alt1" format="1">
+  <advance width="419"/>
+  <outline>
+    <contour>
+      <point x="427" y="300" type="line"/>
+      <point x="345" y="417" type="line"/>
+      <point x="10" y="417" type="line"/>
+      <point x="-12" y="375" type="line"/>
+      <point x="45" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="538" type="line"/>
+      <point x="463" y="580" type="line"/>
+      <point x="406" y="655" type="line"/>
+      <point x="-36" y="655" type="line"/>
+      <point x="-57" y="613" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="578" y="324" type="line"/>
+      <point x="511" y="386"/>
+      <point x="428" y="417"/>
+      <point x="345" y="417" type="curve" smooth="yes"/>
+      <point x="218" y="417"/>
+      <point x="114" y="346"/>
+      <point x="114" y="225" type="curve" smooth="yes"/>
+      <point x="114" y="130"/>
+      <point x="178" y="46"/>
+      <point x="297" y="-61" type="curve"/>
+      <point x="379" y="11" type="line"/>
+      <point x="303" y="81"/>
+      <point x="268" y="127"/>
+      <point x="268" y="176" type="curve" smooth="yes"/>
+      <point x="268" y="232"/>
+      <point x="313" y="267"/>
+      <point x="373" y="267" type="curve" smooth="yes"/>
+      <point x="425" y="267"/>
+      <point x="469" y="241"/>
+      <point x="523" y="190" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

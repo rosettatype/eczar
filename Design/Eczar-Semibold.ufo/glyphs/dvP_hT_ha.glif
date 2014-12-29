@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvPhTha" format="1">
+  <advance width="1268"/>
+  <outline>
+    <contour>
+      <point x="660" y="538" type="line"/>
+      <point x="677" y="573" type="line"/>
+      <point x="629" y="639" type="line"/>
+      <point x="-31" y="639" type="line"/>
+      <point x="-48" y="605" type="line"/>
+      <point x="-1" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="390" type="line" smooth="yes"/>
+      <point x="49" y="267"/>
+      <point x="196" y="135"/>
+      <point x="304" y="135" type="curve" smooth="yes"/>
+      <point x="354" y="135"/>
+      <point x="412" y="163"/>
+      <point x="454" y="238" type="curve"/>
+      <point x="377" y="347" type="line"/>
+      <point x="352" y="283"/>
+      <point x="306" y="251"/>
+      <point x="256" y="251" type="curve" smooth="yes"/>
+      <point x="227" y="251"/>
+      <point x="203" y="264"/>
+      <point x="189" y="285" type="curve"/>
+      <point x="189" y="493" type="line"/>
+      <point x="100" y="560" type="line"/>
+      <point x="49" y="581" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="14" type="line"/>
+      <point x="440" y="-40" type="line"/>
+      <point x="479" y="-23" type="line"/>
+      <point x="479" y="493" type="line"/>
+      <point x="390" y="560" type="line"/>
+      <point x="344" y="581" type="line"/>
+    </contour>
+    <contour>
+      <point x="749" y="326" type="line"/>
+      <point x="720" y="384"/>
+      <point x="664" y="428"/>
+      <point x="599" y="428" type="curve" smooth="yes"/>
+      <point x="510" y="428"/>
+      <point x="435" y="344"/>
+      <point x="390" y="268" type="curve"/>
+      <point x="435" y="155" type="line"/>
+      <point x="493" y="235"/>
+      <point x="576" y="305"/>
+      <point x="626" y="305" type="curve" smooth="yes"/>
+      <point x="652" y="305"/>
+      <point x="671" y="289"/>
+      <point x="683" y="265" type="curve"/>
+    </contour>
+    <component base="dvTha" xOffset="614"/>
+    <contour>
+      <point x="1098" y="650" type="move" name="candrabindu"/>
+    </contour>
+    <contour>
+      <point x="1343" y="650" type="move" name="candrabinduCXT"/>
+    </contour>
+    <contour>
+      <point x="1116" y="650" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="1113" y="472" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1036" y="3" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

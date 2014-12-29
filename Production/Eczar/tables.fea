@@ -1,0 +1,82 @@
+#----------------------------------------------------------------------------
+# Tables
+
+table BASE {
+	HorizAxis.BaseTagList	ideo romn;
+	HorizAxis.BaseScriptList 
+		DFLT	romn	-700 0,
+		dev2	romn	-700 0,
+		latn	romn	-700 0;
+} BASE;
+
+include(../../version.fea);
+
+table OS/2 {
+	FSType					4;
+	Panose					2 0 6 3 4 3 0 0 0 4;
+	UnicodeRange		0		# Basic Latin
+									1		# Latin-1 Supplement
+									2		# Latin Extended-A
+									3		# Latin Extended-B
+									6		# Combining Diacritical Marks
+									15	# Devanagari	0900-097F
+									31	# General Punctuation
+									32	# Superscripts And Subscripts
+									33	# Currency Symbols
+									35	# Letterlike Symbols
+									;
+	CodePageRange 1252	# Latin 1
+								;
+	winAscent				1288;
+	winDescent			960;
+	TypoAscender		1188;
+	TypoDescender		-860;
+	TypoLineGap			200;
+	XHeight					470;		# differs from weight to weight
+	CapHeight				650;
+	#WeightClass;
+	WidthClass			5;	# Medium/Normal
+	Vendor					" RST";
+} OS/2;
+
+table hhea {
+	#CaretOffset -50;
+	Ascender 1288;
+	Descender -960;
+	LineGap 0;
+} hhea;
+
+table name {
+	nameid 0 "Copyright (c) 2014, Vaibhav Singh (design) and Rosetta Type Foundry s.r.o. (post-production).";
+	nameid 0 1 "Copyright (c) 2014, Vaibhav Singh (design) and Rosetta Type Foundry s.r.o. (post-production).";
+	nameid 7 "Eczar is a trademark of Vaibhav Singh";
+	nameid 7 "Eczar is a trademark of Vaibhav Singh";
+	nameid 8 "Rosetta Type Foundry";
+	nameid 8 1 "Rosetta Type Foundry";
+	nameid 9 "Vaibhav Singh";
+	nameid 9 1 "Vaibhav Singh";
+	nameid 11 "http://rosettatype.com";
+	nameid 11 1 "http://rosettatype.com";
+	nameid 12 "http://rosettatype.com";
+	nameid 12 1 "http://rosettatype.com";
+	nameid 13 "IMPORTANT, please read our license agreement at https://github.com/rosettatype/Eczar/";
+	nameid 13 1 "IMPORTANT, please read our license agreement at https://github.com/rosettatype/Eczar/";
+	nameid 14 "https://github.com/rosettatype/Eczar/";
+	nameid 14 1 "https://github.com/rosettatype/Eczar/";
+} name;
+
+table GDEF {
+	include(gdef.fea);
+} GDEF;
+
+
+#----------------------------------------------------------------------------
+# Language systems
+
+languagesystem DFLT dflt;
+languagesystem dev2 dflt;
+languagesystem dev2 MAR;
+languagesystem dev2 NEP;
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;

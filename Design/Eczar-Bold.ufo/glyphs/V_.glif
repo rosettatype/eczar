@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="1">
+  <advance width="724"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="46" y="662" type="line"/>
+      <point x="286" y="-16" type="line"/>
+      <point x="344" y="-13"/>
+      <point x="402" y="-7"/>
+      <point x="448" y="1" type="curve"/>
+      <point x="397" y="122" type="line"/>
+      <point x="371" y="123" type="line"/>
+      <point x="358" y="260" type="line"/>
+      <point x="231" y="662" type="line"/>
+    </contour>
+    <contour>
+      <point x="-2" y="662" type="line"/>
+      <point x="-3" y="609" type="line"/>
+      <point x="135" y="587" type="line"/>
+      <point x="138" y="662" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="1" type="line"/>
+      <point x="675" y="662" type="line"/>
+      <point x="557" y="662" type="line"/>
+      <point x="350" y="36" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="662" type="line"/>
+      <point x="236" y="577" type="line"/>
+      <point x="273" y="593"/>
+      <point x="307" y="610"/>
+      <point x="335" y="630" type="curve"/>
+      <point x="329" y="662" type="line"/>
+    </contour>
+    <contour>
+      <point x="448" y="662" type="line"/>
+      <point x="447" y="609" type="line"/>
+      <point x="585" y="587" type="line"/>
+      <point x="588" y="662" type="line"/>
+    </contour>
+    <contour>
+      <point x="618" y="662" type="line"/>
+      <point x="627" y="577" type="line"/>
+      <point x="664" y="593"/>
+      <point x="698" y="610"/>
+      <point x="726" y="630" type="curve"/>
+      <point x="720" y="662" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

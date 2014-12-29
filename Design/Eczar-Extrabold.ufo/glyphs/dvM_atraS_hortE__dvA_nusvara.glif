@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraShortE_dvAnusvara" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="dvMatraShortE"/>
+    <component base="dvAnusvara" xOffset="11"/>
+    <contour>
+      <point x="-165" y="475" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,75 @@
+; Adobe Latin Font Conversion Database
+;
+; Pattern	Description                 name table name id      
+; --------  -------------------------- ---------------------
+; f=        Preferred Family             16 (Preferred Family)
+; s=        Subfamily                    17 (Preferred Subfamily)
+; l=        Compatible family            1 (Family) 
+; m=1,      Mac Compatible Full Name.    18 (Mac Compatible Full)
+;
+
+[Eczar-Regular]
+	f=Eczar
+	s=Regular
+	f=3,1,0x0439,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x0439,Regular
+	f=3,1,0x044E,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x044E,Regular
+	f=3,1,0x0461,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x0461,Regular
+	
+[Eczar-Medium]
+	f=Eczar
+	s=Medium
+	l=Eczar Me
+	m=1,Eczar Me
+	f=3,1,0x0439,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x0439,Medium
+	l=3,1,0x0439,\090F\0915\094D\091C\093C\0930 Me
+	f=3,1,0x044E,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x044E,Medium
+	l=3,1,0x044E,\090F\0915\094D\091C\093C\0930 Me
+	f=3,1,0x0461,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x0461,Medium
+	l=3,1,0x0461,\090F\0915\094D\091C\093C\0930 Me
+
+[Eczar-Semibold]
+	f=Eczar
+	s=Semibold
+	l=Eczar Sb
+	m=1,Eczar Sb
+	f=3,1,0x0439,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x0439,Semibold
+	l=3,1,0x0439,\090F\0915\094D\091C\093C\0930 Sb
+	f=3,1,0x044E,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x044E,Semibold
+	l=3,1,0x044E,\090F\0915\094D\091C\093C\0930 Sb
+	f=3,1,0x0461,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x0461,Semibold
+	l=3,1,0x0461,\090F\0915\094D\091C\093C\0930 Sb
+
+[Eczar-Bold]
+	f=Eczar
+	s=Bold
+	f=3,1,0x0439,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x0439,Bold
+	f=3,1,0x044E,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x044E,Bold
+	f=3,1,0x0461,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x0461,Bold
+	
+[Eczar-Extrabold]
+	f=Eczar
+	s=Extrabold
+	f=3,1,0x0439,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x0439,Extrabold
+	l=3,1,0x0439,\090F\0915\094D\091C\093C\0930 Eb
+	f=3,1,0x044E,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x044E,Extrabold
+	l=3,1,0x044E,\090F\0915\094D\091C\093C\0930 Eb
+	f=3,1,0x0461,\090F\0915\094D\091C\093C\0930
+	s=3,1,0x0461,Extrabold
+	l=3,1,0x0461,\090F\0915\094D\091C\093C\0930 Eb
+	
+	l=Eczar Eb
+	m=1,Eczar Eb

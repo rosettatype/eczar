@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvE" format="1">
+  <advance width="604"/>
+  <unicode hex="090F"/>
+  <outline>
+    <contour>
+      <point x="384" y="272" type="line"/>
+      <point x="320" y="223" type="line"/>
+      <point x="397" y="117" type="line"/>
+      <point x="494" y="160"/>
+      <point x="544" y="205"/>
+      <point x="544" y="340" type="curve" smooth="yes"/>
+      <point x="544" y="490" type="line"/>
+      <point x="439" y="565" type="line"/>
+      <point x="384" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="639" y="538" type="line"/>
+      <point x="660" y="580" type="line"/>
+      <point x="604" y="655" type="line"/>
+      <point x="-36" y="655" type="line"/>
+      <point x="-57" y="613" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="581" y="-229" type="line"/>
+      <point x="613" y="-197"/>
+      <point x="629" y="-156"/>
+      <point x="629" y="-117" type="curve" smooth="yes"/>
+      <point x="629" y="-44"/>
+      <point x="570" y="6"/>
+      <point x="414" y="80" type="curve" smooth="yes"/>
+      <point x="211" y="178" type="line"/>
+      <point x="211" y="490" type="line"/>
+      <point x="106" y="565" type="line"/>
+      <point x="49" y="589" type="line"/>
+      <point x="49" y="299" type="line"/>
+      <point x="49" y="185"/>
+      <point x="118" y="107"/>
+      <point x="212" y="61" type="curve" smooth="yes"/>
+      <point x="414" y="-37" type="line" smooth="yes"/>
+      <point x="473" y="-68"/>
+      <point x="483" y="-101"/>
+      <point x="436" y="-164" type="curve"/>
+    </contour>
+    <contour>
+      <point x="301" y="660" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="316" y="660" type="move" name="candrabindu"/>
+    </contour>
+  </outline>
+</glyph>

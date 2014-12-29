@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvZ.alt" format="1">
+  <advance width="481"/>
+  <outline>
+    <component base="dvJ.alt"/>
+    <component base="dvNukta" xOffset="317" yOffset="24"/>
+  </outline>
+</glyph>

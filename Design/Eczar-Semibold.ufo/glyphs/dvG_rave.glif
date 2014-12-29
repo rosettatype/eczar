@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvGrave" format="1">
+  <advance width="0"/>
+  <unicode hex="0953"/>
+  <outline>
+    <contour>
+      <point x="-278" y="922" type="line"/>
+      <point x="-323" y="871" type="line"/>
+      <point x="-154" y="701" type="line"/>
+      <point x="-123" y="701" type="line"/>
+      <point x="-80" y="752" type="line"/>
+      <point x="-247" y="922" type="line"/>
+    </contour>
+    <contour>
+      <point x="-182" y="472" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>
