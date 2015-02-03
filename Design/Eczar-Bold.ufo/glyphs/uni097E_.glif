@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni097E" format="1">
+  <advance width="621"/>
+  <unicode hex="097E"/>
+  <outline>
+    <contour>
+      <point x="590" y="-220" type="line"/>
+      <point x="611" y="-178" type="line"/>
+      <point x="555" y="-104" type="line"/>
+      <point x="102" y="-104" type="line"/>
+      <point x="81" y="-145" type="line"/>
+      <point x="137" y="-220" type="line"/>
+    </contour>
+    <component base="uni0921"/>
+    <contour>
+      <point x="423" y="660" type="move" name="candrabindu"/>
+    </contour>
+    <contour>
+      <point x="701" y="660" type="move" name="candrabinduCXT"/>
+    </contour>
+    <contour>
+      <point x="440" y="660" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="456" y="473" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="300" y="-236" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -2,8 +2,8 @@
 <glyph name="dvFSa" format="1">
   <advance width="1482"/>
   <outline>
-    <component base="dvF"/>
-    <component base="dvSa" xOffset="673"/>
+    <component base="uni095E094D"/>
+    <component base="uni0938" xOffset="673"/>
     <contour>
       <point x="1162" y="670" type="move" name="candrabindu"/>
     </contour>
@@ -20,4 +20,19 @@
       <point x="1202" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0938</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -44,8 +44,8 @@
       <point x="709" y="322"/>
       <point x="739" y="286" type="curve"/>
     </contour>
-    <component base="dvJ"/>
-    <component base="dvVa" xOffset="674"/>
+    <component base="uni091C094D"/>
+    <component base="uni0935" xOffset="674"/>
     <contour>
       <point x="1089" y="630" type="move" name="candrabindu"/>
     </contour>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni095B094D" format="1">
+  <advance width="462"/>
+  <outline>
+    <component base="uni091C094D"/>
+    <component base="uni093C" xOffset="311" yOffset="76"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni093C</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

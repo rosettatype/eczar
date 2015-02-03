@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni093F.2" format="1">
+  <advance width="303"/>
+  <outline>
+    <contour>
+      <point x="338" y="538" type="line"/>
+      <point x="359" y="580" type="line"/>
+      <point x="303" y="655" type="line"/>
+      <point x="-36" y="655" type="line"/>
+      <point x="-57" y="613" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="19" type="line"/>
+      <point x="189" y="-43" type="line"/>
+      <point x="235" y="-21" type="line"/>
+      <point x="235" y="490" type="line"/>
+      <point x="131" y="564" type="line"/>
+      <point x="75" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="692" y="732" type="line"/>
+      <point x="501" y="928"/>
+      <point x="370" y="998"/>
+      <point x="246" y="998" type="curve" smooth="yes"/>
+      <point x="111" y="998"/>
+      <point x="12" y="920"/>
+      <point x="12" y="804" type="curve" smooth="yes"/>
+      <point x="12" y="741"/>
+      <point x="40" y="686"/>
+      <point x="94" y="638" type="curve"/>
+      <point x="186" y="638" type="line"/>
+      <point x="161" y="672"/>
+      <point x="152" y="703"/>
+      <point x="152" y="731" type="curve" smooth="yes"/>
+      <point x="152" y="802"/>
+      <point x="213" y="854"/>
+      <point x="302" y="854" type="curve" smooth="yes"/>
+      <point x="406" y="854"/>
+      <point x="508" y="781"/>
+      <point x="634" y="672" type="curve"/>
+    </contour>
+    <contour>
+      <point x="661" y="681" type="move" name="matra"/>
+    </contour>
+    <contour>
+      <point x="692" y="732" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

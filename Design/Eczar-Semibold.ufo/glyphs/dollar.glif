@@ -23,6 +23,10 @@
       <integer>3</integer>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>S</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>S</string>
     </dict>
   </lib>
 </glyph>

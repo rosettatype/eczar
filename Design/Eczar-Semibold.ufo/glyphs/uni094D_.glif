@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni094D" format="1">
+  <advance width="0"/>
+  <unicode hex="094D"/>
+  <outline>
+    <contour>
+      <point x="108" y="-272" type="line"/>
+      <point x="-29" y="-142" type="line" smooth="yes"/>
+      <point x="-83" y="-91"/>
+      <point x="-119" y="-74"/>
+      <point x="-161" y="-74" type="curve" smooth="yes"/>
+      <point x="-203" y="-74"/>
+      <point x="-248" y="-91"/>
+      <point x="-298" y="-131" type="curve"/>
+      <point x="-216" y="-214" type="line"/>
+      <point x="-121" y="-167" type="line"/>
+      <point x="57" y="-326" type="line"/>
+    </contour>
+    <contour>
+      <point x="-176" y="-10" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

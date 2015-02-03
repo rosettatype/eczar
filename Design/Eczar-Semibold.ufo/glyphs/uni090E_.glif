@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni090E" format="1">
+  <advance width="588"/>
+  <unicode hex="090E"/>
+  <outline>
+    <component base="uni090F"/>
+    <component base="uni0946" xOffset="575"/>
+    <contour>
+      <point x="560" y="640" type="move" name="bindu"/>
+    </contour>
+  </outline>
+</glyph>

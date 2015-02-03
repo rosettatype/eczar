@@ -2,7 +2,7 @@
 <glyph name="four.dnom" format="1">
   <advance width="316"/>
   <outline>
-    <component base="foursuperior" yOffset="-421"/>
+    <component base="uni2074" yOffset="-421"/>
   </outline>
   <lib>
     <dict>

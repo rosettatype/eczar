@@ -3,7 +3,7 @@
   <advance width="1186"/>
   <outline>
     <component base="dvDVa"/>
-    <component base="dvYa.post" xOffset="537"/>
+    <component base="uni092F.post" xOffset="537"/>
     <contour>
       <point x="921" y="650" type="move" name="candrabindu"/>
     </contour>
@@ -20,4 +20,19 @@
       <point x="953" y="-33" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni092F.post</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

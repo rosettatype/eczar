@@ -44,7 +44,7 @@
       <point x="459" y="-10" type="line"/>
       <point x="415" y="-27" type="line"/>
     </contour>
-    <component base="dvI"/>
+    <component base="uni0907"/>
     <contour>
       <point x="645" y="630" type="move" name="candrabindu"/>
     </contour>

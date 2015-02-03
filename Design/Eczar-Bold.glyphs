@@ -1190,38 +1190,6 @@ name = underlinePosition;
 value = "-118";
 },
 {
-name = typoAscender;
-value = 1188;
-},
-{
-name = typoDescender;
-value = "-860";
-},
-{
-name = typoLineGap;
-value = 200;
-},
-{
-name = winAscent;
-value = 1288;
-},
-{
-name = winDescent;
-value = 960;
-},
-{
-name = hheaAscender;
-value = 1288;
-},
-{
-name = hheaDescender;
-value = "-960";
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
 name = shoulderHeight;
 value = 655;
 }
@@ -9521,6 +9489,7 @@ unicode = 00C3;
 {
 color = 3;
 glyphname = Adieresis;
+lastChange = "2015-02-03 19:10:39 +0000";
 layers = (
 {
 components = (
@@ -9530,7 +9499,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb.case;
-transform = "{1, 0, 0, 1, 354, 178}";
+transform = "{1, 0, 0, 1, 354, 177}";
 }
 );
 layerId = "3A083A2A-974B-4791-8355-BC872DC0CF17";
@@ -9809,6 +9778,7 @@ unicode = 00CA;
 {
 color = 3;
 glyphname = Edieresis;
+lastChange = "2015-02-03 19:10:39 +0000";
 layers = (
 {
 components = (
@@ -9818,7 +9788,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb.case;
-transform = "{1, 0, 0, 1, 322, 178}";
+transform = "{1, 0, 0, 1, 322, 177}";
 }
 );
 layerId = "3A083A2A-974B-4791-8355-BC872DC0CF17";
@@ -9906,6 +9876,7 @@ unicode = 00CE;
 {
 color = 3;
 glyphname = Idieresis;
+lastChange = "2015-02-03 19:10:39 +0000";
 layers = (
 {
 components = (
@@ -9915,7 +9886,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb.case;
-transform = "{1, 0, 0, 1, 200, 178}";
+transform = "{1, 0, 0, 1, 200, 177}";
 }
 );
 layerId = "3A083A2A-974B-4791-8355-BC872DC0CF17";
@@ -62796,7 +62767,7 @@ two = "-20";
 };
 manufacturer = "Rosetta Type Foundry";
 manufacturerURL = "http://www.rosettatype.com";
-unitsPerEm = 2048;
+unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;
 }

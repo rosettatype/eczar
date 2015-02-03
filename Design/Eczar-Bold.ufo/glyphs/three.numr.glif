@@ -2,7 +2,7 @@
 <glyph name="three.numr" format="1">
   <advance width="310"/>
   <outline>
-    <component base="threesuperior" xOffset="-4" yOffset="-81"/>
+    <component base="uni00B3" xOffset="-4" yOffset="-81"/>
   </outline>
   <lib>
     <dict>
@@ -10,6 +10,17 @@
       <integer>3</integer>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni00B3</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

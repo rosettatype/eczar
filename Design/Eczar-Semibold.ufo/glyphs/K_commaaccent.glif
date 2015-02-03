@@ -4,7 +4,7 @@
   <unicode hex="0136"/>
   <outline>
     <component base="K"/>
-    <component base="commaaccentcomb.case" xOffset="387"/>
+    <component base="uni0326.case" xOffset="387"/>
   </outline>
   <lib>
     <dict>
@@ -12,6 +12,8 @@
       <integer>3</integer>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>auto</string>
     </dict>
   </lib>
 </glyph>

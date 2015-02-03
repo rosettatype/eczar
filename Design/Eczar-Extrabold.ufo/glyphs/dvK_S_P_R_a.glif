@@ -2,8 +2,8 @@
 <glyph name="dvKSPRa" format="1">
   <advance width="1757"/>
   <outline>
-    <component base="dvK"/>
-    <component base="dvS" xOffset="630"/>
+    <component base="uni0915094D"/>
+    <component base="uni0938094D" xOffset="630"/>
     <component base="dvPRa" xOffset="1084"/>
     <contour>
       <point x="1447" y="670" type="move" name="candrabindu"/>
@@ -21,4 +21,19 @@
       <point x="1477" y="-40" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0938094D</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

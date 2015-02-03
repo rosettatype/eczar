@@ -101,7 +101,7 @@
       <point x="763" y="195" type="line"/>
       <point x="1082" y="195" type="line"/>
     </contour>
-    <component base="dvYa" xOffset="947"/>
+    <component base="uni092F" xOffset="947"/>
     <contour>
       <point x="1327" y="660" type="move" name="candrabindu"/>
     </contour>

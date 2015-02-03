@@ -121,7 +121,7 @@
 		pos base [gbreve]  <anchor 265 468> mark @mark_top;
 		pos base [Gcommaaccent]  <anchor 353 650> mark @mark_top <anchor 353 0> mark @mark_bottom;
 		pos base [gcommaaccent]  <anchor 265 468> mark @mark_top;
-		pos base [Imacron]  <anchor 326 0> mark @mark_ogonek <anchor 206 650> mark @mark_top;
+		pos base [Imacron]  <anchor 327 0> mark @mark_ogonek <anchor 206 650> mark @mark_top;
 		pos base [imacron]  <anchor 328 10> mark @mark_ogonek <anchor 169 468> mark @mark_top;
 		pos base [Iogonek]  <anchor 321 0> mark @mark_ogonek <anchor 200 650> mark @mark_top;
 		pos base [iogonek]  <anchor 92 0> mark @mark_ogonek;

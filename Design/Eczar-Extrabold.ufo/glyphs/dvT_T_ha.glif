@@ -32,7 +32,7 @@
       <point x="-65" y="621" type="line"/>
       <point x="0" y="538" type="line"/>
     </contour>
-    <component base="dvTha" xOffset="347"/>
+    <component base="uni0925" xOffset="347"/>
     <contour>
       <point x="848" y="670" type="move" name="candrabindu"/>
     </contour>

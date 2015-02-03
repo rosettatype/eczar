@@ -17,7 +17,7 @@
 	<key>licenseURL</key>
 	<string>https://github.com/rosettatype/Eczar/</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/12/24 09:45:10</string>
+	<string>2014/12/24 08:45:10</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vaibhav Singh</string>
 	<key>openTypeNameDesignerURL</key>
@@ -74,7 +74,7 @@
 		<integer>35</integer>
 	</array>
 	<key>unitsPerEm</key>
-	<integer>2048</integer>
+	<integer>1000</integer>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>

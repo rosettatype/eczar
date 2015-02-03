@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0959" format="1">
+  <advance width="920"/>
+  <unicode hex="0959"/>
+  <outline>
+    <component base="uni0916"/>
+    <component base="uni093C" xOffset="173" yOffset="10"/>
+    <contour>
+      <point x="550" y="670" type="move" name="candrabindu"/>
+    </contour>
+    <contour>
+      <point x="1050" y="670" type="move" name="candrabinduCXT"/>
+    </contour>
+    <contour>
+      <point x="530" y="670" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="745" y="475" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="640" y="-90" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni093C</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

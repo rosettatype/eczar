@@ -2,10 +2,10 @@
 <glyph name="dvKSPLa" format="1">
   <advance width="1972"/>
   <outline>
-    <component base="dvK"/>
-    <component base="dvS" xOffset="575"/>
-    <component base="dvP" xOffset="969"/>
-    <component base="dvLa" xOffset="1289"/>
+    <component base="uni0915094D"/>
+    <component base="uni0938094D" xOffset="575"/>
+    <component base="uni092A094D" xOffset="969"/>
+    <component base="uni0932" xOffset="1289"/>
     <contour>
       <point x="1822" y="630" type="move" name="candrabindu"/>
     </contour>
@@ -22,4 +22,19 @@
       <point x="1787" y="5" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0938094D</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

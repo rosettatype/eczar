@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni09400930094D0902.2" format="1">
+  <advance width="276"/>
+  <outline>
+    <contour>
+      <point x="260" y="682"/>
+      <point x="284" y="714"/>
+      <point x="294" y="739" type="curve"/>
+      <point x="280" y="758"/>
+      <point x="250" y="785"/>
+      <point x="224" y="795" type="curve"/>
+      <point x="201" y="782"/>
+      <point x="179" y="752"/>
+      <point x="165" y="724" type="curve"/>
+      <point x="180" y="703"/>
+      <point x="215" y="676"/>
+      <point x="238" y="668" type="curve"/>
+    </contour>
+    <component base="uni09400930094D.2"/>
+    <contour>
+      <point x="243" y="606" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="182" y="470" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

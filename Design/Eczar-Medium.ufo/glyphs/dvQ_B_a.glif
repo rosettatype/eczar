@@ -2,9 +2,9 @@
 <glyph name="dvQBa" format="1">
   <advance width="1176"/>
   <outline>
-    <component base="dvK"/>
-    <component base="dvNukta" xOffset="171" yOffset="117"/>
-    <component base="dvBa" xOffset="578"/>
+    <component base="uni0915094D"/>
+    <component base="uni093C" xOffset="171" yOffset="117"/>
+    <component base="uni092C" xOffset="578"/>
     <contour>
       <point x="1016" y="640" type="move" name="candrabindu"/>
     </contour>
@@ -21,4 +21,19 @@
       <point x="967" y="4" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni092C</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

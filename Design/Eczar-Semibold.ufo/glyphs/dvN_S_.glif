@@ -2,7 +2,22 @@
 <glyph name="dvNS" format="1">
   <advance width="718"/>
   <outline>
-    <component base="dvN.alt"/>
-    <component base="dvS" xOffset="266"/>
+    <component base="uni0928094D.alt"/>
+    <component base="uni0938094D" xOffset="266"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0938094D</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

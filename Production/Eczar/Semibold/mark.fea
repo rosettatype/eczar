@@ -123,7 +123,7 @@
 		pos base [Gcommaaccent]  <anchor 348 650> mark @mark_top <anchor 348 0> mark @mark_bottom;
 		pos base [gcommaaccent]  <anchor 261 468> mark @mark_top;
 		pos base [Imacron]  <anchor 299 1> mark @mark_ogonek <anchor 196 650> mark @mark_top;
-		pos base [imacron]  <anchor 313 10> mark @mark_ogonek <anchor 165 468> mark @mark_top;
+		pos base [imacron]  <anchor 314 10> mark @mark_ogonek <anchor 165 468> mark @mark_top;
 		pos base [Iogonek]  <anchor 291 1> mark @mark_ogonek <anchor 188 650> mark @mark_top;
 		pos base [iogonek]  <anchor 138 0> mark @mark_ogonek;
 		pos base [Idotaccent]  <anchor 291 1> mark @mark_ogonek <anchor 188 650> mark @mark_top;
@@ -136,7 +136,7 @@
 		pos base [lcommaaccent]  <anchor 158 735> mark @mark_top <anchor 172 0> mark @mark_bottom <anchor 311 468> mark @mark_topright;
 		pos base [Lcaron]  <anchor 195 650> mark @mark_top <anchor 302 0> mark @mark_bottom <anchor 527 650> mark @mark_topright;
 		pos base [lcaron]  <anchor 158 735> mark @mark_top <anchor 172 0> mark @mark_bottom <anchor 311 468> mark @mark_topright;
-		pos base [Lslash]  <anchor 213 650> mark @mark_top <anchor 320 0> mark @mark_bottom <anchor 544 650> mark @mark_topright;
+		pos base [Lslash]  <anchor 213 650> mark @mark_top <anchor 320 0> mark @mark_bottom <anchor 545 650> mark @mark_topright;
 		pos base [lslash]  <anchor 180 735> mark @mark_top <anchor 194 0> mark @mark_bottom <anchor 333 468> mark @mark_topright;
 		pos base [Nacute]  <anchor 367 650> mark @mark_top <anchor 389 0> mark @mark_bottom;
 		pos base [nacute]  <anchor 311 468> mark @mark_top <anchor 323 0> mark @mark_bottom;

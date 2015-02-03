@@ -1186,38 +1186,6 @@ name = shoulderHeight;
 value = 670;
 },
 {
-name = typoAscender;
-value = "1188";
-},
-{
-name = typoDescender;
-value = "-860";
-},
-{
-name = typoLineGap;
-value = "200";
-},
-{
-name = winAscent;
-value = "1288";
-},
-{
-name = winDescent;
-value = "960";
-},
-{
-name = hheaAscender;
-value = "1288";
-},
-{
-name = hheaDescender;
-value = "-960";
-},
-{
-name = hheaLineGap;
-value = "0";
-},
-{
 name = underlineThickness;
 value = "100";
 },
@@ -62624,7 +62592,7 @@ two = "-20";
 };
 manufacturer = "Rosetta Type Foundry";
 manufacturerURL = "http://www.rosettatype.com";
-unitsPerEm = 2048;
+unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;
 }

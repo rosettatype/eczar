@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0917" format="1">
+  <advance width="690"/>
+  <unicode hex="0917"/>
+  <outline>
+    <contour>
+      <point x="8" y="299" type="line"/>
+      <point x="36" y="213"/>
+      <point x="153" y="113"/>
+      <point x="239" y="88" type="curve"/>
+      <point x="304" y="125" type="line"/>
+      <point x="304" y="315" type="line"/>
+      <point x="237" y="357" type="line"/>
+      <point x="44" y="357" type="line"/>
+    </contour>
+    <contour>
+      <point x="434" y="23" type="line"/>
+      <point x="566" y="-46" type="line"/>
+      <point x="620" y="-19" type="line"/>
+      <point x="620" y="486" type="line"/>
+      <point x="500" y="568" type="line"/>
+      <point x="434" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="730" y="538" type="line"/>
+      <point x="755" y="587" type="line"/>
+      <point x="690" y="670" type="line"/>
+      <point x="-40" y="670" type="line"/>
+      <point x="-65" y="621" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="237" type="line"/>
+      <point x="304" y="195" type="line"/>
+      <point x="304" y="486" type="line"/>
+      <point x="184" y="568" type="line"/>
+      <point x="118" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="670" type="move" name="candrabindu"/>
+    </contour>
+    <contour>
+      <point x="820" y="670" type="move" name="candrabinduCXT"/>
+    </contour>
+    <contour>
+      <point x="370" y="670" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="515" y="475" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="410" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

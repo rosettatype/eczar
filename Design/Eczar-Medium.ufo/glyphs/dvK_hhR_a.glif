@@ -2,7 +2,7 @@
 <glyph name="dvKhhRa" format="1">
   <advance width="817"/>
   <outline>
-    <component base="dvNukta" xOffset="199" yOffset="98"/>
+    <component base="uni093C" xOffset="199" yOffset="98"/>
     <component base="dvKhRa"/>
     <contour>
       <point x="507" y="640" type="move" name="candrabindu"/>

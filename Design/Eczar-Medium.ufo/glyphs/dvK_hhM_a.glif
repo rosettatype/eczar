@@ -2,8 +2,8 @@
 <glyph name="dvKhhMa" format="1">
   <advance width="1261"/>
   <outline>
-    <component base="dvKhh"/>
-    <component base="dvMa" xOffset="617"/>
+    <component base="uni0959094D"/>
+    <component base="uni092E" xOffset="617"/>
     <contour>
       <point x="989" y="640" type="move" name="candrabindu"/>
     </contour>
@@ -20,4 +20,19 @@
       <point x="1053" y="4" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni092E</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

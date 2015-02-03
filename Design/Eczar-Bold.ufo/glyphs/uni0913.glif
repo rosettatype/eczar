@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0913" format="1">
+  <advance width="1162"/>
+  <unicode hex="0913"/>
+  <outline>
+    <component base="uni0905"/>
+    <component base="uni094B" xOffset="859"/>
+    <contour>
+      <point x="1096" y="655" type="move" name="bindu"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni094B</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

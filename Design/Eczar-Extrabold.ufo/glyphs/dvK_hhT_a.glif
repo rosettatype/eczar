@@ -2,8 +2,8 @@
 <glyph name="dvKhhTa" format="1">
   <advance width="1340"/>
   <outline>
-    <component base="dvKhh"/>
-    <component base="dvTa" xOffset="695"/>
+    <component base="uni0959094D"/>
+    <component base="uni0924" xOffset="695"/>
     <contour>
       <point x="1150" y="670" type="move" name="candrabindu"/>
     </contour>

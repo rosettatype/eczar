@@ -27,3 +27,9 @@ See `LICENSE.txt` for licensing information. Essentially, the fonts and related 
 ## Feedback
 
 We consider this a stable version. Let us know if you spot any problem. See `TODO.md` to see what is planned.
+
+## Changelog
+
+### Version 1.100 – 3 February
+
+Updated metrics according to Google’s requirements.

@@ -4,9 +4,9 @@
 table BASE {
 	HorizAxis.BaseTagList	ideo romn;
 	HorizAxis.BaseScriptList 
-		DFLT	romn	-700 0,
-		dev2	romn	-700 0,
-		latn	romn	-700 0;
+		DFLT	romn	-175 0,
+		dev2	romn	-175 0,
+		latn	romn	-175 0;
 } BASE;
 
 include(../../version.fea);
@@ -27,10 +27,10 @@ table OS/2 {
 									;
 	CodePageRange 1252	# Latin 1
 								;
-	winAscent				1288;
-	winDescent			960;
-	TypoAscender		1188;
-	TypoDescender		-860;
+	winAscent				1100;
+	winDescent			500;
+	TypoAscender		1000;
+	TypoDescender		-400;
 	TypoLineGap			200;
 	XHeight					470;		# differs from weight to weight
 	CapHeight				650;
@@ -41,8 +41,8 @@ table OS/2 {
 
 table hhea {
 	#CaretOffset -50;
-	Ascender 1288;
-	Descender -960;
+	Ascender 1100;
+	Descender -500;
 	LineGap 0;
 } hhea;
 

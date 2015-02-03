@@ -29,7 +29,7 @@
       <point x="415" y="105"/>
       <point x="450" y="134" type="curve"/>
     </contour>
-    <component base="dvSha" xOffset="261"/>
+    <component base="uni0936" xOffset="261"/>
     <contour>
       <point x="765" y="660" type="move" name="candrabindu"/>
     </contour>
@@ -46,4 +46,19 @@
       <point x="833" y="-82" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni0936</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,4 +1,5 @@
 
+	script dev2;
 		lookupflag IgnoreMarks;
 		pos dvDh dvCha -60;
 		pos dvDh dvCa -90;
@@ -904,7 +905,6 @@
 		pos dvTh @MMK_R_Ya -30;
 		pos dvTh @MMK_R_La -30;
 		pos dvTh @MMK_R_Ja -40;
-		pos dvTa @MMK_R_Pa 0;
 		pos dvNn @MMK_R_Ra -20;
 		pos dvNn @MMK_R_Dda -10;
 		pos dvN @MMK_R_Da -30;

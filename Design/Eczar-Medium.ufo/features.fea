@@ -6,158 +6,158 @@ languagesystem dev2 NEP;
 
 # Prefix: Lookups
 lookup ABVS_changeCandrabindu {
-	sub dvCandrabindu by dvAnusvara;
+	sub uni0901 by uni0902;
 } ABVS_changeCandrabindu;
 
 lookup ABVS_insertRephAnusvara {
-	sub dvMatraI by dvMatraI dvReph_dvAnusvara.alt;
-	sub dvMatraI.1 by dvMatraI.1 dvReph_dvAnusvara.alt;
-	sub dvMatraI.2 by dvMatraI.2 dvReph_dvAnusvara.alt;
-	sub dvMatraI.3 by dvMatraI.3 dvReph_dvAnusvara.alt;
-	sub dvMatraI.4 by dvMatraI.4 dvReph_dvAnusvara.alt;
-	sub dvMatraI.5 by dvMatraI.5 dvReph_dvAnusvara.alt;
-	sub dvMatraI.6 by dvMatraI.6 dvReph_dvAnusvara.alt;
-	sub dvMatraI.7 by dvMatraI.7 dvReph_dvAnusvara.alt;
-	sub dvMatraI.8 by dvMatraI.8 dvReph_dvAnusvara.alt;
-	sub dvMatraI.9 by dvMatraI.9 dvReph_dvAnusvara.alt;
-	sub dvMatraI.10 by dvMatraI.10 dvReph_dvAnusvara.alt;
-	sub dvMatraI.11 by dvMatraI.11 dvReph_dvAnusvara.alt;
-	sub dvMatraI.12 by dvMatraI.12 dvReph_dvAnusvara.alt;
-	sub dvMatraI.13 by dvMatraI.13 dvReph_dvAnusvara.alt;
-	sub dvMatraI.14 by dvMatraI.14 dvReph_dvAnusvara.alt;
-	sub dvMatraI.15 by dvMatraI.15 dvReph_dvAnusvara.alt;
-	sub dvMatraI.16 by dvMatraI.16 dvReph_dvAnusvara.alt;
-	sub dvMatraI.17 by dvMatraI.17 dvReph_dvAnusvara.alt;
-	sub dvMatraI.18 by dvMatraI.18 dvReph_dvAnusvara.alt;
-	sub dvMatraI.19 by dvMatraI.19 dvReph_dvAnusvara.alt;
-	sub dvMatraI.20 by dvMatraI.20 dvReph_dvAnusvara.alt;
-	sub dvMatraI.21 by dvMatraI.21 dvReph_dvAnusvara.alt;
+	sub uni093F by uni093F uni0930094D0902.alt;
+	sub uni093F.1 by uni093F.1 uni0930094D0902.alt;
+	sub uni093F.2 by uni093F.2 uni0930094D0902.alt;
+	sub uni093F.3 by uni093F.3 uni0930094D0902.alt;
+	sub uni093F.4 by uni093F.4 uni0930094D0902.alt;
+	sub uni093F.5 by uni093F.5 uni0930094D0902.alt;
+	sub uni093F.6 by uni093F.6 uni0930094D0902.alt;
+	sub uni093F.7 by uni093F.7 uni0930094D0902.alt;
+	sub uni093F.8 by uni093F.8 uni0930094D0902.alt;
+	sub uni093F.9 by uni093F.9 uni0930094D0902.alt;
+	sub uni093F.10 by uni093F.10 uni0930094D0902.alt;
+	sub uni093F.11 by uni093F.11 uni0930094D0902.alt;
+	sub uni093F.12 by uni093F.12 uni0930094D0902.alt;
+	sub uni093F.13 by uni093F.13 uni0930094D0902.alt;
+	sub uni093F.14 by uni093F.14 uni0930094D0902.alt;
+	sub uni093F.15 by uni093F.15 uni0930094D0902.alt;
+	sub uni093F.16 by uni093F.16 uni0930094D0902.alt;
+	sub uni093F.17 by uni093F.17 uni0930094D0902.alt;
+	sub uni093F.18 by uni093F.18 uni0930094D0902.alt;
+	sub uni093F.19 by uni093F.19 uni0930094D0902.alt;
+	sub uni093F.20 by uni093F.20 uni0930094D0902.alt;
+	sub uni093F.21 by uni093F.21 uni0930094D0902.alt;
 } ABVS_insertRephAnusvara;
 
 lookup ABVS_insertReph {
-	sub dvMatraI by dvMatraI dvReph.alt;
-	sub dvMatraI.1 by dvMatraI.1 dvReph.alt;
-	sub dvMatraI.2 by dvMatraI.2 dvReph.alt;
-	sub dvMatraI.3 by dvMatraI.3 dvReph.alt;
-	sub dvMatraI.4 by dvMatraI.4 dvReph.alt;
-	sub dvMatraI.5 by dvMatraI.5 dvReph.alt;
-	sub dvMatraI.6 by dvMatraI.6 dvReph.alt;
-	sub dvMatraI.7 by dvMatraI.7 dvReph.alt;
-	sub dvMatraI.8 by dvMatraI.8 dvReph.alt;
-	sub dvMatraI.9 by dvMatraI.9 dvReph.alt;
-	sub dvMatraI.10 by dvMatraI.10 dvReph.alt;
-	sub dvMatraI.11 by dvMatraI.11 dvReph.alt;
-	sub dvMatraI.12 by dvMatraI.12 dvReph.alt;
-	sub dvMatraI.13 by dvMatraI.13 dvReph.alt;
-	sub dvMatraI.14 by dvMatraI.14 dvReph.alt;
-	sub dvMatraI.15 by dvMatraI.15 dvReph.alt;
-	sub dvMatraI.16 by dvMatraI.16 dvReph.alt;
-	sub dvMatraI.17 by dvMatraI.17 dvReph.alt;
-	sub dvMatraI.18 by dvMatraI.18 dvReph.alt;
-	sub dvMatraI.19 by dvMatraI.19 dvReph.alt;
-	sub dvMatraI.20 by dvMatraI.20 dvReph.alt;
-	sub dvMatraI.21 by dvMatraI.21 dvReph.alt;
+	sub uni093F by uni093F uni0930094D.alt;
+	sub uni093F.1 by uni093F.1 uni0930094D.alt;
+	sub uni093F.2 by uni093F.2 uni0930094D.alt;
+	sub uni093F.3 by uni093F.3 uni0930094D.alt;
+	sub uni093F.4 by uni093F.4 uni0930094D.alt;
+	sub uni093F.5 by uni093F.5 uni0930094D.alt;
+	sub uni093F.6 by uni093F.6 uni0930094D.alt;
+	sub uni093F.7 by uni093F.7 uni0930094D.alt;
+	sub uni093F.8 by uni093F.8 uni0930094D.alt;
+	sub uni093F.9 by uni093F.9 uni0930094D.alt;
+	sub uni093F.10 by uni093F.10 uni0930094D.alt;
+	sub uni093F.11 by uni093F.11 uni0930094D.alt;
+	sub uni093F.12 by uni093F.12 uni0930094D.alt;
+	sub uni093F.13 by uni093F.13 uni0930094D.alt;
+	sub uni093F.14 by uni093F.14 uni0930094D.alt;
+	sub uni093F.15 by uni093F.15 uni0930094D.alt;
+	sub uni093F.16 by uni093F.16 uni0930094D.alt;
+	sub uni093F.17 by uni093F.17 uni0930094D.alt;
+	sub uni093F.18 by uni093F.18 uni0930094D.alt;
+	sub uni093F.19 by uni093F.19 uni0930094D.alt;
+	sub uni093F.20 by uni093F.20 uni0930094D.alt;
+	sub uni093F.21 by uni093F.21 uni0930094D.alt;
 } ABVS_insertReph;
 
 lookup ABVS_insertAnusvara {
-	sub dvMatraI by dvMatraI dvAnusvara.alt;
-	sub dvMatraI.1 by dvMatraI.1 dvAnusvara.alt;
-	sub dvMatraI.2 by dvMatraI.2 dvAnusvara.alt;
-	sub dvMatraI.3 by dvMatraI.3 dvAnusvara.alt;
-	sub dvMatraI.4 by dvMatraI.4 dvAnusvara.alt;
-	sub dvMatraI.5 by dvMatraI.5 dvAnusvara.alt;
-	sub dvMatraI.6 by dvMatraI.6 dvAnusvara.alt;
-	sub dvMatraI.7 by dvMatraI.7 dvAnusvara.alt;
-	sub dvMatraI.8 by dvMatraI.8 dvAnusvara.alt;
-	sub dvMatraI.9 by dvMatraI.9 dvAnusvara.alt;
-	sub dvMatraI.10 by dvMatraI.10 dvAnusvara.alt;
-	sub dvMatraI.11 by dvMatraI.11 dvAnusvara.alt;
-	sub dvMatraI.12 by dvMatraI.12 dvAnusvara.alt;
-	sub dvMatraI.13 by dvMatraI.13 dvAnusvara.alt;
-	sub dvMatraI.14 by dvMatraI.14 dvAnusvara.alt;
-	sub dvMatraI.15 by dvMatraI.15 dvAnusvara.alt;
-	sub dvMatraI.16 by dvMatraI.16 dvAnusvara.alt;
-	sub dvMatraI.17 by dvMatraI.17 dvAnusvara.alt;
-	sub dvMatraI.18 by dvMatraI.18 dvAnusvara.alt;
-	sub dvMatraI.19 by dvMatraI.19 dvAnusvara.alt;
-	sub dvMatraI.20 by dvMatraI.20 dvAnusvara.alt;
-	sub dvMatraI.21 by dvMatraI.21 dvAnusvara.alt;
+	sub uni093F by uni093F uni0902.alt;
+	sub uni093F.1 by uni093F.1 uni0902.alt;
+	sub uni093F.2 by uni093F.2 uni0902.alt;
+	sub uni093F.3 by uni093F.3 uni0902.alt;
+	sub uni093F.4 by uni093F.4 uni0902.alt;
+	sub uni093F.5 by uni093F.5 uni0902.alt;
+	sub uni093F.6 by uni093F.6 uni0902.alt;
+	sub uni093F.7 by uni093F.7 uni0902.alt;
+	sub uni093F.8 by uni093F.8 uni0902.alt;
+	sub uni093F.9 by uni093F.9 uni0902.alt;
+	sub uni093F.10 by uni093F.10 uni0902.alt;
+	sub uni093F.11 by uni093F.11 uni0902.alt;
+	sub uni093F.12 by uni093F.12 uni0902.alt;
+	sub uni093F.13 by uni093F.13 uni0902.alt;
+	sub uni093F.14 by uni093F.14 uni0902.alt;
+	sub uni093F.15 by uni093F.15 uni0902.alt;
+	sub uni093F.16 by uni093F.16 uni0902.alt;
+	sub uni093F.17 by uni093F.17 uni0902.alt;
+	sub uni093F.18 by uni093F.18 uni0902.alt;
+	sub uni093F.19 by uni093F.19 uni0902.alt;
+	sub uni093F.20 by uni093F.20 uni0902.alt;
+	sub uni093F.21 by uni093F.21 uni0902.alt;
 } ABVS_insertAnusvara;
 
 lookup PSTS_removeMatraCandraE {
-	sub dvCandraE by dvE;
-	sub dvCandraO by dvAa;
-	sub dvCandraA by dvA;
-	sub dvMatraCandraLongE by dvHeadline;
-	sub dvMatraCandraO by dvMatraAa;
+	sub uni090D by uni090F;
+	sub uni0911 by uni0906;
+	sub uni0972 by uni0905;
+	sub uni0955 by uniA8FB;
+	sub uni0949 by uni093E;
 } PSTS_removeMatraCandraE;
 
-@dvKaAndFriends = [ dvKa dvJha.NEP dvPha dvQa dvFa dvKRa dvPhRa dvQRa dvFRa dvKNa dvPhNa dvQPha dvQQa dvQFa ];
+@dvKaAndFriends = [ uni0915 uni091D.NEP uni092B uni0958 uni095E dvKRa dvPhRa dvQRa dvFRa dvKNa dvPhNa dvQPha dvQQa dvQFa ];
 
-@dvAllHeadlinedForms = [ dvShortA dvA dvAa dvI dvIi dvU dvUu dvVocalicR dvVocalicR.ss06 dvVocalicRr dvVocalicL dvVocalicLl dvCandraE dvShortE dvE dvAi dvCandraO dvShortO dvO dvCandraA dvOE dvOOE dvAW dvUE dvUUE dvAu dvKa dvKha dvGa dvGha dvNga dvCa dvCha dvJa dvJha dvJha.NEP dvNya dvTta dvTtha dvDda dvDdha dvNna dvTa dvTha dvDa dvDha dvNa dvNnna dvPa dvPha dvBa dvBha dvMa dvYa dvRa dvRra dvLa dvLa.MAR dvLla dvLlla dvVa dvSha dvSha.MAR dvSsa dvSa dvHa dvQa dvKhha dvGhha dvZa dvDddha dvRha dvFa dvYya dvZha dvYaHeavy dvGga dvJja dvDdda dvBba dvMatraAa dvMatraI dvMatraIi dvMatraCandraO dvMatraShortO dvMatraO dvMatraAu dvMatraOOE dvMatraAW dvMatraCandraLongE dvReph.MAR dvKRa dvKRa.ss03 dvKhRa dvGRa dvGhRa dvCRa dvJRa dvJhRa dvTRa dvTRa.ss03 dvThRa dvDRa dvDhRa dvNRa dvPRa dvPhRa dvBRa dvBhRa dvMRa dvYRa dvLRa dvLRa.MAR dvVRa dvShRa dvSsRa dvSRa dvHRa dvQRa dvKhhRa dvGhhRa dvZRa dvFRa dvYyRa dvKSsRa dvKSsa dvJNya dvGRYa dvNgKRa dvChRYa dvTtTtYa dvTthTthYa dvDdDdYa dvDdhRYa dvDGRa dvDDYa dvDDRa dvDDhYa dvDBRa dvDBhYa dvDBhRa dvDRYa dvDVYa dvDVRa dvDhNYa dvDhVa dvNNYa dvPTta dvPTtha dvPTtYa dvPTthYa dvBhRYa dvShRYa dvSsTtYa dvSsTthYa dvHMYa dvHMYa.ss06 dvNgKa dvNgGa dvNgGRa dvNgGha dvNgGhRa dvNgMa dvNgYa dvTtKa dvTtTta dvTtTtha dvTtDdha dvTtYa dvTtVa dvTthTtha dvTthYa dvTthVa dvDdKa dvDdGa dvDdTta dvDdDda dvDdDdha dvDdYa dvDdVa dvDdhDdha dvDdhYa dvDdhVa dvDGa dvDGha dvDDa dvDDha dvDNa dvDBa dvDBha dvDMa dvDYa dvDVa dvHNna dvHNa dvHMa dvHYa dvHLa dvHVa dvKSsMYa dvKSPRa dvKSPLa dvKSPLa.MAR dvTSNYa dvNSMYa dvKTYa dvKTRa dvKVYa dvKSsMa dvKSsYa dvKSsVa dvKSTta dvKSDda dvKSTa dvGDhYa dvGDhVa dvGNYa dvGBhYa dvCChVa dvJJYa dvJJVa dvJNyYa dvNyCYa dvNyJYa dvTKYa dvTKSsa dvTTYa dvTRYa dvNJYa dvNTYa dvNTRa dvNTSa dvNThYa dvNThVa dvNDRa dvNDhYa dvNDhRa dvNDhVa dvNBhYa dvNBhVa dvNMYa dvPTYa dvBJYa dvBDhVa dvBBhRa dvBLYa dvMBYa dvMBhYa dvMBhRa dvMBhVa dvLKYa dvLThYa dvLLYa dvLVDda dvSsKRa dvSsMYa dvSTYa dvSTRa dvSThYa dvSMYa dvKKa.ss03 dvKCa dvKDda dvKTa.ss03 dvKTha dvKDha dvKNa dvKYa dvKVa.ss03 dvKSha dvKSha.MAR dvKHa dvKhNa dvGNa dvGhNa dvCCha dvCDda dvCNa dvChYa dvChVa dvJJa dvJNa dvJMa dvJYa dvJhNa dvNyCa dvNyJa dvNySha dvTNya dvTTa dvTTha dvTNa dvTYa dvThDda dvThTha dvThNa dvDhDha dvDhNa dvNGa dvNCa dvNCha dvNDda dvNDha dvNNa dvNBha dvNMa dvNSha dvPDda dvPTha dvPNa dvPSha dvPhGa dvPhCa dvPhTha dvPhNa dvPhSha dvBNa dvBhNa dvBhBha dvMDda dvMNa dvMBha dvMSha dvYDda dvYTha dvYNa dvYSha dvLCa dvLNa dvLBha dvVNa dvVHa dvShCa dvShNa dvShVa dvSsTta dvSsTtha dvSNa dvSMa dvQTa dvQPha dvQBa dvQMa dvQQa dvQFa dvKhhTa dvKhhMa dvKhhYa dvKhhVa dvKhhSha dvKhhSa dvZYa dvZZa dvFTa dvFSa dvFZa dvFFa dvDa_dvMatraU dvDa_dvMatraUu dvDa_dvMatraVocalicR dvDa_dvMatraVocalicR.ss06 dvDBa_dvMatraVocalicR dvDVa_dvMatraVocalicR dvRa_dvMatraU dvRa_dvMatraUu dvSha_dvMatraVocalicR dvHa_dvMatraVocalicR dvHa_dvMatraU dvHa_dvMatraUu dvHeadline dvHeadline.small dvHeadline.dvDha dvHeadline.dvKSsa dvHeadline.dvShRa dvHeadline.dvTha dvHeadlineCandrabindu dvMatraI.1 dvMatraI.2 dvMatraI.3 dvMatraI.4 dvMatraI.5 dvMatraI.6 dvMatraI.7 dvMatraI.8 dvMatraI.9 dvMatraI.10 dvMatraI.11 dvMatraI.12 dvMatraI.13 dvMatraI.14 dvMatraI.15 dvMatraI.16 dvMatraI.17 dvMatraI.18 dvMatraI.19 dvMatraI.20 dvMatraI.21 dvMatraIi.1 dvMatraIi.2 dvIi_dvAnusvara dvMatraIi_dvReph dvMatraIi_dvReph_dvAnusvara dvMatraIi_dvReph.1 dvMatraIi_dvReph_dvAnusvara.1 dvMatraIi_dvReph.2 dvMatraIi_dvReph_dvAnusvara.2 dvMatraO_dvReph dvMatraAu_dvReph dvMatraO_dvReph_dvAnusvara dvMatraAu_dvReph_dvAnusvara ];
+@dvAllHeadlinedForms = [ uni0904 uni0905 uni0906 uni0907 uni0908 uni0909 uni090A uni090B uni090B.ss06 uni0960 uni090C uni0961 uni090D uni090E uni090F uni0910 uni0911 uni0912 uni0913 uni0972 uni0973 uni0974 uni0975 uni0976 uni0977 uni0914 uni0915 uni0916 uni0917 uni0918 uni0919 uni091A uni091B uni091C uni091D uni091D.NEP uni091E uni091F uni0920 uni0921 uni0922 uni0923 uni0924 uni0925 uni0926 uni0927 uni0928 uni0929 uni092A uni092B uni092C uni092D uni092E uni092F uni0930 uni0931 uni0932 uni0932.MAR uni0933 uni0934 uni0935 uni0936 uni0936.MAR uni0937 uni0938 uni0939 uni0958 uni0959 uni095A uni095B uni095C uni095D uni095E uni095F uni0979 uni097A uni097B uni097C uni097E uni097F uni093E uni093F uni0940 uni0949 uni094A uni094B uni094C uni093B uni094F uni0955 dvReph.MAR dvKRa dvKRa.ss03 dvKhRa dvGRa dvGhRa dvCRa dvJRa dvJhRa dvTRa dvTRa.ss03 dvThRa dvDRa dvDhRa dvNRa dvPRa dvPhRa dvBRa dvBhRa dvMRa dvYRa dvLRa dvLRa.MAR dvVRa dvShRa dvSsRa dvSRa dvHRa dvQRa dvKhhRa dvGhhRa dvZRa dvFRa dvYyRa dvKSsRa dvKSsa dvJNya dvGRYa dvNgKRa dvChRYa dvTtTtYa dvTthTthYa dvDdDdYa dvDdhRYa dvDGRa dvDDYa dvDDRa dvDDhYa dvDBRa dvDBhYa dvDBhRa dvDRYa dvDVYa dvDVRa dvDhNYa dvDhVa dvNNYa dvPTta dvPTtha dvPTtYa dvPTthYa dvBhRYa dvShRYa dvSsTtYa dvSsTthYa dvHMYa dvHMYa.ss06 dvNgKa dvNgGa dvNgGRa dvNgGha dvNgGhRa dvNgMa dvNgYa dvTtKa dvTtTta dvTtTtha dvTtDdha dvTtYa dvTtVa dvTthTtha dvTthYa dvTthVa dvDdKa dvDdGa dvDdTta dvDdDda dvDdDdha dvDdYa dvDdVa dvDdhDdha dvDdhYa dvDdhVa dvDGa dvDGha dvDDa dvDDha dvDNa dvDBa dvDBha dvDMa dvDYa dvDVa dvHNna dvHNa dvHMa dvHYa dvHLa dvHVa dvKSsMYa dvKSPRa dvKSPLa dvKSPLa.MAR dvTSNYa dvNSMYa dvKTYa dvKTRa dvKVYa dvKSsMa dvKSsYa dvKSsVa dvKSTta dvKSDda dvKSTa dvGDhYa dvGDhVa dvGNYa dvGBhYa dvCChVa dvJJYa dvJJVa dvJNyYa dvNyCYa dvNyJYa dvTKYa dvTKSsa dvTTYa dvTRYa dvNJYa dvNTYa dvNTRa dvNTSa dvNThYa dvNThVa dvNDRa dvNDhYa dvNDhRa dvNDhVa dvNBhYa dvNBhVa dvNMYa dvPTYa dvBJYa dvBDhVa dvBBhRa dvBLYa dvMBYa dvMBhYa dvMBhRa dvMBhVa dvLKYa dvLThYa dvLLYa dvLVDda dvSsKRa dvSsMYa dvSTYa dvSTRa dvSThYa dvSMYa dvKKa.ss03 dvKCa dvKDda dvKTa.ss03 dvKTha dvKDha dvKNa dvKYa dvKVa.ss03 dvKSha dvKSha.MAR dvKHa dvKhNa dvGNa dvGhNa dvCCha dvCDda dvCNa dvChYa dvChVa dvJJa dvJNa dvJMa dvJYa dvJhNa dvNyCa dvNyJa dvNySha dvTNya dvTTa dvTTha dvTNa dvTYa dvThDda dvThTha dvThNa dvDhDha dvDhNa dvNGa dvNCa dvNCha dvNDda dvNDha dvNNa dvNBha dvNMa dvNSha dvPDda dvPTha dvPNa dvPSha dvPhGa dvPhCa dvPhTha dvPhNa dvPhSha dvBNa dvBhNa dvBhBha dvMDda dvMNa dvMBha dvMSha dvYDda dvYTha dvYNa dvYSha dvLCa dvLNa dvLBha dvVNa dvVHa dvShCa dvShNa dvShVa dvSsTta dvSsTtha dvSNa dvSMa dvQTa dvQPha dvQBa dvQMa dvQQa dvQFa dvKhhTa dvKhhMa dvKhhYa dvKhhVa dvKhhSha dvKhhSa dvZYa dvZZa dvFTa dvFSa dvFZa dvFFa uni09260941 uni09260942 uni09260943 uni09260943.ss06 dvDBa_dvMatraVocalicR dvDVa_dvMatraVocalicR uni09300941 uni09300942 uni09360943 uni09390943 uni09390941 uni09390942 uniA8FB uniA8FB.small uniA8FB.dvDha uniA8FB.dvKSsa uniA8FB.dvShRa uniA8FB.dvTha dvHeadlineCandrabindu uni093F.1 uni093F.2 uni093F.3 uni093F.4 uni093F.5 uni093F.6 uni093F.7 uni093F.8 uni093F.9 uni093F.10 uni093F.11 uni093F.12 uni093F.13 uni093F.14 uni093F.15 uni093F.16 uni093F.17 uni093F.18 uni093F.19 uni093F.20 uni093F.21 uni0940.1 uni0940.2 uni09080902 uni09400930094D uni09400930094D0902 uni09400930094D.1 uni09400930094D0902.1 uni09400930094D.2 uni09400930094D0902.2 uni094B0930094D uni094C0930094D uni094B0930094D0902 uni094C0930094D0902 ];
 
-@dvRephForms = [ dvReph dvReph.alt2 dvReph_dvAnusvara.alt2 dvMatraIi_dvReph dvMatraIi_dvReph_dvAnusvara dvMatraIi_dvReph.1 dvMatraIi_dvReph_dvAnusvara.1 dvMatraIi_dvReph.2 dvMatraIi_dvReph_dvAnusvara.2 dvMatraE_dvReph dvMatraE_dvReph_dvAnusvara dvMatraAi_dvReph dvMatraAi_dvReph_dvAnusvara dvMatraO_dvReph dvMatraAu_dvReph dvMatraO_dvReph_dvAnusvara dvMatraAu_dvReph_dvAnusvara ];
+@dvRephForms = [ uni0930094D uni0930094D.alt2 uni0930094D0902.alt2 uni09400930094D uni09400930094D0902 uni09400930094D.1 uni09400930094D0902.1 uni09400930094D.2 uni09400930094D0902.2 uni09470930094D uni09470930094D0902 uni09480930094D uni09480930094D0902 uni094B0930094D uni094C0930094D uni094B0930094D0902 uni094C0930094D0902 ];
 
 @dvPreHeadlineForms = [ 
 dvTha dvThRa dvThDda dvThTha dvThNa dvTh
-dvDha dvDhRa dvDhNYa dvDhVa dvDhDha dvDhNa dvDh dvDhR
+dvDha dvDhRa dvDhNYa dvDhVa dvDhDha dvDhNa uni0927094D dvDhR
 dvKSsRa dvKSsa dvKSsMYa dvKSsMa dvKSsYa dvKSsVa dvKSs dvKSsM
 dvShRa dvShRYa dvShCa dvShNa dvShVa dvShR dvSha_dvMatraVocalicR
  ];
 
 lookup RCLT_insertHeadline {
-	sub dvReph by dvReph dvHeadline.small;
+	sub uni0930094D by uni0930094D uniA8FB.small;
 
-	sub dvTha by dvHeadline.dvTha dvTha;
-	sub dvThRa by dvHeadline.dvTha dvThRa;
-	sub dvThDda by dvHeadline.dvTha dvThDda;
-	sub dvThTha by dvHeadline.dvTha dvThTha;
-	sub dvThNa by dvHeadline.dvTha dvThNa;
-	sub dvTh by dvHeadline.dvTha dvTh;
+	sub uni0925 by uniA8FB.dvTha uni0925;
+	sub dvThRa by uniA8FB.dvTha dvThRa;
+	sub dvThDda by uniA8FB.dvTha dvThDda;
+	sub dvThTha by uniA8FB.dvTha dvThTha;
+	sub dvThNa by uniA8FB.dvTha dvThNa;
+	sub uni0925094D by uniA8FB.dvTha uni0925094D;
 
-	sub dvDha by dvHeadline.dvDha dvDha;
-	sub dvDhRa by dvHeadline.dvDha dvDhRa;
-	sub dvDhNYa by dvHeadline.dvDha dvDhNYa;
-	sub dvDhVa by dvHeadline.dvDha dvDhVa;
-	sub dvDhDha by dvHeadline.dvDha dvDhDha;
-	sub dvDhNa by dvHeadline.dvDha dvDhNa;
-	sub dvDh by dvHeadline.dvDha dvDh;
-	sub dvDhR by dvHeadline.dvDha dvDhR;
+	sub uni0927 by uniA8FB.dvDha uni0927;
+	sub dvDhRa by uniA8FB.dvDha dvDhRa;
+	sub dvDhNYa by uniA8FB.dvDha dvDhNYa;
+	sub dvDhVa by uniA8FB.dvDha dvDhVa;
+	sub dvDhDha by uniA8FB.dvDha dvDhDha;
+	sub dvDhNa by uniA8FB.dvDha dvDhNa;
+	sub uni0927094D by uniA8FB.dvDha uni0927094D;
+	sub dvDhR by uniA8FB.dvDha dvDhR;
 
-	sub dvKSsRa by dvHeadline.dvKSsa dvKSsRa;
-	sub dvKSsa by dvHeadline.dvKSsa dvKSsa;
-	sub dvKSsMYa by dvHeadline.dvKSsa dvKSsMYa;
-	sub dvKSsMa by dvHeadline.dvKSsa dvKSsMa;
-	sub dvKSsYa by dvHeadline.dvKSsa dvKSsYa;
-	sub dvKSsVa by dvHeadline.dvKSsa dvKSsVa;
-	sub dvKSs by dvHeadline.dvKSsa dvKSs;
-	sub dvKSsM by dvHeadline.dvKSsa dvKSsM;
+	sub dvKSsRa by uniA8FB.dvKSsa dvKSsRa;
+	sub dvKSsa by uniA8FB.dvKSsa dvKSsa;
+	sub dvKSsMYa by uniA8FB.dvKSsa dvKSsMYa;
+	sub dvKSsMa by uniA8FB.dvKSsa dvKSsMa;
+	sub dvKSsYa by uniA8FB.dvKSsa dvKSsYa;
+	sub dvKSsVa by uniA8FB.dvKSsa dvKSsVa;
+	sub dvKSs by uniA8FB.dvKSsa dvKSs;
+	sub dvKSsM by uniA8FB.dvKSsa dvKSsM;
 
-	sub dvShRa by dvHeadline.dvShRa dvShRa;
-	sub dvShRYa by dvHeadline.dvShRa dvShRYa;
-	sub dvShCa by dvHeadline.dvShRa dvShCa;
-	sub dvShNa by dvHeadline.dvShRa dvShNa;
-	sub dvShVa by dvHeadline.dvShRa dvShVa;
-	sub dvShR by dvHeadline.dvShRa dvShR;
-	sub dvSha_dvMatraVocalicR by dvHeadline.dvShRa dvSha_dvMatraVocalicR;
+	sub dvShRa by uniA8FB.dvShRa dvShRa;
+	sub dvShRYa by uniA8FB.dvShRa dvShRYa;
+	sub dvShCa by uniA8FB.dvShRa dvShCa;
+	sub dvShNa by uniA8FB.dvShRa dvShNa;
+	sub dvShVa by uniA8FB.dvShRa dvShVa;
+	sub dvShR by uniA8FB.dvShRa dvShR;
+	sub uni09360943 by uniA8FB.dvShRa uni09360943;
 } RCLT_insertHeadline;
 
-@MK_dvConjunctMarks = [ dvHalant dvRakar ];
+@MK_dvConjunctMarks = [ uni094D uni094D0930 ];
 
-@MK_dvMarksAbove = [ dvMatraCandraE dvMatraShortE dvMatraE dvMatraAi dvMatraOE dvCandrabinduInverted dvCandrabindu dvAnusvara dvUdatta dvGrave dvAcute dvReph dvCandrabindu.calt dvAnusvara.alt dvAnusvara.alt2 dvAnusvara.calt dvMatraCandraE.calt dvReph.alt dvReph.alt2 dvReph_dvAnusvara dvReph_dvAnusvara.alt dvReph_dvAnusvara.alt2 dvMatraE_dvReph dvMatraE_dvAnusvara dvMatraE_dvReph_dvAnusvara dvMatraAi_dvAnusvara dvMatraAi_dvReph dvMatraAi_dvReph_dvAnusvara ];
+@MK_dvMarksAbove = [ uni0945 uni0946 uni0947 uni0948 uni093A uni0900 uni0901 uni0902 uni0951 uni0953 uni0954 uni0930094D uni0901.calt uni0902.alt uni0902.alt2 uni0902.calt uni0945.calt uni0930094D.alt uni0930094D.alt2 uni0930094D0902 uni0930094D0902.alt uni0930094D0902.alt2 uni09470930094D uni09470902 uni09470930094D0902 uni09480902 uni09480930094D uni09480930094D0902 ];
 
-@MK_dvMarksBelow = [ dvMatraU dvMatraUu dvMatraU.small dvMatraUu.small dvMatraVocalicR dvMatraVocalicRr dvMatraVocalicR.small ];
+@MK_dvMarksBelow = [ uni0941 uni0942 uni0941.small uni0942.small uni0943 uni0944 uni0943.small ];
 
-@dvMatraI = [ dvMatraI dvMatraI.1 dvMatraI.2 dvMatraI.3 dvMatraI.4 dvMatraI.5 dvMatraI.6 dvMatraI.7 dvMatraI.8 dvMatraI.9 dvMatraI.10 dvMatraI.11 dvMatraI.12 dvMatraI.13 dvMatraI.14 dvMatraI.15 dvMatraI.16 dvMatraI.17 dvMatraI.18 dvMatraI.19 dvMatraI.20 dvMatraI.21 ];
+@dvMatraI = [ uni093F uni093F.1 uni093F.2 uni093F.3 uni093F.4 uni093F.5 uni093F.6 uni093F.7 uni093F.8 uni093F.9 uni093F.10 uni093F.11 uni093F.12 uni093F.13 uni093F.14 uni093F.15 uni093F.16 uni093F.17 uni093F.18 uni093F.19 uni093F.20 uni093F.21 ];
 
-@dvConsonants = [ dvKa dvKha dvGa dvGha dvNga dvCa dvCha dvJa dvJha dvJha.NEP dvNya dvTta dvTtha dvDda dvDdha dvNna dvTa dvTha dvDa dvDha dvNa dvNnna dvPa dvPha dvBa dvBha dvMa dvYa dvRa dvRra dvLa dvLa.MAR dvLla dvLlla dvVa dvSha dvSha.MAR dvSsa dvSa dvHa dvQa dvKhha dvGhha dvZa dvDddha dvRha dvFa dvYya dvZha dvYaHeavy dvGga dvJja dvDdda dvBba ];
+@dvConsonants = [ uni0915 uni0916 uni0917 uni0918 uni0919 uni091A uni091B uni091C uni091D uni091D.NEP uni091E uni091F uni0920 uni0921 uni0922 uni0923 uni0924 uni0925 uni0926 uni0927 uni0928 uni0929 uni092A uni092B uni092C uni092D uni092E uni092F uni0930 uni0931 uni0932 uni0932.MAR uni0933 uni0934 uni0935 uni0936 uni0936.MAR uni0937 uni0938 uni0939 uni0958 uni0959 uni095A uni095B uni095C uni095D uni095E uni095F uni0979 uni097A uni097B uni097C uni097E uni097F ];
 
 @dvConjuncts = [ dvKRa dvKRa.ss03 dvKhRa dvGRa dvGhRa dvCRa dvJRa dvJhRa dvTRa dvTRa.ss03 dvThRa dvDRa dvDhRa dvNRa dvPRa dvPhRa dvBRa dvBhRa dvMRa dvYRa dvLRa dvLRa.MAR dvVRa dvShRa dvSsRa dvSRa dvHRa dvQRa dvKhhRa dvGhhRa dvZRa dvFRa dvYyRa dvKSsRa dvKSsa dvJNya dvGRYa dvNgKRa dvChRYa dvTtTtYa dvTthTthYa dvDdDdYa dvDdhRYa dvDGRa dvDDYa dvDDRa dvDDhYa dvDBRa dvDBhYa dvDBhRa dvDRYa dvDVYa dvDVRa dvDhNYa dvDhVa dvNNYa dvPTta dvPTtha dvPTtYa dvPTthYa dvBhRYa dvShRYa dvSsTtYa dvSsTthYa dvHMYa dvHMYa dvNgKa dvNgGa dvNgGRa dvNgGha dvNgGhRa dvNgMa dvNgYa dvTtKa dvTtTta dvTtTtha dvTtDdha dvTtYa dvTtVa dvTthTtha dvTthYa dvTthVa dvDdKa dvDdGa dvDdTta dvDdDda dvDdDdha dvDdYa dvDdVa dvDdhDdha dvDdhYa dvDdhVa dvDGa dvDGha dvDDa dvDDha dvDNa dvDBa dvDBha dvDMa dvDYa dvDVa dvHNna dvHNa dvHMa dvHYa dvHLa dvHVa dvKSsMYa dvKSPRa dvKSPLa dvKSPLa.MAR dvTSNYa dvNSMYa dvKTYa dvKTRa dvKVYa dvKSsMa dvKSsYa dvKSsVa dvKSTta dvKSDda dvKSTa dvGDhYa dvGDhVa dvGNYa dvGBhYa dvCChVa dvJJYa dvJJVa dvJNyYa dvNyCYa dvNyJYa dvTKYa dvTKSsa dvTTYa dvTRYa dvNJYa dvNTYa dvNTRa dvNTSa dvNThYa dvNThVa dvNDRa dvNDhYa dvNDhRa dvNDhVa dvNBhYa dvNBhVa dvNMYa dvPTYa dvBJYa dvBDhVa dvBBhRa dvBLYa dvMBYa dvMBhYa dvMBhRa dvMBhVa dvLKYa dvLThYa dvLLYa dvLVDda dvSsKRa dvSsMYa dvSTYa dvSTRa dvSThYa dvSMYa dvKKa.ss03 dvKCa dvKDda dvKTa.ss03 dvKTha dvKDha dvKNa dvKYa dvKVa.ss03 dvKSha dvKSha.MAR dvKHa dvKhNa dvGNa dvGhNa dvCCha dvCDda dvCNa dvChYa dvChVa dvJJa dvJNa dvJMa dvJYa dvJhNa dvNyCa dvNyJa dvNySha dvTNya dvTTa dvTTha dvTNa dvTYa dvThDda dvThTha dvThNa dvDhDha dvDhNa dvNGa dvNCa dvNCha dvNDda dvNDha dvNNa dvNBha dvNMa dvNSha dvPDda dvPTha dvPNa dvPSha dvPhGa dvPhCa dvPhTha dvPhNa dvPhSha dvBNa dvBhNa dvBhBha dvMDda dvMNa dvMBha dvMSha dvYDda dvYTha dvYNa dvYSha dvLCa dvLNa dvLBha dvVNa dvVHa dvShCa dvShNa dvShVa dvSsTta dvSsTtha dvSNa dvSMa dvQTa dvQPha dvQBa dvQMa dvQQa dvQFa dvKhhTa dvKhhMa dvKhhYa dvKhhVa dvKhhSha dvKhhSa dvZYa dvZZa dvFTa dvFSa dvFZa dvFFa ];
 
-@dvHalfForms = [ dvK dvK.alt dvKh dvG dvGh dvC dvCh dvJ dvJ.alt dvJh dvJh.NEP dvNy dvNn dvT dvT.alt dvT.alt1 dvTh dvDh dvN dvN.alt dvNnn dvP dvPh dvPh.alt dvB dvBh dvM dvY dvYa.post dvL dvL.alt dvL.alt1 dvLl dvLll dvV dvSh dvSh.MAR dvSs dvS dvH dvQ dvQ.alt dvKhh dvGhh dvZ dvZ.alt dvF dvF.alt dvYy dvKSs dvJNy dvKR dvGhR dvTR dvTR.ss03 dvDhR dvPR dvVR dvShR dvSsR dvSR dvKSsM dvTT dvTT.alt dvTT.alt1 dvNBh dvNS dvMBh dvLBh ];
+@dvHalfForms = [ uni0915094D uni0915094D.alt uni0916094D uni0917094D uni0918094D uni091A094D uni091B094D uni091C094D uni091C094D.alt uni091D094D uni091D094D.NEP uni091E094D uni0923094D uni0924094D uni0924094D.alt uni0924094D.alt1 uni0925094D uni0927094D uni0928094D uni0928094D.alt uni0929094D uni092A094D uni092B094D uni092B094D.alt uni092C094D uni092D094D uni092E094D uni092F094D uni092F.post uni0932094D uni0932094D.alt uni0932094D.alt1 uni0933094D uni0934094D uni0935094D uni0936094D uni0936094D.MAR uni0937094D uni0938094D uni0939094D uni0958094D uni0958094D.alt uni0959094D uni095A094D uni095B094D uni095B094D.alt uni095E094D uni095E094D.alt uni095F094D dvKSs dvJNy dvKR dvGhR dvTR dvTR.ss03 dvDhR dvPR dvVR dvShR dvSsR dvSR dvKSsM dvTT dvTT.alt dvTT.alt1 dvNBh dvNS dvMBh dvLBh ];
 
 # automatic
-@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccaron Dcaron Dcroat Emacron Edotaccent Eogonek Ecaron Gbreve Gcommaaccent Imacron Iogonek Idotaccent Kcommaaccent Lacute Lcommaaccent Lcaron Lslash Nacute Ncommaaccent Ncaron Omacron Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scedilla Scaron Tcedilla Tcaron Umacron Uring Uhungarumlaut Uogonek Ydieresis Zacute Zdotaccent Zcaron Scommaaccent Tcommaaccent ];
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccaron Dcaron Dcroat Emacron Edotaccent Eogonek Ecaron Gbreve Gcommaaccent Imacron Iogonek Idotaccent Kcommaaccent Lacute Lcommaaccent Lcaron Lslash Nacute Ncommaaccent Ncaron Omacron Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scedilla Scaron uni0162 Tcaron Umacron Uring Uhungarumlaut Uogonek Ydieresis Zacute Zdotaccent Zcaron Scommaaccent uni021A ];
 
 feature aalt {
 	feature locl;

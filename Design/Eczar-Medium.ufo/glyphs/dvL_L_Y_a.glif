@@ -2,9 +2,9 @@
 <glyph name="dvLLYa" format="1">
   <advance width="1607"/>
   <outline>
-    <component base="dvL"/>
-    <component base="dvL.alt" xOffset="480"/>
-    <component base="dvYa" xOffset="997"/>
+    <component base="uni0932094D"/>
+    <component base="uni0932094D.alt" xOffset="480"/>
+    <component base="uni092F" xOffset="997"/>
     <contour>
       <point x="1355" y="640" type="move" name="candrabindu"/>
     </contour>
@@ -21,4 +21,19 @@
       <point x="1399" y="4" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni0932094D.alt</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

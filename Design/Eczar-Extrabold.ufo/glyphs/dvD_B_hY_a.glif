@@ -3,7 +3,7 @@
   <advance width="1670"/>
   <outline>
     <component base="dvDBha"/>
-    <component base="dvYa.post" xOffset="959"/>
+    <component base="uni092F.post" xOffset="959"/>
     <contour>
       <point x="1380" y="670" type="move" name="candrabindu"/>
     </contour>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni094D0930.small" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-12" y="20" type="line"/>
+      <point x="-175" y="-134" type="line"/>
+      <point x="-89" y="-206" type="line"/>
+      <point x="59" y="-62" type="line"/>
+      <point x="-28" y="-58" type="line"/>
+      <point x="148" y="-208" type="line"/>
+      <point x="210" y="-148" type="line"/>
+      <point x="32" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="18" y="-228" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
