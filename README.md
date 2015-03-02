@@ -12,6 +12,10 @@ In **Latin** script (Adobe Latin 2 character set): major Western European Latin 
 
 The repo contains sources for [Glyphs](http://glyphsapp.com), TrueType-flavoured OpenType `.ttf` and PostScript-flavoured OpenType `.otf` font files. The UFO files are a derived source, exported from Glyphs. They are provided as is.
 
+Here it how it looks:
+
+![Eczar specimen 1](Specimens/Eczar-specimen_1.svg)
+
 ## About Rosetta
 
 Rosetta is a publisher and distributor of high-quality fonts for a growing number of the world’s writing systems. So far our retail library supports pan-European Latin, Arabic, Armenian, Greek, Cyrillic (besides Slavic languages we also support many Asian languages), Inuktitut, and Indic scripts like Gujarati and Devanagari. In total, the library covers more than 200 languages. We have also worked on numerous language extensions (Arabic, Indic, Burmese, Thai, …) for various global companies. The fonts are of top-notch quality, and have won numerous design awards. They not only support the writing systems individually, but are also harmonised to work well together in wider font-families.
@@ -33,3 +37,5 @@ We consider this a stable version. Let us know if you spot any problem. See `TOD
 ### Version 1.100 – 3 February
 
 Updated metrics according to Google’s requirements.
+
+![Eczar specimen 2](Specimens/Eczar-specimen_2.svg)
