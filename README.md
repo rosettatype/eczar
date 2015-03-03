@@ -14,7 +14,7 @@ The repo contains sources for [Glyphs](http://glyphsapp.com), TrueType-flavoured
 
 Here it how it looks:
 
-![Eczar specimen 1](Specimens/Eczar-specimen_1.svg)
+![Eczar specimen 1](https://rawgithub.com/rosettatype/Eczar/master/Specimens/Eczar-specimen_1.svg)
 
 ## About Rosetta
 
@@ -38,4 +38,4 @@ We consider this a stable version. Let us know if you spot any problem. See `TOD
 
 Updated metrics according to Google’s requirements.
 
-![Eczar specimen 2](Specimens/Eczar-specimen_2.svg)
+![Eczar specimen 2](https://rawgithub.com/rosettatype/Eczar/master/Specimens/Eczar-specimen_2.svg)
