@@ -2,9 +2,9 @@
 <glyph name="dvQFa" format="1">
   <advance width="1403"/>
   <outline>
-    <component base="uni0915094D"/>
-    <component base="uni093C" xOffset="166" yOffset="94"/>
-    <component base="uni095E" xOffset="563"/>
+    <component base="dvK"/>
+    <component base="dvNukta" xOffset="166" yOffset="94"/>
+    <component base="dvFa" xOffset="563"/>
     <contour>
       <point x="1018" y="660" type="move" name="candrabindu"/>
     </contour>
@@ -31,7 +31,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>uni095E</string>
+          <string>dvFa</string>
         </dict>
       </array>
     </dict>

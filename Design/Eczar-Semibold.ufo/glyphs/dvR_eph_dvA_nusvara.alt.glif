@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvReph_dvAnusvara.alt" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="92" y="736"/>
+      <point x="117" y="768"/>
+      <point x="127" y="795" type="curve"/>
+      <point x="113" y="814"/>
+      <point x="82" y="842"/>
+      <point x="55" y="852" type="curve"/>
+      <point x="31" y="839"/>
+      <point x="8" y="808"/>
+      <point x="-6" y="779" type="curve"/>
+      <point x="10" y="757"/>
+      <point x="46" y="730"/>
+      <point x="69" y="721" type="curve"/>
+    </contour>
+    <contour>
+      <point x="0" y="709" type="line"/>
+      <point x="-23" y="742"/>
+      <point x="-33" y="769"/>
+      <point x="-33" y="795" type="curve" smooth="yes"/>
+      <point x="-33" y="842"/>
+      <point x="0" y="880"/>
+      <point x="56" y="880" type="curve" smooth="yes"/>
+      <point x="76" y="880"/>
+      <point x="103" y="875"/>
+      <point x="127" y="855" type="curve"/>
+      <point x="147" y="918" type="line"/>
+      <point x="120" y="948"/>
+      <point x="81" y="976"/>
+      <point x="23" y="976" type="curve" smooth="yes"/>
+      <point x="-61" y="976"/>
+      <point x="-114" y="918"/>
+      <point x="-114" y="849" type="curve" smooth="yes"/>
+      <point x="-114" y="800"/>
+      <point x="-86" y="745"/>
+      <point x="-21" y="704" type="curve"/>
+    </contour>
+    <contour>
+      <point x="0" y="709" type="line"/>
+      <point x="-23" y="742"/>
+      <point x="-33" y="769"/>
+      <point x="-33" y="795" type="curve" smooth="yes"/>
+      <point x="-33" y="842"/>
+      <point x="0" y="880"/>
+      <point x="56" y="880" type="curve" smooth="yes"/>
+      <point x="76" y="880"/>
+      <point x="103" y="875"/>
+      <point x="127" y="855" type="curve"/>
+      <point x="147" y="918" type="line"/>
+      <point x="120" y="948"/>
+      <point x="81" y="976"/>
+      <point x="23" y="976" type="curve" smooth="yes"/>
+      <point x="-61" y="976"/>
+      <point x="-114" y="918"/>
+      <point x="-114" y="849" type="curve" smooth="yes"/>
+      <point x="-114" y="800"/>
+      <point x="-86" y="745"/>
+      <point x="-21" y="704" type="curve"/>
+    </contour>
+    <contour>
+      <point x="0" y="709" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -2,8 +2,8 @@
 <glyph name="dvNS" format="1">
   <advance width="718"/>
   <outline>
-    <component base="uni0928094D.alt"/>
-    <component base="uni0938094D" xOffset="266"/>
+    <component base="dvN.alt"/>
+    <component base="dvS" xOffset="266"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni0938094D</string>
+          <string>dvS</string>
         </dict>
       </array>
     </dict>

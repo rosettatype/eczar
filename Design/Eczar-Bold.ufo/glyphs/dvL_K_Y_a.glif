@@ -2,7 +2,7 @@
 <glyph name="dvLKYa" format="1">
   <advance width="1771"/>
   <outline>
-    <component base="uni0932094D"/>
+    <component base="dvL"/>
     <component base="dvKYa" xOffset="503"/>
     <contour>
       <point x="1494" y="660" type="move" name="candrabindu"/>
@@ -30,7 +30,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>uni0932094D</string>
+          <string>dvL</string>
         </dict>
         <dict>
           <key>disableAlignment</key>

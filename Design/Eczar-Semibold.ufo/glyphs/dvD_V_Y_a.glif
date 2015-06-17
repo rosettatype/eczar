@@ -3,7 +3,7 @@
   <advance width="1186"/>
   <outline>
     <component base="dvDVa"/>
-    <component base="uni092F.post" xOffset="537"/>
+    <component base="dvYa.post" xOffset="537"/>
     <contour>
       <point x="921" y="650" type="move" name="candrabindu"/>
     </contour>
@@ -30,7 +30,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni092F.post</string>
+          <string>dvYa.post</string>
         </dict>
       </array>
     </dict>

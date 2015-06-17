@@ -1023,18 +1023,6 @@ value = (
     33,
     35
 );
-},
-{
-name = license;
-value = "IMPORTANT, please read our license agreement at https://github.com/rosettatype/Eczar/";
-},
-{
-name = licenseURL;
-value = "https://github.com/rosettatype/Eczar/";
-},
-{
-name = trademark;
-value = "Eczar is a trademark of Vaibhav Singh.";
 }
 );
 date = "2014-12-24 08:45:10 +0000";
@@ -1194,7 +1182,7 @@ name = shoulderHeight;
 value = 639;
 }
 );
-descender = "-265";
+descender = -265;
 id = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
 xHeight = 472;
 }
@@ -1449,7 +1437,6 @@ layers = (
 components = (
 {
 name = S;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -4411,7 +4398,6 @@ layers = (
 components = (
 {
 name = O;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -9422,7 +9408,6 @@ layers = (
 components = (
 {
 name = one.numr;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = fraction;
@@ -9450,7 +9435,6 @@ layers = (
 components = (
 {
 name = one.numr;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = fraction;
@@ -9478,7 +9462,6 @@ layers = (
 components = (
 {
 name = three.numr;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = fraction;
@@ -9526,7 +9509,6 @@ layers = (
 components = (
 {
 name = A;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = gravecomb.case;
@@ -9550,7 +9532,6 @@ layers = (
 components = (
 {
 name = A;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb.case;
@@ -9576,7 +9557,6 @@ layers = (
 components = (
 {
 name = A;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflexcomb.case;
@@ -9602,7 +9582,6 @@ layers = (
 components = (
 {
 name = A;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = tildecomb.case;
@@ -9628,7 +9607,6 @@ layers = (
 components = (
 {
 name = A;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb.case;
@@ -9654,7 +9632,6 @@ layers = (
 components = (
 {
 name = A;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = ringcomb.case;
@@ -9820,7 +9797,6 @@ layers = (
 components = (
 {
 name = C;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = cedillacomb.case;
@@ -9844,7 +9820,6 @@ layers = (
 components = (
 {
 name = E;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = gravecomb.case;
@@ -9868,7 +9843,6 @@ layers = (
 components = (
 {
 name = E;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb.case;
@@ -9892,7 +9866,6 @@ layers = (
 components = (
 {
 name = E;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflexcomb.case;
@@ -9916,7 +9889,6 @@ layers = (
 components = (
 {
 name = E;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb.case;
@@ -9940,7 +9912,6 @@ layers = (
 components = (
 {
 name = I;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = gravecomb.case;
@@ -9964,7 +9935,6 @@ layers = (
 components = (
 {
 name = I;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb.case;
@@ -9988,7 +9958,6 @@ layers = (
 components = (
 {
 name = I;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflexcomb.case;
@@ -10013,7 +9982,6 @@ layers = (
 components = (
 {
 name = I;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb.case;
@@ -10037,7 +10005,6 @@ layers = (
 components = (
 {
 name = Dcroat;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -10059,7 +10026,6 @@ layers = (
 components = (
 {
 name = N;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = tildecomb.case;
@@ -10083,7 +10049,6 @@ layers = (
 components = (
 {
 name = O;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = gravecomb.case;
@@ -10107,7 +10072,6 @@ layers = (
 components = (
 {
 name = O;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb.case;
@@ -10131,7 +10095,6 @@ layers = (
 components = (
 {
 name = O;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflexcomb.case;
@@ -10155,7 +10118,6 @@ layers = (
 components = (
 {
 name = O;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = tildecomb.case;
@@ -10179,7 +10141,6 @@ layers = (
 components = (
 {
 name = O;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb.case;
@@ -10234,7 +10195,6 @@ layers = (
 components = (
 {
 name = O;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -10267,7 +10227,6 @@ layers = (
 components = (
 {
 name = U;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = gravecomb.case;
@@ -10291,7 +10250,6 @@ layers = (
 components = (
 {
 name = U;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb.case;
@@ -10315,7 +10273,6 @@ layers = (
 components = (
 {
 name = U;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflexcomb.case;
@@ -10339,7 +10296,6 @@ layers = (
 components = (
 {
 name = U;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb.case;
@@ -10363,7 +10319,6 @@ layers = (
 components = (
 {
 name = Y;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb.case;
@@ -10560,7 +10515,6 @@ layers = (
 components = (
 {
 name = a;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = gravecomb;
@@ -10584,7 +10538,6 @@ layers = (
 components = (
 {
 name = a;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb;
@@ -10608,7 +10561,6 @@ layers = (
 components = (
 {
 name = a;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflexcomb;
@@ -10632,7 +10584,6 @@ layers = (
 components = (
 {
 name = a;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = tildecomb;
@@ -10656,7 +10607,6 @@ layers = (
 components = (
 {
 name = a;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb;
@@ -10680,7 +10630,6 @@ layers = (
 components = (
 {
 name = a;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = ringcomb;
@@ -10827,7 +10776,6 @@ layers = (
 components = (
 {
 name = c;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = cedillacomb;
@@ -10851,7 +10799,6 @@ layers = (
 components = (
 {
 name = e;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = gravecomb;
@@ -10875,7 +10822,6 @@ layers = (
 components = (
 {
 name = e;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb;
@@ -10899,7 +10845,6 @@ layers = (
 components = (
 {
 name = e;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflexcomb;
@@ -10923,7 +10868,6 @@ layers = (
 components = (
 {
 name = e;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb;
@@ -10947,7 +10891,6 @@ layers = (
 components = (
 {
 name = dotlessi;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = gravecomb;
@@ -10971,7 +10914,6 @@ layers = (
 components = (
 {
 name = dotlessi;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb;
@@ -10995,7 +10937,6 @@ layers = (
 components = (
 {
 name = dotlessi;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflexcomb;
@@ -11019,7 +10960,6 @@ layers = (
 components = (
 {
 name = dotlessi;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb;
@@ -11112,7 +11052,6 @@ layers = (
 components = (
 {
 name = n;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = tildecomb;
@@ -11136,7 +11075,6 @@ layers = (
 components = (
 {
 name = o;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = gravecomb;
@@ -11160,7 +11098,6 @@ layers = (
 components = (
 {
 name = o;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb;
@@ -11185,7 +11122,6 @@ layers = (
 components = (
 {
 name = o;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflexcomb;
@@ -11209,7 +11145,6 @@ layers = (
 components = (
 {
 name = o;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = tildecomb;
@@ -11233,7 +11168,6 @@ layers = (
 components = (
 {
 name = o;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb;
@@ -11389,7 +11323,6 @@ layers = (
 components = (
 {
 name = u;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = gravecomb;
@@ -11413,7 +11346,6 @@ layers = (
 components = (
 {
 name = u;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb;
@@ -11437,7 +11369,6 @@ layers = (
 components = (
 {
 name = u;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = circumflexcomb;
@@ -11461,7 +11392,6 @@ layers = (
 components = (
 {
 name = u;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb;
@@ -11485,7 +11415,6 @@ layers = (
 components = (
 {
 name = y;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb;
@@ -11610,7 +11539,6 @@ layers = (
 components = (
 {
 name = y;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb;
@@ -11634,7 +11562,6 @@ layers = (
 components = (
 {
 name = A;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = macroncomb.case;
@@ -11658,7 +11585,6 @@ layers = (
 components = (
 {
 name = a;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = macroncomb;
@@ -11682,7 +11608,6 @@ layers = (
 components = (
 {
 name = A;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = brevecomb.case;
@@ -11706,7 +11631,6 @@ layers = (
 components = (
 {
 name = a;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = brevecomb;
@@ -11730,7 +11654,6 @@ layers = (
 components = (
 {
 name = A;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = ogonekcomb.case;
@@ -11754,7 +11677,6 @@ layers = (
 components = (
 {
 name = a;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -11779,7 +11701,6 @@ layers = (
 components = (
 {
 name = C;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb.case;
@@ -11803,7 +11724,6 @@ layers = (
 components = (
 {
 name = c;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb;
@@ -11827,7 +11747,6 @@ layers = (
 components = (
 {
 name = C;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caroncomb.case;
@@ -11851,7 +11770,6 @@ layers = (
 components = (
 {
 name = c;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caroncomb;
@@ -11875,7 +11793,6 @@ layers = (
 components = (
 {
 name = D;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caroncomb.case;
@@ -11899,7 +11816,6 @@ layers = (
 components = (
 {
 name = d;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -11925,7 +11841,6 @@ layers = (
 components = (
 {
 name = D;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -11959,7 +11874,6 @@ layers = (
 components = (
 {
 name = d;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -11993,7 +11907,6 @@ layers = (
 components = (
 {
 name = E;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = macroncomb.case;
@@ -12017,7 +11930,6 @@ layers = (
 components = (
 {
 name = e;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = macroncomb;
@@ -12041,7 +11953,6 @@ layers = (
 components = (
 {
 name = E;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dotaccentcomb.case;
@@ -12065,7 +11976,6 @@ layers = (
 components = (
 {
 name = e;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dotaccentcomb;
@@ -12089,7 +11999,6 @@ layers = (
 components = (
 {
 name = E;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -12114,7 +12023,6 @@ layers = (
 components = (
 {
 name = e;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -12158,7 +12066,6 @@ layers = (
 components = (
 {
 name = E;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caroncomb.case;
@@ -12182,7 +12089,6 @@ layers = (
 components = (
 {
 name = e;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caroncomb;
@@ -12206,7 +12112,6 @@ layers = (
 components = (
 {
 name = G;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = brevecomb.case;
@@ -12230,7 +12135,6 @@ layers = (
 components = (
 {
 name = g;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = brevecomb;
@@ -12254,7 +12158,6 @@ layers = (
 components = (
 {
 name = G;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccentcomb.case;
@@ -12278,7 +12181,6 @@ layers = (
 components = (
 {
 name = g;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccent;
@@ -12376,7 +12278,6 @@ layers = (
 components = (
 {
 name = I;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = ogonekcomb.case;
@@ -12400,7 +12301,6 @@ layers = (
 components = (
 {
 name = i;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -12427,7 +12327,6 @@ layers = (
 components = (
 {
 name = I;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dotaccentcomb.case;
@@ -12524,7 +12423,6 @@ layers = (
 components = (
 {
 name = K;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccentcomb.case;
@@ -12549,7 +12447,6 @@ layers = (
 components = (
 {
 name = k;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccentcomb;
@@ -12573,7 +12470,6 @@ layers = (
 components = (
 {
 name = L;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb.case;
@@ -12597,7 +12493,6 @@ layers = (
 components = (
 {
 name = l;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb.case;
@@ -12621,7 +12516,6 @@ layers = (
 components = (
 {
 name = L;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccentcomb.case;
@@ -12645,7 +12539,6 @@ layers = (
 components = (
 {
 name = l;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccentcomb;
@@ -12669,7 +12562,6 @@ layers = (
 components = (
 {
 name = L;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -12696,7 +12588,6 @@ layers = (
 components = (
 {
 name = l;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -12789,7 +12680,6 @@ layers = (
 components = (
 {
 name = N;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb.case;
@@ -12813,7 +12703,6 @@ layers = (
 components = (
 {
 name = n;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb;
@@ -12837,7 +12726,6 @@ layers = (
 components = (
 {
 name = N;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccentcomb.case;
@@ -12861,7 +12749,6 @@ layers = (
 components = (
 {
 name = n;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccentcomb;
@@ -12885,7 +12772,6 @@ layers = (
 components = (
 {
 name = N;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caroncomb.case;
@@ -12909,7 +12795,6 @@ layers = (
 components = (
 {
 name = n;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caroncomb;
@@ -12933,7 +12818,6 @@ layers = (
 components = (
 {
 name = O;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = macroncomb.case;
@@ -12957,7 +12841,6 @@ layers = (
 components = (
 {
 name = o;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = macroncomb;
@@ -12981,7 +12864,6 @@ layers = (
 components = (
 {
 name = O;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = hungarumlautcomb.case;
@@ -13005,7 +12887,6 @@ layers = (
 components = (
 {
 name = o;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = hungarumlautcomb;
@@ -13252,7 +13133,6 @@ layers = (
 components = (
 {
 name = R;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb.case;
@@ -13276,7 +13156,6 @@ layers = (
 components = (
 {
 name = r;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb;
@@ -13300,7 +13179,6 @@ layers = (
 components = (
 {
 name = R;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccentcomb.case;
@@ -13324,7 +13202,6 @@ layers = (
 components = (
 {
 name = r;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccentcomb;
@@ -13348,7 +13225,6 @@ layers = (
 components = (
 {
 name = R;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caroncomb.case;
@@ -13372,7 +13248,6 @@ layers = (
 components = (
 {
 name = r;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caroncomb;
@@ -13396,7 +13271,6 @@ layers = (
 components = (
 {
 name = S;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb.case;
@@ -13420,7 +13294,6 @@ layers = (
 components = (
 {
 name = s;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb;
@@ -13444,7 +13317,6 @@ layers = (
 components = (
 {
 name = S;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = cedillacomb.case;
@@ -13468,7 +13340,6 @@ layers = (
 components = (
 {
 name = s;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = cedillacomb;
@@ -13492,7 +13363,6 @@ layers = (
 components = (
 {
 name = S;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caroncomb.case;
@@ -13516,7 +13386,6 @@ layers = (
 components = (
 {
 name = s;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caroncomb;
@@ -13540,7 +13409,6 @@ layers = (
 components = (
 {
 name = T;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = cedillacomb.case;
@@ -13564,7 +13432,6 @@ layers = (
 components = (
 {
 name = t;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = cedillacomb;
@@ -13588,7 +13455,6 @@ layers = (
 components = (
 {
 name = T;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caroncomb.case;
@@ -13612,7 +13478,6 @@ layers = (
 components = (
 {
 name = t;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -13638,7 +13503,6 @@ layers = (
 components = (
 {
 name = U;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = macroncomb.case;
@@ -13662,7 +13526,6 @@ layers = (
 components = (
 {
 name = u;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = macroncomb;
@@ -13686,7 +13549,6 @@ layers = (
 components = (
 {
 name = U;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = ringcomb.case;
@@ -13710,7 +13572,6 @@ layers = (
 components = (
 {
 name = u;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = ringcomb;
@@ -13734,7 +13595,6 @@ layers = (
 components = (
 {
 name = U;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = hungarumlautcomb.case;
@@ -13758,7 +13618,6 @@ layers = (
 components = (
 {
 name = u;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = hungarumlautcomb;
@@ -13782,7 +13641,6 @@ layers = (
 components = (
 {
 name = U;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = ogonekcomb.case;
@@ -13806,7 +13664,6 @@ layers = (
 components = (
 {
 name = u;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = ogonekcomb;
@@ -13830,7 +13687,6 @@ layers = (
 components = (
 {
 name = Y;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dieresiscomb.case;
@@ -13854,7 +13710,6 @@ layers = (
 components = (
 {
 name = Z;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb.case;
@@ -13878,7 +13733,6 @@ layers = (
 components = (
 {
 name = z;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acutecomb;
@@ -13902,7 +13756,6 @@ layers = (
 components = (
 {
 name = Z;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dotaccentcomb.case;
@@ -13926,7 +13779,6 @@ layers = (
 components = (
 {
 name = z;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dotaccentcomb;
@@ -13950,7 +13802,6 @@ layers = (
 components = (
 {
 name = Z;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caroncomb.case;
@@ -13974,7 +13825,6 @@ layers = (
 components = (
 {
 name = z;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = caroncomb;
@@ -13998,7 +13848,6 @@ layers = (
 components = (
 {
 name = S;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccentcomb.case;
@@ -14022,7 +13871,6 @@ layers = (
 components = (
 {
 name = s;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccentcomb;
@@ -14046,7 +13894,6 @@ layers = (
 components = (
 {
 name = T;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccentcomb.case;
@@ -14070,7 +13917,6 @@ layers = (
 components = (
 {
 name = t;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccentcomb;
@@ -14136,7 +13982,6 @@ position = "{1, 468}";
 components = (
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -14466,7 +14311,6 @@ layers = (
 components = (
 {
 name = quoteleft;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = quoteleft;
@@ -14490,7 +14334,6 @@ layers = (
 components = (
 {
 name = quoteright;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = quoteright;
@@ -15656,7 +15499,6 @@ layers = (
 components = (
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -15874,7 +15716,6 @@ layers = (
 components = (
 {
 name = equal;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -16104,7 +15945,6 @@ layers = (
 components = (
 {
 name = f;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = f;
@@ -16211,7 +16051,6 @@ layers = (
 components = (
 {
 name = f;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = i;
@@ -16235,7 +16074,6 @@ layers = (
 components = (
 {
 name = f;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = j;
@@ -16425,7 +16263,6 @@ layers = (
 components = (
 {
 name = f;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = t;
@@ -16790,7 +16627,6 @@ layers = (
 components = (
 {
 name = cedillacomb;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -16838,7 +16674,6 @@ layers = (
 components = (
 {
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -16855,7 +16690,6 @@ layers = (
 components = (
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -16872,7 +16706,6 @@ layers = (
 components = (
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -16889,7 +16722,6 @@ layers = (
 components = (
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -16977,7 +16809,6 @@ layers = (
 components = (
 {
 name = macronbelowcomb;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -17065,7 +16896,6 @@ layers = (
 components = (
 {
 name = ringcomb;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -17633,7 +17463,6 @@ layers = (
 components = (
 {
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -17722,7 +17551,6 @@ position = "{794, 640}";
 components = (
 {
 name = dvA;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvMatraShortE;
@@ -17867,7 +17695,6 @@ position = "{810, 650}";
 components = (
 {
 name = dvA;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -17982,7 +17809,6 @@ layers = (
 components = (
 {
 name = dvI;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvReph;
@@ -18099,7 +17925,6 @@ position = "{385, 650}";
 components = (
 {
 name = dvU;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -18762,7 +18587,6 @@ layers = (
 components = (
 {
 name = dvE;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -18790,7 +18614,6 @@ position = "{560, 640}";
 components = (
 {
 name = dvE;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvMatraShortE;
@@ -18889,7 +18712,6 @@ position = "{530, 640}";
 components = (
 {
 name = dvE;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvMatraE;
@@ -18911,7 +18733,6 @@ components = (
 {
 disableAlignment = 1;
 name = dvA;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -18947,7 +18768,6 @@ position = "{954, 465}";
 components = (
 {
 name = dvA;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -18975,7 +18795,6 @@ position = "{1040, 639}";
 components = (
 {
 name = dvA;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -18997,7 +18816,6 @@ layers = (
 components = (
 {
 name = dvA;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -19019,7 +18837,6 @@ layers = (
 components = (
 {
 name = dvA;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -19048,7 +18865,6 @@ layers = (
 components = (
 {
 name = dvAa;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -19084,7 +18900,6 @@ components = (
 {
 disableAlignment = 1;
 name = dvA;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -19116,7 +18931,6 @@ position = "{650, 650}";
 components = (
 {
 name = dvA;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvMatraUE;
@@ -19147,7 +18961,6 @@ position = "{650, 650}";
 components = (
 {
 name = dvA;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvMatraUUE;
@@ -19174,7 +18987,6 @@ position = "{1077, 640}";
 components = (
 {
 name = dvA;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -20072,7 +19884,6 @@ position = "{682, 472}";
 components = (
 {
 name = dvI;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -21320,7 +21131,6 @@ position = "{434, 472}";
 components = (
 {
 name = dvNa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -22010,7 +21820,6 @@ position = "{277, 472}";
 components = (
 {
 name = dvRa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -22373,7 +22182,6 @@ position = "{525, 472}";
 components = (
 {
 name = dvLla;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -23034,7 +22842,6 @@ transform = "{1, 0, 0, 1, 169, 106}";
 },
 {
 name = dvKa;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -23075,7 +22882,6 @@ position = "{696, 472}";
 components = (
 {
 name = dvKha;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -23120,7 +22926,6 @@ position = "{485, 472}";
 components = (
 {
 name = dvGa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -23165,7 +22970,6 @@ position = "{564, 472}";
 components = (
 {
 name = dvJa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -23210,7 +23014,6 @@ position = "{453, 472}";
 components = (
 {
 name = dvDda;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -23256,7 +23059,6 @@ position = "{428, 472}";
 components = (
 {
 name = dvDdha;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -23302,7 +23104,6 @@ position = "{425, 472}";
 components = (
 {
 name = dvPha;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -23348,7 +23149,6 @@ position = "{479, 472}";
 components = (
 {
 name = dvYa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -23393,7 +23193,6 @@ position = "{564, 472}";
 components = (
 {
 name = dvJa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -23448,7 +23247,6 @@ position = "{479, 472}";
 components = (
 {
 name = dvYa;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -23692,7 +23490,6 @@ position = "{453, 472}";
 components = (
 {
 name = dvDda;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -24693,7 +24490,6 @@ layers = (
 components = (
 {
 name = dvMatraAa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvMatraCandraE;
@@ -24720,7 +24516,6 @@ position = "{279, 640}";
 components = (
 {
 name = dvMatraAa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvMatraShortE;
@@ -24916,7 +24711,6 @@ transform = "{1, 0, 0, 1, 0, -190}";
 },
 {
 name = dvMatraUE;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -24962,7 +24756,6 @@ layers = (
 components = (
 {
 name = dvMatraAa;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -26416,7 +26209,6 @@ position = "{687, 472}";
 components = (
 {
 name = dvI;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -28502,7 +28294,6 @@ transform = "{1, 0, 0, 1, 269, 59}";
 },
 {
 name = dvKRa;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -28545,7 +28336,6 @@ transform = "{1, 0, 0, 1, 194, 74}";
 },
 {
 name = dvKhRa;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -28584,7 +28374,6 @@ position = "{485, 472}";
 components = (
 {
 name = dvGRa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvNukta;
@@ -28627,7 +28416,6 @@ position = "{564, 472}";
 components = (
 {
 name = dvJRa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvNukta;
@@ -28670,7 +28458,6 @@ position = "{445, 472}";
 components = (
 {
 name = dvPhRa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvNukta;
@@ -28714,7 +28501,6 @@ position = "{479, 472}";
 components = (
 {
 name = dvYRa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvNukta;
@@ -29403,7 +29189,6 @@ position = "{1209, 472}";
 components = (
 {
 name = dvChYa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -29446,7 +29231,6 @@ position = "{1010, 472}";
 components = (
 {
 name = dvTtTta;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -29490,7 +29274,6 @@ position = "{1029, 472}";
 components = (
 {
 name = dvTthTtha;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -29534,7 +29317,6 @@ position = "{1053, 472}";
 components = (
 {
 name = dvDdDda;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -29639,7 +29421,6 @@ position = "{1068, 472}";
 components = (
 {
 name = dvDdhYa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -30087,7 +29868,6 @@ position = "{1319, 472}";
 components = (
 {
 name = dvDDha;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvYa.post;
@@ -30129,7 +29909,6 @@ position = "{421, 472}";
 components = (
 {
 name = dvDBa;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -30180,7 +29959,6 @@ position = "{1336, 472}";
 components = (
 {
 name = dvDBha;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvYa.post;
@@ -30429,7 +30207,6 @@ position = "{1031, 472}";
 components = (
 {
 name = dvDVa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -30473,7 +30250,6 @@ position = "{430, 472}";
 components = (
 {
 name = dvDVa;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -30651,7 +30427,6 @@ position = "{911, 472}";
 components = (
 {
 name = dvDh;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -31056,7 +30831,6 @@ position = "{1067, 472}";
 components = (
 {
 name = dvPTta;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -31161,7 +30935,6 @@ position = "{1067, 472}";
 components = (
 {
 name = dvPTtha;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -31266,7 +31039,6 @@ position = "{917, 472}";
 components = (
 {
 name = dvBh;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvYa;
@@ -31467,7 +31239,6 @@ position = "{1085, 472}";
 components = (
 {
 name = dvSsTta;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -31511,7 +31282,6 @@ position = "{1085, 472}";
 components = (
 {
 name = dvSsTtha;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -31555,7 +31325,6 @@ position = "{1333, 472}";
 components = (
 {
 name = dvH;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvYa;
@@ -33458,7 +33227,6 @@ position = "{1011, 472}";
 components = (
 {
 name = dvTta;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -33763,7 +33531,6 @@ position = "{1038, 472}";
 components = (
 {
 name = dvTtha;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -35104,7 +34871,6 @@ position = "{1068, 472}";
 components = (
 {
 name = dvDdha;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -37522,7 +37288,6 @@ position = "{1487, 472}";
 components = (
 {
 name = dvK;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -37569,7 +37334,6 @@ position = "{1945, 472}";
 components = (
 {
 name = dvK;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -37620,7 +37384,6 @@ position = "{1891, 472}";
 components = (
 {
 name = dvK;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -37673,7 +37436,6 @@ position = "{1532, 472}";
 components = (
 {
 name = dvT.alt1;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvS;
@@ -37724,7 +37486,6 @@ position = "{1622, 472}";
 components = (
 {
 name = dvN.alt;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -37816,7 +37577,6 @@ position = "{1421, 472}";
 components = (
 {
 name = dvK;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -37997,7 +37757,6 @@ position = "{1467, 472}";
 components = (
 {
 name = dvK;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -38322,7 +38081,6 @@ position = "{1015, 472}";
 components = (
 {
 name = dvKSs;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvVa;
@@ -39148,7 +38906,6 @@ position = "{1012, 472}";
 components = (
 {
 name = dvC;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -39192,7 +38949,6 @@ position = "{1186, 472}";
 components = (
 {
 name = dvJ;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvYa;
@@ -39287,7 +39043,6 @@ position = "{1165, 472}";
 components = (
 {
 name = dvJ;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvVa;
@@ -39748,7 +39503,6 @@ position = "{1416, 472}";
 components = (
 {
 name = dvT;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -39792,7 +39546,6 @@ position = "{977, 472}";
 components = (
 {
 name = dvT.alt1;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -40006,7 +39759,6 @@ position = "{1271, 472}";
 components = (
 {
 name = dvN;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -40049,7 +39801,6 @@ position = "{1118, 472}";
 components = (
 {
 name = dvN;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -40167,7 +39918,6 @@ position = "{1205, 472}";
 components = (
 {
 name = dvN;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -40214,7 +39964,6 @@ position = "{1190, 472}";
 components = (
 {
 name = dvN;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -40262,7 +40011,6 @@ position = "{1165, 472}";
 components = (
 {
 name = dvN;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -40866,7 +40614,6 @@ position = "{1132, 472}";
 components = (
 {
 name = dvP;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -40910,7 +40657,6 @@ position = "{1345, 472}";
 components = (
 {
 name = dvB;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -41205,7 +40951,6 @@ position = "{1383, 472}";
 components = (
 {
 name = dvB;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -41650,7 +41395,6 @@ components = (
 {
 disableAlignment = 1;
 name = dvL;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -41694,7 +41438,6 @@ position = "{1399, 472}";
 components = (
 {
 name = dvL.alt;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -41742,7 +41485,6 @@ position = "{1514, 472}";
 components = (
 {
 name = dvL;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -41790,7 +41532,6 @@ position = "{1345, 472}";
 components = (
 {
 name = dvL;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvV;
@@ -41895,7 +41636,6 @@ position = "{758, 472}";
 components = (
 {
 name = dvSs;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -41939,7 +41679,6 @@ position = "{1167, 472}";
 components = (
 {
 name = dvSs;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -41986,7 +41725,6 @@ position = "{1249, 472}";
 components = (
 {
 name = dvS;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -42101,7 +41839,6 @@ position = "{1328, 472}";
 components = (
 {
 name = dvS;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -43132,7 +42869,6 @@ components = (
 {
 disableAlignment = 1;
 name = dvK;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -44013,7 +43749,6 @@ position = "{1012, 472}";
 components = (
 {
 name = dvC;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -44314,7 +44049,6 @@ position = "{1209, 472}";
 components = (
 {
 name = dvCh;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -44581,7 +44315,6 @@ position = "{823, 472}";
 components = (
 {
 name = dvJ;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -44883,7 +44616,6 @@ position = "{951, 472}";
 components = (
 {
 name = dvJ.alt;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -44927,7 +44659,6 @@ position = "{707, 472}";
 components = (
 {
 name = dvI;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -45747,7 +45478,6 @@ position = "{822, 472}";
 components = (
 {
 name = dvT;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -50681,7 +50411,6 @@ position = "{1043, 472}";
 components = (
 {
 name = dvK;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -50730,7 +50459,6 @@ position = "{982, 472}";
 components = (
 {
 name = dvK;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvNukta;
@@ -50779,7 +50507,6 @@ position = "{1058, 472}";
 components = (
 {
 name = dvK;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvNukta;
@@ -50827,7 +50554,6 @@ position = "{1085, 472}";
 components = (
 {
 name = dvK.alt;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvMa;
@@ -50875,7 +50601,6 @@ position = "{1006, 472}";
 components = (
 {
 name = dvK;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvNukta;
@@ -50924,7 +50649,6 @@ position = "{982, 472}";
 components = (
 {
 name = dvK;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvNukta;
@@ -50973,7 +50697,6 @@ position = "{1107, 472}";
 components = (
 {
 name = dvKhh;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvTa;
@@ -51016,7 +50739,6 @@ position = "{1162, 472}";
 components = (
 {
 name = dvKhh;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -51060,7 +50782,6 @@ position = "{1138, 472}";
 components = (
 {
 name = dvKhh;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -51104,7 +50825,6 @@ position = "{1136, 472}";
 components = (
 {
 name = dvKhh;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -51148,7 +50868,6 @@ position = "{1275, 472}";
 components = (
 {
 name = dvKhh;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -51263,7 +50982,6 @@ position = "{1253, 472}";
 components = (
 {
 name = dvKhh;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -51307,7 +51025,6 @@ position = "{951, 472}";
 components = (
 {
 name = dvJYa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -51351,7 +51068,6 @@ position = "{823, 472}";
 components = (
 {
 name = dvJJa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -51399,7 +51115,6 @@ position = "{1045, 472}";
 components = (
 {
 name = dvF;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -51443,7 +51158,6 @@ position = "{1231, 472}";
 components = (
 {
 name = dvF;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -51487,7 +51201,6 @@ position = "{1190, 472}";
 components = (
 {
 name = dvF;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -51531,7 +51244,6 @@ position = "{991, 472}";
 components = (
 {
 name = dvF;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -52214,7 +51926,6 @@ layers = (
 components = (
 {
 name = dvI;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -52856,7 +52567,6 @@ layers = (
 components = (
 {
 name = dvN;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvNukta;
@@ -53713,7 +53423,6 @@ layers = (
 components = (
 {
 name = dvLl;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -54113,7 +53822,6 @@ layers = (
 components = (
 {
 name = dvK;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -54136,7 +53844,6 @@ layers = (
 components = (
 {
 name = dvK.alt;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -54159,7 +53866,6 @@ layers = (
 components = (
 {
 name = dvKh;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -54181,7 +53887,6 @@ layers = (
 components = (
 {
 name = dvG;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -54203,7 +53908,6 @@ layers = (
 components = (
 {
 name = dvJ;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -54225,7 +53929,6 @@ layers = (
 components = (
 {
 name = dvJ.alt;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -54246,7 +53949,6 @@ layers = (
 components = (
 {
 name = dvPh;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -54269,7 +53971,6 @@ layers = (
 components = (
 {
 name = dvPh.alt;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -54292,7 +53993,6 @@ layers = (
 components = (
 {
 name = dvY;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -55536,7 +55236,6 @@ layers = (
 components = (
 {
 name = dvN.alt;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 disableAlignment = 1;
@@ -56161,7 +55860,6 @@ position = "{418, 472}";
 components = (
 {
 name = dvDBa;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -56225,7 +55923,6 @@ position = "{418, 472}";
 components = (
 {
 name = dvDVa;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -56293,7 +55990,6 @@ position = "{282, 472}";
 components = (
 {
 name = dvRa;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -56370,7 +56066,6 @@ position = "{282, 472}";
 components = (
 {
 name = dvRa;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -57976,7 +57671,6 @@ layers = (
 components = (
 {
 name = dvDanda;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvDanda;
@@ -60630,7 +60324,6 @@ layers = (
 components = (
 {
 name = dvI;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvReph_dvAnusvara;
@@ -60757,7 +60450,6 @@ position = "{192, 472}";
 components = (
 {
 name = dvMatraIi_dvReph;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -60802,7 +60494,6 @@ position = "{192, 472}";
 components = (
 {
 name = dvMatraIi.1;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -60855,7 +60546,6 @@ position = "{192, 472}";
 components = (
 {
 name = dvMatraIi_dvReph.1;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -60900,7 +60590,6 @@ position = "{192, 472}";
 components = (
 {
 name = dvMatraIi.2;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -60953,7 +60642,6 @@ position = "{192, 472}";
 components = (
 {
 name = dvMatraIi_dvReph.2;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -60994,7 +60682,6 @@ position = "{-156, 472}";
 components = (
 {
 name = dvMatraE;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvAnusvara;
@@ -61020,7 +60707,6 @@ position = "{-156, 472}";
 components = (
 {
 name = dvMatraE;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -61070,7 +60756,6 @@ position = "{-156, 472}";
 components = (
 {
 name = dvMatraE_dvReph;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -61111,7 +60796,6 @@ position = "{-152, 472}";
 components = (
 {
 name = dvMatraShortE;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvAnusvara;
@@ -61137,7 +60821,6 @@ position = "{-156, 472}";
 components = (
 {
 name = dvMatraAi;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -61178,7 +60861,6 @@ position = "{-156, 472}";
 components = (
 {
 name = dvMatraAi;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -61228,7 +60910,6 @@ position = "{-156, 472}";
 components = (
 {
 name = dvMatraAi_dvReph;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2";
@@ -61269,7 +60950,6 @@ position = "{238, 594}";
 components = (
 {
 name = dvMatraAa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvMatraE_dvReph;
@@ -61295,7 +60975,6 @@ position = "{283, 594}";
 components = (
 {
 name = dvMatraAa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvMatraAi_dvReph;
@@ -61321,7 +61000,6 @@ position = "{233, 594}";
 components = (
 {
 name = dvMatraAa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvMatraE_dvReph_dvAnusvara;
@@ -61347,7 +61025,6 @@ position = "{283, 594}";
 components = (
 {
 name = dvMatraAa;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvMatraAi_dvReph_dvAnusvara;
@@ -61374,7 +61051,6 @@ position = "{0, 0}";
 components = (
 {
 name = dvRakar.small;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvMatraU.small;
@@ -61401,7 +61077,6 @@ position = "{1, 0}";
 components = (
 {
 name = dvRakar.small;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dvMatraUu.small;
@@ -61771,692 +61446,692 @@ name = "Don\U2019t use Production Names";
 value = 1;
 }
 );
-name = Semibold;
+name = SemiBold;
 weightClass = SemiBold;
 }
 );
 kerning = {
 "C1B4D31E-EC41-4663-B02D-6CE46EF34CA2" = {
 "@MMK_L_A" = {
-"@MMK_R_I" = "-30";
-"@MMK_R_O" = "-10";
-"@MMK_R_S" = "-20";
-"@MMK_R_T" = "-70";
-"@MMK_R_U" = "-40";
-"@MMK_R_V" = "-110";
-"@MMK_R_Y" = "-100";
-"@MMK_R_a" = "-30";
-"@MMK_R_b" = "-20";
-"@MMK_R_f" = "-20";
-"@MMK_R_g" = "-20";
-"@MMK_R_n" = "-20";
-"@MMK_R_o" = "-16";
-"@MMK_R_s" = "-20";
-"@MMK_R_t" = "-30";
-"@MMK_R_u" = "-40";
-"@MMK_R_v" = "-50";
-J = "-30";
-X = "-50";
+"@MMK_R_I" = -30;
+"@MMK_R_O" = -10;
+"@MMK_R_S" = -20;
+"@MMK_R_T" = -70;
+"@MMK_R_U" = -40;
+"@MMK_R_V" = -110;
+"@MMK_R_Y" = -100;
+"@MMK_R_a" = -30;
+"@MMK_R_b" = -20;
+"@MMK_R_f" = -20;
+"@MMK_R_g" = -20;
+"@MMK_R_n" = -20;
+"@MMK_R_o" = -16;
+"@MMK_R_s" = -20;
+"@MMK_R_t" = -30;
+"@MMK_R_u" = -40;
+"@MMK_R_v" = -50;
+J = -30;
+X = -50;
 };
 "@MMK_L_C" = {
-"@MMK_R_A" = "-20";
-"@MMK_R_O" = "-20";
-"@MMK_R_V" = "-10";
-"@MMK_R_a" = "-30";
-"@MMK_R_g" = "-30";
-"@MMK_R_j" = "-10";
-"@MMK_R_l" = "-10";
-"@MMK_R_n" = "-20";
-"@MMK_R_o" = "-20";
-"@MMK_R_s" = "-16";
-"@MMK_R_u" = "-20";
-"@MMK_R_z" = "-10";
-J = "-20";
-X = "-20";
+"@MMK_R_A" = -20;
+"@MMK_R_O" = -20;
+"@MMK_R_V" = -10;
+"@MMK_R_a" = -30;
+"@MMK_R_g" = -30;
+"@MMK_R_j" = -10;
+"@MMK_R_l" = -10;
+"@MMK_R_n" = -20;
+"@MMK_R_o" = -20;
+"@MMK_R_s" = -16;
+"@MMK_R_u" = -20;
+"@MMK_R_z" = -10;
+J = -20;
+X = -20;
 };
 "@MMK_L_E" = {
-"@MMK_R_A" = "-20";
+"@MMK_R_A" = -20;
 "@MMK_R_O" = 10;
-"@MMK_R_V" = "-20";
-"@MMK_R_a" = "-20";
-"@MMK_R_g" = "-30";
-"@MMK_R_l" = "-10";
-"@MMK_R_n" = "-16";
-"@MMK_R_o" = "-10";
-"@MMK_R_s" = "-10";
-"@MMK_R_t" = "-10";
-"@MMK_R_u" = "-10";
-"@MMK_R_v" = "-16";
-"@MMK_R_x" = "-20";
-"@MMK_R_z" = "-10";
+"@MMK_R_V" = -20;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -30;
+"@MMK_R_l" = -10;
+"@MMK_R_n" = -16;
+"@MMK_R_o" = -10;
+"@MMK_R_s" = -10;
+"@MMK_R_t" = -10;
+"@MMK_R_u" = -10;
+"@MMK_R_v" = -16;
+"@MMK_R_x" = -20;
+"@MMK_R_z" = -10;
 };
 "@MMK_L_G" = {
-"@MMK_R_A" = "-40";
-"@MMK_R_I" = "-30";
-"@MMK_R_S" = "-20";
-"@MMK_R_T" = "-20";
-"@MMK_R_U" = "-10";
-"@MMK_R_V" = "-50";
-"@MMK_R_Y" = "-30";
-"@MMK_R_a" = "-30";
-"@MMK_R_b" = "-20";
-"@MMK_R_f" = "-16";
-"@MMK_R_g" = "-40";
-"@MMK_R_j" = "-20";
-"@MMK_R_l" = "-30";
-"@MMK_R_n" = "-26";
-"@MMK_R_o" = "-16";
-"@MMK_R_s" = "-16";
-"@MMK_R_t" = "-26";
-"@MMK_R_u" = "-26";
-"@MMK_R_v" = "-36";
-"@MMK_R_x" = "-40";
-"@MMK_R_z" = "-36";
-J = "-40";
-X = "-20";
+"@MMK_R_A" = -40;
+"@MMK_R_I" = -30;
+"@MMK_R_S" = -20;
+"@MMK_R_T" = -20;
+"@MMK_R_U" = -10;
+"@MMK_R_V" = -50;
+"@MMK_R_Y" = -30;
+"@MMK_R_a" = -30;
+"@MMK_R_b" = -20;
+"@MMK_R_f" = -16;
+"@MMK_R_g" = -40;
+"@MMK_R_j" = -20;
+"@MMK_R_l" = -30;
+"@MMK_R_n" = -26;
+"@MMK_R_o" = -16;
+"@MMK_R_s" = -16;
+"@MMK_R_t" = -26;
+"@MMK_R_u" = -26;
+"@MMK_R_v" = -36;
+"@MMK_R_x" = -40;
+"@MMK_R_z" = -36;
+J = -40;
+X = -20;
 };
 "@MMK_L_I" = {
-"@MMK_R_A" = "-30";
-"@MMK_R_I" = "-20";
-"@MMK_R_O" = "-10";
-"@MMK_R_S" = "-10";
-"@MMK_R_T" = "-30";
-"@MMK_R_U" = "-20";
-"@MMK_R_V" = "-30";
-"@MMK_R_Y" = "-30";
-"@MMK_R_Z" = "-30";
-"@MMK_R_a" = "-40";
-"@MMK_R_g" = "-50";
-"@MMK_R_j" = "-40";
-"@MMK_R_l" = "-30";
-"@MMK_R_n" = "-36";
-"@MMK_R_o" = "-36";
-"@MMK_R_s" = "-36";
-"@MMK_R_t" = "-16";
-"@MMK_R_u" = "-36";
-"@MMK_R_v" = "-36";
-"@MMK_R_x" = "-26";
-"@MMK_R_z" = "-36";
-J = "-20";
+"@MMK_R_A" = -30;
+"@MMK_R_I" = -20;
+"@MMK_R_O" = -10;
+"@MMK_R_S" = -10;
+"@MMK_R_T" = -30;
+"@MMK_R_U" = -20;
+"@MMK_R_V" = -30;
+"@MMK_R_Y" = -30;
+"@MMK_R_Z" = -30;
+"@MMK_R_a" = -40;
+"@MMK_R_g" = -50;
+"@MMK_R_j" = -40;
+"@MMK_R_l" = -30;
+"@MMK_R_n" = -36;
+"@MMK_R_o" = -36;
+"@MMK_R_s" = -36;
+"@MMK_R_t" = -16;
+"@MMK_R_u" = -36;
+"@MMK_R_v" = -36;
+"@MMK_R_x" = -26;
+"@MMK_R_z" = -36;
+J = -20;
 };
 "@MMK_L_K" = {
-"@MMK_R_A" = "-30";
-"@MMK_R_O" = "-30";
-"@MMK_R_T" = "-20";
-"@MMK_R_U" = "-20";
-"@MMK_R_V" = "-40";
-"@MMK_R_Y" = "-20";
-"@MMK_R_Z" = "-20";
-"@MMK_R_a" = "-40";
-"@MMK_R_g" = "-50";
-"@MMK_R_j" = "-20";
-"@MMK_R_l" = "-10";
-"@MMK_R_n" = "-30";
-"@MMK_R_o" = "-40";
-"@MMK_R_s" = "-20";
-"@MMK_R_t" = "-40";
-"@MMK_R_u" = "-40";
-"@MMK_R_v" = "-60";
-"@MMK_R_x" = "-16";
-"@MMK_R_z" = "-20";
-X = "-20";
+"@MMK_R_A" = -30;
+"@MMK_R_O" = -30;
+"@MMK_R_T" = -20;
+"@MMK_R_U" = -20;
+"@MMK_R_V" = -40;
+"@MMK_R_Y" = -20;
+"@MMK_R_Z" = -20;
+"@MMK_R_a" = -40;
+"@MMK_R_g" = -50;
+"@MMK_R_j" = -20;
+"@MMK_R_l" = -10;
+"@MMK_R_n" = -30;
+"@MMK_R_o" = -40;
+"@MMK_R_s" = -20;
+"@MMK_R_t" = -40;
+"@MMK_R_u" = -40;
+"@MMK_R_v" = -60;
+"@MMK_R_x" = -16;
+"@MMK_R_z" = -20;
+X = -20;
 };
 "@MMK_L_K.half" = {
-dvCha = "-30";
+dvCha = -30;
 };
 "@MMK_L_K.half.alt" = {
-"@MMK_R_Ma" = "-5";
+"@MMK_R_Ma" = -5;
 };
 "@MMK_L_L" = {
 "@MMK_R_O" = 10;
-"@MMK_R_T" = "-40";
-"@MMK_R_U" = "-30";
-"@MMK_R_V" = "-70";
-"@MMK_R_Y" = "-70";
-"@MMK_R_a" = "-20";
-"@MMK_R_g" = "-20";
-"@MMK_R_n" = "-30";
-"@MMK_R_u" = "-30";
-"@MMK_R_v" = "-50";
+"@MMK_R_T" = -40;
+"@MMK_R_U" = -30;
+"@MMK_R_V" = -70;
+"@MMK_R_Y" = -70;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -20;
+"@MMK_R_n" = -30;
+"@MMK_R_u" = -30;
+"@MMK_R_v" = -50;
 };
 "@MMK_L_O" = {
-"@MMK_R_A" = "-50";
+"@MMK_R_A" = -50;
 "@MMK_R_O" = 40;
-"@MMK_R_T" = "-20";
-"@MMK_R_V" = "-40";
-"@MMK_R_Y" = "-26";
-"@MMK_R_a" = "-16";
-"@MMK_R_g" = "-20";
-"@MMK_R_j" = "-20";
-"@MMK_R_l" = "-26";
-"@MMK_R_n" = "-20";
-"@MMK_R_s" = "-10";
-"@MMK_R_u" = "-10";
-"@MMK_R_x" = "-20";
-"@MMK_R_z" = "-16";
-X = "-30";
+"@MMK_R_T" = -20;
+"@MMK_R_V" = -40;
+"@MMK_R_Y" = -26;
+"@MMK_R_a" = -16;
+"@MMK_R_g" = -20;
+"@MMK_R_j" = -20;
+"@MMK_R_l" = -26;
+"@MMK_R_n" = -20;
+"@MMK_R_s" = -10;
+"@MMK_R_u" = -10;
+"@MMK_R_x" = -20;
+"@MMK_R_z" = -16;
+X = -30;
 };
 "@MMK_L_R" = {
-"@MMK_R_I" = "-10";
-"@MMK_R_O" = "-20";
-"@MMK_R_T" = "-40";
-"@MMK_R_U" = "-30";
-"@MMK_R_V" = "-70";
-"@MMK_R_Y" = "-60";
-"@MMK_R_Z" = "-20";
-"@MMK_R_a" = "-20";
-"@MMK_R_g" = "-30";
-"@MMK_R_j" = "-20";
-"@MMK_R_l" = "-20";
-"@MMK_R_n" = "-20";
-"@MMK_R_o" = "-26";
-"@MMK_R_s" = "-20";
-"@MMK_R_t" = "-20";
-"@MMK_R_u" = "-20";
-"@MMK_R_v" = "-26";
-"@MMK_R_x" = "-16";
-"@MMK_R_z" = "-10";
-J = "-30";
+"@MMK_R_I" = -10;
+"@MMK_R_O" = -20;
+"@MMK_R_T" = -40;
+"@MMK_R_U" = -30;
+"@MMK_R_V" = -70;
+"@MMK_R_Y" = -60;
+"@MMK_R_Z" = -20;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -30;
+"@MMK_R_j" = -20;
+"@MMK_R_l" = -20;
+"@MMK_R_n" = -20;
+"@MMK_R_o" = -26;
+"@MMK_R_s" = -20;
+"@MMK_R_t" = -20;
+"@MMK_R_u" = -20;
+"@MMK_R_v" = -26;
+"@MMK_R_x" = -16;
+"@MMK_R_z" = -10;
+J = -30;
 };
 "@MMK_L_S" = {
-"@MMK_R_A" = "-20";
+"@MMK_R_A" = -20;
 "@MMK_R_O" = 16;
-"@MMK_R_V" = "-10";
-"@MMK_R_Y" = "-20";
-"@MMK_R_a" = "-20";
-"@MMK_R_g" = "-20";
-"@MMK_R_j" = "-26";
-"@MMK_R_l" = "-10";
-"@MMK_R_n" = "-20";
-"@MMK_R_s" = "-10";
-"@MMK_R_t" = "-20";
-"@MMK_R_u" = "-20";
-"@MMK_R_v" = "-26";
-"@MMK_R_x" = "-40";
-"@MMK_R_z" = "-30";
+"@MMK_R_V" = -10;
+"@MMK_R_Y" = -20;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -20;
+"@MMK_R_j" = -26;
+"@MMK_R_l" = -10;
+"@MMK_R_n" = -20;
+"@MMK_R_s" = -10;
+"@MMK_R_t" = -20;
+"@MMK_R_u" = -20;
+"@MMK_R_v" = -26;
+"@MMK_R_x" = -40;
+"@MMK_R_z" = -30;
 };
 "@MMK_L_T" = {
-"@MMK_R_A" = "-50";
-"@MMK_R_I" = "-10";
-"@MMK_R_O" = "-10";
-"@MMK_R_Z" = "-20";
-"@MMK_R_a" = "-60";
-"@MMK_R_g" = "-70";
-"@MMK_R_j" = "-20";
-"@MMK_R_l" = "-20";
-"@MMK_R_n" = "-30";
-"@MMK_R_o" = "-40";
-"@MMK_R_s" = "-40";
-"@MMK_R_u" = "-30";
-"@MMK_R_v" = "-30";
-"@MMK_R_x" = "-20";
-"@MMK_R_z" = "-20";
-X = "-20";
+"@MMK_R_A" = -50;
+"@MMK_R_I" = -10;
+"@MMK_R_O" = -10;
+"@MMK_R_Z" = -20;
+"@MMK_R_a" = -60;
+"@MMK_R_g" = -70;
+"@MMK_R_j" = -20;
+"@MMK_R_l" = -20;
+"@MMK_R_n" = -30;
+"@MMK_R_o" = -40;
+"@MMK_R_s" = -40;
+"@MMK_R_u" = -30;
+"@MMK_R_v" = -30;
+"@MMK_R_x" = -20;
+"@MMK_R_z" = -20;
+X = -20;
 };
 "@MMK_L_U" = {
-"@MMK_R_A" = "-50";
-"@MMK_R_I" = "-10";
-"@MMK_R_V" = "-20";
-"@MMK_R_Z" = "-20";
-"@MMK_R_a" = "-40";
-"@MMK_R_g" = "-40";
-"@MMK_R_j" = "-30";
-"@MMK_R_n" = "-30";
-"@MMK_R_o" = "-20";
-"@MMK_R_s" = "-30";
-"@MMK_R_t" = "-30";
-"@MMK_R_u" = "-40";
-"@MMK_R_v" = "-40";
-"@MMK_R_x" = "-50";
-"@MMK_R_z" = "-40";
-X = "-20";
+"@MMK_R_A" = -50;
+"@MMK_R_I" = -10;
+"@MMK_R_V" = -20;
+"@MMK_R_Z" = -20;
+"@MMK_R_a" = -40;
+"@MMK_R_g" = -40;
+"@MMK_R_j" = -30;
+"@MMK_R_n" = -30;
+"@MMK_R_o" = -20;
+"@MMK_R_s" = -30;
+"@MMK_R_t" = -30;
+"@MMK_R_u" = -40;
+"@MMK_R_v" = -40;
+"@MMK_R_x" = -50;
+"@MMK_R_z" = -40;
+X = -20;
 };
 "@MMK_L_V" = {
-"@MMK_R_A" = "-110";
-"@MMK_R_I" = "-20";
-"@MMK_R_O" = "-36";
-"@MMK_R_S" = "-30";
-"@MMK_R_U" = "-20";
-"@MMK_R_V" = "-20";
-"@MMK_R_Y" = "-30";
-"@MMK_R_Z" = "-40";
-"@MMK_R_a" = "-90";
-"@MMK_R_f" = "-40";
-"@MMK_R_g" = "-100";
-"@MMK_R_j" = "-50";
-"@MMK_R_l" = "-20";
-"@MMK_R_n" = "-80";
-"@MMK_R_o" = "-90";
-"@MMK_R_s" = "-100";
-"@MMK_R_t" = "-60";
-"@MMK_R_u" = "-70";
-"@MMK_R_v" = "-60";
-"@MMK_R_x" = "-80";
-"@MMK_R_z" = "-90";
-J = "-40";
-X = "-20";
+"@MMK_R_A" = -110;
+"@MMK_R_I" = -20;
+"@MMK_R_O" = -36;
+"@MMK_R_S" = -30;
+"@MMK_R_U" = -20;
+"@MMK_R_V" = -20;
+"@MMK_R_Y" = -30;
+"@MMK_R_Z" = -40;
+"@MMK_R_a" = -90;
+"@MMK_R_f" = -40;
+"@MMK_R_g" = -100;
+"@MMK_R_j" = -50;
+"@MMK_R_l" = -20;
+"@MMK_R_n" = -80;
+"@MMK_R_o" = -90;
+"@MMK_R_s" = -100;
+"@MMK_R_t" = -60;
+"@MMK_R_u" = -70;
+"@MMK_R_v" = -60;
+"@MMK_R_x" = -80;
+"@MMK_R_z" = -90;
+J = -40;
+X = -20;
 };
 "@MMK_L_V.half" = {
-"@MMK_R_Da" = "-55";
-"@MMK_R_Dda" = "-15";
-"@MMK_R_Gha" = "-55";
-"@MMK_R_Ja" = "-18";
-"@MMK_R_Ka" = "-40";
-"@MMK_R_La" = "-40";
-"@MMK_R_Ma" = "-10";
-"@MMK_R_Pa" = "-30";
-"@MMK_R_Ra" = "-30";
-"@MMK_R_Va" = "-39";
-"@MMK_R_Ya" = "-30";
-dvSha = "-10";
-dvTha = "-40";
+"@MMK_R_Da" = -55;
+"@MMK_R_Dda" = -15;
+"@MMK_R_Gha" = -55;
+"@MMK_R_Ja" = -18;
+"@MMK_R_Ka" = -40;
+"@MMK_R_La" = -40;
+"@MMK_R_Ma" = -10;
+"@MMK_R_Pa" = -30;
+"@MMK_R_Ra" = -30;
+"@MMK_R_Va" = -39;
+"@MMK_R_Ya" = -30;
+dvSha = -10;
+dvTha = -40;
 };
 "@MMK_L_Y" = {
-"@MMK_R_A" = "-70";
-"@MMK_R_I" = "-30";
-"@MMK_R_O" = "-26";
-"@MMK_R_S" = "-30";
-"@MMK_R_V" = "-30";
-"@MMK_R_Z" = "-30";
-"@MMK_R_a" = "-90";
-"@MMK_R_f" = "-30";
-"@MMK_R_g" = "-100";
-"@MMK_R_j" = "-40";
-"@MMK_R_l" = "-30";
-"@MMK_R_n" = "-50";
-"@MMK_R_o" = "-70";
-"@MMK_R_s" = "-80";
-"@MMK_R_t" = "-50";
-"@MMK_R_u" = "-50";
-"@MMK_R_v" = "-50";
-"@MMK_R_x" = "-70";
-"@MMK_R_z" = "-60";
-X = "-30";
+"@MMK_R_A" = -70;
+"@MMK_R_I" = -30;
+"@MMK_R_O" = -26;
+"@MMK_R_S" = -30;
+"@MMK_R_V" = -30;
+"@MMK_R_Z" = -30;
+"@MMK_R_a" = -90;
+"@MMK_R_f" = -30;
+"@MMK_R_g" = -100;
+"@MMK_R_j" = -40;
+"@MMK_R_l" = -30;
+"@MMK_R_n" = -50;
+"@MMK_R_o" = -70;
+"@MMK_R_s" = -80;
+"@MMK_R_t" = -50;
+"@MMK_R_u" = -50;
+"@MMK_R_v" = -50;
+"@MMK_R_x" = -70;
+"@MMK_R_z" = -60;
+X = -30;
 };
 "@MMK_L_Z" = {
-"@MMK_R_I" = "-20";
-"@MMK_R_T" = "-20";
-"@MMK_R_V" = "-20";
-"@MMK_R_a" = "-20";
-"@MMK_R_g" = "-20";
-"@MMK_R_u" = "-20";
-"@MMK_R_v" = "-20";
-X = "-30";
+"@MMK_R_I" = -20;
+"@MMK_R_T" = -20;
+"@MMK_R_V" = -20;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -20;
+"@MMK_R_u" = -20;
+"@MMK_R_v" = -20;
+X = -30;
 };
 "@MMK_L_a" = {
-"@MMK_R_I" = "-30";
-"@MMK_R_S" = "-20";
-"@MMK_R_T" = "-50";
-"@MMK_R_V" = "-80";
-"@MMK_R_Y" = "-80";
-"@MMK_R_g" = "-10";
-"@MMK_R_n" = "-20";
-"@MMK_R_u" = "-16";
-"@MMK_R_v" = "-20";
-J = "-40";
-X = "-50";
-asterisk = "-80";
-quoteright = "-80";
+"@MMK_R_I" = -30;
+"@MMK_R_S" = -20;
+"@MMK_R_T" = -50;
+"@MMK_R_V" = -80;
+"@MMK_R_Y" = -80;
+"@MMK_R_g" = -10;
+"@MMK_R_n" = -20;
+"@MMK_R_u" = -16;
+"@MMK_R_v" = -20;
+J = -40;
+X = -50;
+asterisk = -80;
+quoteright = -80;
 };
 "@MMK_L_c" = {
-"@MMK_R_T" = "-50";
-"@MMK_R_V" = "-80";
-"@MMK_R_a" = "-20";
-"@MMK_R_g" = "-20";
-"@MMK_R_x" = "-10";
-X = "-40";
+"@MMK_R_T" = -50;
+"@MMK_R_V" = -80;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -20;
+"@MMK_R_x" = -10;
+X = -40;
 };
 "@MMK_L_e" = {
-"@MMK_R_I" = "-40";
-"@MMK_R_T" = "-60";
-"@MMK_R_V" = "-60";
-"@MMK_R_Y" = "-50";
-"@MMK_R_a" = "-10";
-"@MMK_R_n" = "-10";
-"@MMK_R_x" = "-10";
-X = "-40";
+"@MMK_R_I" = -40;
+"@MMK_R_T" = -60;
+"@MMK_R_V" = -60;
+"@MMK_R_Y" = -50;
+"@MMK_R_a" = -10;
+"@MMK_R_n" = -10;
+"@MMK_R_x" = -10;
+X = -40;
 };
 "@MMK_L_f" = {
-"@MMK_R_a" = "-40";
-"@MMK_R_g" = "-26";
-"@MMK_R_o" = "-26";
-"@MMK_R_s" = "-10";
-"@MMK_R_x" = "-10";
-"@MMK_R_z" = "-20";
+"@MMK_R_a" = -40;
+"@MMK_R_g" = -26;
+"@MMK_R_o" = -26;
+"@MMK_R_s" = -10;
+"@MMK_R_x" = -10;
+"@MMK_R_z" = -20;
 asterisk = 40;
-comma = "-40";
-period = "-50";
+comma = -40;
+period = -50;
 };
 "@MMK_L_g" = {
-"@MMK_R_I" = "-30";
-"@MMK_R_T" = "-60";
-"@MMK_R_V" = "-60";
-"@MMK_R_Y" = "-50";
-"@MMK_R_a" = "-20";
-"@MMK_R_o" = "-16";
-"@MMK_R_s" = "-10";
-"@MMK_R_u" = "-10";
-X = "-30";
+"@MMK_R_I" = -30;
+"@MMK_R_T" = -60;
+"@MMK_R_V" = -60;
+"@MMK_R_Y" = -50;
+"@MMK_R_a" = -20;
+"@MMK_R_o" = -16;
+"@MMK_R_s" = -10;
+"@MMK_R_u" = -10;
+X = -30;
 };
 "@MMK_L_i" = {
-"@MMK_R_T" = "-50";
-"@MMK_R_V" = "-80";
-"@MMK_R_Y" = "-60";
-"@MMK_R_a" = "-10";
-"@MMK_R_g" = "-10";
+"@MMK_R_T" = -50;
+"@MMK_R_V" = -80;
+"@MMK_R_Y" = -60;
+"@MMK_R_a" = -10;
+"@MMK_R_g" = -10;
 };
 "@MMK_L_j" = {
-"@MMK_R_V" = "-50";
-"@MMK_R_Y" = "-50";
-"@MMK_R_a" = "-20";
-"@MMK_R_g" = "-10";
-"@MMK_R_v" = "-16";
-"@MMK_R_x" = "-10";
-X = "-20";
+"@MMK_R_V" = -50;
+"@MMK_R_Y" = -50;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -10;
+"@MMK_R_v" = -16;
+"@MMK_R_x" = -10;
+X = -20;
 };
 "@MMK_L_k" = {
-"@MMK_R_I" = "-40";
-"@MMK_R_T" = "-90";
-"@MMK_R_V" = "-80";
-"@MMK_R_Y" = "-90";
-"@MMK_R_a" = "-20";
-"@MMK_R_f" = "-20";
-"@MMK_R_g" = "-26";
-"@MMK_R_j" = "-20";
-"@MMK_R_l" = "-10";
-"@MMK_R_n" = "-20";
-"@MMK_R_o" = "-26";
-"@MMK_R_s" = "-16";
-"@MMK_R_t" = "-20";
-"@MMK_R_u" = "-20";
-"@MMK_R_v" = "-30";
-"@MMK_R_x" = "-30";
-"@MMK_R_z" = "-20";
-X = "-30";
-asterisk = "-50";
-period = "-30";
+"@MMK_R_I" = -40;
+"@MMK_R_T" = -90;
+"@MMK_R_V" = -80;
+"@MMK_R_Y" = -90;
+"@MMK_R_a" = -20;
+"@MMK_R_f" = -20;
+"@MMK_R_g" = -26;
+"@MMK_R_j" = -20;
+"@MMK_R_l" = -10;
+"@MMK_R_n" = -20;
+"@MMK_R_o" = -26;
+"@MMK_R_s" = -16;
+"@MMK_R_t" = -20;
+"@MMK_R_u" = -20;
+"@MMK_R_v" = -30;
+"@MMK_R_x" = -30;
+"@MMK_R_z" = -20;
+X = -30;
+asterisk = -50;
+period = -30;
 };
 "@MMK_L_l" = {
-"@MMK_R_V" = "-60";
-"@MMK_R_Y" = "-40";
-"@MMK_R_a" = "-16";
-"@MMK_R_n" = "-20";
-"@MMK_R_o" = "-16";
-"@MMK_R_v" = "-10";
-X = "-20";
+"@MMK_R_V" = -60;
+"@MMK_R_Y" = -40;
+"@MMK_R_a" = -16;
+"@MMK_R_n" = -20;
+"@MMK_R_o" = -16;
+"@MMK_R_v" = -10;
+X = -20;
 };
 "@MMK_L_n" = {
-"@MMK_R_I" = "-30";
-"@MMK_R_T" = "-80";
-"@MMK_R_V" = "-90";
-"@MMK_R_Y" = "-110";
-"@MMK_R_a" = "-16";
-"@MMK_R_g" = "-20";
-"@MMK_R_o" = "-16";
-"@MMK_R_v" = "-26";
-X = "-40";
-asterisk = "-50";
-quoteright = "-40";
+"@MMK_R_I" = -30;
+"@MMK_R_T" = -80;
+"@MMK_R_V" = -90;
+"@MMK_R_Y" = -110;
+"@MMK_R_a" = -16;
+"@MMK_R_g" = -20;
+"@MMK_R_o" = -16;
+"@MMK_R_v" = -26;
+X = -40;
+asterisk = -50;
+quoteright = -40;
 };
 "@MMK_L_o" = {
-"@MMK_R_A" = "-20";
-"@MMK_R_I" = "-40";
-"@MMK_R_T" = "-70";
-"@MMK_R_V" = "-80";
-"@MMK_R_Y" = "-80";
-"@MMK_R_a" = "-20";
-"@MMK_R_g" = "-10";
-"@MMK_R_j" = "-10";
-"@MMK_R_l" = "-16";
+"@MMK_R_A" = -20;
+"@MMK_R_I" = -40;
+"@MMK_R_T" = -70;
+"@MMK_R_V" = -80;
+"@MMK_R_Y" = -80;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -10;
+"@MMK_R_j" = -10;
+"@MMK_R_l" = -16;
 "@MMK_R_n" = 0;
-"@MMK_R_v" = "-20";
-"@MMK_R_x" = "-20";
-"@MMK_R_z" = "-20";
-X = "-60";
-asterisk = "-30";
-comma = "-20";
-period = "-30";
-quoteright = "-30";
+"@MMK_R_v" = -20;
+"@MMK_R_x" = -20;
+"@MMK_R_z" = -20;
+X = -60;
+asterisk = -30;
+comma = -20;
+period = -30;
+quoteright = -30;
 };
 "@MMK_L_r" = {
-"@MMK_R_A" = "-50";
-"@MMK_R_I" = "-40";
-"@MMK_R_T" = "-40";
-"@MMK_R_V" = "-80";
-"@MMK_R_Y" = "-60";
-"@MMK_R_a" = "-20";
-"@MMK_R_o" = "-10";
-X = "-70";
-comma = "-70";
-period = "-80";
+"@MMK_R_A" = -50;
+"@MMK_R_I" = -40;
+"@MMK_R_T" = -40;
+"@MMK_R_V" = -80;
+"@MMK_R_Y" = -60;
+"@MMK_R_a" = -20;
+"@MMK_R_o" = -10;
+X = -70;
+comma = -70;
+period = -80;
 semicolon = 20;
 };
 "@MMK_L_s" = {
-"@MMK_R_A" = "-40";
-"@MMK_R_I" = "-30";
-"@MMK_R_T" = "-50";
-"@MMK_R_V" = "-80";
-"@MMK_R_Y" = "-80";
-"@MMK_R_a" = "-10";
-"@MMK_R_g" = "-10";
-"@MMK_R_l" = "-10";
-"@MMK_R_z" = "-10";
-X = "-60";
-quoteright = "-40";
+"@MMK_R_A" = -40;
+"@MMK_R_I" = -30;
+"@MMK_R_T" = -50;
+"@MMK_R_V" = -80;
+"@MMK_R_Y" = -80;
+"@MMK_R_a" = -10;
+"@MMK_R_g" = -10;
+"@MMK_R_l" = -10;
+"@MMK_R_z" = -10;
+X = -60;
+quoteright = -40;
 };
 "@MMK_L_t" = {
-"@MMK_R_V" = "-70";
-"@MMK_R_Y" = "-70";
-"@MMK_R_g" = "-10";
-X = "-40";
+"@MMK_R_V" = -70;
+"@MMK_R_Y" = -70;
+"@MMK_R_g" = -10;
+X = -40;
 };
 "@MMK_L_u" = {
-"@MMK_R_I" = "-30";
-"@MMK_R_T" = "-50";
-"@MMK_R_V" = "-80";
-"@MMK_R_Y" = "-60";
-"@MMK_R_a" = "-10";
-"@MMK_R_g" = "-10";
-"@MMK_R_v" = "-30";
-"@MMK_R_z" = "-10";
-X = "-30";
-asterisk = "-50";
-quoteright = "-80";
+"@MMK_R_I" = -30;
+"@MMK_R_T" = -50;
+"@MMK_R_V" = -80;
+"@MMK_R_Y" = -60;
+"@MMK_R_a" = -10;
+"@MMK_R_g" = -10;
+"@MMK_R_v" = -30;
+"@MMK_R_z" = -10;
+X = -30;
+asterisk = -50;
+quoteright = -80;
 };
 "@MMK_L_v" = {
-"@MMK_R_A" = "-40";
-"@MMK_R_I" = "-30";
-"@MMK_R_V" = "-80";
-"@MMK_R_Y" = "-40";
-"@MMK_R_a" = "-16";
-"@MMK_R_g" = "-20";
-"@MMK_R_l" = "-10";
-"@MMK_R_o" = "-20";
+"@MMK_R_A" = -40;
+"@MMK_R_I" = -30;
+"@MMK_R_V" = -80;
+"@MMK_R_Y" = -40;
+"@MMK_R_a" = -16;
+"@MMK_R_g" = -20;
+"@MMK_R_l" = -10;
+"@MMK_R_o" = -20;
 "@MMK_R_u" = 10;
-"@MMK_R_v" = "-20";
-X = "-70";
-comma = "-40";
-period = "-80";
+"@MMK_R_v" = -20;
+X = -70;
+comma = -40;
+period = -80;
 };
 "@MMK_L_x" = {
-"@MMK_R_I" = "-30";
-"@MMK_R_T" = "-30";
-"@MMK_R_V" = "-70";
-"@MMK_R_Y" = "-50";
-"@MMK_R_a" = "-10";
-"@MMK_R_o" = "-20";
-"@MMK_R_u" = "-20";
-X = "-10";
+"@MMK_R_I" = -30;
+"@MMK_R_T" = -30;
+"@MMK_R_V" = -70;
+"@MMK_R_Y" = -50;
+"@MMK_R_a" = -10;
+"@MMK_R_o" = -20;
+"@MMK_R_u" = -20;
+X = -10;
 };
 "@MMK_L_y" = {
-"@MMK_R_A" = "-80";
-"@MMK_R_I" = "-40";
-"@MMK_R_V" = "-70";
-"@MMK_R_Y" = "-50";
-"@MMK_R_a" = "-20";
-"@MMK_R_g" = "-20";
-"@MMK_R_l" = "-10";
-"@MMK_R_o" = "-20";
-X = "-50";
-comma = "-60";
-period = "-80";
+"@MMK_R_A" = -80;
+"@MMK_R_I" = -40;
+"@MMK_R_V" = -70;
+"@MMK_R_Y" = -50;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -20;
+"@MMK_R_l" = -10;
+"@MMK_R_o" = -20;
+X = -50;
+comma = -60;
+period = -80;
 };
 "@MMK_L_z" = {
-"@MMK_R_I" = "-40";
-"@MMK_R_Y" = "-40";
-"@MMK_R_a" = "-10";
-"@MMK_R_o" = "-10";
+"@MMK_R_I" = -40;
+"@MMK_R_Y" = -40;
+"@MMK_R_a" = -10;
+"@MMK_R_o" = -10;
 };
 B = {
-"@MMK_R_A" = "-40";
+"@MMK_R_A" = -40;
 "@MMK_R_O" = 20;
-"@MMK_R_U" = "-20";
-"@MMK_R_V" = "-40";
-"@MMK_R_Y" = "-30";
-"@MMK_R_a" = "-20";
-"@MMK_R_g" = "-25";
-"@MMK_R_j" = "-20";
-"@MMK_R_l" = "-30";
-"@MMK_R_n" = "-20";
-"@MMK_R_s" = "-15";
-"@MMK_R_t" = "-10";
-"@MMK_R_u" = "-20";
-"@MMK_R_v" = "-15";
-"@MMK_R_x" = "-20";
-"@MMK_R_z" = "-10";
-X = "-30";
+"@MMK_R_U" = -20;
+"@MMK_R_V" = -40;
+"@MMK_R_Y" = -30;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -25;
+"@MMK_R_j" = -20;
+"@MMK_R_l" = -30;
+"@MMK_R_n" = -20;
+"@MMK_R_s" = -15;
+"@MMK_R_t" = -10;
+"@MMK_R_u" = -20;
+"@MMK_R_v" = -15;
+"@MMK_R_x" = -20;
+"@MMK_R_z" = -10;
+X = -30;
 };
 F = {
-"@MMK_R_A" = "-100";
-"@MMK_R_I" = "-30";
-"@MMK_R_O" = "-20";
-"@MMK_R_S" = "-30";
-"@MMK_R_U" = "-20";
-"@MMK_R_V" = "-20";
-"@MMK_R_Z" = "-30";
-"@MMK_R_a" = "-80";
-"@MMK_R_b" = "-20";
-"@MMK_R_f" = "-30";
-"@MMK_R_g" = "-80";
-"@MMK_R_j" = "-50";
-"@MMK_R_l" = "-40";
-"@MMK_R_n" = "-50";
-"@MMK_R_o" = "-60";
-"@MMK_R_s" = "-50";
-"@MMK_R_t" = "-30";
-"@MMK_R_u" = "-45";
-"@MMK_R_v" = "-50";
-"@MMK_R_x" = "-60";
-"@MMK_R_z" = "-60";
-J = "-30";
-X = "-40";
+"@MMK_R_A" = -100;
+"@MMK_R_I" = -30;
+"@MMK_R_O" = -20;
+"@MMK_R_S" = -30;
+"@MMK_R_U" = -20;
+"@MMK_R_V" = -20;
+"@MMK_R_Z" = -30;
+"@MMK_R_a" = -80;
+"@MMK_R_b" = -20;
+"@MMK_R_f" = -30;
+"@MMK_R_g" = -80;
+"@MMK_R_j" = -50;
+"@MMK_R_l" = -40;
+"@MMK_R_n" = -50;
+"@MMK_R_o" = -60;
+"@MMK_R_s" = -50;
+"@MMK_R_t" = -30;
+"@MMK_R_u" = -45;
+"@MMK_R_v" = -50;
+"@MMK_R_x" = -60;
+"@MMK_R_z" = -60;
+J = -30;
+X = -40;
 };
 J = {
-"@MMK_R_A" = "-50";
-"@MMK_R_I" = "-30";
-"@MMK_R_V" = "-20";
-"@MMK_R_a" = "-50";
-"@MMK_R_g" = "-35";
-"@MMK_R_n" = "-20";
-"@MMK_R_o" = "-25";
-"@MMK_R_u" = "-20";
-"@MMK_R_v" = "-20";
-"@MMK_R_x" = "-20";
-"@MMK_R_z" = "-20";
+"@MMK_R_A" = -50;
+"@MMK_R_I" = -30;
+"@MMK_R_V" = -20;
+"@MMK_R_a" = -50;
+"@MMK_R_g" = -35;
+"@MMK_R_n" = -20;
+"@MMK_R_o" = -25;
+"@MMK_R_u" = -20;
+"@MMK_R_v" = -20;
+"@MMK_R_x" = -20;
+"@MMK_R_z" = -20;
 };
 P = {
-"@MMK_R_A" = "-70";
-"@MMK_R_I" = "-30";
+"@MMK_R_A" = -70;
+"@MMK_R_I" = -30;
 "@MMK_R_O" = 5;
-"@MMK_R_T" = "-10";
-"@MMK_R_U" = "-10";
-"@MMK_R_V" = "-40";
-"@MMK_R_Y" = "-40";
-"@MMK_R_Z" = "-20";
-"@MMK_R_a" = "-40";
-"@MMK_R_g" = "-40";
-"@MMK_R_l" = "-25";
-"@MMK_R_o" = "-30";
-"@MMK_R_s" = "-30";
-"@MMK_R_x" = "-30";
-"@MMK_R_z" = "-30";
-J = "-40";
-X = "-40";
+"@MMK_R_T" = -10;
+"@MMK_R_U" = -10;
+"@MMK_R_V" = -40;
+"@MMK_R_Y" = -40;
+"@MMK_R_Z" = -20;
+"@MMK_R_a" = -40;
+"@MMK_R_g" = -40;
+"@MMK_R_l" = -25;
+"@MMK_R_o" = -30;
+"@MMK_R_s" = -30;
+"@MMK_R_x" = -30;
+"@MMK_R_z" = -30;
+J = -40;
+X = -40;
 };
 Q = {
-"@MMK_R_Y" = "-55";
+"@MMK_R_Y" = -55;
 };
 X = {
-"@MMK_R_A" = "-30";
-"@MMK_R_T" = "-20";
-"@MMK_R_U" = "-10";
-"@MMK_R_V" = "-40";
-"@MMK_R_Y" = "-30";
-"@MMK_R_Z" = "-20";
-"@MMK_R_a" = "-40";
-"@MMK_R_g" = "-40";
-"@MMK_R_j" = "-20";
-"@MMK_R_l" = "-20";
-"@MMK_R_n" = "-30";
-"@MMK_R_o" = "-20";
-"@MMK_R_s" = "-30";
-"@MMK_R_t" = "-40";
-"@MMK_R_u" = "-50";
-"@MMK_R_v" = "-50";
+"@MMK_R_A" = -30;
+"@MMK_R_T" = -20;
+"@MMK_R_U" = -10;
+"@MMK_R_V" = -40;
+"@MMK_R_Y" = -30;
+"@MMK_R_Z" = -20;
+"@MMK_R_a" = -40;
+"@MMK_R_g" = -40;
+"@MMK_R_j" = -20;
+"@MMK_R_l" = -20;
+"@MMK_R_n" = -30;
+"@MMK_R_o" = -20;
+"@MMK_R_s" = -30;
+"@MMK_R_t" = -40;
+"@MMK_R_u" = -50;
+"@MMK_R_v" = -50;
 };
 dvB = {
-"@MMK_R_Da" = "-55";
-"@MMK_R_Dda" = "-15";
-"@MMK_R_Gha" = "-55";
-"@MMK_R_Ja" = "-32.5";
-"@MMK_R_Ka" = "-40";
-"@MMK_R_La" = "-40";
-"@MMK_R_Ma" = "-10";
-"@MMK_R_Pa" = "-30";
-"@MMK_R_Ra" = "-30";
-"@MMK_R_Va" = "-33.5";
-"@MMK_R_Ya" = "-30";
-dvSha = "-25";
-dvTha = "-40";
+"@MMK_R_Da" = -55;
+"@MMK_R_Dda" = -15;
+"@MMK_R_Gha" = -55;
+"@MMK_R_Ja" = -32.5;
+"@MMK_R_Ka" = -40;
+"@MMK_R_La" = -40;
+"@MMK_R_Ma" = -10;
+"@MMK_R_Pa" = -30;
+"@MMK_R_Ra" = -30;
+"@MMK_R_Va" = -33.5;
+"@MMK_R_Ya" = -30;
+dvSha = -25;
+dvTha = -40;
 };
 dvC = {
 "@MMK_R_Ka" = 15;
 "@MMK_R_La" = 6.5;
-"@MMK_R_Ma" = "-15";
-"@MMK_R_Pa" = "-15";
+"@MMK_R_Ma" = -15;
+"@MMK_R_Pa" = -15;
 "@MMK_R_Va" = 10;
-dvCa = "-67.5";
+dvCa = -67.5;
 };
 dvDh = {
-"@MMK_R_Da" = "-30";
-"@MMK_R_Ja" = "-15";
-"@MMK_R_La" = "-10";
-"@MMK_R_Ma" = "-30";
-"@MMK_R_Pa" = "-50";
-"@MMK_R_Ra" = "-40";
-"@MMK_R_Ya" = "-20";
-dvCa = "-45";
-dvCha = "-30";
+"@MMK_R_Da" = -30;
+"@MMK_R_Ja" = -15;
+"@MMK_R_La" = -10;
+"@MMK_R_Ma" = -30;
+"@MMK_R_Pa" = -50;
+"@MMK_R_Ra" = -40;
+"@MMK_R_Ya" = -20;
+dvCa = -45;
+dvCha = -30;
 };
 dvEight = {
-dvEight.ss05 = "-30";
-dvFive = "-5";
-dvFive.ss05 = "-5";
-dvNine = "-25";
-dvNine.ss05 = "-5";
-dvOne = "-10";
-dvOne.ss05 = "-10";
+dvEight.ss05 = -30;
+dvFive = -5;
+dvFive.ss05 = -5;
+dvNine = -25;
+dvNine.ss05 = -5;
+dvOne = -10;
+dvOne.ss05 = -10;
 dvSeven = 5;
-dvSix = "-10";
-dvThree = "-5";
-dvZero = "-35";
+dvSix = -10;
+dvThree = -5;
+dvZero = -35;
 };
 dvEight.ss05 = {
 dvEight = 25;
 dvFive = 10;
 dvFive.ss05 = 15;
 dvFour = 5;
-dvNine = "-10";
+dvNine = -10;
 dvNine.ss05 = 10;
 dvOne = 15;
 dvSeven = 12.5;
@@ -62467,202 +62142,202 @@ dvZero = 5;
 };
 dvFive = {
 dvEight = 5;
-dvEight.ss05 = "-10";
-dvFour = "-30";
-dvNine = "-30";
+dvEight.ss05 = -10;
+dvFour = -30;
+dvNine = -30;
 dvNine.ss05 = 0;
-dvOne = "-10";
-dvOne.ss05 = "-20";
-dvSeven = "-5";
-dvSix = "-5";
-dvThree = "-15";
-dvTwo = "-10";
-dvZero = "-20";
+dvOne = -10;
+dvOne.ss05 = -20;
+dvSeven = -5;
+dvSix = -5;
+dvThree = -15;
+dvTwo = -10;
+dvZero = -20;
 };
 dvFive.ss05 = {
-dvEight = "-20";
-dvEight.ss05 = "-15";
+dvEight = -20;
+dvEight.ss05 = -15;
 dvFive = 10;
-dvFive.ss05 = "-10";
+dvFive.ss05 = -10;
 dvFour = 10;
-dvNine = "-5";
-dvNine.ss05 = "-10";
-dvOne = "-5";
-dvOne.ss05 = "-5";
+dvNine = -5;
+dvNine.ss05 = -10;
+dvOne = -5;
+dvOne.ss05 = -5;
 dvSeven = 10;
-dvSix = "-10";
+dvSix = -10;
 dvThree = 0;
 dvTwo = 2.5;
-dvZero = "-30";
+dvZero = -30;
 };
 dvFour = {
-dvEight = "-10";
+dvEight = -10;
 dvEight.ss05 = 0;
 dvFive = 10;
 dvFive.ss05 = 5;
 dvFour = 10;
 dvNine = 10;
-dvNine.ss05 = "-5";
+dvNine.ss05 = -5;
 dvOne = 5;
 dvOne.ss05 = 10;
 dvSeven = 35;
 dvSix = 10;
 dvThree = 0;
 dvTwo = 5;
-dvZero = "-30";
+dvZero = -30;
 };
 dvG = {
-"@MMK_R_Da" = "-15";
-"@MMK_R_Dda" = "-35";
-"@MMK_R_Gha" = "-15";
-"@MMK_R_Ka" = "-10";
-"@MMK_R_Ma" = "-15";
-"@MMK_R_Na" = "-10";
-"@MMK_R_Ra" = "-10";
-"@MMK_R_Ya" = "-15";
-dvNa = "-20";
+"@MMK_R_Da" = -15;
+"@MMK_R_Dda" = -35;
+"@MMK_R_Gha" = -15;
+"@MMK_R_Ka" = -10;
+"@MMK_R_Ma" = -15;
+"@MMK_R_Na" = -10;
+"@MMK_R_Ra" = -10;
+"@MMK_R_Ya" = -15;
+dvNa = -20;
 };
 dvGh = {
-"@MMK_R_Gha" = "-60";
+"@MMK_R_Gha" = -60;
 "@MMK_R_Ka" = 10;
 "@MMK_R_La" = 5;
-"@MMK_R_Ma" = "-10";
-"@MMK_R_Pa" = "-15";
+"@MMK_R_Ma" = -10;
+"@MMK_R_Pa" = -15;
 "@MMK_R_Va" = 5;
-"@MMK_R_Ya" = "-5";
-dvCa = "-60";
-dvCha = "-10";
+"@MMK_R_Ya" = -5;
+dvCa = -60;
+dvCha = -10;
 };
 dvH = {
-"@MMK_R_Da" = "-25";
-"@MMK_R_Dda" = "-30";
-"@MMK_R_Gha" = "-40";
-"@MMK_R_Ja" = "-30";
-"@MMK_R_Ka" = "-20";
-"@MMK_R_La" = "-12.5";
-"@MMK_R_Ma" = "-40";
-"@MMK_R_Pa" = "-40";
-"@MMK_R_Ra" = "-50";
-"@MMK_R_Va" = "-25";
-"@MMK_R_Ya" = "-25";
-dvDda = "-45";
-dvNa = "-45";
-dvNnna = "-45";
+"@MMK_R_Da" = -25;
+"@MMK_R_Dda" = -30;
+"@MMK_R_Gha" = -40;
+"@MMK_R_Ja" = -30;
+"@MMK_R_Ka" = -20;
+"@MMK_R_La" = -12.5;
+"@MMK_R_Ma" = -40;
+"@MMK_R_Pa" = -40;
+"@MMK_R_Ra" = -50;
+"@MMK_R_Va" = -25;
+"@MMK_R_Ya" = -25;
+dvDda = -45;
+dvNa = -45;
+dvNnna = -45;
 };
 dvJ = {
-"@MMK_R_Dda" = "-20";
+"@MMK_R_Dda" = -20;
 };
 dvJ.alt = {
-"@MMK_R_Ra" = "-10";
+"@MMK_R_Ra" = -10;
 };
 dvJh = {
-"@MMK_R_Da" = "-15";
-"@MMK_R_Dda" = "-50";
-"@MMK_R_La" = "-15";
-"@MMK_R_Pa" = "-60";
-"@MMK_R_Ra" = "-20";
-"@MMK_R_Ya" = "-15";
+"@MMK_R_Da" = -15;
+"@MMK_R_Dda" = -50;
+"@MMK_R_La" = -15;
+"@MMK_R_Pa" = -60;
+"@MMK_R_Ra" = -20;
+"@MMK_R_Ya" = -15;
 };
 dvK = {
-"@MMK_R_Da" = "-25";
-"@MMK_R_Dda" = "-55";
-"@MMK_R_Ja" = "-2.5";
-"@MMK_R_La" = "-20";
-"@MMK_R_Pa" = "-55";
-"@MMK_R_Va" = "-20";
-dvDddha = "-75";
+"@MMK_R_Da" = -25;
+"@MMK_R_Dda" = -55;
+"@MMK_R_Ja" = -2.5;
+"@MMK_R_La" = -20;
+"@MMK_R_Pa" = -55;
+"@MMK_R_Va" = -20;
+dvDddha = -75;
 };
 dvL = {
-"@MMK_R_Da" = "-30";
-"@MMK_R_Dda" = "-15";
+"@MMK_R_Da" = -30;
+"@MMK_R_Dda" = -15;
 "@MMK_R_Ja" = 10;
-"@MMK_R_Ka" = "-10";
-"@MMK_R_La" = "-25";
-"@MMK_R_Pa" = "-20";
-"@MMK_R_Va" = "-5";
+"@MMK_R_Ka" = -10;
+"@MMK_R_La" = -25;
+"@MMK_R_Pa" = -20;
+"@MMK_R_Va" = -5;
 };
 dvL.alt = {
-"@MMK_R_Ma" = "-10";
-"@MMK_R_Ra" = "-10";
-dvBha = "-25";
+"@MMK_R_Ma" = -10;
+"@MMK_R_Ra" = -10;
+dvBha = -25;
 };
 dvL.alt1 = {
 dvSha.MAR = 20;
 };
 dvM = {
-"@MMK_R_Da" = "-25";
-"@MMK_R_Dda" = "-50";
-"@MMK_R_Gha" = "-50";
-"@MMK_R_Ka" = "-22.5";
-"@MMK_R_La" = "-25";
-"@MMK_R_Ma" = "-45";
-"@MMK_R_Pa" = "-50";
-"@MMK_R_Ra" = "-25";
-"@MMK_R_Va" = "-15";
-"@MMK_R_Ya" = "-35";
-dvCa = "-70";
-dvCha = "-44";
-dvTha = "-25";
+"@MMK_R_Da" = -25;
+"@MMK_R_Dda" = -50;
+"@MMK_R_Gha" = -50;
+"@MMK_R_Ka" = -22.5;
+"@MMK_R_La" = -25;
+"@MMK_R_Ma" = -45;
+"@MMK_R_Pa" = -50;
+"@MMK_R_Ra" = -25;
+"@MMK_R_Va" = -15;
+"@MMK_R_Ya" = -35;
+dvCa = -70;
+dvCha = -44;
+dvTha = -25;
 };
 dvN = {
-"@MMK_R_Da" = "-15";
-"@MMK_R_Dda" = "-35";
+"@MMK_R_Da" = -15;
+"@MMK_R_Dda" = -35;
 };
 dvN.alt = {
-"@MMK_R_Gha" = "-40";
+"@MMK_R_Gha" = -40;
 };
 dvNine = {
 dvEight = 5;
-dvEight.ss05 = "-15";
-dvFive = "-5";
+dvEight.ss05 = -15;
+dvFive = -5;
 dvFive.ss05 = 10;
-dvFour = "-10";
-dvNine = "-25";
-dvNine.ss05 = "-5";
-dvOne = "-10";
-dvOne.ss05 = "-15";
-dvSeven = "-5";
+dvFour = -10;
+dvNine = -25;
+dvNine.ss05 = -5;
+dvOne = -10;
+dvOne.ss05 = -15;
+dvSeven = -5;
 dvSix = 5;
-dvTwo = "-5";
-dvZero = "-30";
+dvTwo = -5;
+dvZero = -30;
 };
 dvNine.ss05 = {
 dvEight = 15;
-dvEight.ss05 = "-20";
+dvEight.ss05 = -20;
 dvFive = 10;
 dvFive.ss05 = 25;
 dvFour = 10;
-dvNine = "-5";
+dvNine = -5;
 dvOne = 10;
-dvOne.ss05 = "-5";
+dvOne.ss05 = -5;
 dvSeven = 10;
 dvSix = 5;
 dvThree = 10;
 dvTwo = 15;
-dvZero = "-20";
+dvZero = -20;
 };
 dvNn = {
-"@MMK_R_Da" = "-10";
-"@MMK_R_Dda" = "-20";
-"@MMK_R_Ka" = "-10";
-"@MMK_R_La" = "-15";
-"@MMK_R_Ra" = "-30";
-"@MMK_R_Va" = "-15";
-"@MMK_R_Ya" = "-10";
-dvSha = "-30";
-dvSha.MAR = "-25";
+"@MMK_R_Da" = -10;
+"@MMK_R_Dda" = -20;
+"@MMK_R_Ka" = -10;
+"@MMK_R_La" = -15;
+"@MMK_R_Ra" = -30;
+"@MMK_R_Va" = -15;
+"@MMK_R_Ya" = -10;
+dvSha = -30;
+dvSha.MAR = -25;
 };
 dvNy = {
-"@MMK_R_Da" = "-45";
-"@MMK_R_Dda" = "-45";
-"@MMK_R_Ja" = "-15";
-"@MMK_R_La" = "-20";
-"@MMK_R_Pa" = "-45";
-"@MMK_R_Ra" = "-25";
-"@MMK_R_Va" = "-15";
-"@MMK_R_Ya" = "-20";
-dvCa = "-95";
-dvCha = "-30";
+"@MMK_R_Da" = -45;
+"@MMK_R_Dda" = -45;
+"@MMK_R_Ja" = -15;
+"@MMK_R_La" = -20;
+"@MMK_R_Pa" = -45;
+"@MMK_R_Ra" = -25;
+"@MMK_R_Va" = -15;
+"@MMK_R_Ya" = -20;
+dvCa = -95;
+dvCha = -30;
 };
 dvOne = {
 dvEight.ss05 = 5;
@@ -62675,152 +62350,152 @@ dvSeven = 20;
 dvSix = 20;
 dvThree = 10;
 dvTwo = 5;
-dvZero = "-15";
+dvZero = -15;
 };
 dvOne.ss05 = {
 dvFive = 15;
-dvFive.ss05 = "-10";
-dvFour = "-10";
+dvFive.ss05 = -10;
+dvFour = -10;
 dvNine.ss05 = 5;
 dvSeven = 15;
 dvSix = 7.5;
-dvThree = "-5";
-dvTwo = "-5";
+dvThree = -5;
+dvTwo = -5;
 };
 dvP = {
-"@MMK_R_Da" = "-25";
-"@MMK_R_Gha" = "-35";
-"@MMK_R_La" = "-18.5";
-"@MMK_R_Ma" = "-40";
-"@MMK_R_Pa" = "-25";
-"@MMK_R_Ra" = "-35";
-"@MMK_R_Va" = "-22.5";
-"@MMK_R_Ya" = "-35";
-dvCa = "-77.5";
-dvCha = "-40";
+"@MMK_R_Da" = -25;
+"@MMK_R_Gha" = -35;
+"@MMK_R_La" = -18.5;
+"@MMK_R_Ma" = -40;
+"@MMK_R_Pa" = -25;
+"@MMK_R_Ra" = -35;
+"@MMK_R_Va" = -22.5;
+"@MMK_R_Ya" = -35;
+dvCa = -77.5;
+dvCha = -40;
 };
 dvPh = {
-"@MMK_R_Da" = "-15";
-"@MMK_R_Dda" = "-50";
-"@MMK_R_La" = "-20";
-"@MMK_R_Pa" = "-52.5";
-"@MMK_R_Va" = "-10";
-dvCha = "-30";
-dvDda = "-65";
-dvJha = "-45";
+"@MMK_R_Da" = -15;
+"@MMK_R_Dda" = -50;
+"@MMK_R_La" = -20;
+"@MMK_R_Pa" = -52.5;
+"@MMK_R_Va" = -10;
+dvCha = -30;
+dvDda = -65;
+dvJha = -45;
 };
 dvPh.alt = {
-"@MMK_R_Gha" = "-50";
-"@MMK_R_Ma" = "-5";
-"@MMK_R_Ra" = "-20";
-"@MMK_R_Ya" = "-25";
+"@MMK_R_Gha" = -50;
+"@MMK_R_Ma" = -5;
+"@MMK_R_Ra" = -20;
+"@MMK_R_Ya" = -25;
 };
 dvS = {
-"@MMK_R_Da" = "-10";
-"@MMK_R_Dda" = "-35";
-"@MMK_R_Ka" = "-10";
-"@MMK_R_La" = "-10";
-"@MMK_R_Ma" = "-35";
-"@MMK_R_Pa" = "-25";
-"@MMK_R_Ra" = "-45";
-"@MMK_R_Va" = "-22.5";
-"@MMK_R_Ya" = "-20";
-dvCa = "-30";
-dvCha = "-15";
-dvDda = "-42.5";
+"@MMK_R_Da" = -10;
+"@MMK_R_Dda" = -35;
+"@MMK_R_Ka" = -10;
+"@MMK_R_La" = -10;
+"@MMK_R_Ma" = -35;
+"@MMK_R_Pa" = -25;
+"@MMK_R_Ra" = -45;
+"@MMK_R_Va" = -22.5;
+"@MMK_R_Ya" = -20;
+dvCa = -30;
+dvCha = -15;
+dvDda = -42.5;
 };
 dvSeven = {
 dvEight = 10;
-dvEight.ss05 = "-15";
+dvEight.ss05 = -15;
 dvFive = 12.5;
-dvFour = "-12.5";
-dvNine = "-10";
+dvFour = -12.5;
+dvNine = -10;
 dvNine.ss05 = 10;
 dvOne = 5;
-dvOne.ss05 = "-10";
-dvSeven = "-10";
+dvOne.ss05 = -10;
+dvSeven = -10;
 dvSix = 5;
 dvTwo = 0;
 dvZero = 5;
 };
 dvSh = {
-"@MMK_R_Da" = "-5";
-"@MMK_R_Dda" = "-25";
-"@MMK_R_Gha" = "-20";
-"@MMK_R_Ka" = "-20";
-"@MMK_R_La" = "-5";
-"@MMK_R_Ma" = "-15";
-"@MMK_R_Pa" = "-15";
-"@MMK_R_Ra" = "-30";
-"@MMK_R_Va" = "-15";
-dvCa = "-10";
-dvDda = "-15";
-dvDdha = "-25";
-dvSha = "-35";
+"@MMK_R_Da" = -5;
+"@MMK_R_Dda" = -25;
+"@MMK_R_Gha" = -20;
+"@MMK_R_Ka" = -20;
+"@MMK_R_La" = -5;
+"@MMK_R_Ma" = -15;
+"@MMK_R_Pa" = -15;
+"@MMK_R_Ra" = -30;
+"@MMK_R_Va" = -15;
+dvCa = -10;
+dvDda = -15;
+dvDdha = -25;
+dvSha = -35;
 };
 dvSh.MAR = {
-"@MMK_R_Ka" = "-10";
-"@MMK_R_Pa" = "-25";
-"@MMK_R_Ra" = "-5";
+"@MMK_R_Ka" = -10;
+"@MMK_R_Pa" = -25;
+"@MMK_R_Ra" = -5;
 };
 dvSix = {
 dvEight = 0;
-dvEight.ss05 = "-25";
-dvFive = "-10";
-dvFour = "-10";
-dvNine = "-30";
-dvNine.ss05 = "-20";
-dvOne = "-10";
-dvOne.ss05 = "-20";
-dvSeven = "-5";
-dvSix = "-15";
-dvThree = "-10";
-dvTwo = "-15";
-dvZero = "-50";
+dvEight.ss05 = -25;
+dvFive = -10;
+dvFour = -10;
+dvNine = -30;
+dvNine.ss05 = -20;
+dvOne = -10;
+dvOne.ss05 = -20;
+dvSeven = -5;
+dvSix = -15;
+dvThree = -10;
+dvTwo = -15;
+dvZero = -50;
 };
 dvSs = {
-"@MMK_R_Da" = "-40";
-"@MMK_R_Dda" = "-45";
-"@MMK_R_Ka" = "-15";
-"@MMK_R_La" = "-28";
-"@MMK_R_Ma" = "-40";
-"@MMK_R_Pa" = "-30";
-"@MMK_R_Ra" = "-35";
-"@MMK_R_Va" = "-35";
-"@MMK_R_Ya" = "-49";
+"@MMK_R_Da" = -40;
+"@MMK_R_Dda" = -45;
+"@MMK_R_Ka" = -15;
+"@MMK_R_La" = -28;
+"@MMK_R_Ma" = -40;
+"@MMK_R_Pa" = -30;
+"@MMK_R_Ra" = -35;
+"@MMK_R_Va" = -35;
+"@MMK_R_Ya" = -49;
 };
 dvT = {
-"@MMK_R_Dda" = "-32.5";
-"@MMK_R_Gha" = "-30";
+"@MMK_R_Dda" = -32.5;
+"@MMK_R_Gha" = -30;
 };
 dvTa = {
 "@MMK_R_Pa" = 0;
 };
 dvTh = {
-"@MMK_R_Da" = "-15";
-"@MMK_R_Ja" = "-20";
-"@MMK_R_La" = "-15";
-"@MMK_R_Ma" = "-20";
-"@MMK_R_Ra" = "-20";
-"@MMK_R_Ya" = "-15";
+"@MMK_R_Da" = -15;
+"@MMK_R_Ja" = -20;
+"@MMK_R_La" = -15;
+"@MMK_R_Ma" = -20;
+"@MMK_R_Ra" = -20;
+"@MMK_R_Ya" = -15;
 };
 dvThree = {
-dvEight = "-5";
-dvEight.ss05 = "-20";
-dvFour = "-15";
-dvNine = "-15.5";
-dvNine.ss05 = "-10";
-dvOne.ss05 = "-10";
+dvEight = -5;
+dvEight.ss05 = -20;
+dvFour = -15;
+dvNine = -15.5;
+dvNine.ss05 = -10;
+dvOne.ss05 = -10;
 dvSeven = 5;
-dvTwo = "-10";
-dvZero = "-25";
+dvTwo = -10;
+dvZero = -25;
 };
 dvTwo = {
 dvEight = 0;
-dvEight.ss05 = "-5";
+dvEight.ss05 = -5;
 dvFive = 12.5;
 dvFive.ss05 = 20;
-dvFour = "-15";
+dvFour = -15;
 dvNine = 5;
 dvNine.ss05 = 10;
 dvOne = 0;
@@ -62828,115 +62503,115 @@ dvOne.ss05 = 10;
 dvSeven = 15;
 dvSix = 12.5;
 dvThree = 5;
-dvZero = "-7.5";
+dvZero = -7.5;
 };
 dvY = {
-"@MMK_R_Da" = "-25";
-"@MMK_R_Gha" = "-60";
-"@MMK_R_Ja" = "-15";
-"@MMK_R_Ka" = "-27.5";
-"@MMK_R_La" = "-25";
-"@MMK_R_Ma" = "-20";
-"@MMK_R_Pa" = "-40";
-"@MMK_R_Ra" = "-40";
-"@MMK_R_Va" = "-5";
-"@MMK_R_Ya" = "-25";
-dvCa = "-65";
-dvCha = "-35";
+"@MMK_R_Da" = -25;
+"@MMK_R_Gha" = -60;
+"@MMK_R_Ja" = -15;
+"@MMK_R_Ka" = -27.5;
+"@MMK_R_La" = -25;
+"@MMK_R_Ma" = -20;
+"@MMK_R_Pa" = -40;
+"@MMK_R_Ra" = -40;
+"@MMK_R_Va" = -5;
+"@MMK_R_Ya" = -25;
+dvCa = -65;
+dvCha = -35;
 };
 dvZero = {
 dvEight = 10;
-dvEight.ss05 = "-15";
+dvEight.ss05 = -15;
 dvFive = 10;
-dvFive.ss05 = "-10";
-dvFour = "-30";
-dvNine = "-20";
+dvFive.ss05 = -10;
+dvFour = -30;
+dvNine = -20;
 dvNine.ss05 = 0;
-dvOne = "-15";
-dvOne.ss05 = "-15";
+dvOne = -15;
+dvOne.ss05 = -15;
 dvSeven = 0;
-dvSix = "-25";
-dvThree = "-25";
-dvZero = "-10";
+dvSix = -25;
+dvThree = -25;
+dvZero = -10;
 };
 eight = {
-four = "-10";
-nine = "-10";
-three = "-20";
-two = "-10";
-zero = "-20";
+four = -10;
+nine = -10;
+three = -20;
+two = -10;
+zero = -20;
 };
 five = {
 eight = 10;
-five = "-20";
-four = "-10";
-nine = "-10";
-zero = "-20";
+five = -20;
+four = -10;
+nine = -10;
+zero = -20;
 };
 four = {
 eight = 10;
-zero = "-25";
+zero = -25;
 };
 nine = {
-five = "-15";
-four = "-10";
-three = "-10";
-zero = "-10";
+five = -15;
+four = -10;
+three = -10;
+zero = -10;
 };
 one = {
-four = "-10";
-seven = "-10";
-zero = "-40";
+four = -10;
+seven = -10;
+zero = -40;
 };
 period = {
 "@MMK_R_z" = 0;
 };
 q = {
-"@MMK_R_T" = "-60";
-"@MMK_R_V" = "-70";
-"@MMK_R_Y" = "-70";
-"@MMK_R_l" = "-20";
-"@MMK_R_o" = "-20";
-X = "-30";
+"@MMK_R_T" = -60;
+"@MMK_R_V" = -70;
+"@MMK_R_Y" = -70;
+"@MMK_R_l" = -20;
+"@MMK_R_o" = -20;
+X = -30;
 };
 quoteright = {
-"@MMK_R_a" = "-40";
+"@MMK_R_a" = -40;
 "@MMK_R_b" = 40;
 };
 seven = {
-five = "-15";
-four = "-45";
+five = -15;
+four = -45;
 one = 10;
 seven = 5;
-six = "-30";
-zero = "-20";
+six = -30;
+zero = -20;
 };
 six = {
 eight = 10;
-nine = "-10";
-zero = "-10";
+nine = -10;
+zero = -10;
 };
 three = {
 eight = 10;
-five = "-10";
+five = -10;
 six = 5;
-three = "-20";
-zero = "-30";
+three = -20;
+zero = -30;
 };
 two = {
-five = "-10";
-four = "-40";
-nine = "-10";
-zero = "-40";
+five = -10;
+four = -40;
+nine = -10;
+zero = -40;
 };
 zero = {
-eight = "-10";
-five = "-20";
-four = "-20";
-nine = "-10";
-one = "-20";
-three = "-30";
-two = "-20";
+eight = -10;
+five = -20;
+four = -20;
+nine = -10;
+one = -20;
+three = -30;
+two = -20;
 };
 };
 };

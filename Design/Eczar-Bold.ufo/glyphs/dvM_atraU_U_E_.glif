@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraUUE" format="1">
+  <advance width="0"/>
+  <unicode hex="0957"/>
+  <outline>
+    <component base="dvMatraUE" yOffset="-210"/>
+    <component base="dvMatraUE"/>
+    <contour>
+      <point x="-261" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraAu_dvReph" format="1">
+  <advance width="316"/>
+  <outline>
+    <component base="dvMatraAa"/>
+    <component base="dvMatraAi_dvReph" xOffset="313"/>
+    <contour>
+      <point x="318" y="600" type="move" name="bindu"/>
+    </contour>
+  </outline>
+</glyph>

@@ -2,9 +2,9 @@
 <glyph name="dvQTa" format="1">
   <advance width="1232"/>
   <outline>
-    <component base="uni0915094D"/>
-    <component base="uni0924" xOffset="604"/>
-    <component base="uni093C" xOffset="166" yOffset="94"/>
+    <component base="dvK"/>
+    <component base="dvTa" xOffset="604"/>
+    <component base="dvNukta" xOffset="166" yOffset="94"/>
     <contour>
       <point x="1052" y="660" type="move" name="candrabindu"/>
     </contour>
@@ -31,7 +31,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni0924</string>
+          <string>dvTa</string>
         </dict>
         <dict>
           <key>disableAlignment</key>
@@ -39,7 +39,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>uni093C</string>
+          <string>dvNukta</string>
         </dict>
       </array>
     </dict>

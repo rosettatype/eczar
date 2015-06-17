@@ -3,7 +3,7 @@
   <advance width="1318"/>
   <outline>
     <component base="dvChYa"/>
-    <component base="uni094D0930" xOffset="387" yOffset="6"/>
+    <component base="dvRakar" xOffset="387" yOffset="6"/>
     <contour>
       <point x="1066" y="640" type="move" name="candrabindu"/>
     </contour>
@@ -30,7 +30,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni094D0930</string>
+          <string>dvRakar</string>
         </dict>
       </array>
     </dict>

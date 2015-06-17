@@ -4,16 +4,16 @@
   <unicode hex="0136"/>
   <outline>
     <component base="K"/>
-    <component base="uni0326.case" xOffset="376"/>
+    <component base="commaaccentcomb.case" xOffset="376"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>auto</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

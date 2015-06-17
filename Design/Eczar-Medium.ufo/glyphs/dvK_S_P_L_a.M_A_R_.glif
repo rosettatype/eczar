@@ -2,10 +2,10 @@
 <glyph name="dvKSPLa.MAR" format="1">
   <advance width="2058"/>
   <outline>
-    <component base="uni0915094D"/>
-    <component base="uni0938094D" xOffset="618"/>
-    <component base="uni092A094D" xOffset="1022"/>
-    <component base="uni0932.MAR" xOffset="1344"/>
+    <component base="dvK"/>
+    <component base="dvS" xOffset="618"/>
+    <component base="dvP" xOffset="1022"/>
+    <component base="dvLa.MAR" xOffset="1344"/>
     <contour>
       <point x="1830" y="640" type="move" name="candrabindu"/>
     </contour>
@@ -32,7 +32,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni0938094D</string>
+          <string>dvS</string>
         </dict>
         <dict>
           <key>disableAlignment</key>
@@ -40,7 +40,7 @@
           <key>index</key>
           <integer>3</integer>
           <key>name</key>
-          <string>uni0932.MAR</string>
+          <string>dvLa.MAR</string>
         </dict>
       </array>
     </dict>

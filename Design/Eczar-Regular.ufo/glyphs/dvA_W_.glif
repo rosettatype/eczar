@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAW" format="1">
+  <advance width="1005"/>
+  <unicode hex="0975"/>
+  <outline>
+    <component base="dvA"/>
+    <component base="dvMatraAW" xOffset="742"/>
+    <contour>
+      <point x="984" y="610" type="move" name="bindu"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvA</string>
+        </dict>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvMatraAW</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -70,7 +70,7 @@
       <point x="453" y="85" type="curve"/>
       <point x="367" y="176" type="line"/>
     </contour>
-    <component base="uni092F" xOffset="475"/>
+    <component base="dvYa" xOffset="475"/>
     <contour>
       <point x="822" y="630" type="move" name="candrabindu"/>
     </contour>

@@ -52,8 +52,8 @@
       <point x="836" y="605" type="line"/>
       <point x="884" y="538" type="line"/>
     </contour>
-    <component base="uni0932094D"/>
-    <component base="uni0935094D" xOffset="502"/>
+    <component base="dvL"/>
+    <component base="dvV" xOffset="502"/>
     <contour>
       <point x="1330" y="650" type="move" name="candrabindu"/>
     </contour>

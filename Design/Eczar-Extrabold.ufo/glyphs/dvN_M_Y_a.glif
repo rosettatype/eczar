@@ -33,8 +33,8 @@
       <point x="385" y="238"/>
       <point x="429" y="212" type="curve"/>
     </contour>
-    <component base="uni092E094D" xOffset="340"/>
-    <component base="uni092F" xOffset="749"/>
+    <component base="dvM" xOffset="340"/>
+    <component base="dvYa" xOffset="749"/>
     <contour>
       <point x="1140" y="670" type="move" name="candrabindu"/>
     </contour>

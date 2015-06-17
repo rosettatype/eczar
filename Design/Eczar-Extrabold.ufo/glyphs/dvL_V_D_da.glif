@@ -52,8 +52,8 @@
       <point x="934" y="621" type="line"/>
       <point x="999" y="538" type="line"/>
     </contour>
-    <component base="uni0932094D"/>
-    <component base="uni0935094D" xOffset="550"/>
+    <component base="dvL"/>
+    <component base="dvV" xOffset="550"/>
     <contour>
       <point x="1449" y="670" type="move" name="candrabindu"/>
     </contour>
@@ -80,7 +80,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni0935094D</string>
+          <string>dvV</string>
         </dict>
       </array>
     </dict>

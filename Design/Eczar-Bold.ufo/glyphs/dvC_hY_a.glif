@@ -54,7 +54,7 @@
       <point x="1011" y="486"/>
       <point x="875" y="486" type="curve" smooth="yes"/>
     </contour>
-    <component base="uni091B094D"/>
+    <component base="dvCh"/>
     <contour>
       <point x="1133" y="660" type="move" name="candrabindu"/>
     </contour>

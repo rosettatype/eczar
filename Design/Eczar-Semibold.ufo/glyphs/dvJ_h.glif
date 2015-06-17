@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvJh" format="1">
+  <advance width="590"/>
+  <outline>
+    <contour>
+      <point x="662" y="538" type="line"/>
+      <point x="679" y="573" type="line"/>
+      <point x="631" y="639" type="line"/>
+      <point x="504" y="639" type="line"/>
+      <point x="487" y="605" type="line"/>
+      <point x="535" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="376" y="265" type="line"/>
+      <point x="475" y="187"/>
+      <point x="585" y="139"/>
+      <point x="686" y="203" type="curve"/>
+      <point x="633" y="314" type="line"/>
+      <point x="580" y="262"/>
+      <point x="479" y="271"/>
+      <point x="388" y="309" type="curve"/>
+    </contour>
+    <component base="dvI"/>
+  </outline>
+</glyph>

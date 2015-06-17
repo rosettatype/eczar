@@ -2,9 +2,9 @@
 <glyph name="dvKTYa" format="1">
   <advance width="1617"/>
   <outline>
-    <component base="uni0915094D"/>
-    <component base="uni0924094D" xOffset="621"/>
-    <component base="uni092F" xOffset="960"/>
+    <component base="dvK"/>
+    <component base="dvT" xOffset="621"/>
+    <component base="dvYa" xOffset="960"/>
     <contour>
       <point x="1340" y="660" type="move" name="candrabindu"/>
     </contour>
@@ -31,7 +31,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni0924094D</string>
+          <string>dvT</string>
         </dict>
       </array>
     </dict>

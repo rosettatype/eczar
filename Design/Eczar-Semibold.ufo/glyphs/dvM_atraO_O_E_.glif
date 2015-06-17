@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraOOE" format="1">
+  <advance width="290"/>
+  <unicode hex="093B"/>
+  <outline>
+    <contour>
+      <point x="81" y="815" type="line"/>
+      <point x="81" y="593" type="line"/>
+      <point x="147" y="559" type="line"/>
+      <point x="174" y="572" type="line"/>
+      <point x="174" y="815" type="line"/>
+    </contour>
+    <component base="dvMatraAa"/>
+  </outline>
+</glyph>

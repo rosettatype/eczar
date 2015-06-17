@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="1">
+  <advance width="0"/>
+  <unicode hex="0308"/>
+  <outline>
+    <contour>
+      <point x="-47" y="658"/>
+      <point x="-77" y="684"/>
+      <point x="-113" y="698" type="curve"/>
+      <point x="-146" y="681"/>
+      <point x="-173" y="652"/>
+      <point x="-177" y="612" type="curve"/>
+      <point x="-162" y="581"/>
+      <point x="-138" y="561"/>
+      <point x="-101" y="550" type="curve"/>
+      <point x="-69" y="565"/>
+      <point x="-49" y="590"/>
+      <point x="-39" y="624" type="curve"/>
+    </contour>
+    <contour>
+      <point x="170" y="658"/>
+      <point x="139" y="684"/>
+      <point x="104" y="698" type="curve"/>
+      <point x="71" y="681"/>
+      <point x="44" y="652"/>
+      <point x="39" y="612" type="curve"/>
+      <point x="54" y="581"/>
+      <point x="79" y="561"/>
+      <point x="115" y="550" type="curve"/>
+      <point x="148" y="565"/>
+      <point x="168" y="590"/>
+      <point x="178" y="624" type="curve"/>
+    </contour>
+    <contour>
+      <point x="0" y="470" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

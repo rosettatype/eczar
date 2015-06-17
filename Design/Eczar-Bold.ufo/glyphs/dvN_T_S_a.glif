@@ -2,9 +2,9 @@
 <glyph name="dvNTSa" format="1">
   <advance width="1408"/>
   <outline>
-    <component base="uni0928094D"/>
-    <component base="uni0924094D.alt1" xOffset="277"/>
-    <component base="uni0938" xOffset="627"/>
+    <component base="dvN"/>
+    <component base="dvT.alt1" xOffset="277"/>
+    <component base="dvSa" xOffset="627"/>
     <contour>
       <point x="1099" y="660" type="move" name="candrabindu"/>
     </contour>
@@ -31,7 +31,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni0924094D.alt1</string>
+          <string>dvT.alt1</string>
         </dict>
       </array>
     </dict>

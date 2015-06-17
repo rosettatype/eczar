@@ -33,7 +33,7 @@
       <point x="395" y="238"/>
       <point x="439" y="212" type="curve"/>
     </contour>
-    <component base="uni0917" xOffset="341"/>
+    <component base="dvGa" xOffset="341"/>
     <contour>
       <point x="741" y="670" type="move" name="candrabindu"/>
     </contour>

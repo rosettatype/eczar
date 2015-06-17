@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvUdatta" format="1">
+  <advance width="0"/>
+  <unicode hex="0951"/>
+  <outline>
+    <contour>
+      <point x="-185" y="1010" type="line"/>
+      <point x="-214" y="993" type="line"/>
+      <point x="-214" y="751" type="line"/>
+      <point x="-133" y="710" type="line"/>
+      <point x="-104" y="727" type="line"/>
+      <point x="-104" y="969" type="line"/>
+    </contour>
+    <contour>
+      <point x="-159" y="473" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvIi" format="1">
+  <advance width="538"/>
+  <unicode hex="0908"/>
+  <outline>
+    <component base="dvI"/>
+    <component base="dvReph" xOffset="543"/>
+  </outline>
+</glyph>

@@ -4,7 +4,7 @@
   <unicode hex="0118"/>
   <outline>
     <component base="E"/>
-    <component base="uni0328.case" xOffset="642" yOffset="-11"/>
+    <component base="ogonekcomb.case" xOffset="642" yOffset="-11"/>
   </outline>
   <lib>
     <dict>
@@ -20,7 +20,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni0328.case</string>
+          <string>ogonekcomb.case</string>
         </dict>
       </array>
     </dict>

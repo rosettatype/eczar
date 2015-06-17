@@ -3,7 +3,7 @@
   <advance width="523"/>
   <unicode hex="02DD"/>
   <outline>
-    <component base="uni030B" xOffset="212"/>
+    <component base="hungarumlautcomb" xOffset="212"/>
   </outline>
   <lib>
     <dict>

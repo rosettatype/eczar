@@ -24,19 +24,19 @@
 	</array>
 	<key>@MMK_L_Cha</key>
 	<array>
-		<string>uni091B</string>
+		<string>dvCha</string>
 		<string>dvCChVa</string>
 		<string>dvCCha</string>
 		<string>dvChVa</string>
 	</array>
 	<key>@MMK_L_Da</key>
 	<array>
-		<string>uni0907</string>
-		<string>uni0908</string>
-		<string>uni0921</string>
-		<string>uni0926</string>
-		<string>uni095C</string>
-		<string>uni097E</string>
+		<string>dvI</string>
+		<string>dvIi</string>
+		<string>dvDda</string>
+		<string>dvDa</string>
+		<string>dvDddha</string>
+		<string>dvDdda</string>
 		<string>dvDRa</string>
 		<string>dvDGRa</string>
 		<string>dvDDRa</string>
@@ -67,13 +67,13 @@
 		<string>dvPDda</string>
 		<string>dvMDda</string>
 		<string>dvYDda</string>
-		<string>uni09260941</string>
-		<string>uni09260942</string>
-		<string>uni09260943</string>
-		<string>uni09260943.ss06</string>
+		<string>dvDa_dvMatraU</string>
+		<string>dvDa_dvMatraUu</string>
+		<string>dvDa_dvMatraVocalicR</string>
+		<string>dvDa_dvMatraVocalicR.ss06</string>
 		<string>dvDBa_dvMatraVocalicR</string>
 		<string>dvDVa_dvMatraVocalicR</string>
-		<string>uni09080902</string>
+		<string>dvIi_dvAnusvara</string>
 	</array>
 	<key>@MMK_L_E</key>
 	<array>
@@ -97,7 +97,7 @@
 	</array>
 	<key>@MMK_L_Ha</key>
 	<array>
-		<string>uni0939</string>
+		<string>dvHa</string>
 		<string>dvHRa</string>
 		<string>dvHNna</string>
 		<string>dvHNa</string>
@@ -105,9 +105,9 @@
 		<string>dvHVa</string>
 		<string>dvKHa</string>
 		<string>dvVHa</string>
-		<string>uni09390943</string>
-		<string>uni09390941</string>
-		<string>uni09390942</string>
+		<string>dvHa_dvMatraVocalicR</string>
+		<string>dvHa_dvMatraU</string>
+		<string>dvHa_dvMatraUu</string>
 	</array>
 	<key>@MMK_L_I</key>
 	<array>
@@ -134,27 +134,27 @@
 	</array>
 	<key>@MMK_L_K.half</key>
 	<array>
-		<string>uni0915094D</string>
-		<string>uni091D094D.NEP</string>
-		<string>uni092B094D</string>
-		<string>uni0958094D</string>
-		<string>uni095E094D</string>
+		<string>dvK</string>
+		<string>dvJh.NEP</string>
+		<string>dvPh</string>
+		<string>dvQ</string>
+		<string>dvF</string>
 		<string>dvKR</string>
 	</array>
 	<key>@MMK_L_K.half.alt</key>
 	<array>
-		<string>uni0915094D.alt</string>
-		<string>uni0958094D.alt</string>
-		<string>uni095E094D.alt</string>
+		<string>dvK.alt</string>
+		<string>dvQ.alt</string>
+		<string>dvF.alt</string>
 	</array>
 	<key>@MMK_L_Ka</key>
 	<array>
-		<string>uni090A</string>
-		<string>uni0915</string>
-		<string>uni091D.NEP</string>
-		<string>uni092B</string>
-		<string>uni0958</string>
-		<string>uni095E</string>
+		<string>dvUu</string>
+		<string>dvKa</string>
+		<string>dvJha.NEP</string>
+		<string>dvPha</string>
+		<string>dvQa</string>
+		<string>dvFa</string>
 		<string>dvKRa</string>
 		<string>dvKRa.ss03</string>
 		<string>dvPhRa</string>
@@ -180,17 +180,17 @@
 	</array>
 	<key>@MMK_L_LaMAR</key>
 	<array>
-		<string>uni090C</string>
-		<string>uni0961</string>
-		<string>uni0932.MAR</string>
-		<string>uni0933</string>
-		<string>uni0934</string>
+		<string>dvVocalicL</string>
+		<string>dvVocalicLl</string>
+		<string>dvLa.MAR</string>
+		<string>dvLla</string>
+		<string>dvLlla</string>
 		<string>dvLRa.MAR</string>
 		<string>dvKSPLa.MAR</string>
 	</array>
 	<key>@MMK_L_Nga</key>
 	<array>
-		<string>uni0919</string>
+		<string>dvNga</string>
 		<string>dvNgKRa</string>
 		<string>dvNgKa</string>
 		<string>dvNgGa</string>
@@ -235,16 +235,16 @@
 	<key>@MMK_L_T</key>
 	<array>
 		<string>T</string>
-		<string>uni0162</string>
+		<string>Tcedilla</string>
 		<string>Tcaron</string>
-		<string>uni021A</string>
+		<string>Tcommaaccent</string>
 	</array>
 	<key>@MMK_L_Tta</key>
 	<array>
-		<string>uni091F</string>
-		<string>uni0920</string>
-		<string>uni0922</string>
-		<string>uni095D</string>
+		<string>dvTta</string>
+		<string>dvTtha</string>
+		<string>dvDdha</string>
+		<string>dvRha</string>
 		<string>dvPTta</string>
 		<string>dvPTtha</string>
 		<string>dvTtKa</string>
@@ -278,8 +278,8 @@
 	</array>
 	<key>@MMK_L_V.half</key>
 	<array>
-		<string>uni092C094D</string>
-		<string>uni0935094D</string>
+		<string>dvB</string>
+		<string>dvV</string>
 	</array>
 	<key>@MMK_L_Y</key>
 	<array>
@@ -411,9 +411,9 @@
 	<key>@MMK_L_t</key>
 	<array>
 		<string>t</string>
-		<string>uni0163</string>
+		<string>tcedilla</string>
 		<string>tcaron</string>
-		<string>uni021B</string>
+		<string>tcommaaccent</string>
 		<string>f_t.liga</string>
 	</array>
 	<key>@MMK_L_u</key>
@@ -461,11 +461,11 @@
 	</array>
 	<key>@MMK_R_Da</key>
 	<array>
-		<string>uni091F</string>
-		<string>uni0920</string>
-		<string>uni0922</string>
-		<string>uni0926</string>
-		<string>uni095D</string>
+		<string>dvTta</string>
+		<string>dvTtha</string>
+		<string>dvDdha</string>
+		<string>dvDa</string>
+		<string>dvRha</string>
 		<string>dvDRa</string>
 		<string>dvTtTtYa</string>
 		<string>dvTthTthYa</string>
@@ -490,22 +490,22 @@
 		<string>dvDNa</string>
 		<string>dvDBa</string>
 		<string>dvDVa</string>
-		<string>uni09260941</string>
-		<string>uni09260942</string>
-		<string>uni09260943</string>
+		<string>dvDa_dvMatraU</string>
+		<string>dvDa_dvMatraUu</string>
+		<string>dvDa_dvMatraVocalicR</string>
 		<string>dvDBa_dvMatraVocalicR</string>
 		<string>dvDVa_dvMatraVocalicR</string>
 	</array>
 	<key>@MMK_R_Dda</key>
 	<array>
-		<string>uni0907</string>
-		<string>uni0908</string>
-		<string>uni0919</string>
-		<string>uni091D</string>
-		<string>uni0921</string>
-		<string>uni0939</string>
-		<string>uni095C</string>
-		<string>uni097E</string>
+		<string>dvI</string>
+		<string>dvIi</string>
+		<string>dvNga</string>
+		<string>dvJha</string>
+		<string>dvDda</string>
+		<string>dvHa</string>
+		<string>dvDddha</string>
+		<string>dvDdda</string>
 		<string>dvJhRa</string>
 		<string>dvDhRa</string>
 		<string>dvHRa</string>
@@ -540,22 +540,22 @@
 		<string>dvHVa</string>
 		<string>dvDhDha</string>
 		<string>dvDhNa</string>
-		<string>uni09260943.ss06</string>
-		<string>uni09390943</string>
-		<string>uni09390941</string>
-		<string>uni09390942</string>
-		<string>uni09080902</string>
+		<string>dvDa_dvMatraVocalicR.ss06</string>
+		<string>dvHa_dvMatraVocalicR</string>
+		<string>dvHa_dvMatraU</string>
+		<string>dvHa_dvMatraUu</string>
+		<string>dvIi_dvAnusvara</string>
 	</array>
 	<key>@MMK_R_Gha</key>
 	<array>
-		<string>uni0918</string>
-		<string>uni0927</string>
+		<string>dvGha</string>
+		<string>dvDha</string>
 		<string>dvGhRa</string>
 		<string>dvGhhRa</string>
 		<string>dvDhNYa</string>
 		<string>dvGhNa</string>
-		<string>uni0918094D</string>
-		<string>uni0927094D</string>
+		<string>dvGh</string>
+		<string>dvDh</string>
 		<string>dvGhR</string>
 		<string>dvDhR</string>
 	</array>
@@ -604,14 +604,14 @@
 		<string>Racute</string>
 		<string>Rcommaaccent</string>
 		<string>Rcaron</string>
-		<string>uni20BD</string>
+		<string>ruble</string>
 	</array>
 	<key>@MMK_R_Ja</key>
 	<array>
-		<string>uni091C</string>
-		<string>uni095B</string>
-		<string>uni0979</string>
-		<string>uni097C</string>
+		<string>dvJa</string>
+		<string>dvZa</string>
+		<string>dvZha</string>
+		<string>dvJja</string>
 		<string>dvJRa</string>
 		<string>dvZRa</string>
 		<string>dvJJa</string>
@@ -620,14 +620,14 @@
 		<string>dvJYa</string>
 		<string>dvZYa</string>
 		<string>dvZZa</string>
-		<string>uni091C094D</string>
-		<string>uni091C094D.alt</string>
-		<string>uni095B094D</string>
+		<string>dvJ</string>
+		<string>dvJ.alt</string>
+		<string>dvZ</string>
 	</array>
 	<key>@MMK_R_Ka</key>
 	<array>
-		<string>uni0915</string>
-		<string>uni0958</string>
+		<string>dvKa</string>
+		<string>dvQa</string>
 		<string>dvKRa</string>
 		<string>dvKKa.ss03</string>
 		<string>dvKCa</string>
@@ -645,21 +645,21 @@
 		<string>dvQMa</string>
 		<string>dvQQa</string>
 		<string>dvQFa</string>
-		<string>uni0915094D</string>
-		<string>uni0915094D.alt</string>
-		<string>uni0958094D</string>
-		<string>uni0958094D.alt</string>
+		<string>dvK</string>
+		<string>dvK.alt</string>
+		<string>dvQ</string>
+		<string>dvQ.alt</string>
 		<string>dvKR</string>
 	</array>
 	<key>@MMK_R_La</key>
 	<array>
-		<string>uni090C</string>
-		<string>uni0961</string>
-		<string>uni0924</string>
-		<string>uni0932</string>
-		<string>uni0932.MAR</string>
-		<string>uni0933</string>
-		<string>uni0934</string>
+		<string>dvVocalicL</string>
+		<string>dvVocalicLl</string>
+		<string>dvTa</string>
+		<string>dvLa</string>
+		<string>dvLa.MAR</string>
+		<string>dvLla</string>
+		<string>dvLlla</string>
 		<string>dvTRa.ss03</string>
 		<string>dvLRa</string>
 		<string>dvLRa.MAR</string>
@@ -680,28 +680,28 @@
 		<string>dvLCa</string>
 		<string>dvLNa</string>
 		<string>dvLBha</string>
-		<string>uni0916094D</string>
-		<string>uni0924094D</string>
-		<string>uni0924094D.alt</string>
-		<string>uni0924094D.alt1</string>
-		<string>uni0932094D</string>
-		<string>uni0932094D.alt</string>
-		<string>uni0932094D.alt1</string>
-		<string>uni0933094D</string>
-		<string>uni0934094D</string>
+		<string>dvKh</string>
+		<string>dvT</string>
+		<string>dvT.alt</string>
+		<string>dvT.alt1</string>
+		<string>dvL</string>
+		<string>dvL.alt</string>
+		<string>dvL.alt1</string>
+		<string>dvLl</string>
+		<string>dvLll</string>
 		<string>dvTR.ss03</string>
 		<string>dvLBh</string>
-		<string>uni09300941</string>
-		<string>uni09300942</string>
+		<string>dvRa_dvMatraU</string>
+		<string>dvRa_dvMatraUu</string>
 	</array>
 	<key>@MMK_R_Ma</key>
 	<array>
-		<string>uni0917</string>
-		<string>uni091D.NEP</string>
-		<string>uni092D</string>
-		<string>uni092E</string>
-		<string>uni095A</string>
-		<string>uni097B</string>
+		<string>dvGa</string>
+		<string>dvJha.NEP</string>
+		<string>dvBha</string>
+		<string>dvMa</string>
+		<string>dvGhha</string>
+		<string>dvGga</string>
 		<string>dvGRa</string>
 		<string>dvBhRa</string>
 		<string>dvMRa</string>
@@ -722,17 +722,17 @@
 		<string>dvMNa</string>
 		<string>dvMBha</string>
 		<string>dvMSha</string>
-		<string>uni0917094D</string>
-		<string>uni091D094D.NEP</string>
-		<string>uni092D094D</string>
-		<string>uni092E094D</string>
-		<string>uni095A094D</string>
+		<string>dvG</string>
+		<string>dvJh.NEP</string>
+		<string>dvBh</string>
+		<string>dvM</string>
+		<string>dvGhh</string>
 		<string>dvMBh</string>
 	</array>
 	<key>@MMK_R_Na</key>
 	<array>
-		<string>uni0928</string>
-		<string>uni0929</string>
+		<string>dvNa</string>
+		<string>dvNnna</string>
 	</array>
 	<key>@MMK_R_O</key>
 	<array>
@@ -757,11 +757,11 @@
 	</array>
 	<key>@MMK_R_Pa</key>
 	<array>
-		<string>uni0923</string>
-		<string>uni092A</string>
-		<string>uni092B</string>
-		<string>uni0937</string>
-		<string>uni095E</string>
+		<string>dvNna</string>
+		<string>dvPa</string>
+		<string>dvPha</string>
+		<string>dvSsa</string>
+		<string>dvFa</string>
 		<string>dvPRa</string>
 		<string>dvPhRa</string>
 		<string>dvSsRa</string>
@@ -788,23 +788,23 @@
 		<string>dvFSa</string>
 		<string>dvFZa</string>
 		<string>dvFFa</string>
-		<string>uni0923094D</string>
-		<string>uni092A094D</string>
-		<string>uni092B094D</string>
-		<string>uni092B094D.alt</string>
-		<string>uni0937094D</string>
-		<string>uni095E094D</string>
-		<string>uni095E094D.alt</string>
+		<string>dvNn</string>
+		<string>dvP</string>
+		<string>dvPh</string>
+		<string>dvPh.alt</string>
+		<string>dvSs</string>
+		<string>dvF</string>
+		<string>dvF.alt</string>
 		<string>dvPR</string>
 		<string>dvSsR</string>
 	</array>
 	<key>@MMK_R_Ra</key>
 	<array>
-		<string>uni0916</string>
-		<string>uni0930</string>
-		<string>uni0931</string>
-		<string>uni0938</string>
-		<string>uni0959</string>
+		<string>dvKha</string>
+		<string>dvRa</string>
+		<string>dvRra</string>
+		<string>dvSa</string>
+		<string>dvKhha</string>
 		<string>dvKhRa</string>
 		<string>dvSRa</string>
 		<string>dvKhhRa</string>
@@ -817,8 +817,8 @@
 		<string>dvKhhVa</string>
 		<string>dvKhhSha</string>
 		<string>dvKhhSa</string>
-		<string>uni0938094D</string>
-		<string>uni0959094D</string>
+		<string>dvS</string>
+		<string>dvKhh</string>
 		<string>dvSR</string>
 	</array>
 	<key>@MMK_R_S</key>
@@ -833,9 +833,9 @@
 	<key>@MMK_R_T</key>
 	<array>
 		<string>T</string>
-		<string>uni0162</string>
+		<string>Tcedilla</string>
 		<string>Tcaron</string>
-		<string>uni021A</string>
+		<string>Tcommaaccent</string>
 	</array>
 	<key>@MMK_R_U</key>
 	<array>
@@ -856,9 +856,9 @@
 	</array>
 	<key>@MMK_R_Va</key>
 	<array>
-		<string>uni092C</string>
-		<string>uni0935</string>
-		<string>uni097F</string>
+		<string>dvBa</string>
+		<string>dvVa</string>
+		<string>dvBba</string>
 		<string>dvBRa</string>
 		<string>dvVRa</string>
 		<string>dvQRa</string>
@@ -868,8 +868,8 @@
 		<string>dvBLYa</string>
 		<string>dvBNa</string>
 		<string>dvVNa</string>
-		<string>uni092C094D</string>
-		<string>uni0935094D</string>
+		<string>dvB</string>
+		<string>dvV</string>
 		<string>dvVR</string>
 	</array>
 	<key>@MMK_R_Y</key>
@@ -880,10 +880,10 @@
 	</array>
 	<key>@MMK_R_Ya</key>
 	<array>
-		<string>uni0925</string>
-		<string>uni092F</string>
-		<string>uni095F</string>
-		<string>uni097A</string>
+		<string>dvTha</string>
+		<string>dvYa</string>
+		<string>dvYya</string>
+		<string>dvYaHeavy</string>
 		<string>dvThRa</string>
 		<string>dvYRa</string>
 		<string>dvYyRa</string>
@@ -894,8 +894,8 @@
 		<string>dvYTha</string>
 		<string>dvYNa</string>
 		<string>dvYSha</string>
-		<string>uni0925094D</string>
-		<string>uni095F094D</string>
+		<string>dvTh</string>
+		<string>dvYy</string>
 	</array>
 	<key>@MMK_R_Z</key>
 	<array>
@@ -1013,9 +1013,9 @@
 	<key>@MMK_R_t</key>
 	<array>
 		<string>t</string>
-		<string>uni0163</string>
+		<string>tcedilla</string>
 		<string>tcaron</string>
-		<string>uni021B</string>
+		<string>tcommaaccent</string>
 	</array>
 	<key>@MMK_R_u</key>
 	<array>

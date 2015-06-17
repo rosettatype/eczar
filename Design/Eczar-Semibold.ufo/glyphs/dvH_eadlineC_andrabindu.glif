@@ -10,6 +10,6 @@
       <point x="-48" y="605" type="line"/>
       <point x="-1" y="538" type="line"/>
     </contour>
-    <component base="uni0901" xOffset="340"/>
+    <component base="dvCandrabindu" xOffset="340"/>
   </outline>
 </glyph>

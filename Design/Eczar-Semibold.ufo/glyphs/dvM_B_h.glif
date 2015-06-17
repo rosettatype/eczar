@@ -33,7 +33,7 @@
       <point x="187" y="209" type="line"/>
       <point x="516" y="209" type="line"/>
     </contour>
-    <component base="uni092D094D" xOffset="371"/>
+    <component base="dvBh" xOffset="371"/>
   </outline>
   <lib>
     <dict>
@@ -45,7 +45,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>uni092D094D</string>
+          <string>dvBh</string>
         </dict>
       </array>
     </dict>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="svastika" format="1">
+  <advance width="883"/>
+  <unicode hex="534D"/>
+  <outline>
+    <contour>
+      <point x="746" y="526" type="line"/>
+      <point x="763" y="560" type="line"/>
+      <point x="716" y="639" type="line"/>
+      <point x="413" y="639" type="line"/>
+      <point x="381" y="603" type="line"/>
+      <point x="381" y="377" type="line"/>
+      <point x="241" y="377" type="line"/>
+      <point x="241" y="579" type="line"/>
+      <point x="153" y="646" type="line"/>
+      <point x="114" y="629" type="line"/>
+      <point x="114" y="322" type="line"/>
+      <point x="167" y="261" type="line"/>
+      <point x="381" y="261" type="line"/>
+      <point x="381" y="114" type="line"/>
+      <point x="131" y="114" type="line"/>
+      <point x="114" y="79" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="476" y="0" type="line"/>
+      <point x="508" y="36" type="line"/>
+      <point x="508" y="261" type="line"/>
+      <point x="636" y="261" type="line"/>
+      <point x="636" y="60" type="line"/>
+      <point x="724" y="-8" type="line"/>
+      <point x="763" y="10" type="line"/>
+      <point x="763" y="310" type="line"/>
+      <point x="710" y="377" type="line"/>
+      <point x="508" y="377" type="line"/>
+      <point x="508" y="526" type="line"/>
+    </contour>
+  </outline>
+</glyph>

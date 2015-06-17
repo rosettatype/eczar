@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="euro" format="1">
+  <advance width="615"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="571" y="114" type="line"/>
+      <point x="425" y="73" type="line"/>
+      <point x="266" y="82"/>
+      <point x="210" y="186"/>
+      <point x="210" y="319" type="curve" smooth="yes"/>
+      <point x="210" y="439"/>
+      <point x="257" y="547"/>
+      <point x="335" y="597" type="curve"/>
+      <point x="411" y="605"/>
+      <point x="489" y="574"/>
+      <point x="562" y="513" type="curve"/>
+      <point x="592" y="609" type="line"/>
+      <point x="543" y="648"/>
+      <point x="479" y="670"/>
+      <point x="403" y="670" type="curve" smooth="yes"/>
+      <point x="182" y="670"/>
+      <point x="84" y="484"/>
+      <point x="84" y="312" type="curve" smooth="yes"/>
+      <point x="84" y="139"/>
+      <point x="183" y="-17"/>
+      <point x="407" y="-21" type="curve"/>
+      <point x="592" y="56" type="line"/>
+    </contour>
+    <contour>
+      <point x="568" y="462" type="line"/>
+      <point x="579" y="496"/>
+      <point x="589" y="554"/>
+      <point x="593" y="609" type="curve"/>
+      <point x="492" y="584" type="line"/>
+      <point x="505" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="542" y="389" type="line"/>
+      <point x="536" y="410" type="line"/>
+      <point x="32" y="410" type="line"/>
+      <point x="-4" y="370" type="line"/>
+      <point x="2" y="349" type="line"/>
+      <point x="507" y="349" type="line"/>
+    </contour>
+    <contour>
+      <point x="502" y="246" type="line"/>
+      <point x="496" y="267" type="line"/>
+      <point x="6" y="267" type="line"/>
+      <point x="-30" y="227" type="line"/>
+      <point x="-24" y="206" type="line"/>
+      <point x="466" y="206" type="line"/>
+    </contour>
+    <contour>
+      <point x="406" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="406" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>C</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

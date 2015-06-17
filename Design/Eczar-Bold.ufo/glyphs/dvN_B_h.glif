@@ -33,6 +33,6 @@
       <point x="388" y="238"/>
       <point x="430" y="207" type="curve"/>
     </contour>
-    <component base="uni092D094D" xOffset="311"/>
+    <component base="dvBh" xOffset="311"/>
   </outline>
 </glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvFa" format="1">
+  <advance width="869"/>
+  <unicode hex="095E"/>
+  <outline>
+    <component base="dvPha"/>
+    <component base="dvNukta" xOffset="176" yOffset="121"/>
+    <contour>
+      <point x="480" y="670" type="move" name="candrabindu"/>
+    </contour>
+    <contour>
+      <point x="839" y="670" type="move" name="candrabinduCXT"/>
+    </contour>
+    <contour>
+      <point x="430" y="670" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="465" y="475" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="323" y="-95" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvNukta</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

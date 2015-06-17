@@ -2,8 +2,8 @@
 <glyph name="dvDdhYa" format="1">
   <advance width="1135"/>
   <outline>
-    <component base="uni0922"/>
-    <component base="uni092F.post" xOffset="548"/>
+    <component base="dvDdha"/>
+    <component base="dvYa.post" xOffset="548"/>
     <contour>
       <point x="896" y="630" type="move" name="candrabindu"/>
     </contour>
@@ -30,7 +30,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni092F.post</string>
+          <string>dvYa.post</string>
         </dict>
       </array>
     </dict>

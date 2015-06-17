@@ -4,18 +4,18 @@
   <unicode hex="013D"/>
   <outline>
     <component base="L"/>
-    <component base="uni030C.calt" xOffset="406" yOffset="1"/>
+    <component base="caroncomb.calt" xOffset="406" yOffset="1"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>L</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>L</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -24,7 +24,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni030C.calt</string>
+          <string>caroncomb.calt</string>
         </dict>
       </array>
     </dict>

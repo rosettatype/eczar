@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAi" format="1">
+  <advance width="571"/>
+  <unicode hex="0910"/>
+  <outline>
+    <component base="dvE"/>
+    <component base="dvMatraE" xOffset="579"/>
+    <contour>
+      <point x="510" y="625" type="move" name="bindu"/>
+    </contour>
+  </outline>
+</glyph>

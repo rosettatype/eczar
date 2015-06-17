@@ -8,8 +8,8 @@
       <point x="651" y="123" type="line"/>
       <point x="583" y="250" type="line" smooth="yes"/>
     </contour>
-    <component base="uni092D094D"/>
-    <component base="uni092F" xOffset="442"/>
+    <component base="dvBh"/>
+    <component base="dvYa" xOffset="442"/>
     <contour>
       <point x="834" y="670" type="move" name="candrabindu"/>
     </contour>

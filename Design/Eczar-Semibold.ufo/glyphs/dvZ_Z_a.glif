@@ -3,8 +3,8 @@
   <advance width="978"/>
   <outline>
     <component base="dvJJa"/>
-    <component base="uni093C" xOffset="314" yOffset="55"/>
-    <component base="uni093C" xOffset="579" yOffset="55"/>
+    <component base="dvNukta" xOffset="314" yOffset="55"/>
+    <component base="dvNukta" xOffset="579" yOffset="55"/>
     <contour>
       <point x="808" y="650" type="move" name="candrabindu"/>
     </contour>
@@ -31,7 +31,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni093C</string>
+          <string>dvNukta</string>
         </dict>
       </array>
     </dict>

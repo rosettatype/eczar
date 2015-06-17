@@ -57,7 +57,7 @@
       <point x="695" y="283"/>
       <point x="720" y="269" type="curve"/>
     </contour>
-    <component base="uni0939" xOffset="607"/>
+    <component base="dvHa" xOffset="607"/>
     <contour>
       <point x="999" y="660" type="move" name="candrabindu"/>
     </contour>

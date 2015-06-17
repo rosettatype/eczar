@@ -2,10 +2,10 @@
 <glyph name="dvKSPLa" format="1">
   <advance width="2100"/>
   <outline>
-    <component base="uni0915094D"/>
-    <component base="uni0938094D" xOffset="603"/>
-    <component base="uni092A094D" xOffset="1045"/>
-    <component base="uni0932" xOffset="1364"/>
+    <component base="dvK"/>
+    <component base="dvS" xOffset="603"/>
+    <component base="dvP" xOffset="1045"/>
+    <component base="dvLa" xOffset="1364"/>
     <contour>
       <point x="1930" y="650" type="move" name="candrabindu"/>
     </contour>
@@ -32,7 +32,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni0938094D</string>
+          <string>dvS</string>
         </dict>
       </array>
     </dict>

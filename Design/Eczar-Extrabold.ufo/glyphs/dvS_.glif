@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvS" format="1">
+  <advance width="484"/>
+  <outline>
+    <contour>
+      <point x="509" y="538" type="line"/>
+      <point x="534" y="587" type="line"/>
+      <point x="469" y="670" type="line"/>
+      <point x="453" y="670" type="line"/>
+      <point x="428" y="621" type="line"/>
+      <point x="493" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="612" y="210" type="line"/>
+      <point x="602" y="359" type="line"/>
+      <point x="238" y="359" type="line"/>
+      <point x="239" y="210" type="line"/>
+    </contour>
+    <component base="dvRa" xOffset="-10"/>
+  </outline>
+</glyph>

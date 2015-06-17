@@ -27,7 +27,7 @@
       <point x="170" y="267" type="line"/>
       <point x="464" y="267" type="line"/>
     </contour>
-    <component base="uni091B" xOffset="319"/>
+    <component base="dvCha" xOffset="319"/>
     <contour>
       <point x="744" y="670" type="move" name="candrabindu"/>
     </contour>

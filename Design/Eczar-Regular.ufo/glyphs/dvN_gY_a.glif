@@ -66,7 +66,7 @@
       <point x="-30" y="588" type="line"/>
       <point x="0" y="538" type="line"/>
     </contour>
-    <component base="uni092F.post" xOffset="621"/>
+    <component base="dvYa.post" xOffset="621"/>
     <contour>
       <point x="969" y="630" type="move" name="candrabindu"/>
     </contour>

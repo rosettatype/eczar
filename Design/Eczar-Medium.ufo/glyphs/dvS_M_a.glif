@@ -14,8 +14,8 @@
       <point x="488" y="240"/>
       <point x="526" y="200" type="curve"/>
     </contour>
-    <component base="uni0930" xOffset="-3"/>
-    <component base="uni092E" xOffset="424"/>
+    <component base="dvRa" xOffset="-3"/>
+    <component base="dvMa" xOffset="424"/>
     <contour>
       <point x="795" y="640" type="move" name="candrabindu"/>
     </contour>
@@ -42,7 +42,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni092E</string>
+          <string>dvMa</string>
         </dict>
       </array>
     </dict>

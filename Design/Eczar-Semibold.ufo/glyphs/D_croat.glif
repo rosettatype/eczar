@@ -17,10 +17,10 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>D</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

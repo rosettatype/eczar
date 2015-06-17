@@ -10,10 +10,10 @@
 		<string>NULL</string>
 		<string>CR</string>
 		<string>space</string>
-		<string>uni00A0</string>
-		<string>uni2002</string>
-		<string>uni2003</string>
-		<string>uni2009</string>
+		<string>nbspace</string>
+		<string>enspace</string>
+		<string>emspace</string>
+		<string>thinspace</string>
 		<string>exclam</string>
 		<string>quotedbl</string>
 		<string>numbersign</string>
@@ -118,24 +118,24 @@
 		<string>dieresis</string>
 		<string>copyright</string>
 		<string>ordfeminine</string>
-		<string>guillemotleft</string>
+		<string>guillemetleft</string>
 		<string>logicalnot</string>
-		<string>uni00AD</string>
+		<string>softhyphen</string>
 		<string>registered</string>
 		<string>macron</string>
 		<string>degree</string>
 		<string>plusminus</string>
-		<string>uni00B2</string>
-		<string>uni00B3</string>
-		<string>uni2074</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
+		<string>foursuperior</string>
 		<string>acute</string>
-		<string>uni00B5</string>
+		<string>micro</string>
 		<string>paragraph</string>
 		<string>periodcentered</string>
 		<string>cedilla</string>
-		<string>uni00B9</string>
+		<string>onesuperior</string>
 		<string>ordmasculine</string>
-		<string>guillemotright</string>
+		<string>guillemetright</string>
 		<string>onequarter</string>
 		<string>onehalf</string>
 		<string>threequarters</string>
@@ -270,8 +270,8 @@
 		<string>scedilla</string>
 		<string>Scaron</string>
 		<string>scaron</string>
-		<string>uni0162</string>
-		<string>uni0163</string>
+		<string>Tcedilla</string>
+		<string>tcedilla</string>
 		<string>Tcaron</string>
 		<string>tcaron</string>
 		<string>Umacron</string>
@@ -292,11 +292,11 @@
 		<string>florin</string>
 		<string>Scommaaccent</string>
 		<string>scommaaccent</string>
-		<string>uni021A</string>
-		<string>uni021B</string>
+		<string>Tcommaaccent</string>
+		<string>tcommaaccent</string>
 		<string>circumflex</string>
 		<string>caron</string>
-		<string>uni02C9</string>
+		<string>firsttonechinese</string>
 		<string>breve</string>
 		<string>dotaccent</string>
 		<string>ring</string>
@@ -320,20 +320,20 @@
 		<string>guilsinglleft</string>
 		<string>guilsinglright</string>
 		<string>fraction</string>
-		<string>Euro</string>
+		<string>euro</string>
 		<string>liraTurkish</string>
-		<string>uni20BD</string>
+		<string>ruble</string>
 		<string>literSign</string>
 		<string>trademark</string>
-		<string>uni2126</string>
+		<string>Ohm</string>
 		<string>estimated</string>
 		<string>partialdiff</string>
-		<string>uni2206</string>
+		<string>increment</string>
 		<string>product</string>
 		<string>summation</string>
 		<string>minus</string>
-		<string>uni2215</string>
-		<string>uni2219</string>
+		<string>divisionslash</string>
+		<string>bulletoperator</string>
 		<string>radical</string>
 		<string>infinity</string>
 		<string>integral</string>
@@ -359,160 +359,160 @@
 		<string>three.numr</string>
 		<string>four.numr</string>
 		<string>acutecomb</string>
-		<string>uni0306</string>
-		<string>uni030C</string>
+		<string>brevecomb</string>
+		<string>caroncomb</string>
 		<string>acutecomb.case</string>
-		<string>uni0306.case</string>
-		<string>uni030C.case</string>
-		<string>uni0327.case</string>
-		<string>uni0302.case</string>
-		<string>uni0326.case</string>
-		<string>uni0308.case</string>
-		<string>uni0307.case</string>
+		<string>brevecomb.case</string>
+		<string>caroncomb.case</string>
+		<string>cedillacomb.case</string>
+		<string>circumflexcomb.case</string>
+		<string>commaaccentcomb.case</string>
+		<string>dieresiscomb.case</string>
+		<string>dotaccentcomb.case</string>
 		<string>dotbelowcomb.case</string>
 		<string>gravecomb.case</string>
-		<string>uni030B.case</string>
-		<string>uni0331.case</string>
-		<string>uni0304.case</string>
-		<string>uni0328.case</string>
-		<string>uni030A.case</string>
+		<string>hungarumlautcomb.case</string>
+		<string>macronbelowcomb.case</string>
+		<string>macroncomb.case</string>
+		<string>ogonekcomb.case</string>
+		<string>ringcomb.case</string>
 		<string>tildecomb.case</string>
-		<string>uni0327</string>
-		<string>uni0302</string>
-		<string>uni0326</string>
-		<string>uni0308</string>
-		<string>uni0307</string>
+		<string>cedillacomb</string>
+		<string>circumflexcomb</string>
+		<string>commaaccentcomb</string>
+		<string>dieresiscomb</string>
+		<string>dotaccentcomb</string>
 		<string>dotbelowcomb</string>
 		<string>gravecomb</string>
-		<string>uni030B</string>
-		<string>uni0331</string>
-		<string>uni0304</string>
-		<string>uni0328</string>
-		<string>uni030A</string>
+		<string>hungarumlautcomb</string>
+		<string>macronbelowcomb</string>
+		<string>macroncomb</string>
+		<string>ogonekcomb</string>
+		<string>ringcomb</string>
 		<string>tildecomb</string>
 		<string>commaaccent</string>
 		<string>commaaccentturnedabovecomb</string>
 		<string>commaaccentturnedabovecomb.case</string>
-		<string>uni030C.calt</string>
-		<string>uni0904</string>
-		<string>uni0905</string>
-		<string>uni0906</string>
-		<string>uni0907</string>
-		<string>uni0908</string>
-		<string>uni0909</string>
-		<string>uni090A</string>
-		<string>uni090B</string>
-		<string>uni090B.ss06</string>
-		<string>uni0960</string>
-		<string>uni090C</string>
-		<string>uni0961</string>
-		<string>uni090D</string>
-		<string>uni090E</string>
-		<string>uni090F</string>
-		<string>uni0910</string>
-		<string>uni0911</string>
-		<string>uni0912</string>
-		<string>uni0913</string>
-		<string>uni0972</string>
-		<string>uni0973</string>
-		<string>uni0974</string>
-		<string>uni0975</string>
-		<string>uni0976</string>
-		<string>uni0977</string>
-		<string>uni0914</string>
-		<string>uni0915</string>
-		<string>uni0916</string>
-		<string>uni0917</string>
-		<string>uni0918</string>
-		<string>uni0919</string>
-		<string>uni091A</string>
-		<string>uni091B</string>
-		<string>uni091C</string>
-		<string>uni091D</string>
-		<string>uni091D.NEP</string>
-		<string>uni091E</string>
-		<string>uni091F</string>
-		<string>uni0920</string>
-		<string>uni0921</string>
-		<string>uni0922</string>
-		<string>uni0923</string>
-		<string>uni0924</string>
-		<string>uni0925</string>
-		<string>uni0926</string>
-		<string>uni0927</string>
-		<string>uni0928</string>
-		<string>uni0929</string>
-		<string>uni092A</string>
-		<string>uni092B</string>
-		<string>uni092C</string>
-		<string>uni092D</string>
-		<string>uni092E</string>
-		<string>uni092F</string>
-		<string>uni0930</string>
-		<string>uni0931</string>
-		<string>uni0932</string>
-		<string>uni0932.MAR</string>
-		<string>uni0933</string>
-		<string>uni0934</string>
-		<string>uni0935</string>
-		<string>uni0936</string>
-		<string>uni0936.MAR</string>
-		<string>uni0937</string>
-		<string>uni0938</string>
-		<string>uni0939</string>
-		<string>uni0958</string>
-		<string>uni0959</string>
-		<string>uni095A</string>
-		<string>uni095B</string>
-		<string>uni095C</string>
-		<string>uni095D</string>
-		<string>uni095E</string>
-		<string>uni095F</string>
-		<string>uni0979</string>
-		<string>uni097A</string>
-		<string>uni097B</string>
-		<string>uni097C</string>
-		<string>uni097E</string>
-		<string>uni097F</string>
-		<string>uni093D</string>
-		<string>uni097D</string>
-		<string>uni093E</string>
-		<string>uni093F</string>
-		<string>uni0940</string>
-		<string>uni0941</string>
-		<string>uni0942</string>
-		<string>uni0943</string>
-		<string>uni0944</string>
-		<string>uni0962</string>
-		<string>uni0963</string>
-		<string>uni0945</string>
-		<string>uni0946</string>
-		<string>uni0947</string>
-		<string>uni0948</string>
-		<string>uni0949</string>
-		<string>uni094A</string>
-		<string>uni094B</string>
-		<string>uni094C</string>
-		<string>uni0956</string>
-		<string>uni0957</string>
-		<string>uni093A</string>
-		<string>uni093B</string>
-		<string>uni094F</string>
-		<string>uni0955</string>
-		<string>uni094D</string>
-		<string>uni0900</string>
-		<string>uni0901</string>
-		<string>uni0902</string>
-		<string>uni0903</string>
-		<string>uni093C</string>
-		<string>uni0951</string>
-		<string>uni0952</string>
-		<string>uni0953</string>
-		<string>uni0954</string>
-		<string>uni0971</string>
-		<string>uni0930094D</string>
+		<string>caroncomb.calt</string>
+		<string>dvShortA</string>
+		<string>dvA</string>
+		<string>dvAa</string>
+		<string>dvI</string>
+		<string>dvIi</string>
+		<string>dvU</string>
+		<string>dvUu</string>
+		<string>dvVocalicR</string>
+		<string>dvVocalicR.ss06</string>
+		<string>dvVocalicRr</string>
+		<string>dvVocalicL</string>
+		<string>dvVocalicLl</string>
+		<string>dvCandraE</string>
+		<string>dvShortE</string>
+		<string>dvE</string>
+		<string>dvAi</string>
+		<string>dvCandraO</string>
+		<string>dvShortO</string>
+		<string>dvO</string>
+		<string>dvCandraA</string>
+		<string>dvOE</string>
+		<string>dvOOE</string>
+		<string>dvAW</string>
+		<string>dvUE</string>
+		<string>dvUUE</string>
+		<string>dvAu</string>
+		<string>dvKa</string>
+		<string>dvKha</string>
+		<string>dvGa</string>
+		<string>dvGha</string>
+		<string>dvNga</string>
+		<string>dvCa</string>
+		<string>dvCha</string>
+		<string>dvJa</string>
+		<string>dvJha</string>
+		<string>dvJha.NEP</string>
+		<string>dvNya</string>
+		<string>dvTta</string>
+		<string>dvTtha</string>
+		<string>dvDda</string>
+		<string>dvDdha</string>
+		<string>dvNna</string>
+		<string>dvTa</string>
+		<string>dvTha</string>
+		<string>dvDa</string>
+		<string>dvDha</string>
+		<string>dvNa</string>
+		<string>dvNnna</string>
+		<string>dvPa</string>
+		<string>dvPha</string>
+		<string>dvBa</string>
+		<string>dvBha</string>
+		<string>dvMa</string>
+		<string>dvYa</string>
+		<string>dvRa</string>
+		<string>dvRra</string>
+		<string>dvLa</string>
+		<string>dvLa.MAR</string>
+		<string>dvLla</string>
+		<string>dvLlla</string>
+		<string>dvVa</string>
+		<string>dvSha</string>
+		<string>dvSha.MAR</string>
+		<string>dvSsa</string>
+		<string>dvSa</string>
+		<string>dvHa</string>
+		<string>dvQa</string>
+		<string>dvKhha</string>
+		<string>dvGhha</string>
+		<string>dvZa</string>
+		<string>dvDddha</string>
+		<string>dvRha</string>
+		<string>dvFa</string>
+		<string>dvYya</string>
+		<string>dvZha</string>
+		<string>dvYaHeavy</string>
+		<string>dvGga</string>
+		<string>dvJja</string>
+		<string>dvDdda</string>
+		<string>dvBba</string>
+		<string>dvAvagraha</string>
+		<string>dvGlottalStop</string>
+		<string>dvMatraAa</string>
+		<string>dvMatraI</string>
+		<string>dvMatraIi</string>
+		<string>dvMatraU</string>
+		<string>dvMatraUu</string>
+		<string>dvMatraVocalicR</string>
+		<string>dvMatraVocalicRr</string>
+		<string>dvMatraVocalicL</string>
+		<string>dvMatraVocalicLl</string>
+		<string>dvMatraCandraE</string>
+		<string>dvMatraShortE</string>
+		<string>dvMatraE</string>
+		<string>dvMatraAi</string>
+		<string>dvMatraCandraO</string>
+		<string>dvMatraShortO</string>
+		<string>dvMatraO</string>
+		<string>dvMatraAu</string>
+		<string>dvMatraUE</string>
+		<string>dvMatraUUE</string>
+		<string>dvMatraOE</string>
+		<string>dvMatraOOE</string>
+		<string>dvMatraAW</string>
+		<string>dvMatraCandraLongE</string>
+		<string>dvHalant</string>
+		<string>dvCandrabinduInverted</string>
+		<string>dvCandrabindu</string>
+		<string>dvAnusvara</string>
+		<string>dvVisarga</string>
+		<string>dvNukta</string>
+		<string>dvUdatta</string>
+		<string>dvAnudatta</string>
+		<string>dvGrave</string>
+		<string>dvAcute</string>
+		<string>dvHighSpacingDot</string>
+		<string>dvReph</string>
 		<string>dvReph.MAR</string>
-		<string>uni094D0930</string>
+		<string>dvRakar</string>
 		<string>dvKRa</string>
 		<string>dvKRa.ss03</string>
 		<string>dvKhRa</string>
@@ -779,55 +779,55 @@
 		<string>dvFSa</string>
 		<string>dvFZa</string>
 		<string>dvFFa</string>
-		<string>uni0915094D</string>
-		<string>uni0915094D.alt</string>
-		<string>uni0916094D</string>
-		<string>uni0917094D</string>
-		<string>uni0918094D</string>
-		<string>uni091A094D</string>
-		<string>uni091B094D</string>
-		<string>uni091C094D</string>
-		<string>uni091C094D.alt</string>
-		<string>uni091D094D</string>
-		<string>uni091D094D.NEP</string>
-		<string>uni091E094D</string>
-		<string>uni0923094D</string>
-		<string>uni0924094D</string>
-		<string>uni0924094D.alt</string>
-		<string>uni0924094D.alt1</string>
-		<string>uni0925094D</string>
-		<string>uni0927094D</string>
-		<string>uni0928094D</string>
-		<string>uni0928094D.alt</string>
-		<string>uni0929094D</string>
-		<string>uni092A094D</string>
-		<string>uni092B094D</string>
-		<string>uni092B094D.alt</string>
-		<string>uni092C094D</string>
-		<string>uni092D094D</string>
-		<string>uni092E094D</string>
-		<string>uni092F094D</string>
-		<string>uni092F.post</string>
-		<string>uni0932094D</string>
-		<string>uni0932094D.alt</string>
-		<string>uni0932094D.alt1</string>
-		<string>uni0933094D</string>
-		<string>uni0934094D</string>
-		<string>uni0935094D</string>
-		<string>uni0936094D</string>
-		<string>uni0936094D.MAR</string>
-		<string>uni0937094D</string>
-		<string>uni0938094D</string>
-		<string>uni0939094D</string>
-		<string>uni0958094D</string>
-		<string>uni0958094D.alt</string>
-		<string>uni0959094D</string>
-		<string>uni095A094D</string>
-		<string>uni095B094D</string>
-		<string>uni095B094D.alt</string>
-		<string>uni095E094D</string>
-		<string>uni095E094D.alt</string>
-		<string>uni095F094D</string>
+		<string>dvK</string>
+		<string>dvK.alt</string>
+		<string>dvKh</string>
+		<string>dvG</string>
+		<string>dvGh</string>
+		<string>dvC</string>
+		<string>dvCh</string>
+		<string>dvJ</string>
+		<string>dvJ.alt</string>
+		<string>dvJh</string>
+		<string>dvJh.NEP</string>
+		<string>dvNy</string>
+		<string>dvNn</string>
+		<string>dvT</string>
+		<string>dvT.alt</string>
+		<string>dvT.alt1</string>
+		<string>dvTh</string>
+		<string>dvDh</string>
+		<string>dvN</string>
+		<string>dvN.alt</string>
+		<string>dvNnn</string>
+		<string>dvP</string>
+		<string>dvPh</string>
+		<string>dvPh.alt</string>
+		<string>dvB</string>
+		<string>dvBh</string>
+		<string>dvM</string>
+		<string>dvY</string>
+		<string>dvYa.post</string>
+		<string>dvL</string>
+		<string>dvL.alt</string>
+		<string>dvL.alt1</string>
+		<string>dvLl</string>
+		<string>dvLll</string>
+		<string>dvV</string>
+		<string>dvSh</string>
+		<string>dvSh.MAR</string>
+		<string>dvSs</string>
+		<string>dvS</string>
+		<string>dvH</string>
+		<string>dvQ</string>
+		<string>dvQ.alt</string>
+		<string>dvKhh</string>
+		<string>dvGhh</string>
+		<string>dvZ</string>
+		<string>dvZ.alt</string>
+		<string>dvF</string>
+		<string>dvF.alt</string>
+		<string>dvYy</string>
 		<string>dvKSs</string>
 		<string>dvJNy</string>
 		<string>dvKR</string>
@@ -848,122 +848,122 @@
 		<string>dvNS</string>
 		<string>dvMBh</string>
 		<string>dvLBh</string>
-		<string>uni09260941</string>
-		<string>uni09260942</string>
-		<string>uni09260943</string>
-		<string>uni09260943.ss06</string>
+		<string>dvDa_dvMatraU</string>
+		<string>dvDa_dvMatraUu</string>
+		<string>dvDa_dvMatraVocalicR</string>
+		<string>dvDa_dvMatraVocalicR.ss06</string>
 		<string>dvDBa_dvMatraVocalicR</string>
 		<string>dvDVa_dvMatraVocalicR</string>
-		<string>uni09300941</string>
-		<string>uni09300942</string>
-		<string>uni09360943</string>
-		<string>uni09390943</string>
-		<string>uni09390941</string>
-		<string>uni09390942</string>
-		<string>uni0966</string>
-		<string>uni0967</string>
-		<string>uni0968</string>
-		<string>uni0969</string>
-		<string>uni096A</string>
-		<string>uni096B</string>
-		<string>uni096C</string>
-		<string>uni096D</string>
-		<string>uni096E</string>
-		<string>uni096F</string>
-		<string>uni0967.ss05</string>
-		<string>uni096B.ss05</string>
-		<string>uni096E.ss05</string>
-		<string>uni096F.ss05</string>
-		<string>uni0966.tf</string>
-		<string>uni0967.tf</string>
-		<string>uni0968.tf</string>
-		<string>uni0969.tf</string>
-		<string>uni096A.tf</string>
-		<string>uni096B.tf</string>
-		<string>uni096C.tf</string>
-		<string>uni096D.tf</string>
-		<string>uni096E.tf</string>
-		<string>uni096F.tf</string>
-		<string>uni0967.ss05.tf</string>
-		<string>uni096B.ss05.tf</string>
-		<string>uni096E.ss05.tf</string>
-		<string>uni096F.ss05.tf</string>
-		<string>uni0964</string>
-		<string>uni0965</string>
-		<string>uni0970</string>
-		<string>uniA8FB</string>
-		<string>uniA8FB.small</string>
-		<string>uniA8FB.dvDha</string>
-		<string>uniA8FB.dvKSsa</string>
-		<string>uniA8FB.dvShRa</string>
-		<string>uniA8FB.dvTha</string>
+		<string>dvRa_dvMatraU</string>
+		<string>dvRa_dvMatraUu</string>
+		<string>dvSha_dvMatraVocalicR</string>
+		<string>dvHa_dvMatraVocalicR</string>
+		<string>dvHa_dvMatraU</string>
+		<string>dvHa_dvMatraUu</string>
+		<string>dvZero</string>
+		<string>dvOne</string>
+		<string>dvTwo</string>
+		<string>dvThree</string>
+		<string>dvFour</string>
+		<string>dvFive</string>
+		<string>dvSix</string>
+		<string>dvSeven</string>
+		<string>dvEight</string>
+		<string>dvNine</string>
+		<string>dvOne.ss05</string>
+		<string>dvFive.ss05</string>
+		<string>dvEight.ss05</string>
+		<string>dvNine.ss05</string>
+		<string>dvZero.tf</string>
+		<string>dvOne.tf</string>
+		<string>dvTwo.tf</string>
+		<string>dvThree.tf</string>
+		<string>dvFour.tf</string>
+		<string>dvFive.tf</string>
+		<string>dvSix.tf</string>
+		<string>dvSeven.tf</string>
+		<string>dvEight.tf</string>
+		<string>dvNine.tf</string>
+		<string>dvOne.ss05.tf</string>
+		<string>dvFive.ss05.tf</string>
+		<string>dvEight.ss05.tf</string>
+		<string>dvNine.ss05.tf</string>
+		<string>dvDanda</string>
+		<string>dvDoubleDanda</string>
+		<string>dvAbbreviation</string>
+		<string>dvHeadline</string>
+		<string>dvHeadline.small</string>
+		<string>dvHeadline.dvDha</string>
+		<string>dvHeadline.dvKSsa</string>
+		<string>dvHeadline.dvShRa</string>
+		<string>dvHeadline.dvTha</string>
 		<string>dvHeadlineCandrabindu</string>
-		<string>uni0FD5</string>
-		<string>uni0950</string>
-		<string>uni093F.1</string>
-		<string>uni093F.2</string>
-		<string>uni093F.3</string>
-		<string>uni093F.4</string>
-		<string>uni093F.5</string>
-		<string>uni093F.6</string>
-		<string>uni093F.7</string>
-		<string>uni093F.8</string>
-		<string>uni093F.9</string>
-		<string>uni093F.10</string>
-		<string>uni093F.11</string>
-		<string>uni093F.12</string>
-		<string>uni093F.13</string>
-		<string>uni093F.14</string>
-		<string>uni093F.15</string>
-		<string>uni093F.16</string>
-		<string>uni093F.17</string>
-		<string>uni093F.18</string>
-		<string>uni093F.19</string>
-		<string>uni093F.20</string>
-		<string>uni093F.21</string>
-		<string>uni0940.1</string>
-		<string>uni0940.2</string>
-		<string>uni094D.small</string>
-		<string>uni094D0930.small</string>
-		<string>uni0941.small</string>
-		<string>uni0942.small</string>
-		<string>uni0943.small</string>
-		<string>uni0945.calt</string>
-		<string>uni0902.calt</string>
-		<string>uni0901.calt</string>
-		<string>uni0900.calt</string>
-		<string>uni0902.alt</string>
-		<string>uni0902.alt2</string>
-		<string>uni0930094D.alt</string>
-		<string>uni0930094D.alt2</string>
-		<string>uni0930094D0902</string>
-		<string>uni0930094D0902.alt</string>
-		<string>uni0930094D0902.alt2</string>
-		<string>uni09080902</string>
-		<string>uni09400930094D</string>
-		<string>uni09400930094D0902</string>
-		<string>uni09400930094D.1</string>
-		<string>uni09400930094D0902.1</string>
-		<string>uni09400930094D.2</string>
-		<string>uni09400930094D0902.2</string>
-		<string>uni09470902</string>
-		<string>uni09470930094D</string>
-		<string>uni09470930094D0902</string>
-		<string>uni09460902</string>
-		<string>uni09480902</string>
-		<string>uni09480930094D</string>
-		<string>uni09480930094D0902</string>
-		<string>uni094B0930094D</string>
-		<string>uni094C0930094D</string>
-		<string>uni094B0930094D0902</string>
-		<string>uni094C0930094D0902</string>
-		<string>uni094D09300941</string>
-		<string>uni094D09300942</string>
+		<string>svastika</string>
+		<string>dvOm</string>
+		<string>dvMatraI.1</string>
+		<string>dvMatraI.2</string>
+		<string>dvMatraI.3</string>
+		<string>dvMatraI.4</string>
+		<string>dvMatraI.5</string>
+		<string>dvMatraI.6</string>
+		<string>dvMatraI.7</string>
+		<string>dvMatraI.8</string>
+		<string>dvMatraI.9</string>
+		<string>dvMatraI.10</string>
+		<string>dvMatraI.11</string>
+		<string>dvMatraI.12</string>
+		<string>dvMatraI.13</string>
+		<string>dvMatraI.14</string>
+		<string>dvMatraI.15</string>
+		<string>dvMatraI.16</string>
+		<string>dvMatraI.17</string>
+		<string>dvMatraI.18</string>
+		<string>dvMatraI.19</string>
+		<string>dvMatraI.20</string>
+		<string>dvMatraI.21</string>
+		<string>dvMatraIi.1</string>
+		<string>dvMatraIi.2</string>
+		<string>dvHalant.small</string>
+		<string>dvRakar.small</string>
+		<string>dvMatraU.small</string>
+		<string>dvMatraUu.small</string>
+		<string>dvMatraVocalicR.small</string>
+		<string>dvMatraCandraE.calt</string>
+		<string>dvAnusvara.calt</string>
+		<string>dvCandrabindu.calt</string>
+		<string>dvCandrabinduInverted.calt</string>
+		<string>dvAnusvara.alt</string>
+		<string>dvAnusvara.alt2</string>
+		<string>dvReph.alt</string>
+		<string>dvReph.alt2</string>
+		<string>dvReph_dvAnusvara</string>
+		<string>dvReph_dvAnusvara.alt</string>
+		<string>dvReph_dvAnusvara.alt2</string>
+		<string>dvIi_dvAnusvara</string>
+		<string>dvMatraIi_dvReph</string>
+		<string>dvMatraIi_dvReph_dvAnusvara</string>
+		<string>dvMatraIi_dvReph.1</string>
+		<string>dvMatraIi_dvReph_dvAnusvara.1</string>
+		<string>dvMatraIi_dvReph.2</string>
+		<string>dvMatraIi_dvReph_dvAnusvara.2</string>
+		<string>dvMatraE_dvAnusvara</string>
+		<string>dvMatraE_dvReph</string>
+		<string>dvMatraE_dvReph_dvAnusvara</string>
+		<string>dvMatraShortE_dvAnusvara</string>
+		<string>dvMatraAi_dvAnusvara</string>
+		<string>dvMatraAi_dvReph</string>
+		<string>dvMatraAi_dvReph_dvAnusvara</string>
+		<string>dvMatraO_dvReph</string>
+		<string>dvMatraAu_dvReph</string>
+		<string>dvMatraO_dvReph_dvAnusvara</string>
+		<string>dvMatraAu_dvReph_dvAnusvara</string>
+		<string>dvRakar_dvMatraU</string>
+		<string>dvRakar_dvMatraUu</string>
 		<string>period.deva</string>
 		<string>hyphen.deva</string>
-		<string>uni25CC</string>
-		<string>uni200C</string>
-		<string>uni200D</string>
+		<string>dottedCircle</string>
+		<string>zerowidthnonjoiner</string>
+		<string>zerowidthjoiner</string>
 	</array>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<integer>0</integer>
@@ -973,10 +973,10 @@
 		<string>NULL</string>
 		<string>CR</string>
 		<string>space</string>
-		<string>uni00A0</string>
-		<string>uni2002</string>
-		<string>uni2003</string>
-		<string>uni2009</string>
+		<string>nbspace</string>
+		<string>enspace</string>
+		<string>emspace</string>
+		<string>thinspace</string>
 		<string>exclam</string>
 		<string>quotedbl</string>
 		<string>numbersign</string>
@@ -1081,24 +1081,24 @@
 		<string>dieresis</string>
 		<string>copyright</string>
 		<string>ordfeminine</string>
-		<string>guillemotleft</string>
+		<string>guillemetleft</string>
 		<string>logicalnot</string>
-		<string>uni00AD</string>
+		<string>softhyphen</string>
 		<string>registered</string>
 		<string>macron</string>
 		<string>degree</string>
 		<string>plusminus</string>
-		<string>uni00B2</string>
-		<string>uni00B3</string>
-		<string>uni2074</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
+		<string>foursuperior</string>
 		<string>acute</string>
-		<string>uni00B5</string>
+		<string>micro</string>
 		<string>paragraph</string>
 		<string>periodcentered</string>
 		<string>cedilla</string>
-		<string>uni00B9</string>
+		<string>onesuperior</string>
 		<string>ordmasculine</string>
-		<string>guillemotright</string>
+		<string>guillemetright</string>
 		<string>onequarter</string>
 		<string>onehalf</string>
 		<string>threequarters</string>
@@ -1233,8 +1233,8 @@
 		<string>scedilla</string>
 		<string>Scaron</string>
 		<string>scaron</string>
-		<string>uni0162</string>
-		<string>uni0163</string>
+		<string>Tcedilla</string>
+		<string>tcedilla</string>
 		<string>Tcaron</string>
 		<string>tcaron</string>
 		<string>Umacron</string>
@@ -1254,11 +1254,11 @@
 		<string>zcaron</string>
 		<string>Scommaaccent</string>
 		<string>scommaaccent</string>
-		<string>uni021A</string>
-		<string>uni021B</string>
+		<string>Tcommaaccent</string>
+		<string>tcommaaccent</string>
 		<string>circumflex</string>
 		<string>caron</string>
-		<string>uni02C9</string>
+		<string>firsttonechinese</string>
 		<string>breve</string>
 		<string>dotaccent</string>
 		<string>ring</string>
@@ -1282,17 +1282,17 @@
 		<string>guilsinglleft</string>
 		<string>guilsinglright</string>
 		<string>fraction</string>
-		<string>Euro</string>
-		<string>uni20BD</string>
+		<string>euro</string>
+		<string>ruble</string>
 		<string>trademark</string>
-		<string>uni2126</string>
+		<string>Ohm</string>
 		<string>partialdiff</string>
-		<string>uni2206</string>
+		<string>increment</string>
 		<string>product</string>
 		<string>summation</string>
 		<string>minus</string>
-		<string>uni2215</string>
-		<string>uni2219</string>
+		<string>divisionslash</string>
+		<string>bulletoperator</string>
 		<string>radical</string>
 		<string>infinity</string>
 		<string>integral</string>
@@ -1318,160 +1318,160 @@
 		<string>three.numr</string>
 		<string>four.numr</string>
 		<string>acutecomb</string>
-		<string>uni0306</string>
-		<string>uni030C</string>
+		<string>brevecomb</string>
+		<string>caroncomb</string>
 		<string>acutecomb.case</string>
-		<string>uni0306.case</string>
-		<string>uni030C.case</string>
-		<string>uni0327.case</string>
-		<string>uni0302.case</string>
-		<string>uni0326.case</string>
-		<string>uni0308.case</string>
-		<string>uni0307.case</string>
+		<string>brevecomb.case</string>
+		<string>caroncomb.case</string>
+		<string>cedillacomb.case</string>
+		<string>circumflexcomb.case</string>
+		<string>commaaccentcomb.case</string>
+		<string>dieresiscomb.case</string>
+		<string>dotaccentcomb.case</string>
 		<string>dotbelowcomb.case</string>
 		<string>gravecomb.case</string>
-		<string>uni030B.case</string>
-		<string>uni0331.case</string>
-		<string>uni0304.case</string>
-		<string>uni0328.case</string>
-		<string>uni030A.case</string>
+		<string>hungarumlautcomb.case</string>
+		<string>macronbelowcomb.case</string>
+		<string>macroncomb.case</string>
+		<string>ogonekcomb.case</string>
+		<string>ringcomb.case</string>
 		<string>tildecomb.case</string>
-		<string>uni0327</string>
-		<string>uni0302</string>
-		<string>uni0326</string>
-		<string>uni0308</string>
-		<string>uni0307</string>
+		<string>cedillacomb</string>
+		<string>circumflexcomb</string>
+		<string>commaaccentcomb</string>
+		<string>dieresiscomb</string>
+		<string>dotaccentcomb</string>
 		<string>dotbelowcomb</string>
 		<string>gravecomb</string>
-		<string>uni030B</string>
-		<string>uni0331</string>
-		<string>uni0304</string>
-		<string>uni0328</string>
-		<string>uni030A</string>
+		<string>hungarumlautcomb</string>
+		<string>macronbelowcomb</string>
+		<string>macroncomb</string>
+		<string>ogonekcomb</string>
+		<string>ringcomb</string>
 		<string>tildecomb</string>
 		<string>commaaccent</string>
 		<string>commaaccentturnedabovecomb</string>
 		<string>commaaccentturnedabovecomb.case</string>
-		<string>uni030C.calt</string>
-		<string>uni0904</string>
-		<string>uni0905</string>
-		<string>uni0906</string>
-		<string>uni0907</string>
-		<string>uni0908</string>
-		<string>uni0909</string>
-		<string>uni090A</string>
-		<string>uni090B</string>
-		<string>uni090B.ss06</string>
-		<string>uni0960</string>
-		<string>uni090C</string>
-		<string>uni0961</string>
-		<string>uni090D</string>
-		<string>uni090E</string>
-		<string>uni090F</string>
-		<string>uni0910</string>
-		<string>uni0911</string>
-		<string>uni0912</string>
-		<string>uni0913</string>
-		<string>uni0972</string>
-		<string>uni0973</string>
-		<string>uni0974</string>
-		<string>uni0975</string>
-		<string>uni0976</string>
-		<string>uni0977</string>
-		<string>uni0914</string>
-		<string>uni0915</string>
-		<string>uni0916</string>
-		<string>uni0917</string>
-		<string>uni0918</string>
-		<string>uni0919</string>
-		<string>uni091A</string>
-		<string>uni091B</string>
-		<string>uni091C</string>
-		<string>uni091D</string>
-		<string>uni091D.NEP</string>
-		<string>uni091E</string>
-		<string>uni091F</string>
-		<string>uni0920</string>
-		<string>uni0921</string>
-		<string>uni0922</string>
-		<string>uni0923</string>
-		<string>uni0924</string>
-		<string>uni0925</string>
-		<string>uni0926</string>
-		<string>uni0927</string>
-		<string>uni0928</string>
-		<string>uni0929</string>
-		<string>uni092A</string>
-		<string>uni092B</string>
-		<string>uni092C</string>
-		<string>uni092D</string>
-		<string>uni092E</string>
-		<string>uni092F</string>
-		<string>uni0930</string>
-		<string>uni0931</string>
-		<string>uni0932</string>
-		<string>uni0932.MAR</string>
-		<string>uni0933</string>
-		<string>uni0934</string>
-		<string>uni0935</string>
-		<string>uni0936</string>
-		<string>uni0936.MAR</string>
-		<string>uni0937</string>
-		<string>uni0938</string>
-		<string>uni0939</string>
-		<string>uni0958</string>
-		<string>uni0959</string>
-		<string>uni095A</string>
-		<string>uni095B</string>
-		<string>uni095C</string>
-		<string>uni095D</string>
-		<string>uni095E</string>
-		<string>uni095F</string>
-		<string>uni0979</string>
-		<string>uni097A</string>
-		<string>uni097B</string>
-		<string>uni097C</string>
-		<string>uni097E</string>
-		<string>uni097F</string>
-		<string>uni093D</string>
-		<string>uni097D</string>
-		<string>uni093E</string>
-		<string>uni093F</string>
-		<string>uni0940</string>
-		<string>uni0941</string>
-		<string>uni0942</string>
-		<string>uni0943</string>
-		<string>uni0944</string>
-		<string>uni0962</string>
-		<string>uni0963</string>
-		<string>uni0945</string>
-		<string>uni0946</string>
-		<string>uni0947</string>
-		<string>uni0948</string>
-		<string>uni0949</string>
-		<string>uni094A</string>
-		<string>uni094B</string>
-		<string>uni094C</string>
-		<string>uni0956</string>
-		<string>uni0957</string>
-		<string>uni093A</string>
-		<string>uni093B</string>
-		<string>uni094F</string>
-		<string>uni0955</string>
-		<string>uni094D</string>
-		<string>uni0900</string>
-		<string>uni0901</string>
-		<string>uni0902</string>
-		<string>uni0903</string>
-		<string>uni093C</string>
-		<string>uni0951</string>
-		<string>uni0952</string>
-		<string>uni0953</string>
-		<string>uni0954</string>
-		<string>uni0971</string>
-		<string>uni0930094D</string>
+		<string>caroncomb.calt</string>
+		<string>dvShortA</string>
+		<string>dvA</string>
+		<string>dvAa</string>
+		<string>dvI</string>
+		<string>dvIi</string>
+		<string>dvU</string>
+		<string>dvUu</string>
+		<string>dvVocalicR</string>
+		<string>dvVocalicR.ss06</string>
+		<string>dvVocalicRr</string>
+		<string>dvVocalicL</string>
+		<string>dvVocalicLl</string>
+		<string>dvCandraE</string>
+		<string>dvShortE</string>
+		<string>dvE</string>
+		<string>dvAi</string>
+		<string>dvCandraO</string>
+		<string>dvShortO</string>
+		<string>dvO</string>
+		<string>dvCandraA</string>
+		<string>dvOE</string>
+		<string>dvOOE</string>
+		<string>dvAW</string>
+		<string>dvUE</string>
+		<string>dvUUE</string>
+		<string>dvAu</string>
+		<string>dvKa</string>
+		<string>dvKha</string>
+		<string>dvGa</string>
+		<string>dvGha</string>
+		<string>dvNga</string>
+		<string>dvCa</string>
+		<string>dvCha</string>
+		<string>dvJa</string>
+		<string>dvJha</string>
+		<string>dvJha.NEP</string>
+		<string>dvNya</string>
+		<string>dvTta</string>
+		<string>dvTtha</string>
+		<string>dvDda</string>
+		<string>dvDdha</string>
+		<string>dvNna</string>
+		<string>dvTa</string>
+		<string>dvTha</string>
+		<string>dvDa</string>
+		<string>dvDha</string>
+		<string>dvNa</string>
+		<string>dvNnna</string>
+		<string>dvPa</string>
+		<string>dvPha</string>
+		<string>dvBa</string>
+		<string>dvBha</string>
+		<string>dvMa</string>
+		<string>dvYa</string>
+		<string>dvRa</string>
+		<string>dvRra</string>
+		<string>dvLa</string>
+		<string>dvLa.MAR</string>
+		<string>dvLla</string>
+		<string>dvLlla</string>
+		<string>dvVa</string>
+		<string>dvSha</string>
+		<string>dvSha.MAR</string>
+		<string>dvSsa</string>
+		<string>dvSa</string>
+		<string>dvHa</string>
+		<string>dvQa</string>
+		<string>dvKhha</string>
+		<string>dvGhha</string>
+		<string>dvZa</string>
+		<string>dvDddha</string>
+		<string>dvRha</string>
+		<string>dvFa</string>
+		<string>dvYya</string>
+		<string>dvZha</string>
+		<string>dvYaHeavy</string>
+		<string>dvGga</string>
+		<string>dvJja</string>
+		<string>dvDdda</string>
+		<string>dvBba</string>
+		<string>dvAvagraha</string>
+		<string>dvGlottalStop</string>
+		<string>dvMatraAa</string>
+		<string>dvMatraI</string>
+		<string>dvMatraIi</string>
+		<string>dvMatraU</string>
+		<string>dvMatraUu</string>
+		<string>dvMatraVocalicR</string>
+		<string>dvMatraVocalicRr</string>
+		<string>dvMatraVocalicL</string>
+		<string>dvMatraVocalicLl</string>
+		<string>dvMatraCandraE</string>
+		<string>dvMatraShortE</string>
+		<string>dvMatraE</string>
+		<string>dvMatraAi</string>
+		<string>dvMatraCandraO</string>
+		<string>dvMatraShortO</string>
+		<string>dvMatraO</string>
+		<string>dvMatraAu</string>
+		<string>dvMatraUE</string>
+		<string>dvMatraUUE</string>
+		<string>dvMatraOE</string>
+		<string>dvMatraOOE</string>
+		<string>dvMatraAW</string>
+		<string>dvMatraCandraLongE</string>
+		<string>dvHalant</string>
+		<string>dvCandrabinduInverted</string>
+		<string>dvCandrabindu</string>
+		<string>dvAnusvara</string>
+		<string>dvVisarga</string>
+		<string>dvNukta</string>
+		<string>dvUdatta</string>
+		<string>dvAnudatta</string>
+		<string>dvGrave</string>
+		<string>dvAcute</string>
+		<string>dvHighSpacingDot</string>
+		<string>dvReph</string>
 		<string>dvReph.MAR</string>
-		<string>uni094D0930</string>
+		<string>dvRakar</string>
 		<string>dvKRa</string>
 		<string>dvKRa.ss03</string>
 		<string>dvKhRa</string>
@@ -1738,55 +1738,55 @@
 		<string>dvFSa</string>
 		<string>dvFZa</string>
 		<string>dvFFa</string>
-		<string>uni0915094D</string>
-		<string>uni0915094D.alt</string>
-		<string>uni0916094D</string>
-		<string>uni0917094D</string>
-		<string>uni0918094D</string>
-		<string>uni091A094D</string>
-		<string>uni091B094D</string>
-		<string>uni091C094D</string>
-		<string>uni091C094D.alt</string>
-		<string>uni091D094D</string>
-		<string>uni091D094D.NEP</string>
-		<string>uni091E094D</string>
-		<string>uni0923094D</string>
-		<string>uni0924094D</string>
-		<string>uni0924094D.alt</string>
-		<string>uni0924094D.alt1</string>
-		<string>uni0925094D</string>
-		<string>uni0927094D</string>
-		<string>uni0928094D</string>
-		<string>uni0928094D.alt</string>
-		<string>uni0929094D</string>
-		<string>uni092A094D</string>
-		<string>uni092B094D</string>
-		<string>uni092B094D.alt</string>
-		<string>uni092C094D</string>
-		<string>uni092D094D</string>
-		<string>uni092E094D</string>
-		<string>uni092F094D</string>
-		<string>uni092F.post</string>
-		<string>uni0932094D</string>
-		<string>uni0932094D.alt</string>
-		<string>uni0932094D.alt1</string>
-		<string>uni0933094D</string>
-		<string>uni0934094D</string>
-		<string>uni0935094D</string>
-		<string>uni0936094D</string>
-		<string>uni0936094D.MAR</string>
-		<string>uni0937094D</string>
-		<string>uni0938094D</string>
-		<string>uni0939094D</string>
-		<string>uni0958094D</string>
-		<string>uni0958094D.alt</string>
-		<string>uni0959094D</string>
-		<string>uni095A094D</string>
-		<string>uni095B094D</string>
-		<string>uni095B094D.alt</string>
-		<string>uni095E094D</string>
-		<string>uni095E094D.alt</string>
-		<string>uni095F094D</string>
+		<string>dvK</string>
+		<string>dvK.alt</string>
+		<string>dvKh</string>
+		<string>dvG</string>
+		<string>dvGh</string>
+		<string>dvC</string>
+		<string>dvCh</string>
+		<string>dvJ</string>
+		<string>dvJ.alt</string>
+		<string>dvJh</string>
+		<string>dvJh.NEP</string>
+		<string>dvNy</string>
+		<string>dvNn</string>
+		<string>dvT</string>
+		<string>dvT.alt</string>
+		<string>dvT.alt1</string>
+		<string>dvTh</string>
+		<string>dvDh</string>
+		<string>dvN</string>
+		<string>dvN.alt</string>
+		<string>dvNnn</string>
+		<string>dvP</string>
+		<string>dvPh</string>
+		<string>dvPh.alt</string>
+		<string>dvB</string>
+		<string>dvBh</string>
+		<string>dvM</string>
+		<string>dvY</string>
+		<string>dvYa.post</string>
+		<string>dvL</string>
+		<string>dvL.alt</string>
+		<string>dvL.alt1</string>
+		<string>dvLl</string>
+		<string>dvLll</string>
+		<string>dvV</string>
+		<string>dvSh</string>
+		<string>dvSh.MAR</string>
+		<string>dvSs</string>
+		<string>dvS</string>
+		<string>dvH</string>
+		<string>dvQ</string>
+		<string>dvQ.alt</string>
+		<string>dvKhh</string>
+		<string>dvGhh</string>
+		<string>dvZ</string>
+		<string>dvZ.alt</string>
+		<string>dvF</string>
+		<string>dvF.alt</string>
+		<string>dvYy</string>
 		<string>dvKSs</string>
 		<string>dvJNy</string>
 		<string>dvKR</string>
@@ -1807,122 +1807,122 @@
 		<string>dvNS</string>
 		<string>dvMBh</string>
 		<string>dvLBh</string>
-		<string>uni09260941</string>
-		<string>uni09260942</string>
-		<string>uni09260943</string>
-		<string>uni09260943.ss06</string>
+		<string>dvDa_dvMatraU</string>
+		<string>dvDa_dvMatraUu</string>
+		<string>dvDa_dvMatraVocalicR</string>
+		<string>dvDa_dvMatraVocalicR.ss06</string>
 		<string>dvDBa_dvMatraVocalicR</string>
 		<string>dvDVa_dvMatraVocalicR</string>
-		<string>uni09300941</string>
-		<string>uni09300942</string>
-		<string>uni09360943</string>
-		<string>uni09390943</string>
-		<string>uni09390941</string>
-		<string>uni09390942</string>
-		<string>uni0966</string>
-		<string>uni0967</string>
-		<string>uni0968</string>
-		<string>uni0969</string>
-		<string>uni096A</string>
-		<string>uni096B</string>
-		<string>uni096C</string>
-		<string>uni096D</string>
-		<string>uni096E</string>
-		<string>uni096F</string>
-		<string>uni0967.ss05</string>
-		<string>uni096B.ss05</string>
-		<string>uni096E.ss05</string>
-		<string>uni096F.ss05</string>
-		<string>uni0966.tf</string>
-		<string>uni0967.tf</string>
-		<string>uni0968.tf</string>
-		<string>uni0969.tf</string>
-		<string>uni096A.tf</string>
-		<string>uni096B.tf</string>
-		<string>uni096C.tf</string>
-		<string>uni096D.tf</string>
-		<string>uni096E.tf</string>
-		<string>uni096F.tf</string>
-		<string>uni0967.ss05.tf</string>
-		<string>uni096B.ss05.tf</string>
-		<string>uni096E.ss05.tf</string>
-		<string>uni096F.ss05.tf</string>
-		<string>uni0964</string>
-		<string>uni0965</string>
-		<string>uni0970</string>
-		<string>uniA8FB</string>
-		<string>uniA8FB.small</string>
-		<string>uniA8FB.dvDha</string>
-		<string>uniA8FB.dvKSsa</string>
-		<string>uniA8FB.dvShRa</string>
-		<string>uniA8FB.dvTha</string>
+		<string>dvRa_dvMatraU</string>
+		<string>dvRa_dvMatraUu</string>
+		<string>dvSha_dvMatraVocalicR</string>
+		<string>dvHa_dvMatraVocalicR</string>
+		<string>dvHa_dvMatraU</string>
+		<string>dvHa_dvMatraUu</string>
+		<string>dvZero</string>
+		<string>dvOne</string>
+		<string>dvTwo</string>
+		<string>dvThree</string>
+		<string>dvFour</string>
+		<string>dvFive</string>
+		<string>dvSix</string>
+		<string>dvSeven</string>
+		<string>dvEight</string>
+		<string>dvNine</string>
+		<string>dvOne.ss05</string>
+		<string>dvFive.ss05</string>
+		<string>dvEight.ss05</string>
+		<string>dvNine.ss05</string>
+		<string>dvZero.tf</string>
+		<string>dvOne.tf</string>
+		<string>dvTwo.tf</string>
+		<string>dvThree.tf</string>
+		<string>dvFour.tf</string>
+		<string>dvFive.tf</string>
+		<string>dvSix.tf</string>
+		<string>dvSeven.tf</string>
+		<string>dvEight.tf</string>
+		<string>dvNine.tf</string>
+		<string>dvOne.ss05.tf</string>
+		<string>dvFive.ss05.tf</string>
+		<string>dvEight.ss05.tf</string>
+		<string>dvNine.ss05.tf</string>
+		<string>dvDanda</string>
+		<string>dvDoubleDanda</string>
+		<string>dvAbbreviation</string>
+		<string>dvHeadline</string>
+		<string>dvHeadline.small</string>
+		<string>dvHeadline.dvDha</string>
+		<string>dvHeadline.dvKSsa</string>
+		<string>dvHeadline.dvShRa</string>
+		<string>dvHeadline.dvTha</string>
 		<string>dvHeadlineCandrabindu</string>
-		<string>uni0FD5</string>
-		<string>uni0950</string>
-		<string>uni093F.1</string>
-		<string>uni093F.2</string>
-		<string>uni093F.3</string>
-		<string>uni093F.4</string>
-		<string>uni093F.5</string>
-		<string>uni093F.6</string>
-		<string>uni093F.7</string>
-		<string>uni093F.8</string>
-		<string>uni093F.9</string>
-		<string>uni093F.10</string>
-		<string>uni093F.11</string>
-		<string>uni093F.12</string>
-		<string>uni093F.13</string>
-		<string>uni093F.14</string>
-		<string>uni093F.15</string>
-		<string>uni093F.16</string>
-		<string>uni093F.17</string>
-		<string>uni093F.18</string>
-		<string>uni093F.19</string>
-		<string>uni093F.20</string>
-		<string>uni093F.21</string>
-		<string>uni0940.1</string>
-		<string>uni0940.2</string>
-		<string>uni094D.small</string>
-		<string>uni094D0930.small</string>
-		<string>uni0941.small</string>
-		<string>uni0942.small</string>
-		<string>uni0943.small</string>
-		<string>uni0945.calt</string>
-		<string>uni0902.calt</string>
-		<string>uni0901.calt</string>
-		<string>uni0900.calt</string>
-		<string>uni0902.alt</string>
-		<string>uni0902.alt2</string>
-		<string>uni0930094D.alt</string>
-		<string>uni0930094D.alt2</string>
-		<string>uni0930094D0902</string>
-		<string>uni0930094D0902.alt</string>
-		<string>uni0930094D0902.alt2</string>
-		<string>uni09080902</string>
-		<string>uni09400930094D</string>
-		<string>uni09400930094D0902</string>
-		<string>uni09400930094D.1</string>
-		<string>uni09400930094D0902.1</string>
-		<string>uni09400930094D.2</string>
-		<string>uni09400930094D0902.2</string>
-		<string>uni09470902</string>
-		<string>uni09470930094D</string>
-		<string>uni09470930094D0902</string>
-		<string>uni09460902</string>
-		<string>uni09480902</string>
-		<string>uni09480930094D</string>
-		<string>uni09480930094D0902</string>
-		<string>uni094B0930094D</string>
-		<string>uni094C0930094D</string>
-		<string>uni094B0930094D0902</string>
-		<string>uni094C0930094D0902</string>
-		<string>uni094D09300941</string>
-		<string>uni094D09300942</string>
+		<string>svastika</string>
+		<string>dvOm</string>
+		<string>dvMatraI.1</string>
+		<string>dvMatraI.2</string>
+		<string>dvMatraI.3</string>
+		<string>dvMatraI.4</string>
+		<string>dvMatraI.5</string>
+		<string>dvMatraI.6</string>
+		<string>dvMatraI.7</string>
+		<string>dvMatraI.8</string>
+		<string>dvMatraI.9</string>
+		<string>dvMatraI.10</string>
+		<string>dvMatraI.11</string>
+		<string>dvMatraI.12</string>
+		<string>dvMatraI.13</string>
+		<string>dvMatraI.14</string>
+		<string>dvMatraI.15</string>
+		<string>dvMatraI.16</string>
+		<string>dvMatraI.17</string>
+		<string>dvMatraI.18</string>
+		<string>dvMatraI.19</string>
+		<string>dvMatraI.20</string>
+		<string>dvMatraI.21</string>
+		<string>dvMatraIi.1</string>
+		<string>dvMatraIi.2</string>
+		<string>dvHalant.small</string>
+		<string>dvRakar.small</string>
+		<string>dvMatraU.small</string>
+		<string>dvMatraUu.small</string>
+		<string>dvMatraVocalicR.small</string>
+		<string>dvMatraCandraE.calt</string>
+		<string>dvAnusvara.calt</string>
+		<string>dvCandrabindu.calt</string>
+		<string>dvCandrabinduInverted.calt</string>
+		<string>dvAnusvara.alt</string>
+		<string>dvAnusvara.alt2</string>
+		<string>dvReph.alt</string>
+		<string>dvReph.alt2</string>
+		<string>dvReph_dvAnusvara</string>
+		<string>dvReph_dvAnusvara.alt</string>
+		<string>dvReph_dvAnusvara.alt2</string>
+		<string>dvIi_dvAnusvara</string>
+		<string>dvMatraIi_dvReph</string>
+		<string>dvMatraIi_dvReph_dvAnusvara</string>
+		<string>dvMatraIi_dvReph.1</string>
+		<string>dvMatraIi_dvReph_dvAnusvara.1</string>
+		<string>dvMatraIi_dvReph.2</string>
+		<string>dvMatraIi_dvReph_dvAnusvara.2</string>
+		<string>dvMatraE_dvAnusvara</string>
+		<string>dvMatraE_dvReph</string>
+		<string>dvMatraE_dvReph_dvAnusvara</string>
+		<string>dvMatraShortE_dvAnusvara</string>
+		<string>dvMatraAi_dvAnusvara</string>
+		<string>dvMatraAi_dvReph</string>
+		<string>dvMatraAi_dvReph_dvAnusvara</string>
+		<string>dvMatraO_dvReph</string>
+		<string>dvMatraAu_dvReph</string>
+		<string>dvMatraO_dvReph_dvAnusvara</string>
+		<string>dvMatraAu_dvReph_dvAnusvara</string>
+		<string>dvRakar_dvMatraU</string>
+		<string>dvRakar_dvMatraUu</string>
 		<string>period.deva</string>
 		<string>hyphen.deva</string>
-		<string>uni25CC</string>
-		<string>uni200C</string>
-		<string>uni200D</string>
+		<string>dottedCircle</string>
+		<string>zerowidthnonjoiner</string>
+		<string>zerowidthjoiner</string>
 	</array>
 </dict>
 </plist>

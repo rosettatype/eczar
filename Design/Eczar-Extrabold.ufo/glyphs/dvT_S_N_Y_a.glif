@@ -2,10 +2,10 @@
 <glyph name="dvTSNYa" format="1">
   <advance width="1804"/>
   <outline>
-    <component base="uni0924094D.alt1"/>
-    <component base="uni0938094D" xOffset="339"/>
-    <component base="uni0928094D.alt" xOffset="823"/>
-    <component base="uni092F" xOffset="1123"/>
+    <component base="dvT.alt1"/>
+    <component base="dvS" xOffset="339"/>
+    <component base="dvN.alt" xOffset="823"/>
+    <component base="dvYa" xOffset="1123"/>
     <contour>
       <point x="1514" y="670" type="move" name="candrabindu"/>
     </contour>
@@ -32,7 +32,7 @@
           <key>index</key>
           <integer>2</integer>
           <key>name</key>
-          <string>uni0928094D.alt</string>
+          <string>dvN.alt</string>
         </dict>
       </array>
     </dict>

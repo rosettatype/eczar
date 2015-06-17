@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvUE" format="1">
+  <advance width="781"/>
+  <unicode hex="0976"/>
+  <outline>
+    <component base="dvA"/>
+    <component base="dvMatraUE" xOffset="739"/>
+    <contour>
+      <point x="637" y="640" type="move" name="bindu"/>
+    </contour>
+    <contour>
+      <point x="621" y="640" type="move" name="candrabindu"/>
+    </contour>
+  </outline>
+</glyph>

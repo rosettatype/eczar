@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvOE" format="1">
+  <advance width="859"/>
+  <unicode hex="0973"/>
+  <outline>
+    <contour>
+      <point x="638" y="835" type="line"/>
+      <point x="638" y="602" type="line"/>
+      <point x="719" y="561" type="line"/>
+      <point x="749" y="578" type="line"/>
+      <point x="749" y="835" type="line"/>
+    </contour>
+    <component base="dvA"/>
+  </outline>
+</glyph>

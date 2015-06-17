@@ -12,10 +12,6 @@
 	<integer>-265</integer>
 	<key>familyName</key>
 	<string>Eczar</string>
-	<key>license</key>
-	<string>IMPORTANT, please read our license agreement at https://github.com/rosettatype/Eczar/</string>
-	<key>licenseURL</key>
-	<string>https://github.com/rosettatype/Eczar/</string>
 	<key>openTypeHeadCreated</key>
 	<string>2014/12/24 08:45:10</string>
 	<key>openTypeNameDesigner</key>
@@ -54,12 +50,14 @@
 		<integer>-224</integer>
 		<integer>-202</integer>
 	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-118</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>93</integer>
 	<key>styleMapStyleName</key>
 	<string>bold</string>
 	<key>styleName</key>
 	<string>Bold</string>
-	<key>trademark</key>
-	<string>Eczar is a trademark of Vaibhav Singh.</string>
 	<key>unicodeRanges</key>
 	<array>
 		<integer>0</integer>

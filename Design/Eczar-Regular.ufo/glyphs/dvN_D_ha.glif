@@ -27,7 +27,7 @@
       <point x="97" y="271" type="line"/>
       <point x="396" y="271" type="line"/>
     </contour>
-    <component base="uni0927" xOffset="214"/>
+    <component base="dvDha" xOffset="214"/>
     <contour>
       <point x="719" y="630" type="move" name="candrabindu"/>
     </contour>
@@ -54,7 +54,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>uni0927</string>
+          <string>dvDha</string>
         </dict>
       </array>
     </dict>

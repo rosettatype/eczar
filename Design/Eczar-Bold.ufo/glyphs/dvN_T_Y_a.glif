@@ -2,7 +2,7 @@
 <glyph name="dvNTYa" format="1">
   <advance width="1315"/>
   <outline>
-    <component base="uni0928094D"/>
+    <component base="dvN"/>
     <component base="dvTYa" xOffset="312"/>
     <contour>
       <point x="1037" y="660" type="move" name="candrabindu"/>

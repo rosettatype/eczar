@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvG" format="1">
+  <advance width="380"/>
+  <outline>
+    <contour>
+      <point x="8" y="299" type="line"/>
+      <point x="36" y="213"/>
+      <point x="153" y="113"/>
+      <point x="239" y="88" type="curve"/>
+      <point x="304" y="125" type="line"/>
+      <point x="304" y="315" type="line"/>
+      <point x="237" y="357" type="line"/>
+      <point x="44" y="357" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="538" type="line"/>
+      <point x="445" y="587" type="line"/>
+      <point x="380" y="670" type="line"/>
+      <point x="-40" y="670" type="line"/>
+      <point x="-65" y="621" type="line"/>
+      <point x="0" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="237" type="line"/>
+      <point x="304" y="195" type="line"/>
+      <point x="304" y="486" type="line"/>
+      <point x="184" y="568" type="line"/>
+      <point x="118" y="599" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

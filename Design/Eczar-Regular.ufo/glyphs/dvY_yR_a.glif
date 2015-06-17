@@ -3,7 +3,7 @@
   <advance width="587"/>
   <outline>
     <component base="dvYRa"/>
-    <component base="uni093C" xOffset="335" yOffset="91"/>
+    <component base="dvNukta" xOffset="335" yOffset="91"/>
     <contour>
       <point x="347" y="630" type="move" name="candrabindu"/>
     </contour>
