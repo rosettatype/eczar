@@ -12,57 +12,51 @@ table BASE {
 include(../../version.fea);
 
 table OS/2 {
-	FSType					4;
-	Panose					2 0 6 3 4 3 0 0 0 4;
+	FSType				4;
+	Panose				2 0 6 3 4 3 0 0 0 4;
 	UnicodeRange		0		# Basic Latin
-									1		# Latin-1 Supplement
-									2		# Latin Extended-A
-									3		# Latin Extended-B
-									6		# Combining Diacritical Marks
-									15	# Devanagari	0900-097F
-									31	# General Punctuation
-									32	# Superscripts And Subscripts
-									33	# Currency Symbols
-									35	# Letterlike Symbols
-									;
-	CodePageRange 1252	# Latin 1
+						1		# Latin-1 Supplement
+						2		# Latin Extended-A
+						3		# Latin Extended-B
+						6		# Combining Diacritical Marks
+						15	# Devanagari	0900-097F
+						31	# General Punctuation
+						32	# Superscripts And Subscripts
+						33	# Currency Symbols
+						35	# Letterlike Symbols
+						;
+	CodePageRange		1252	# Latin 1
 								;
-	winAscent				1100;
-	winDescent			500;
-	TypoAscender		1000;
-	TypoDescender		-400;
-	TypoLineGap			200;
-	XHeight					470;		# differs from weight to weight
-	CapHeight				650;
+	winAscent			1143;
+	winDescent			634;
+	TypoAscender		1143;
+	TypoDescender		-634;
+	TypoLineGap			0;
+	XHeight				470;		# differs from weight to weight
+	CapHeight			650;
 	#WeightClass;
 	WidthClass			5;	# Medium/Normal
-	Vendor					" RST";
+	Vendor				" RST";
 } OS/2;
 
 table hhea {
 	#CaretOffset -50;
-	Ascender 1100;
-	Descender -500;
+	Ascender 1143;
+	Descender -634;
 	LineGap 0;
 } hhea;
 
 table name {
 	nameid 0 "Copyright (c) 2014, Vaibhav Singh (design) and Rosetta Type Foundry s.r.o. (post-production).";
-	nameid 0 1 "Copyright (c) 2014, Vaibhav Singh (design) and Rosetta Type Foundry s.r.o. (post-production).";
+	nameid 5 "Autohinted with: ttfautohint --hinting-range-max=96 --ignore-restrictions --strong-stem-width=G --increase-x-height=14 --fallback-script=latn --default-script=deva";
 	nameid 7 "Eczar is a trademark of Vaibhav Singh";
 	nameid 7 "Eczar is a trademark of Vaibhav Singh";
 	nameid 8 "Rosetta Type Foundry";
-	nameid 8 1 "Rosetta Type Foundry";
 	nameid 9 "Vaibhav Singh";
-	nameid 9 1 "Vaibhav Singh";
 	nameid 11 "http://rosettatype.com";
-	nameid 11 1 "http://rosettatype.com";
 	nameid 12 "http://rosettatype.com";
-	nameid 12 1 "http://rosettatype.com";
-	nameid 13 "IMPORTANT, please read our license agreement at https://github.com/rosettatype/Eczar/";
-	nameid 13 1 "IMPORTANT, please read our license agreement at https://github.com/rosettatype/Eczar/";
-	nameid 14 "https://github.com/rosettatype/Eczar/";
-	nameid 14 1 "https://github.com/rosettatype/Eczar/";
+	nameid 13 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+	nameid 14 "http://scripts.sil.org/OFL";
 } name;
 
 table GDEF {
