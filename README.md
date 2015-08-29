@@ -16,11 +16,13 @@ Here it how it looks:
 
 ![Eczar specimen 1](https://rawgithub.com/rosettatype/Eczar/master/Specimens/Eczar-specimen_1.svg)
 
-## About Rosetta
+## Rosetta – world typography specialists
 
-Rosetta is a publisher and distributor of high-quality fonts for a growing number of the world’s writing systems. So far our retail library supports pan-European Latin, Arabic, Armenian, Greek, Cyrillic (besides Slavic languages we also support many Asian languages), Inuktitut, and Indic scripts like Gujarati and Devanagari. In total, the library covers more than 200 languages. We have also worked on numerous language extensions (Arabic, Indic, Burmese, Thai, …) for various global companies. The fonts are of top-notch quality, and have won numerous design awards. They not only support the writing systems individually, but are also harmonised to work well together in wider font-families.
+Rosetta addresses the needs of global typography. Together with our collaborators we create original fonts for a polyphonic world. Our work has been featured and awarded. But most importantly it has enabled people to read better in their native language.
 
-For more information see our website at http://www.rosettatype.com.
+So far our retail library supports pan-European Latin, Arabic, Armenian, Greek, Cyrillic (besides Slavic languages we also support many Asian languages), Inuktitut, and Indic scripts like Gujarati and Devanagari. In total, the library covers more than 200 languages.
+
+For more information see the website at http://rosettatype.com.
 
 You can contact us at <ask@rosettatype.com>.
 
