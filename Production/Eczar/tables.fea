@@ -12,7 +12,7 @@ table BASE {
 include(../../version.fea);
 
 table OS/2 {
-	FSType				4;
+	FSType				0;
 	Panose				2 0 6 3 4 3 0 0 0 4;
 	UnicodeRange		0		# Basic Latin
 						1		# Latin-1 Supplement
