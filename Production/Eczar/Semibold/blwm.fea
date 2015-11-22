@@ -324,6 +324,12 @@
 		pos base [dvFSa]  <anchor 1154 3> mark @mark_bottom;
 		pos base [dvFZa]  <anchor 1112 -140> mark @mark_bottom;
 		pos base [dvFFa]  <anchor 893 -69> mark @mark_bottom;
+		pos base [dvNg]  <anchor 317 -56> mark @mark_bottom;
+		pos base [dvTt]  <anchor 309 -19> mark @mark_bottom;
+		pos base [dvTth]  <anchor 319 -29> mark @mark_bottom;
+		pos base [dvDd]  <anchor 294 -58> mark @mark_bottom;
+		pos base [dvDdh]  <anchor 346 -55> mark @mark_bottom;
+		pos base [dvD]  <anchor 389 -181> mark @mark_bottom;
 		pos base [dvYa.post]  <anchor 417 -32> mark @mark_bottom;
 		pos base [dvS]  <anchor 247 8> mark @mark_bottom;
 		pos base [dvNS]  <anchor 513 8> mark @mark_bottom;
@@ -335,5 +341,7 @@
 	lookup blwm_mkmkdevanagari_bottom {
 		pos mark [dvRakar] <anchor 24 -225> mark @mark_bottom;
 		pos mark [dvRakar.small] <anchor 18 -228> mark @mark_bottom;
+		pos mark [dvRakar_dvMatraU] <anchor 18 -228> mark @mark_bottom;
+		pos mark [dvRakar_dvMatraUu] <anchor 18 -228> mark @mark_bottom;
 	} blwm_mkmkdevanagari_bottom;
 

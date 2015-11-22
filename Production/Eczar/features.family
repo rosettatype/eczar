@@ -67,6 +67,7 @@ feature locl {
 		language MAR;
 			sub dvLa by dvLa.MAR;
 			sub dvSha by dvSha.MAR;
+
 	script latn;
 		language ROM;
 			sub Scedilla by Scommaaccent;
@@ -136,6 +137,7 @@ feature rkrf {
 				lookupflag MarkAttachmentType @MK_dvConjunctMarks;
 
 				sub [dvSha dvSha.MAR] dvHalant dvRa dvHalant dvYa by dvShRYa;
+				sub dvShRa dvHalant dvYa by dvShRYa;
 
 				sub dvKa dvHalant dvSa dvHalant dvPa dvHalant dvRa by dvKSPRa;
 				sub dvNga dvHalant dvKa dvHalant dvRa by dvNgKRa;
@@ -157,7 +159,6 @@ feature rkrf {
 				sub dvGa dvHalant dvRa dvHalant dvYa by dvGRYa;
 				sub dvCha dvHalant dvRa dvHalant dvYa by dvChRYa;
 				sub dvDdha dvHalant dvRa dvHalant dvYa by dvDdhRYa;
-				sub dvShRa dvHalant dvYa by dvShRYa;
 				sub dvDa dvHalant dvRa dvHalant dvYa by dvDRYa;
 				sub dvBha dvHalant dvRa dvHalant dvYa by dvBhRYa;
 
@@ -219,6 +220,10 @@ feature blwf {
 
 		language MAR include_dflt;
 		language NEP include_dflt;
+
+	script deva;
+		language dflt;
+			sub dvRa dvHalant by dvRakar;
 } blwf;
 
 
@@ -289,7 +294,126 @@ feature half {
 
 		language MAR include_dflt;
 		language NEP include_dflt;
+
+	script deva;
+		language dflt;
+			lookup HALF;
+
+			lookup HALF_DEVA {
+				lookupflag MarkAttachmentType @MK_dvConjunctMarks;
+				
+				sub dvNga dvHalant by dvNg;
+				sub dvTta dvHalant by dvTt;
+				sub dvTtha dvHalant by dvTth;
+				sub dvDda dvHalant by dvDd;
+				sub dvDdha dvHalant by dvDdh;
+				sub dvDa dvHalant by dvD;
+				sub dvCha dvHalant by dvCh;
+			} HALF_DEVA;
+			
+
+			lookup HALF_VATU {
+				lookupflag MarkAttachmentType @MK_dvConjunctMarks;
+				
+				sub dvK dvRakar by dvKR;
+				sub dvGh dvRakar by dvGhR;
+				sub dvT dvRakar by dvTR;
+				sub dvDh dvRakar by dvDhR;
+				sub dvP dvRakar by dvPR;
+				sub dvV dvRakar by dvVR;
+				sub [dvSh dvSh.MAR] dvRakar by dvShR;
+				sub dvSs dvRakar by dvSsR;
+				sub dvS dvRakar by dvSR;
+				
+				sub dvK dvRa dvHalant by dvKR;
+				sub dvGh dvRa dvHalant by dvGhR;
+				sub dvT dvRa dvHalant by dvTR;
+				sub dvDh dvRa dvHalant by dvDhR;
+				sub dvP dvRa dvHalant by dvPR;
+				sub dvV dvRa dvHalant by dvVR;
+				sub dvSh dvRa dvHalant by dvShR;
+				sub dvSs dvRa dvHalant by dvSsR;
+				sub dvS dvRa dvHalant by dvSR;
+			} HALF_VATU;
 } half;
+
+
+
+#----------------------------------------------------------------------------
+# Rakar conjuncts (deva script only)
+
+feature vatu {
+
+	script deva;
+		language dflt;
+			lookup VATU {
+				lookupflag MarkAttachmentType @MK_dvConjunctMarks;
+				
+				sub [dvSh dvSh.MAR] dvRakar dvYa by dvShRYa;
+				sub dvShR dvYa by dvShRYa;
+
+				sub dvK dvS dvP dvRakar by dvKSPRa;
+				sub dvNg dvK dvRakar by dvNgKRa;
+				sub dvD dvG dvRakar by dvDGRa;
+				sub dvD dvD dvRakar by dvDDRa;
+				sub dvD dvB dvRakar by dvDBRa;
+				sub dvD dvBh dvRakar by dvDBhRa;
+				sub dvD dvV dvRakar by dvDVRa;
+				sub dvNg dvG dvRakar by dvNgGRa;
+				sub dvNg dvGh dvRakar by dvNgGhRa;
+				sub dvK dvT dvRakar by dvKTRa;
+				sub dvN dvT dvRakar by dvNTRa;
+				sub dvN dvDh dvRakar by dvNDhRa;
+				sub dvB dvBh dvRakar by dvBBhRa;
+				sub dvM dvBh dvRakar by dvMBhRa;
+				sub dvSs dvK dvRakar by dvSsKRa;
+				sub dvS dvT dvRakar by dvSTRa;
+
+				sub dvG dvRakar dvHalant dvYa by dvGRYa;
+				sub dvCh dvRakar dvHalant dvYa by dvChRYa;
+				sub dvDdh dvRakar dvHalant dvYa by dvDdhRYa;
+				sub dvD dvRakar dvHalant dvYa by dvDRYa;
+				sub dvBh dvRakar dvHalant dvYa by dvBhRYa;
+
+				sub dvG dvRa dvHalant dvYa by dvGRYa;
+				sub dvCh dvRa dvHalant dvYa by dvChRYa;
+				sub dvDdh dvRa dvHalant dvYa by dvDdhRYa;
+				sub dvD dvRa dvHalant dvYa by dvDRYa;
+				sub dvBh dvRa dvHalant dvYa by dvBhRYa;
+		
+				sub dvK dvRakar by dvKRa;
+				sub dvKh dvRakar by dvKhRa;
+				sub dvG dvRakar by dvGRa;
+				sub dvGh dvRakar by dvGhRa;
+				sub dvC dvRakar by dvCRa;
+				sub dvJ dvRakar by dvJRa;
+				sub dvJh dvRakar by dvJhRa;
+				sub dvT dvRakar by dvTRa;
+				sub dvTh dvRakar by dvThRa;
+				sub dvD dvRakar by dvDRa;
+				sub dvDh dvRakar by dvDhRa;
+				sub dvN dvRakar by dvNRa;
+				sub dvP dvRakar by dvPRa;
+				sub dvPh dvRakar by dvPhRa;
+				sub dvB dvRakar by dvBRa;
+				sub dvBh dvRakar by dvBhRa;
+				sub dvM dvRakar by dvMRa;
+				sub dvY dvRakar by dvYRa;
+				sub dvL dvRakar by dvLRa;
+				sub dvV dvRakar by dvVRa;
+				sub [dvSh dvSh.MAR] dvRakar by dvShRa;
+				sub dvSs dvRakar by dvSsRa;
+				sub dvS dvRakar by dvSRa;
+				sub dvH dvRakar by dvHRa;
+				sub dvQ dvRakar by dvQRa;
+				sub dvKhh dvRakar by dvKhhRa;
+				sub dvGhh dvRakar by dvGhhRa;
+				sub dvZ dvRakar by dvZRa;
+				sub dvF dvRakar by dvFRa;
+				sub dvYy dvRakar by dvYyRa;
+				sub dvKSs dvRakar by dvKSsRa;
+			} VATU;
+} vatu;
 
 
 
@@ -564,6 +688,63 @@ feature pres {
 
 		language MAR include_dflt;
 		language NEP include_dflt;
+
+	script deva;
+		language dflt;
+			lookup PRES_CJCT {
+				lookupflag IgnoreMarks;
+
+	 			sub dvD dvV dvYa by dvDVYa;
+				sub dvTt dvTta by dvTtTta;
+				sub dvTt dvTtha by dvTtTtha;
+				sub dvTt dvDdha by dvTtDdha;
+				sub dvTt dvVa by dvTtVa;
+				sub dvTth dvTtha by dvTthTtha;
+				sub dvDd dvDda by dvDdDda;
+				sub dvDd dvDdha by dvDdDdha;
+				sub dvDdh dvDdha by dvDdhDdha;
+				sub dvD dvGa by dvDGa;
+				sub dvD dvGha by dvDGha;
+				sub dvD dvDa by dvDDa;
+				sub dvD dvDha by dvDDha;
+				sub dvD dvNa by dvDNa;
+				sub dvD dvBa by dvDBa;
+				sub dvD dvBha by dvDBha;
+				sub dvD dvMa by dvDMa;
+				sub dvD dvYa by dvDYa;
+				sub dvD dvVa by dvDVa;
+
+				sub dvDDa dvHalant dvYa by dvDDYa;
+				sub dvDa dvHalant dvDh dvYa by dvDDhYa;
+				sub dvDa dvHalant dvBh dvYa by dvDBhYa;
+				sub dvDVa dvHalant dvYa by dvDVYa;
+				sub dvTtTta dvHalant dvYa by dvTtTtYa;
+				sub dvTthTtha dvHalant dvYa by dvTthTthYa;
+				sub dvDdDda dvHalant dvYa by dvDdDdYa;
+
+				sub dvNg dvKa by dvNgKa;
+				sub dvNg dvGa by dvNgGa;
+				sub dvNg dvGha by dvNgGha;
+				sub dvNg dvMa by dvNgMa;
+				sub dvNg dvYa by dvNgYa;
+				sub dvTt dvKa by dvTtKa;
+				sub dvTt dvYa by dvTtYa;
+				sub dvTth dvYa by dvTthYa;
+				sub dvTth dvVa by dvTthVa;
+				sub dvDd dvKa by dvDdKa;
+				sub dvDd dvGa by dvDdGa;
+				sub dvDd dvTta by dvDdTta;
+				sub dvDd dvYa by dvDdYa;
+				sub dvDd dvVa by dvDdVa;
+				sub dvDdh dvYa by dvDdhYa;
+				sub dvDdh dvVa by dvDdhVa;
+
+				sub dvC dvCh dvVa by dvCChVa;
+				sub dvCh dvYa by dvChYa;
+				sub dvCh dvVa by dvChVa;
+			} PRES_CJCT;
+			lookup PRES;
+			lookup PRES_CXT;
 } pres;
 
 
@@ -1149,12 +1330,16 @@ include(kernclasses.fea);
 
 feature kern {
 	lookup KERN_LTR {
+		lookupflag IgnoreMarks;
+		
 		include(kern.fea)
 	} KERN_LTR;	
 } kern;
 
 feature dist { # Distances
 	lookup DIST_LTR {
+		lookupflag IgnoreMarks;
+
 		include(dist.fea)
 	} DIST_LTR;
 } dist;
