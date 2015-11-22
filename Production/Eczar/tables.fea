@@ -68,6 +68,7 @@ table GDEF {
 # Language systems
 
 languagesystem DFLT dflt;
+languagesystem deva dflt;
 languagesystem dev2 dflt;
 languagesystem dev2 MAR;
 languagesystem dev2 NEP;
