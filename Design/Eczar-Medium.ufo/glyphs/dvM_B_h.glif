@@ -35,19 +35,4 @@
     </contour>
     <component base="dvBh" xOffset="344"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>dvBh</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

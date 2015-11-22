@@ -57,19 +57,4 @@
       <point x="885" y="-42" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>dvSha</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

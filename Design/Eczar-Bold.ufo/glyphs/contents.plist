@@ -458,6 +458,8 @@
 	<string>dvC_hY_a.glif</string>
 	<key>dvCha</key>
 	<string>dvC_ha.glif</string>
+	<key>dvD</key>
+	<string>dvD_.glif</string>
 	<key>dvDBRa</key>
 	<string>dvD_B_R_a.glif</string>
 	<key>dvDBa</key>
@@ -516,6 +518,8 @@
 	<string>dvD_a_dvM_atraV_ocalicR_.ss06.glif</string>
 	<key>dvDanda</key>
 	<string>dvD_anda.glif</string>
+	<key>dvDd</key>
+	<string>dvD_d.glif</string>
 	<key>dvDdDdYa</key>
 	<string>dvD_dD_dY_a.glif</string>
 	<key>dvDdDda</key>
@@ -538,6 +542,8 @@
 	<string>dvD_dda.glif</string>
 	<key>dvDddha</key>
 	<string>dvD_ddha.glif</string>
+	<key>dvDdh</key>
+	<string>dvD_dh.glif</string>
 	<key>dvDdhDdha</key>
 	<string>dvD_dhD_dha.glif</string>
 	<key>dvDdhRYa</key>
@@ -1090,6 +1096,8 @@
 	<string>dvN_T_hY_a.glif</string>
 	<key>dvNa</key>
 	<string>dvN_a.glif</string>
+	<key>dvNg</key>
+	<string>dvN_g.glif</string>
 	<key>dvNgGRa</key>
 	<string>dvN_gG_R_a.glif</string>
 	<key>dvNgGa</key>
@@ -1386,6 +1394,8 @@
 	<string>dvT_hree.glif</string>
 	<key>dvThree.tf</key>
 	<string>dvT_hree.tf.glif</string>
+	<key>dvTt</key>
+	<string>dvT_t.glif</string>
 	<key>dvTtDdha</key>
 	<string>dvT_tD_dha.glif</string>
 	<key>dvTtKa</key>
@@ -1402,6 +1412,8 @@
 	<string>dvT_tY_a.glif</string>
 	<key>dvTta</key>
 	<string>dvT_ta.glif</string>
+	<key>dvTth</key>
+	<string>dvT_th.glif</string>
 	<key>dvTthTthYa</key>
 	<string>dvT_thT_thY_a.glif</string>
 	<key>dvTthTtha</key>

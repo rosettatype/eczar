@@ -22,27 +22,4 @@
       <point x="1784" y="-71" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dvS</string>
-        </dict>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>3</integer>
-          <key>name</key>
-          <string>dvLa.MAR</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

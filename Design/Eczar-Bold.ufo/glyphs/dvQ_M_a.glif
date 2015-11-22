@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvQMa" format="1">
-  <advance width="1283"/>
+  <advance width="1275"/>
   <outline>
     <component base="dvK.alt"/>
-    <component base="dvMa" xOffset="599"/>
+    <component base="dvMa" xOffset="591"/>
     <component base="dvNukta" xOffset="166" yOffset="94"/>
     <contour>
       <point x="985" y="660" type="move" name="candrabindu"/>
@@ -21,19 +21,4 @@
       <point x="1027" y="1" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>dvNukta</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

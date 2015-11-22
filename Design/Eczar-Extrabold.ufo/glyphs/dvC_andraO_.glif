@@ -7,27 +7,4 @@
     <component base="dvMatraAa" xOffset="898"/>
     <component base="dvMatraCandraE" xOffset="1096"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>dvA</string>
-        </dict>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dvMatraAa</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

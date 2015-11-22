@@ -784,6 +784,7 @@
 		<string>dvKh</string>
 		<string>dvG</string>
 		<string>dvGh</string>
+		<string>dvNg</string>
 		<string>dvC</string>
 		<string>dvCh</string>
 		<string>dvJ</string>
@@ -791,11 +792,16 @@
 		<string>dvJh</string>
 		<string>dvJh.NEP</string>
 		<string>dvNy</string>
+		<string>dvTt</string>
+		<string>dvTth</string>
+		<string>dvDd</string>
+		<string>dvDdh</string>
 		<string>dvNn</string>
 		<string>dvT</string>
 		<string>dvT.alt</string>
 		<string>dvT.alt1</string>
 		<string>dvTh</string>
+		<string>dvD</string>
 		<string>dvDh</string>
 		<string>dvN</string>
 		<string>dvN.alt</string>
@@ -1743,6 +1749,7 @@
 		<string>dvKh</string>
 		<string>dvG</string>
 		<string>dvGh</string>
+		<string>dvNg</string>
 		<string>dvC</string>
 		<string>dvCh</string>
 		<string>dvJ</string>
@@ -1750,11 +1757,16 @@
 		<string>dvJh</string>
 		<string>dvJh.NEP</string>
 		<string>dvNy</string>
+		<string>dvTt</string>
+		<string>dvTth</string>
+		<string>dvDd</string>
+		<string>dvDdh</string>
 		<string>dvNn</string>
 		<string>dvT</string>
 		<string>dvT.alt</string>
 		<string>dvT.alt1</string>
 		<string>dvTh</string>
+		<string>dvD</string>
 		<string>dvDh</string>
 		<string>dvN</string>
 		<string>dvN.alt</string>

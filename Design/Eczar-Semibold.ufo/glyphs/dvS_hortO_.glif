@@ -12,19 +12,4 @@
       <point x="954" y="465" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dvMatraShortO</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

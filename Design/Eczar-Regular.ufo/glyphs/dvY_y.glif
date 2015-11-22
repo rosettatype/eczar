@@ -5,19 +5,4 @@
     <component base="dvY"/>
     <component base="dvNukta" xOffset="225" yOffset="89"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dvNukta</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

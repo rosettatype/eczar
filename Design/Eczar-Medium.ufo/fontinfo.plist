@@ -54,10 +54,12 @@
 	<integer>-153</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>78</integer>
+	<key>styleMapFamilyName</key>
+	<string>Eczar Medium</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Medium</string>
 	<key>unicodeRanges</key>
 	<array>
 		<integer>0</integer>

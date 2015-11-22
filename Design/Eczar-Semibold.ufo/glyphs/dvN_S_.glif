@@ -5,19 +5,4 @@
     <component base="dvN.alt"/>
     <component base="dvS" xOffset="266"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dvS</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

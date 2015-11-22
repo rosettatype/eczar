@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvChRYa" format="1">
-  <advance width="1272"/>
+  <advance width="1237"/>
   <outline>
     <component base="dvChYa"/>
     <component base="dvRakar" xOffset="383"/>
@@ -20,19 +20,4 @@
       <point x="1087" y="-15" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dvRakar</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

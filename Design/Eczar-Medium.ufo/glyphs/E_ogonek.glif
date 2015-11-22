@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eogonek" format="1">
-  <advance width="591"/>
+  <advance width="590"/>
   <unicode hex="0118"/>
   <outline>
     <component base="E"/>
@@ -12,17 +12,6 @@
       <integer>3</integer>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>ogonekcomb.case</string>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

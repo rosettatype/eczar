@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvD" format="1">
+  <advance width="588"/>
+  <outline>
+    <component base="dvDa"/>
+    <component base="dvHalant" xOffset="565" yOffset="-171"/>
+  </outline>
+</glyph>
