@@ -246,6 +246,8 @@
 	</dict>
 	<key>@MMK_L_K.half</key>
 	<dict>
+		<key>@MMK_R_Dda</key>
+		<integer>-70</integer>
 		<key>dvCha</key>
 		<integer>-30</integer>
 	</dict>
@@ -1470,7 +1472,7 @@
 		<key>@MMK_R_Da</key>
 		<integer>-40</integer>
 		<key>@MMK_R_Dda</key>
-		<integer>-40</integer>
+		<integer>-70</integer>
 		<key>@MMK_R_Ja</key>
 		<integer>-10</integer>
 		<key>@MMK_R_La</key>
@@ -1667,8 +1669,6 @@
 	<dict>
 		<key>@MMK_R_Da</key>
 		<integer>-30</integer>
-		<key>@MMK_R_Dda</key>
-		<integer>-40</integer>
 		<key>@MMK_R_La</key>
 		<integer>-40</integer>
 		<key>@MMK_R_Pa</key>
@@ -1677,8 +1677,6 @@
 		<integer>-20</integer>
 		<key>dvCha</key>
 		<integer>-30</integer>
-		<key>dvDda</key>
-		<integer>-60</integer>
 		<key>dvJha</key>
 		<integer>-30</integer>
 	</dict>

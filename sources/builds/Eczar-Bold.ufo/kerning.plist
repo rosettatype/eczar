@@ -246,8 +246,24 @@
 	</dict>
 	<key>@MMK_L_K.half</key>
 	<dict>
+		<key>@MMK_R_Da</key>
+		<real>-17.5</real>
+		<key>@MMK_R_Dda</key>
+		<real>-72.5</real>
+		<key>@MMK_R_Ja</key>
+		<real>1.25</real>
+		<key>@MMK_R_La</key>
+		<integer>-15</integer>
+		<key>@MMK_R_Pa</key>
+		<real>-57.5</real>
+		<key>@MMK_R_Va</key>
+		<integer>-15</integer>
 		<key>dvCha</key>
 		<integer>-30</integer>
+		<key>dvDddha</key>
+		<real>-72.5</real>
+		<key>dvJha</key>
+		<real>-52.5</real>
 	</dict>
 	<key>@MMK_L_K.half.alt</key>
 	<dict>
@@ -1215,32 +1231,12 @@
 	</dict>
 	<key>dvB</key>
 	<dict>
-		<key>@MMK_R_Da</key>
-		<real>-62.5</real>
-		<key>@MMK_R_Dda</key>
-		<real>-7.5</real>
-		<key>@MMK_R_Gha</key>
-		<real>-52.5</real>
 		<key>@MMK_R_Ja</key>
 		<real>-31.25</real>
-		<key>@MMK_R_Ka</key>
-		<integer>-45</integer>
-		<key>@MMK_R_La</key>
-		<integer>-45</integer>
-		<key>@MMK_R_Ma</key>
-		<integer>-5</integer>
-		<key>@MMK_R_Pa</key>
-		<integer>-25</integer>
-		<key>@MMK_R_Ra</key>
-		<integer>-35</integer>
 		<key>@MMK_R_Va</key>
 		<real>-31.75</real>
-		<key>@MMK_R_Ya</key>
-		<integer>-35</integer>
 		<key>dvSha</key>
 		<real>-22.5</real>
-		<key>dvTha</key>
-		<integer>-40</integer>
 	</dict>
 	<key>dvC</key>
 	<dict>
@@ -1477,6 +1473,8 @@
 		<real>-6.25</real>
 		<key>@MMK_R_Ma</key>
 		<integer>-35</integer>
+		<key>@MMK_R_Na</key>
+		<real>-42.5</real>
 		<key>@MMK_R_Pa</key>
 		<integer>-25</integer>
 		<key>@MMK_R_Ra</key>
@@ -1487,10 +1485,6 @@
 		<real>-12.5</real>
 		<key>dvDda</key>
 		<real>-22.5</real>
-		<key>dvNa</key>
-		<real>-42.5</real>
-		<key>dvNnna</key>
-		<real>-42.5</real>
 	</dict>
 	<key>dvJ</key>
 	<dict>
@@ -1516,23 +1510,6 @@
 		<integer>-10</integer>
 		<key>@MMK_R_Ya</key>
 		<real>-7.5</real>
-	</dict>
-	<key>dvK</key>
-	<dict>
-		<key>@MMK_R_Da</key>
-		<real>-17.5</real>
-		<key>@MMK_R_Dda</key>
-		<real>-62.5</real>
-		<key>@MMK_R_Ja</key>
-		<real>1.25</real>
-		<key>@MMK_R_La</key>
-		<integer>-15</integer>
-		<key>@MMK_R_Pa</key>
-		<real>-57.5</real>
-		<key>@MMK_R_Va</key>
-		<integer>-15</integer>
-		<key>dvDddha</key>
-		<real>-72.5</real>
 	</dict>
 	<key>dvL</key>
 	<dict>
@@ -1779,20 +1756,10 @@
 	<dict>
 		<key>@MMK_R_Da</key>
 		<real>-7.5</real>
-		<key>@MMK_R_Dda</key>
-		<integer>-55</integer>
 		<key>@MMK_R_La</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Pa</key>
-		<real>-58.75</real>
 		<key>@MMK_R_Va</key>
 		<integer>-5</integer>
-		<key>dvCha</key>
-		<integer>-30</integer>
-		<key>dvDda</key>
-		<real>-67.5</real>
-		<key>dvJha</key>
-		<real>-52.5</real>
 	</dict>
 	<key>dvPh.alt</key>
 	<dict>

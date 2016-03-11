@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+/dvPh/dvDda
+);
 copyright = "Copyright 2014 Eczar Project Authors (info@rosettatype.com)";
 customParameters = (
 {
@@ -20002,6 +20005,7 @@ unicode = 0920;
 },
 {
 glyphname = dvDda;
+lastChange = "2016-03-11 15:18:12 +0000";
 layers = (
 {
 anchors = (
@@ -61365,7 +61369,15 @@ J = -20;
 X = -20;
 };
 "@MMK_L_K.half" = {
+"@MMK_R_Da" = -17.5;
+"@MMK_R_Dda" = -72.5;
+"@MMK_R_Ja" = 1.25;
+"@MMK_R_La" = -15;
+"@MMK_R_Pa" = -57.5;
+"@MMK_R_Va" = -15;
 dvCha = -30;
+dvDddha = -72.5;
+dvJha = -52.5;
 };
 "@MMK_L_K.half.alt" = {
 "@MMK_R_Ma" = -3;
@@ -61868,19 +61880,9 @@ X = {
 "@MMK_R_v" = -50;
 };
 dvB = {
-"@MMK_R_Da" = -62.5;
-"@MMK_R_Dda" = -7.5;
-"@MMK_R_Gha" = -52.5;
 "@MMK_R_Ja" = -31.25;
-"@MMK_R_Ka" = -45;
-"@MMK_R_La" = -45;
-"@MMK_R_Ma" = -5;
-"@MMK_R_Pa" = -25;
-"@MMK_R_Ra" = -35;
 "@MMK_R_Va" = -31.75;
-"@MMK_R_Ya" = -35;
 dvSha = -22.5;
-dvTha = -40;
 };
 dvC = {
 "@MMK_R_Ka" = 7.5;
@@ -62004,13 +62006,12 @@ dvH = {
 "@MMK_R_Ka" = -25;
 "@MMK_R_La" = -6.25;
 "@MMK_R_Ma" = -35;
+"@MMK_R_Na" = -42.5;
 "@MMK_R_Pa" = -25;
 "@MMK_R_Ra" = -45;
 "@MMK_R_Va" = -22.5;
 "@MMK_R_Ya" = -12.5;
 dvDda = -22.5;
-dvNa = -42.5;
-dvNnna = -42.5;
 };
 dvJ = {
 "@MMK_R_Dda" = -10;
@@ -62025,15 +62026,6 @@ dvJh = {
 "@MMK_R_Pa" = -55;
 "@MMK_R_Ra" = -10;
 "@MMK_R_Ya" = -7.5;
-};
-dvK = {
-"@MMK_R_Da" = -17.5;
-"@MMK_R_Dda" = -62.5;
-"@MMK_R_Ja" = 1.25;
-"@MMK_R_La" = -15;
-"@MMK_R_Pa" = -57.5;
-"@MMK_R_Va" = -15;
-dvDddha = -72.5;
 };
 dvL = {
 "@MMK_R_Da" = -15;
@@ -62164,13 +62156,8 @@ dvCha = -30;
 };
 dvPh = {
 "@MMK_R_Da" = -7.5;
-"@MMK_R_Dda" = -55;
 "@MMK_R_La" = -10;
-"@MMK_R_Pa" = -58.75;
 "@MMK_R_Va" = -5;
-dvCha = -30;
-dvDda = -67.5;
-dvJha = -52.5;
 };
 dvPh.alt = {
 "@MMK_R_Gha" = -45;

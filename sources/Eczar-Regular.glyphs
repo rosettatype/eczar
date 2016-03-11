@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+/dvPh/dvK/dvDda
+);
 copyright = "Copyright 2014 Eczar Project Authors (info@rosettatype.com)";
 customParameters = (
 {
@@ -20163,6 +20166,7 @@ unicode = 0920;
 },
 {
 glyphname = dvDda;
+lastChange = "2016-03-11 15:20:02 +0000";
 layers = (
 {
 anchors = (
@@ -61522,6 +61526,7 @@ X = -20;
 };
 "@MMK_L_K.half" = {
 dvCha = -30;
+"@MMK_R_Dda" = -70;
 };
 "@MMK_L_K.half.alt" = {
 "@MMK_R_Ma" = -10;
@@ -62158,7 +62163,7 @@ dvJh = {
 };
 dvK = {
 "@MMK_R_Da" = -40;
-"@MMK_R_Dda" = -40;
+"@MMK_R_Dda" = -70;
 "@MMK_R_Ja" = -10;
 "@MMK_R_La" = -30;
 "@MMK_R_Pa" = -50;
@@ -62264,12 +62269,10 @@ dvCha = -60;
 };
 dvPh = {
 "@MMK_R_Da" = -30;
-"@MMK_R_Dda" = -40;
 "@MMK_R_La" = -40;
 "@MMK_R_Pa" = -40;
 "@MMK_R_Va" = -20;
 dvCha = -30;
-dvDda = -60;
 dvJha = -30;
 };
 dvPh.alt = {
