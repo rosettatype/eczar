@@ -9,7 +9,9 @@ table BASE {
 		latn	romn	-175 0;
 } BASE;
 
-include(../../version.fea);
+table head {
+	FontRevision include(../../version.fea);
+} head;
 
 table OS/2 {
 	FSType				0;
@@ -47,10 +49,8 @@ table hhea {
 } hhea;
 
 table name {
-	nameid 0 "Copyright (c) 2014, Vaibhav Singh (design) and Rosetta Type Foundry s.r.o. (post-production).";
-	nameid 5 "Autohinted with: ttfautohint --hinting-range-max=96 --ignore-restrictions --strong-stem-width=G --increase-x-height=14 --fallback-script=latn --default-script=deva";
-	nameid 7 "Eczar is a trademark of Vaibhav Singh";
-	nameid 7 "Eczar is a trademark of Vaibhav Singh";
+	nameid 0 "Copyright 2014 Eczar Project Authors (info@rosettatype.com)";
+	nameid 5 "Autohinted with: ttfautohint (1.3.34-f4db) --hinting-range-max=96 --ignore-restrictions --strong-stem-width=G --increase-x-height=14";
 	nameid 8 "Rosetta Type Foundry";
 	nameid 9 "Vaibhav Singh";
 	nameid 11 "http://rosettatype.com";
@@ -60,7 +60,7 @@ table name {
 } name;
 
 table GDEF {
-	include(gdef.fea);
+	include(uprights.gdef.fea);
 } GDEF;
 
 

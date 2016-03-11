@@ -1326,8 +1326,6 @@ feature salt {
 #----------------------------------------------------------------------------
 # Kerning and mark positioning
 
-include(kernclasses.fea);
-
 feature kern {
 	lookup KERN_LTR {
 		lookupflag IgnoreMarks;
@@ -1337,11 +1335,7 @@ feature kern {
 } kern;
 
 feature dist { # Distances
-	lookup DIST_LTR {
-		lookupflag IgnoreMarks;
-
-		include(dist.fea)
-	} DIST_LTR;
+	lookup KERN_LTR;
 } dist;
 
 include(markclasses.fea);

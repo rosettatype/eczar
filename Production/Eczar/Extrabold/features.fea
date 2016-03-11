@@ -1,2 +1,2 @@
-include(../tables.fea);
-include(../features.family);
+include(../uprights.tables.fea);
+include(../uprights.fea);
