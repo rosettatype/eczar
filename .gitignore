@@ -5,6 +5,7 @@ font.ufo
 *.zip
 *.log
 *.tmp
+*.temp
 *.fpr
 .sync
 current.fpr
