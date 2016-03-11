@@ -7,13 +7,13 @@
 	<key>capHeight</key>
 	<integer>650</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2014, Vaibhav Singh (design) and Rosetta Type Foundry s.r.o. (post-production).</string>
+	<string>Copyright 2014 Eczar Project Authors (info@rosettatype.com)</string>
 	<key>descender</key>
 	<integer>-265</integer>
 	<key>familyName</key>
 	<string>Eczar</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/12/24 08:45:10</string>
+	<string>2016/03/11 14:37:49</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vaibhav Singh</string>
 	<key>openTypeNameDesignerURL</key>
@@ -26,10 +26,6 @@
 	<string>Eczar</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>ExtraBold</string>
-	<key>openTypeOS2Type</key>
-	<array>
-		<integer>2</integer>
-	</array>
 	<key>openTypeOS2VendorID</key>
 	<string> RST</string>
 	<key>openTypeOS2WeightClass</key>
@@ -60,25 +56,12 @@
 	<string>regular</string>
 	<key>styleName</key>
 	<string>ExtraBold</string>
-	<key>unicodeRanges</key>
-	<array>
-		<integer>0</integer>
-		<integer>1</integer>
-		<integer>2</integer>
-		<integer>3</integer>
-		<integer>6</integer>
-		<integer>15</integer>
-		<integer>31</integer>
-		<integer>32</integer>
-		<integer>33</integer>
-		<integer>35</integer>
-	</array>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>2</integer>
 	<key>xHeight</key>
 	<integer>475</integer>
 </dict>

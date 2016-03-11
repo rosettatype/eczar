@@ -1,50 +1,9 @@
 {
-classes = (
-{
-code = "dvHalant dvRakar";
-name = MK_dvConjunctMarks;
-},
-{
-code = "dvMatraCandraE dvMatraShortE dvMatraE dvMatraAi dvMatraOE dvCandrabinduInverted dvCandrabindu dvAnusvara dvUdatta dvGrave dvAcute dvReph dvCandrabindu.calt dvAnusvara.alt dvAnusvara.alt2 dvAnusvara.calt dvMatraCandraE.calt dvReph.alt dvReph.alt2 dvReph_dvAnusvara dvReph_dvAnusvara.alt dvReph_dvAnusvara.alt2 dvMatraE_dvReph dvMatraE_dvAnusvara dvMatraE_dvReph_dvAnusvara dvMatraAi_dvAnusvara dvMatraAi_dvReph dvMatraAi_dvReph_dvAnusvara";
-name = MK_dvMarksAbove;
-},
-{
-code = "dvMatraU dvMatraUu dvMatraU.small dvMatraUu.small dvMatraVocalicR dvMatraVocalicRr dvMatraVocalicR.small";
-name = MK_dvMarksBelow;
-},
-{
-code = "dvMatraI dvMatraI.1 dvMatraI.2 dvMatraI.3 dvMatraI.4 dvMatraI.5 dvMatraI.6 dvMatraI.7 dvMatraI.8 dvMatraI.9 dvMatraI.10 dvMatraI.11 dvMatraI.12 dvMatraI.13 dvMatraI.14 dvMatraI.15 dvMatraI.16 dvMatraI.17 dvMatraI.18 dvMatraI.19 dvMatraI.20 dvMatraI.21";
-name = dvMatraI;
-},
-{
-code = "dvKa dvKha dvGa dvGha dvNga dvCa dvCha dvJa dvJha dvJha.NEP dvNya dvTta dvTtha dvDda dvDdha dvNna dvTa dvTha dvDa dvDha dvNa dvNnna dvPa dvPha dvBa dvBha dvMa dvYa dvRa dvRra dvLa dvLa.MAR dvLla dvLlla dvVa dvSha dvSha.MAR dvSsa dvSa dvHa dvQa dvKhha dvGhha dvZa dvDddha dvRha dvFa dvYya dvZha dvYaHeavy dvGga dvJja dvDdda dvBba";
-name = dvConsonants;
-},
-{
-code = "dvKRa dvKRa.ss03 dvKhRa dvGRa dvGhRa dvCRa dvJRa dvJhRa dvTRa dvTRa.ss03 dvThRa dvDRa dvDhRa dvNRa dvPRa dvPhRa dvBRa dvBhRa dvMRa dvYRa dvLRa dvLRa.MAR dvVRa dvShRa dvSsRa dvSRa dvHRa dvQRa dvKhhRa dvGhhRa dvZRa dvFRa dvYyRa dvKSsRa dvKSsa dvJNya dvGRYa dvNgKRa dvChRYa dvTtTtYa dvTthTthYa dvDdDdYa dvDdhRYa dvDGRa dvDDYa dvDDRa dvDDhYa dvDBRa dvDBhYa dvDBhRa dvDRYa dvDVYa dvDVRa dvDhNYa dvDhVa dvNNYa dvPTta dvPTtha dvPTtYa dvPTthYa dvBhRYa dvShRYa dvSsTtYa dvSsTthYa dvHMYa dvHMYa dvNgKa dvNgGa dvNgGRa dvNgGha dvNgGhRa dvNgMa dvNgYa dvTtKa dvTtTta dvTtTtha dvTtDdha dvTtYa dvTtVa dvTthTtha dvTthYa dvTthVa dvDdKa dvDdGa dvDdTta dvDdDda dvDdDdha dvDdYa dvDdVa dvDdhDdha dvDdhYa dvDdhVa dvDGa dvDGha dvDDa dvDDha dvDNa dvDBa dvDBha dvDMa dvDYa dvDVa dvHNna dvHNa dvHMa dvHYa dvHLa dvHVa dvKSsMYa dvKSPRa dvKSPLa dvKSPLa.MAR dvTSNYa dvNSMYa dvKTYa dvKTRa dvKVYa dvKSsMa dvKSsYa dvKSsVa dvKSTta dvKSDda dvKSTa dvGDhYa dvGDhVa dvGNYa dvGBhYa dvCChVa dvJJYa dvJJVa dvJNyYa dvNyCYa dvNyJYa dvTKYa dvTKSsa dvTTYa dvTRYa dvNJYa dvNTYa dvNTRa dvNTSa dvNThYa dvNThVa dvNDRa dvNDhYa dvNDhRa dvNDhVa dvNBhYa dvNBhVa dvNMYa dvPTYa dvBJYa dvBDhVa dvBBhRa dvBLYa dvMBYa dvMBhYa dvMBhRa dvMBhVa dvLKYa dvLThYa dvLLYa dvLVDda dvSsKRa dvSsMYa dvSTYa dvSTRa dvSThYa dvSMYa dvKKa.ss03 dvKCa dvKDda dvKTa.ss03 dvKTha dvKDha dvKNa dvKYa dvKVa.ss03 dvKSha dvKSha.MAR dvKHa dvKhNa dvGNa dvGhNa dvCCha dvCDda dvCNa dvChYa dvChVa dvJJa dvJNa dvJMa dvJYa dvJhNa dvNyCa dvNyJa dvNySha dvTNya dvTTa dvTTha dvTNa dvTYa dvThDda dvThTha dvThNa dvDhDha dvDhNa dvNGa dvNCa dvNCha dvNDda dvNDha dvNNa dvNBha dvNMa dvNSha dvPDda dvPTha dvPNa dvPSha dvPhGa dvPhCa dvPhTha dvPhNa dvPhSha dvBNa dvBhNa dvBhBha dvMDda dvMNa dvMBha dvMSha dvYDda dvYTha dvYNa dvYSha dvLCa dvLNa dvLBha dvVNa dvVHa dvShCa dvShNa dvShVa dvSsTta dvSsTtha dvSNa dvSMa dvQTa dvQPha dvQBa dvQMa dvQQa dvQFa dvKhhTa dvKhhMa dvKhhYa dvKhhVa dvKhhSha dvKhhSa dvZYa dvZZa dvFTa dvFSa dvFZa dvFFa";
-name = dvConjuncts;
-},
-{
-code = "dvK dvK.alt dvKh dvG dvGh dvC dvCh dvJ dvJ.alt dvJh dvJh.NEP dvNy dvNn dvT dvT.alt dvT.alt1 dvTh dvDh dvN dvN.alt dvNnn dvP dvPh dvPh.alt dvB dvBh dvM dvY dvYa.post dvL dvL.alt dvL.alt1 dvLl dvLll dvV dvSh dvSh.MAR dvSs dvS dvH dvQ dvQ.alt dvKhh dvGhh dvZ dvZ.alt dvF dvF.alt dvYy dvKSs dvJNy dvKR dvGhR dvTR dvTR.ss03 dvDhR dvPR dvVR dvShR dvSsR dvSR dvKSsM dvTT dvTT.alt dvTT.alt1 dvNBh dvNS dvMBh dvLBh";
-name = dvHalfForms;
-},
-{
-automatic = 1;
-code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccaron Dcaron Dcroat Emacron Edotaccent Eogonek Ecaron Gbreve Gcommaaccent Imacron Iogonek Idotaccent Kcommaaccent Lacute Lcommaaccent Lcaron Lslash Nacute Ncommaaccent Ncaron Omacron Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scedilla Scaron Tcedilla Tcaron Umacron Uring Uhungarumlaut Uogonek Ydieresis Zacute Zdotaccent Zcaron Scommaaccent Tcommaaccent";
-name = Uppercase;
-}
-);
-copyright = "Copyright (c) 2014, Vaibhav Singh (design) and Rosetta Type Foundry s.r.o. (post-production).";
+copyright = "Copyright 2014 Eczar Project Authors (info@rosettatype.com)";
 customParameters = (
 {
 name = openTypeOS2VendorID;
 value = " RST";
-},
-{
-name = openTypeOS2Type;
-value = (
-    2
-);
 },
 {
 name = glyphOrder;
@@ -1014,156 +973,12 @@ value = (
     zerowidthnonjoiner,
     zerowidthjoiner
 );
-},
-{
-name = unicodeRanges;
-value = (
-    0,
-    1,
-    2,
-    3,
-    6,
-    15,
-    31,
-    32,
-    33,
-    35
-);
 }
 );
-date = "2014-12-24 08:45:10 +0000";
+date = "2016-03-11 14:36:48 +0000";
 designer = "Vaibhav Singh";
 designerURL = "http://www.rosettatype.com";
 familyName = "Eczar";
-featurePrefixes = (
-{
-code = "languagesystem DFLT dflt;\012languagesystem dev2 dflt;\012languagesystem dev2 MAR;\012languagesystem dev2 NEP;";
-name = Languagesystems;
-},
-{
-code = "lookup ABVS_changeCandrabindu {\012\011sub dvCandrabindu by dvAnusvara;\012} ABVS_changeCandrabindu;\012\012lookup ABVS_insertRephAnusvara {\012\011sub dvMatraI by dvMatraI dvReph_dvAnusvara.alt;\012\011sub dvMatraI.1 by dvMatraI.1 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.2 by dvMatraI.2 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.3 by dvMatraI.3 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.4 by dvMatraI.4 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.5 by dvMatraI.5 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.6 by dvMatraI.6 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.7 by dvMatraI.7 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.8 by dvMatraI.8 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.9 by dvMatraI.9 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.10 by dvMatraI.10 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.11 by dvMatraI.11 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.12 by dvMatraI.12 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.13 by dvMatraI.13 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.14 by dvMatraI.14 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.15 by dvMatraI.15 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.16 by dvMatraI.16 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.17 by dvMatraI.17 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.18 by dvMatraI.18 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.19 by dvMatraI.19 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.20 by dvMatraI.20 dvReph_dvAnusvara.alt;\012\011sub dvMatraI.21 by dvMatraI.21 dvReph_dvAnusvara.alt;\012} ABVS_insertRephAnusvara;\012\012lookup ABVS_insertReph {\012\011sub dvMatraI by dvMatraI dvReph.alt;\012\011sub dvMatraI.1 by dvMatraI.1 dvReph.alt;\012\011sub dvMatraI.2 by dvMatraI.2 dvReph.alt;\012\011sub dvMatraI.3 by dvMatraI.3 dvReph.alt;\012\011sub dvMatraI.4 by dvMatraI.4 dvReph.alt;\012\011sub dvMatraI.5 by dvMatraI.5 dvReph.alt;\012\011sub dvMatraI.6 by dvMatraI.6 dvReph.alt;\012\011sub dvMatraI.7 by dvMatraI.7 dvReph.alt;\012\011sub dvMatraI.8 by dvMatraI.8 dvReph.alt;\012\011sub dvMatraI.9 by dvMatraI.9 dvReph.alt;\012\011sub dvMatraI.10 by dvMatraI.10 dvReph.alt;\012\011sub dvMatraI.11 by dvMatraI.11 dvReph.alt;\012\011sub dvMatraI.12 by dvMatraI.12 dvReph.alt;\012\011sub dvMatraI.13 by dvMatraI.13 dvReph.alt;\012\011sub dvMatraI.14 by dvMatraI.14 dvReph.alt;\012\011sub dvMatraI.15 by dvMatraI.15 dvReph.alt;\012\011sub dvMatraI.16 by dvMatraI.16 dvReph.alt;\012\011sub dvMatraI.17 by dvMatraI.17 dvReph.alt;\012\011sub dvMatraI.18 by dvMatraI.18 dvReph.alt;\012\011sub dvMatraI.19 by dvMatraI.19 dvReph.alt;\012\011sub dvMatraI.20 by dvMatraI.20 dvReph.alt;\012\011sub dvMatraI.21 by dvMatraI.21 dvReph.alt;\012} ABVS_insertReph;\012\012lookup ABVS_insertAnusvara {\012\011sub dvMatraI by dvMatraI dvAnusvara.alt;\012\011sub dvMatraI.1 by dvMatraI.1 dvAnusvara.alt;\012\011sub dvMatraI.2 by dvMatraI.2 dvAnusvara.alt;\012\011sub dvMatraI.3 by dvMatraI.3 dvAnusvara.alt;\012\011sub dvMatraI.4 by dvMatraI.4 dvAnusvara.alt;\012\011sub dvMatraI.5 by dvMatraI.5 dvAnusvara.alt;\012\011sub dvMatraI.6 by dvMatraI.6 dvAnusvara.alt;\012\011sub dvMatraI.7 by dvMatraI.7 dvAnusvara.alt;\012\011sub dvMatraI.8 by dvMatraI.8 dvAnusvara.alt;\012\011sub dvMatraI.9 by dvMatraI.9 dvAnusvara.alt;\012\011sub dvMatraI.10 by dvMatraI.10 dvAnusvara.alt;\012\011sub dvMatraI.11 by dvMatraI.11 dvAnusvara.alt;\012\011sub dvMatraI.12 by dvMatraI.12 dvAnusvara.alt;\012\011sub dvMatraI.13 by dvMatraI.13 dvAnusvara.alt;\012\011sub dvMatraI.14 by dvMatraI.14 dvAnusvara.alt;\012\011sub dvMatraI.15 by dvMatraI.15 dvAnusvara.alt;\012\011sub dvMatraI.16 by dvMatraI.16 dvAnusvara.alt;\012\011sub dvMatraI.17 by dvMatraI.17 dvAnusvara.alt;\012\011sub dvMatraI.18 by dvMatraI.18 dvAnusvara.alt;\012\011sub dvMatraI.19 by dvMatraI.19 dvAnusvara.alt;\012\011sub dvMatraI.20 by dvMatraI.20 dvAnusvara.alt;\012\011sub dvMatraI.21 by dvMatraI.21 dvAnusvara.alt;\012} ABVS_insertAnusvara;\012\012lookup PSTS_removeMatraCandraE {\012\011sub dvCandraE by dvE;\012\011sub dvCandraO by dvAa;\012\011sub dvCandraA by dvA;\012\011sub dvMatraCandraLongE by dvHeadline;\012\011sub dvMatraCandraO by dvMatraAa;\012} PSTS_removeMatraCandraE;\012\012@dvKaAndFriends = [dvKa dvJha.NEP dvPha dvQa dvFa dvKRa dvPhRa dvQRa dvFRa dvKNa dvPhNa dvQPha dvQQa dvQFa];\012\012@dvAllHeadlinedForms = [dvShortA dvA dvAa dvI dvIi dvU dvUu dvVocalicR dvVocalicR.ss06 dvVocalicRr dvVocalicL dvVocalicLl dvCandraE dvShortE dvE dvAi dvCandraO dvShortO dvO dvCandraA dvOE dvOOE dvAW dvUE dvUUE dvAu dvKa dvKha dvGa dvGha dvNga dvCa dvCha dvJa dvJha dvJha.NEP dvNya dvTta dvTtha dvDda dvDdha dvNna dvTa dvTha dvDa dvDha dvNa dvNnna dvPa dvPha dvBa dvBha dvMa dvYa dvRa dvRra dvLa dvLa.MAR dvLla dvLlla dvVa dvSha dvSha.MAR dvSsa dvSa dvHa dvQa dvKhha dvGhha dvZa dvDddha dvRha dvFa dvYya dvZha dvYaHeavy dvGga dvJja dvDdda dvBba dvMatraAa dvMatraI dvMatraIi dvMatraCandraO dvMatraShortO dvMatraO dvMatraAu dvMatraOOE dvMatraAW dvMatraCandraLongE dvReph.MAR dvKRa dvKRa.ss03 dvKhRa dvGRa dvGhRa dvCRa dvJRa dvJhRa dvTRa dvTRa.ss03 dvThRa dvDRa dvDhRa dvNRa dvPRa dvPhRa dvBRa dvBhRa dvMRa dvYRa dvLRa dvLRa.MAR dvVRa dvShRa dvSsRa dvSRa dvHRa dvQRa dvKhhRa dvGhhRa dvZRa dvFRa dvYyRa dvKSsRa dvKSsa dvJNya dvGRYa dvNgKRa dvChRYa dvTtTtYa dvTthTthYa dvDdDdYa dvDdhRYa dvDGRa dvDDYa dvDDRa dvDDhYa dvDBRa dvDBhYa dvDBhRa dvDRYa dvDVYa dvDVRa dvDhNYa dvDhVa dvNNYa dvPTta dvPTtha dvPTtYa dvPTthYa dvBhRYa dvShRYa dvSsTtYa dvSsTthYa dvHMYa dvHMYa.ss06 dvNgKa dvNgGa dvNgGRa dvNgGha dvNgGhRa dvNgMa dvNgYa dvTtKa dvTtTta dvTtTtha dvTtDdha dvTtYa dvTtVa dvTthTtha dvTthYa dvTthVa dvDdKa dvDdGa dvDdTta dvDdDda dvDdDdha dvDdYa dvDdVa dvDdhDdha dvDdhYa dvDdhVa dvDGa dvDGha dvDDa dvDDha dvDNa dvDBa dvDBha dvDMa dvDYa dvDVa dvHNna dvHNa dvHMa dvHYa dvHLa dvHVa dvKSsMYa dvKSPRa dvKSPLa dvKSPLa.MAR dvTSNYa dvNSMYa dvKTYa dvKTRa dvKVYa dvKSsMa dvKSsYa dvKSsVa dvKSTta dvKSDda dvKSTa dvGDhYa dvGDhVa dvGNYa dvGBhYa dvCChVa dvJJYa dvJJVa dvJNyYa dvNyCYa dvNyJYa dvTKYa dvTKSsa dvTTYa dvTRYa dvNJYa dvNTYa dvNTRa dvNTSa dvNThYa dvNThVa dvNDRa dvNDhYa dvNDhRa dvNDhVa dvNBhYa dvNBhVa dvNMYa dvPTYa dvBJYa dvBDhVa dvBBhRa dvBLYa dvMBYa dvMBhYa dvMBhRa dvMBhVa dvLKYa dvLThYa dvLLYa dvLVDda dvSsKRa dvSsMYa dvSTYa dvSTRa dvSThYa dvSMYa dvKKa.ss03 dvKCa dvKDda dvKTa.ss03 dvKTha dvKDha dvKNa dvKYa dvKVa.ss03 dvKSha dvKSha.MAR dvKHa dvKhNa dvGNa dvGhNa dvCCha dvCDda dvCNa dvChYa dvChVa dvJJa dvJNa dvJMa dvJYa dvJhNa dvNyCa dvNyJa dvNySha dvTNya dvTTa dvTTha dvTNa dvTYa dvThDda dvThTha dvThNa dvDhDha dvDhNa dvNGa dvNCa dvNCha dvNDda dvNDha dvNNa dvNBha dvNMa dvNSha dvPDda dvPTha dvPNa dvPSha dvPhGa dvPhCa dvPhTha dvPhNa dvPhSha dvBNa dvBhNa dvBhBha dvMDda dvMNa dvMBha dvMSha dvYDda dvYTha dvYNa dvYSha dvLCa dvLNa dvLBha dvVNa dvVHa dvShCa dvShNa dvShVa dvSsTta dvSsTtha dvSNa dvSMa dvQTa dvQPha dvQBa dvQMa dvQQa dvQFa dvKhhTa dvKhhMa dvKhhYa dvKhhVa dvKhhSha dvKhhSa dvZYa dvZZa dvFTa dvFSa dvFZa dvFFa dvDa_dvMatraU dvDa_dvMatraUu dvDa_dvMatraVocalicR dvDa_dvMatraVocalicR.ss06 dvDBa_dvMatraVocalicR dvDVa_dvMatraVocalicR dvRa_dvMatraU dvRa_dvMatraUu dvSha_dvMatraVocalicR dvHa_dvMatraVocalicR dvHa_dvMatraU dvHa_dvMatraUu dvHeadline dvHeadline.small dvHeadline.dvDha dvHeadline.dvKSsa dvHeadline.dvShRa dvHeadline.dvTha dvHeadlineCandrabindu dvMatraI.1 dvMatraI.2 dvMatraI.3 dvMatraI.4 dvMatraI.5 dvMatraI.6 dvMatraI.7 dvMatraI.8 dvMatraI.9 dvMatraI.10 dvMatraI.11 dvMatraI.12 dvMatraI.13 dvMatraI.14 dvMatraI.15 dvMatraI.16 dvMatraI.17 dvMatraI.18 dvMatraI.19 dvMatraI.20 dvMatraI.21 dvMatraIi.1 dvMatraIi.2 dvIi_dvAnusvara dvMatraIi_dvReph dvMatraIi_dvReph_dvAnusvara dvMatraIi_dvReph.1 dvMatraIi_dvReph_dvAnusvara.1 dvMatraIi_dvReph.2 dvMatraIi_dvReph_dvAnusvara.2 dvMatraO_dvReph dvMatraAu_dvReph dvMatraO_dvReph_dvAnusvara dvMatraAu_dvReph_dvAnusvara];\012\012@dvRephForms = [dvReph dvReph.alt2 dvReph_dvAnusvara.alt2 dvMatraIi_dvReph dvMatraIi_dvReph_dvAnusvara dvMatraIi_dvReph.1 dvMatraIi_dvReph_dvAnusvara.1 dvMatraIi_dvReph.2 dvMatraIi_dvReph_dvAnusvara.2 dvMatraE_dvReph dvMatraE_dvReph_dvAnusvara dvMatraAi_dvReph dvMatraAi_dvReph_dvAnusvara dvMatraO_dvReph dvMatraAu_dvReph dvMatraO_dvReph_dvAnusvara dvMatraAu_dvReph_dvAnusvara];\012\012@dvPreHeadlineForms = [\012dvTha dvThRa dvThDda dvThTha dvThNa dvTh\012dvDha dvDhRa dvDhNYa dvDhVa dvDhDha dvDhNa dvDh dvDhR\012dvKSsRa dvKSsa dvKSsMYa dvKSsMa dvKSsYa dvKSsVa dvKSs dvKSsM\012dvShRa dvShRYa dvShCa dvShNa dvShVa dvShR dvSha_dvMatraVocalicR\012];\012\012lookup RCLT_insertHeadline {\012\011sub dvReph by dvReph dvHeadline.small;\012\012\011sub dvTha by dvHeadline.dvTha dvTha;\012\011sub dvThRa by dvHeadline.dvTha dvThRa;\012\011sub dvThDda by dvHeadline.dvTha dvThDda;\012\011sub dvThTha by dvHeadline.dvTha dvThTha;\012\011sub dvThNa by dvHeadline.dvTha dvThNa;\012\011sub dvTh by dvHeadline.dvTha dvTh;\012\012\011sub dvDha by dvHeadline.dvDha dvDha;\012\011sub dvDhRa by dvHeadline.dvDha dvDhRa;\012\011sub dvDhNYa by dvHeadline.dvDha dvDhNYa;\012\011sub dvDhVa by dvHeadline.dvDha dvDhVa;\012\011sub dvDhDha by dvHeadline.dvDha dvDhDha;\012\011sub dvDhNa by dvHeadline.dvDha dvDhNa;\012\011sub dvDh by dvHeadline.dvDha dvDh;\012\011sub dvDhR by dvHeadline.dvDha dvDhR;\012\012\011sub dvKSsRa by dvHeadline.dvKSsa dvKSsRa;\012\011sub dvKSsa by dvHeadline.dvKSsa dvKSsa;\012\011sub dvKSsMYa by dvHeadline.dvKSsa dvKSsMYa;\012\011sub dvKSsMa by dvHeadline.dvKSsa dvKSsMa;\012\011sub dvKSsYa by dvHeadline.dvKSsa dvKSsYa;\012\011sub dvKSsVa by dvHeadline.dvKSsa dvKSsVa;\012\011sub dvKSs by dvHeadline.dvKSsa dvKSs;\012\011sub dvKSsM by dvHeadline.dvKSsa dvKSsM;\012\012\011sub dvShRa by dvHeadline.dvShRa dvShRa;\012\011sub dvShRYa by dvHeadline.dvShRa dvShRYa;\012\011sub dvShCa by dvHeadline.dvShRa dvShCa;\012\011sub dvShNa by dvHeadline.dvShRa dvShNa;\012\011sub dvShVa by dvHeadline.dvShRa dvShVa;\012\011sub dvShR by dvHeadline.dvShRa dvShR;\012\011sub dvSha_dvMatraVocalicR by dvHeadline.dvShRa dvSha_dvMatraVocalicR;\012} RCLT_insertHeadline;";
-name = Lookups;
-}
-);
-features = (
-{
-code = "\011feature locl;\012\011feature sups;\012\011feature numr;\012\011feature dnom;\012\011feature ordn;\012\011feature pnum;\012\011feature tnum;\012\011feature case;\012\011feature ss01;\012\011feature ss02;\012\011feature ss03;\012\011feature ss05;\012\011feature ss06;\012\012\011sub period by ellipsis;\012\011sub hyphen from [endash emdash];";
-name = aalt;
-},
-{
-code = "lookup CCMP_dissolveIntoMatraCandraE {\012\011sub dvCandraE by dvE dvMatraCandraE;\012\011sub dvCandraO by dvAa dvMatraCandraE;\012\011sub dvCandraA by dvA dvMatraCandraE;\012\011sub dvMatraCandraLongE by dvHeadline dvMatraCandraE;\012\011sub dvMatraCandraO by dvMatraAa dvMatraCandraE.calt;\012} CCMP_dissolveIntoMatraCandraE;\012\012lookup CCMP_makeCandrabindu {\012\011sub dvMatraCandraE [dvAnusvara dvCandrabindu dvAnusvara.calt dvCandrabindu.calt] by dvCandrabindu;\012\011sub dvMatraCandraE.calt [dvAnusvara dvCandrabindu dvAnusvara.calt dvCandrabindu.calt] by dvCandrabindu.calt;\012} CCMP_makeCandrabindu;";
-name = ccmp;
-},
-{
-code = "script dev2;\012language dflt;\012\011sub hyphen by hyphen.deva;\012\011sub period by period.deva;\012language NEP;\012\011sub dvJha by dvJha.NEP;\012\011sub dvJh by dvJh.NEP;\012language MAR;\012\011sub dvLa by dvLa.MAR;\012\011sub dvSha by dvSha.MAR;\012";
-name = locl;
-},
-{
-automatic = 1;
-code = "sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012sub one by onesuperior;\012";
-name = sups;
-},
-{
-automatic = 1;
-code = "sub one by one.numr;\012sub two by two.numr;\012sub three by three.numr;\012sub four by four.numr;\012";
-name = numr;
-},
-{
-automatic = 1;
-code = "sub one by one.dnom;\012sub two by two.dnom;\012sub three by three.dnom;\012sub four by four.dnom;\012";
-name = dnom;
-},
-{
-automatic = 1;
-code = "sub one slash four by onequarter;\012sub one slash two by onehalf;\012sub three slash four by threequarters;\012";
-name = frac;
-},
-{
-automatic = 1;
-code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
-name = ordn;
-},
-{
-automatic = 1;
-code = "sub dvZero.tf by dvZero;\012sub dvOne.tf by dvOne;\012sub dvTwo.tf by dvTwo;\012sub dvThree.tf by dvThree;\012sub dvFour.tf by dvFour;\012sub dvFive.tf by dvFive;\012sub dvSix.tf by dvSix;\012sub dvSeven.tf by dvSeven;\012sub dvEight.tf by dvEight;\012sub dvNine.tf by dvNine;\012sub dvOne.ss05.tf by dvOne.ss05;\012sub dvFive.ss05.tf by dvFive.ss05;\012sub dvEight.ss05.tf by dvEight.ss05;\012sub dvNine.ss05.tf by dvNine.ss05;\012";
-name = pnum;
-},
-{
-code = "sub dvZero by dvZero.tf;\012sub dvOne by dvOne.tf;\012sub dvTwo by dvTwo.tf;\012sub dvThree by dvThree.tf;\012sub dvFour by dvFour.tf;\012sub dvFive by dvFive.tf;\012sub dvSix by dvSix.tf;\012sub dvSeven by dvSeven.tf;\012sub dvEight by dvEight.tf;\012sub dvNine by dvNine.tf;\012sub dvOne.ss05 by dvOne.ss05.tf;\012sub dvFive.ss05 by dvFive.ss05.tf;\012sub dvEight.ss05 by dvEight.ss05.tf;\012sub dvNine.ss05 by dvNine.ss05.tf;";
-name = tnum;
-},
-{
-automatic = 1;
-code = "sub acutecomb by acutecomb.case;\012sub brevecomb by brevecomb.case;\012sub caroncomb by caroncomb.case;\012sub cedillacomb by cedillacomb.case;\012sub circumflexcomb by circumflexcomb.case;\012sub commaaccentcomb by commaaccentcomb.case;\012sub dieresiscomb by dieresiscomb.case;\012sub dotaccentcomb by dotaccentcomb.case;\012sub dotbelowcomb by dotbelowcomb.case;\012sub gravecomb by gravecomb.case;\012sub hungarumlautcomb by hungarumlautcomb.case;\012sub macronbelowcomb by macronbelowcomb.case;\012sub macroncomb by macroncomb.case;\012sub ogonekcomb by ogonekcomb.case;\012sub ringcomb by ringcomb.case;\012sub tildecomb by tildecomb.case;\012sub commaaccentturnedabovecomb by commaaccentturnedabovecomb.case;\012";
-name = case;
-},
-{
-automatic = 1;
-code = "sub f b by f_b.liga;\012sub f f by f_f.liga;\012sub f h by f_h.liga;\012sub f i by f_i.liga;\012sub f j by f_j.liga;\012sub f k by f_k.liga;\012sub f l by f_l.liga;\012sub f t by f_t.liga;\012";
-name = liga;
-},
-{
-code = "sub dvLa by dvLa.MAR;\012sub dvSha by dvSha.MAR;\012sub dvLRa by dvLRa.MAR;\012sub dvKSPLa by dvKSPLa.MAR;\012sub dvKSha by dvKSha.MAR;\012sub dvSh by dvSh.MAR;\012";
-name = ss01;
-notes = "Name: Marathi forms";
-},
-{
-code = "sub dvJha by dvJha.NEP;\012sub dvJh by dvJh.NEP;";
-name = ss02;
-notes = "Name: Nepali forms";
-},
-{
-code = "sub dvKRa by dvKRa.ss03;\012sub dvK dvKa by dvKKa.ss03;\012sub dvK dvTa by dvKTa.ss03;\012sub dvK dvVa by dvKVa.ss03;\012sub dvTRa by dvTRa.ss03;\012sub dvTR by dvTR.ss03;\012";
-name = ss03;
-notes = "Name: Selected Sanskrit forms";
-},
-{
-code = "sub dvVocalicR by dvVocalicR.ss06;\012sub dvDa_dvMatraVocalicR by dvDa_dvMatraVocalicR.ss06;\012sub dvHMYa by dvHMYa.ss06;\012";
-name = ss06;
-notes = "Name: Other alternative forms";
-},
-{
-automatic = 1;
-code = "pos @Uppercase <5 0 10 0>;\012";
-name = cpsp;
-},
-{
-code = "sub dvNa dvNukta by dvNnna;\012sub dvRa dvNukta by dvRra;\012sub dvLla dvNukta by dvLlla;\012sub dvKa dvNukta by dvQa;\012sub dvKha dvNukta by dvKhha;\012sub dvGa dvNukta by dvGhha;\012sub dvJa dvNukta by dvZa;\012sub dvDda dvNukta by dvDddha;\012sub dvDdha dvNukta by dvRha;\012sub dvPha dvNukta by dvFa;\012sub dvYa dvNukta by dvYya;\012";
-name = nukt;
-},
-{
-code = "lookupflag MarkAttachmentType @MK_dvConjunctMarks;\012\011\012sub dvKa dvHalant dvSsa by dvKSsa;\012sub dvJa dvHalant dvNya by dvJNya;\012\011\012sub dvRa' dvHalant' zerowidthjoiner by dvReph.MAR;";
-name = akhn;
-},
-{
-code = "lookupflag MarkAttachmentType @MK_dvConjunctMarks;\012\011\012sub dvRa' dvHalant' by dvReph;";
-name = rphf;
-},
-{
-code = "script DFLT;\012\011language dflt;\012\011\011lookup RKRF {\012\011\011\011lookupflag MarkAttachmentType @MK_dvConjunctMarks;\012\011\011\011\012\011\011\011sub [dvSha dvSha.MAR] dvHalant dvRa dvHalant dvYa by dvShRYa;\012\011\011\011\012\011\011\011sub dvKa dvHalant dvSa dvHalant dvPa dvHalant dvRa by dvKSPRa;\012\011\011\011sub dvNga dvHalant dvKa dvHalant dvRa by dvNgKRa;\012\011\011\011sub dvDa dvHalant dvGa dvHalant dvRa by dvDGRa;\012\011\011\011sub dvDa dvHalant dvDa dvHalant dvRa by dvDDRa;\012\011\011\011sub dvDa dvHalant dvBa dvHalant dvRa by dvDBRa;\012\011\011\011sub dvDa dvHalant dvBha dvHalant dvRa by dvDBhRa;\012\011\011\011sub dvDa dvHalant dvVa dvHalant dvRa by dvDVRa;\012\011\011\011sub dvNga dvHalant dvGa dvHalant dvRa by dvNgGRa;\012\011\011\011sub dvNga dvHalant dvGha dvHalant dvRa by dvNgGhRa;\012\011\011\011sub dvKa dvHalant dvTa dvHalant dvRa by dvKTRa;\012\011\011\011sub dvNa dvHalant dvTa dvHalant dvRa by dvNTRa;\012\011\011\011sub dvNa dvHalant dvDha dvHalant dvRa by dvNDhRa;\012\011\011\011sub dvBa dvHalant dvBha dvHalant dvRa by dvBBhRa;\012\011\011\011sub dvMa dvHalant dvBha dvHalant dvRa by dvMBhRa;\012\011\011\011sub dvSsa dvHalant dvKa dvHalant dvRa by dvSsKRa;\012\011\011\011sub dvSa dvHalant dvTa dvHalant dvRa by dvSTRa;\012\011\011\011\012\011\011\011sub dvGa dvHalant dvRa dvHalant dvYa by dvGRYa;\012\011\011\011sub dvCha dvHalant dvRa dvHalant dvYa by dvChRYa;\012\011\011\011sub dvDdha dvHalant dvRa dvHalant dvYa by dvDdhRYa;\012\011\011\011sub dvShRa dvHalant dvYa by dvShRYa;\012\011\011\011sub dvDa dvHalant dvRa dvHalant dvYa by dvDRYa;\012\011\011\011sub dvBha dvHalant dvRa dvHalant dvYa by dvBhRYa;\012\011\011\011\012\011\011\011sub dvKa dvHalant dvRa by dvKRa;\012\011\011\011sub dvKha dvHalant dvRa by dvKhRa;\012\011\011\011sub dvGa dvHalant dvRa by dvGRa;\012\011\011\011sub dvGha dvHalant dvRa by dvGhRa;\012\011\011\011sub dvCa dvHalant dvRa by dvCRa;\012\011\011\011sub dvJa dvHalant dvRa by dvJRa;\012\011\011\011sub dvJha dvHalant dvRa by dvJhRa;\012\011\011\011sub dvTa dvHalant dvRa by dvTRa;\012\011\011\011sub dvTha dvHalant dvRa by dvThRa;\012\011\011\011sub dvDa dvHalant dvRa by dvDRa;\012\011\011\011sub dvDha dvHalant dvRa by dvDhRa;\012\011\011\011sub dvNa dvHalant dvRa by dvNRa;\012\011\011\011sub dvPa dvHalant dvRa by dvPRa;\012\011\011\011sub dvPha dvHalant dvRa by dvPhRa;\012\011\011\011sub dvBa dvHalant dvRa by dvBRa;\012\011\011\011sub dvBha dvHalant dvRa by dvBhRa;\012\011\011\011sub dvMa dvHalant dvRa by dvMRa;\012\011\011\011sub dvYa dvHalant dvRa by dvYRa;\012\011\011\011sub dvLa dvHalant dvRa by dvLRa;\012\011\011\011sub dvLa.MAR dvHalant dvRa by dvLRa.MAR;\012\011\011\011sub dvVa dvHalant dvRa by dvVRa;\012\011\011\011sub [dvSha dvSha.MAR] dvHalant dvRa by dvShRa;\012\011\011\011sub dvSsa dvHalant dvRa by dvSsRa;\012\011\011\011sub dvSa dvHalant dvRa by dvSRa;\012\011\011\011sub dvHa dvHalant dvRa by dvHRa;\012\011\011\011sub dvQa dvHalant dvRa by dvQRa;\012\011\011\011sub dvKhha dvHalant dvRa by dvKhhRa;\012\011\011\011sub dvGhha dvHalant dvRa by dvGhhRa;\012\011\011\011sub dvZa dvHalant dvRa by dvZRa;\012\011\011\011sub dvFa dvHalant dvRa by dvFRa;\012\011\011\011sub dvYya dvHalant dvRa by dvYyRa;\012\011\011\011sub dvKSsa dvHalant dvRa by dvKSsRa;\012\011\011} RKRF;\012\012script dev2;\012\011language dflt;\012\011\011lookup RKRF;\012\012\011\011language MAR include_dflt;\012\011\011language NEP include_dflt;\012";
-name = rkrf;
-},
-{
-code = "script DFLT;\012\011language dflt;\012\011\011sub dvHalant dvRa by dvRakar;\012\012script dev2;\012\011language dflt;\012\011\011sub dvHalant dvRa by dvRakar;\012\012\011\011language MAR include_dflt;\012\011\011language NEP include_dflt;\012";
-name = blwf;
-},
-{
-code = "script DFLT;\012\011language dflt;\012\011\011lookup HALF {\012\011\011\011lookupflag MarkAttachmentType @MK_dvConjunctMarks;\012\011\011\011\012\011\011\011sub dvKa dvHalant by dvK;\012\011\011\011sub dvKha dvHalant by dvKh;\012\011\011\011sub dvGa dvHalant by dvG;\012\011\011\011sub dvGha dvHalant by dvGh;\012\011\011\011sub dvCa dvHalant by dvC;\012\011\011\011sub dvJa dvHalant by dvJ;\012\011\011\011sub dvJha dvHalant by dvJh;\012\011\011\011sub dvJha.NEP dvHalant by dvJh.NEP;\012\011\011\011sub dvNya dvHalant by dvNy;\012\011\011\011sub dvNna dvHalant by dvNn;\012\011\011\011sub dvTa dvHalant by dvT;\012\011\011\011sub dvTha dvHalant by dvTh;\012\011\011\011sub dvDha dvHalant by dvDh;\012\011\011\011sub dvNa dvHalant by dvN;\012\011\011\011sub dvNnna dvHalant by dvNnn;\012\011\011\011sub dvPa dvHalant by dvP;\012\011\011\011sub dvPha dvHalant by dvPh;\012\011\011\011sub dvBa dvHalant by dvB;\012\011\011\011sub dvBha dvHalant by dvBh;\012\011\011\011sub dvMa dvHalant by dvM;\012\011\011\011sub dvYa dvHalant by dvY;\012\011\011\011sub dvRra dvHalant by dvReph.MAR;\012\011\011\011sub [dvLa dvLa.MAR] dvHalant by dvL;\012\011\011\011sub dvLla dvHalant by dvLl;\012\011\011\011sub dvLlla dvHalant by dvLll;\012\011\011\011sub dvVa dvHalant by dvV;\012\011\011\011sub dvSha dvHalant by dvSh;\012\011\011\011sub dvSha.MAR dvHalant by dvSh.MAR;\012\011\011\011sub dvSsa dvHalant by dvSs;\012\011\011\011sub dvSa dvHalant by dvS;\012\011\011\011sub dvHa dvHalant by dvH;\012\011\011\011sub dvQa dvHalant by dvQ;\012\011\011\011sub dvKhha dvHalant by dvKhh;\012\011\011\011sub dvGhha dvHalant by dvGhh;\012\011\011\011sub dvZa dvHalant by dvZ;\012\011\011\011sub dvFa dvHalant by dvF;\012\011\011\011sub dvYya dvHalant by dvYy;\012\011\011\011sub dvKSsa dvHalant by dvKSs;\012\011\011\011sub dvJNya dvHalant by dvJNy;\012\012\011\011\011sub dvKRa dvHalant by dvKR;\012\011\011\011sub dvGhRa dvHalant by dvGhR;\012\011\011\011sub dvTRa dvHalant by dvTR;\012\011\011\011sub dvDhRa dvHalant by dvDhR;\012\011\011\011sub dvPRa dvHalant by dvPR;\012\011\011\011sub dvVRa dvHalant by dvVR;\012\011\011\011sub dvShRa dvHalant by dvShR;\012\011\011\011sub dvSsRa dvHalant by dvSsR;\012\011\011\011sub dvSRa dvHalant by dvSR;\012\011\011} HALF;\012\012script dev2;\012\011language dflt;\012\011\011lookup HALF;\012\012\011\011language MAR include_dflt;\012\011\011language NEP include_dflt;";
-name = half;
-},
-{
-code = "script DFLT;\012\011language dflt;\012\011\011lookup CJCT {\012\011\011\011lookupflag MarkAttachmentType @MK_dvConjunctMarks;\012\011\011\011\012\011\011\011sub dvDa dvHalant dvV dvYa by dvDVYa;\012\011\011\011sub dvTta dvHalant dvTta by dvTtTta;\012\011\011\011sub dvTta dvHalant dvTtha by dvTtTtha;\012\011\011\011sub dvTta dvHalant dvDdha by dvTtDdha;\012\011\011\011sub dvTta dvHalant dvVa by dvTtVa;\012\011\011\011sub dvTtha dvHalant dvTtha by dvTthTtha;\012\011\011\011sub dvDda dvHalant dvDda by dvDdDda;\012\011\011\011sub dvDda dvHalant dvDdha by dvDdDdha;\012\011\011\011sub dvDdha dvHalant dvDdha by dvDdhDdha;\012\011\011\011sub dvDa dvHalant dvGa by dvDGa;\012\011\011\011sub dvDa dvHalant dvGha by dvDGha;\012\011\011\011sub dvDa dvHalant dvDa by dvDDa;\012\011\011\011sub dvDa dvHalant dvDha by dvDDha;\012\011\011\011sub dvDa dvHalant dvNa by dvDNa;\012\011\011\011sub dvDa dvHalant dvBa by dvDBa;\012\011\011\011sub dvDa dvHalant dvBha by dvDBha;\012\011\011\011sub dvDa dvHalant dvMa by dvDMa;\012\011\011\011sub dvDa dvHalant dvYa by dvDYa;\012\011\011\011sub dvDa dvHalant dvVa by dvDVa;\012\011\011\011\012\011\011\011sub dvDDa dvHalant dvYa by dvDDYa;\012\011\011\011sub dvDa dvHalant dvDh dvYa by dvDDhYa;\012\011\011\011sub dvDa dvHalant dvBh dvYa by dvDBhYa;\012\011\011\011sub dvDVa dvHalant dvYa by dvDVYa;\012\011\011\011sub dvTtTta dvHalant dvYa by dvTtTtYa;\012\011\011\011sub dvTthTtha dvHalant dvYa by dvTthTthYa;\012\011\011\011sub dvDdDda dvHalant dvYa by dvDdDdYa;\012\011\011\011\012\011\011\011sub dvNga dvHalant dvKa by dvNgKa;\012\011\011\011sub dvNga dvHalant dvGa by dvNgGa;\012\011\011\011sub dvNga dvHalant dvGha by dvNgGha;\012\011\011\011sub dvNga dvHalant dvMa by dvNgMa;\012\011\011\011sub dvNga dvHalant dvYa by dvNgYa;\012\011\011\011sub dvTta dvHalant dvKa by dvTtKa;\012\011\011\011sub dvTta dvHalant dvYa by dvTtYa;\012\011\011\011sub dvTtha dvHalant dvYa by dvTthYa;\012\011\011\011sub dvTtha dvHalant dvVa by dvTthVa;\012\011\011\011sub dvDda dvHalant dvKa by dvDdKa;\012\011\011\011sub dvDda dvHalant dvGa by dvDdGa;\012\011\011\011sub dvDda dvHalant dvTta by dvDdTta;\012\011\011\011sub dvDda dvHalant dvYa by dvDdYa;\012\011\011\011sub dvDda dvHalant dvVa by dvDdVa;\012\011\011\011sub dvDdha dvHalant dvYa by dvDdhYa;\012\011\011\011sub dvDdha dvHalant dvVa by dvDdhVa;\012\011\011\011\012\011\011\011sub dvC dvCha dvHalant dvVa by dvCChVa;\012\011\011\011sub dvCha dvHalant dvYa by dvChYa;\012\011\011\011sub dvCha dvHalant dvVa by dvChVa;\012\011\011} CJCT;\012\012script dev2;\012\011language dflt;\012\011\011lookup CJCT;\012\012\011\011language MAR include_dflt;\012\011\011language NEP include_dflt;\012";
-name = cjct;
-},
-{
-code = "script DFLT;\012\011language dflt;\012\011\011lookup PRES {\012\011\011\011lookupflag IgnoreMarks;\012\012\011\011\011sub dvK dvS dvP dvLa by dvKSPLa;\012\011\011\011sub dvK dvS dvP dvLa.MAR by dvKSPLa.MAR;\012\011\011\011sub dvN dvS dvM dvYa by dvNSMYa;\012\011\011\011sub dvT dvS dvN dvYa by dvTSNYa;\012\011\011\011\012\011\011\011sub dvTR dvYa by dvTRYa;\012\011\011\011sub dvP dvTtYa by dvPTtYa;\012\011\011\011sub dvP dvTthYa by dvPTthYa;\012\011\011\011sub dvSs dvTtYa by dvSsTtYa;\012\011\011\011sub dvSs dvTthYa by dvSsTthYa;\012\012\011\011\011sub dvB dvDh dvVa by dvBDhVa;\012\011\011\011sub dvB dvJ dvYa by dvBJYa;\012\011\011\011sub dvB dvL dvYa by dvBLYa;\012\011\011\011sub dvDh dvN dvYa by dvDhNYa;\012\011\011\011sub dvG dvBh dvYa by dvGBhYa;\012\011\011\011sub dvG dvDh dvVa by dvGDhVa;\012\011\011\011sub dvG dvDh dvYa by dvGDhYa;\012\011\011\011sub dvG dvN dvYa by dvGNYa;\012\011\011\011sub dvH dvM dvYa by dvHMYa;\012\011\011\011sub dvJ dvJ dvVa by dvJJVa;\012\011\011\011sub dvJ dvJ dvYa by dvJJYa;\012\011\011\011sub dvK dvS dvDda by dvKSDda;\012\011\011\011sub dvK dvS dvTa by dvKSTa;\012\011\011\011sub dvK dvS dvTta by dvKSTta;\012\011\011\011sub dvK dvT dvYa by dvKTYa;\012\011\011\011sub dvK dvV dvYa by dvKVYa;\012\011\011\011sub dvL dvK dvYa by dvLKYa;\012\011\011\011sub dvL dvL dvYa by dvLLYa;\012\011\011\011sub dvL dvTh dvYa by dvLThYa;\012\011\011\011sub dvL dvV dvDda by dvLVDda;\012\011\011\011sub dvM dvBh dvVa by dvMBhVa;\012\011\011\011sub dvM dvBh dvYa by dvMBhYa;\012\011\011\011sub dvM dvB dvYa by dvMBYa;\012\011\011\011sub dvN dvBh dvVa by dvNBhVa;\012\011\011\011sub dvN dvBh dvYa by dvNBhYa;\012\011\011\011sub dvN dvDh dvVa by dvNDhVa;\012\011\011\011sub dvN dvDh dvYa by dvNDhYa;\012\011\011\011sub dvN dvJ dvYa by dvNJYa;\012\011\011\011sub dvN dvM dvYa by dvNMYa;\012\011\011\011sub dvN dvN dvYa by dvNNYa;\012\011\011\011sub dvN dvTh dvVa by dvNThVa;\012\011\011\011sub dvN dvTh dvYa by dvNThYa;\012\011\011\011sub dvN dvT dvSa by dvNTSa;\012\011\011\011sub dvN dvT dvYa by dvNTYa;\012\011\011\011sub dvNy dvC dvYa by dvNyCYa;\012\011\011\011sub dvNy dvJ dvYa by dvNyJYa;\012\011\011\011sub dvP dvT dvYa by dvPTYa;\012\011\011\011sub dvS dvM dvYa by dvSMYa;\012\011\011\011sub dvSs dvM dvYa by dvSsMYa;\012\011\011\011sub dvS dvTh dvYa by dvSThYa;\012\011\011\011sub dvS dvT dvYa by dvSTYa;\012\011\011\011sub dvT dvKSsa by dvTKSsa;\012\011\011\011sub dvT dvK dvYa by dvTKYa;\012\011\011\011sub dvT dvT dvYa by dvTTYa;\012\011\011\011sub dvKSs dvM dvYa by dvKSsMYa;\012\011\011\011\012\011\011\011sub dvBh dvBha by dvBhBha;\012\011\011\011sub dvBh dvNa by dvBhNa;\012\011\011\011sub dvB dvNa by dvBNa;\012\011\011\011sub dvC dvCha by dvCCha;\012\011\011\011sub dvC dvDda by dvCDda;\012\011\011\011sub dvC dvNa by dvCNa;\012\011\011\011sub dvDh dvDha by dvDhDha;\012\011\011\011sub dvDh dvNa by dvDhNa;\012\011\011\011sub dvDh dvVa by dvDhVa;\012\011\011\011sub dvG dvNa by dvGNa;\012\011\011\011sub dvGh dvNa by dvGhNa;\012\011\011\011sub dvH [dvLa dvLa.MAR] by dvHLa;\012\011\011\011sub dvH dvMa by dvHMa;\012\011\011\011sub dvH dvNa by dvHNa;\012\011\011\011sub dvH dvNna by dvHNna;\012\011\011\011sub dvH dvVa by dvHVa;\012\011\011\011sub dvH dvYa by dvHYa;\012\011\011\011sub dvJ dvJa by dvJJa;\012\011\011\011sub dvJ dvMa by dvJMa;\012\011\011\011sub dvJ dvNa by dvJNa;\012\011\011\011sub dvJ dvYa by dvJYa;\012\011\011\011sub dvJh dvNa by dvJhNa;\012\011\011\011sub dvNy dvCa by dvNyCa;\012\011\011\011sub dvNy dvJa by dvNyJa;\012\011\011\011sub dvNy dvSha by dvNySha;\012\011\011\011sub dvK dvCa by dvKCa;\012\011\011\011sub dvK dvDda by dvKDda;\012\011\011\011sub dvK dvDha by dvKDha;\012\011\011\011sub dvK dvHa by dvKHa;\012\011\011\011sub dvK dvNa by dvKNa;\012\011\011\011sub dvK dvSha by dvKSha;\012\011\011\011sub dvK dvSha.MAR by dvKSha.MAR;\012\011\011\011sub dvK dvTha by dvKTha;\012\011\011\011sub dvK dvYa by dvKYa;\012\011\011\011sub dvKh dvNa by dvKhNa;\012\011\011\011sub dvL dvBha by dvLBha;\012\011\011\011sub dvL dvCa by dvLCa;\012\011\011\011sub dvL dvNa by dvLNa;\012\011\011\011sub dvM dvBha by dvMBha;\012\011\011\011sub dvM dvDda by dvMDda;\012\011\011\011sub dvM dvNa by dvMNa;\012\011\011\011sub dvM dvSha by dvMSha;\012\011\011\011sub dvN dvBha by dvNBha;\012\011\011\011sub dvN dvCa by dvNCa;\012\011\011\011sub dvN dvCha by dvNCha;\012\011\011\011sub dvN dvDda by dvNDda;\012\011\011\011sub dvN dvDha by dvNDha;\012\011\011\011sub dvN dvGa by dvNGa;\012\011\011\011sub dvN dvMa by dvNMa;\012\011\011\011sub dvN dvNa by dvNNa;\012\011\011\011sub dvN dvSha by dvNSha;\012\011\011\011sub dvP dvDda by dvPDda;\012\011\011\011sub dvP dvNa by dvPNa;\012\011\011\011sub dvP dvSha by dvPSha;\012\011\011\011sub dvP dvTha by dvPTha;\012\011\011\011sub dvP dvTta by dvPTta;\012\011\011\011sub dvP dvTtha by dvPTtha;\012\011\011\011sub dvPh dvCa by dvPhCa;\012\011\011\011sub dvPh dvGa by dvPhGa;\012\011\011\011sub dvPh dvNa by dvPhNa;\012\011\011\011sub dvPh dvSha by dvPhSha;\012\011\011\011sub dvPh dvTha by dvPhTha;\012\011\011\011sub dvS dvMa by dvSMa;\012\011\011\011sub dvS dvNa by dvSNa;\012\011\011\011sub dvSs dvTta by dvSsTta;\012\011\011\011sub dvSs dvTtha by dvSsTtha;\012\011\011\011sub dvSh dvCa by dvShCa;\012\011\011\011sub dvSh dvNa by dvShNa;\012\011\011\011sub dvSh dvVa by dvShVa;\012\011\011\011sub dvTh dvDda by dvThDda;\012\011\011\011sub dvTh dvNa by dvThNa;\012\011\011\011sub dvTh dvTha by dvThTha;\012\011\011\011sub dvT dvNya by dvTNya;\012\011\011\011sub dvT dvTa by dvTTa;\012\011\011\011sub dvT dvTha by dvTTha;\012\011\011\011sub dvT dvNa by dvTNa;\012\011\011\011sub dvT dvYa by dvTYa;\012\011\011\011sub dvV dvHa by dvVHa;\012\011\011\011sub dvV dvNa by dvVNa;\012\011\011\011sub dvY dvDda by dvYDda;\012\011\011\011sub dvY dvNa by dvYNa;\012\011\011\011sub dvY dvSha by dvYSha;\012\011\011\011sub dvY dvTha by dvYTha;\011\011\011\012\011\011\011sub dvQ dvBa by dvQBa;\012\011\011\011sub dvQ dvFa by dvQFa;\012\011\011\011sub dvQ dvMa by dvQMa;\012\011\011\011sub dvQ dvPha by dvQPha;\012\011\011\011sub dvQ dvQa by dvQQa;\012\011\011\011sub dvQ dvTa by dvQTa;\012\011\011\011sub dvKhh dvMa by dvKhhMa;\012\011\011\011sub dvKhh dvSa by dvKhhSa;\012\011\011\011sub dvKhh dvSha by dvKhhSha;\012\011\011\011sub dvKhh dvTa by dvKhhTa;\012\011\011\011sub dvKhh dvVa by dvKhhVa;\012\011\011\011sub dvKhh dvYa by dvKhhYa;\012\011\011\011sub dvZ dvYa by dvZYa;\012\011\011\011sub dvZ dvZa by dvZZa;\012\011\011\011sub dvF dvFa by dvFFa;\012\011\011\011sub dvF dvSa by dvFSa;\012\011\011\011sub dvF dvTa by dvFTa;\012\011\011\011sub dvF dvZa by dvFZa;\012\011\011\011\012\011\011\011sub dvKSs dvMa by dvKSsMa;\012\011\011\011sub dvKSs dvYa by dvKSsYa;\012\011\011\011sub dvKSs dvVa by dvKSsVa;\012\011\011\011sub dvJNy dvYa by dvJNyYa;\012\012\011\011\011sub dvKSs dvM by dvKSsM;\012\011\011\011sub dvT dvT by dvTT;\012\011\011\011sub dvN dvBh by dvNBh;\012\011\011\011sub dvN dvS by dvNS;\012\011\011\011sub dvM dvBh by dvMBh;\012\011\011\011sub dvL dvBh by dvLBh;\012\011\011} PRES;\012\011\011lookup PRES_CONTEXTUAL {\012\011\011\011lookupflag IgnoreMarks;\012\011\011\011\012\011\011\011# Contextual alternates for half forms\012\011\011\011sub [dvK dvPh dvQ dvF]' [dvKha dvGa dvGha dvJha.NEP dvDha dvBha dvMa dvSa] by [dvK.alt dvPh.alt dvQ.alt dvF.alt];\012\011\011\012\011\011\011sub [dvJ dvZ]' [dvKha dvGa dvTta dvTtha dvDdha dvTa dvDa dvSa] by [dvJ.alt dvZ.alt];\012\011\011\011sub [dvT dvTT]' [dvDda dvNna dvPa dvPha] by [dvT.alt dvTT.alt];\012\011\011\011sub [dvT dvTT]' [dvKha dvGa dvMa dvSa] by [dvT.alt1 dvTT.alt1];\012\011\011\011sub dvN' [dvKha dvGha dvJha.NEP dvTta dvTtha dvDdha dvDa dvPa dvPha dvSa] by dvN.alt;\012\011\011\011sub dvL' [dvKha dvGa dvJha.NEP dvBha dvMa dvLa dvSa  ] by dvL.alt;\012\011\011\011sub dvL' [dvGha dvNga dvDda dvDha dvSha dvSha.MAR] by dvL.alt1;\012\011\011} PRES_CONTEXTUAL;\011\012\011\011\012script dev2;\012\011language dflt;\012\011\011lookup PRES;\012\011\011lookup PRES_CONTEXTUAL;\012\012\011\011language MAR include_dflt;\012\011\011language NEP include_dflt;\012";
-name = pres;
-},
-{
-code = "\011lookup RCLT_1 {\012\011\011sub @dvKaAndFriends dvMatraAa [dvMatraCandraE dvAnusvara dvCandrabindu dvCandrabinduInverted]' by [dvMatraCandraE.calt dvAnusvara.calt dvCandrabindu.calt dvCandrabinduInverted.calt];\012\011} RCLT_1;\012\011lookup RCLT_2 {\012\011\011lookupflag MarkAttachmentType @MK_dvMarksAbove;\012\011\011\012\011\011ignore sub @dvKaAndFriends @dvRephForms' dvRa [dvMatraE dvMatraAi];\012\011\011sub @dvAllHeadlinedForms @dvRephForms' lookup RCLT_insertHeadline dvRa [dvMatraE dvMatraAi]; # !!\012\011} RCLT_2;\012\011lookup RCLT_3 {\012\011\011sub @dvAllHeadlinedForms @dvPreHeadlineForms' lookup RCLT_insertHeadline;\012\011} RCLT_3;";
-name = rclt;
-}
-);
 fontMaster = (
 {
 alignmentZones = (
@@ -62762,5 +62577,5 @@ manufacturer = "Rosetta Type Foundry";
 manufacturerURL = "http://www.rosettatype.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 2;
 }
