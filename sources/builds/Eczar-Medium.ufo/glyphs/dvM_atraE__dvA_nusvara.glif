@@ -5,7 +5,7 @@
     <component base="dvMatraE"/>
     <component base="dvAnusvara" xOffset="-59" yOffset="-30"/>
     <contour>
-      <point x="-148" y="470" type="move" name="_top"/>
+      <point x="-148" y="470" type="move" name="_abvmTOP"/>
     </contour>
   </outline>
 </glyph>

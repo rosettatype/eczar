@@ -60,10 +60,10 @@
       <point x="97" y="144" type="line"/>
     </contour>
     <contour>
-      <point x="390" y="670" type="move" name="bindu"/>
+      <point x="390" y="670" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="360" y="670" type="move" name="candrabindu"/>
+      <point x="360" y="670" type="move" name="abvmCANDRABINDU"/>
     </contour>
   </outline>
 </glyph>

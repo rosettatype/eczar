@@ -12,7 +12,7 @@
       <point x="-348" y="-203" type="line"/>
     </contour>
     <contour>
-      <point x="-213" y="0" type="move" name="_bottom"/>
+      <point x="-213" y="0" type="move" name="_blwmBOTTOM"/>
     </contour>
   </outline>
 </glyph>

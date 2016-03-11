@@ -29,10 +29,10 @@
       <point x="-594" y="1115" type="curve"/>
     </contour>
     <contour>
-      <point x="-31" y="670" type="move" name="bindu"/>
+      <point x="-31" y="670" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="-170" y="475" type="move" name="_top"/>
+      <point x="-170" y="475" type="move" name="_abvmTOP"/>
     </contour>
   </outline>
 </glyph>

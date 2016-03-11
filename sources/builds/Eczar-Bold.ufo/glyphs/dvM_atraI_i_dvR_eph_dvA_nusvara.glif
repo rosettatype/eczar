@@ -18,10 +18,10 @@
     </contour>
     <component base="dvMatraIi_dvReph"/>
     <contour>
-      <point x="263" y="602" type="move" name="bindu"/>
+      <point x="201" y="473" type="move" name="abvmTOP"/>
     </contour>
     <contour>
-      <point x="201" y="473" type="move" name="top"/>
+      <point x="263" y="602" type="move" name="abvmBINDU"/>
     </contour>
   </outline>
 </glyph>

@@ -20,13 +20,13 @@
       <point x="82" y="571" type="line"/>
     </contour>
     <contour>
-      <point x="15" y="640" type="move" name="bindu"/>
+      <point x="15" y="640" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="136" y="470" type="move" name="top"/>
+      <point x="136" y="470" type="move" name="abvmTOP"/>
     </contour>
     <contour>
-      <point x="8" y="640" type="move" name="candrabindu"/>
+      <point x="8" y="640" type="move" name="abvmCANDRABINDU"/>
     </contour>
   </outline>
 </glyph>

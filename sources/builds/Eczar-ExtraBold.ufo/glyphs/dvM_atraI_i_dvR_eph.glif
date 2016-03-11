@@ -64,10 +64,10 @@
       <point x="151" y="627" type="curve"/>
     </contour>
     <contour>
-      <point x="278" y="600" type="move" name="bindu"/>
+      <point x="210" y="475" type="move" name="abvmTOP"/>
     </contour>
     <contour>
-      <point x="210" y="475" type="move" name="top"/>
+      <point x="278" y="600" type="move" name="abvmBINDU"/>
     </contour>
   </outline>
 </glyph>

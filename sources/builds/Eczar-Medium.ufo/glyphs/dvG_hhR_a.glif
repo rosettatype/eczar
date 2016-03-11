@@ -5,19 +5,19 @@
     <component base="dvGRa"/>
     <component base="dvNukta" xOffset="362" yOffset="64"/>
     <contour>
-      <point x="355" y="640" type="move" name="candrabindu"/>
+      <point x="344" y="640" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="663" y="640" type="move" name="candrabinduCXT"/>
+      <point x="470" y="470" type="move" name="abvmTOP"/>
     </contour>
     <contour>
-      <point x="344" y="640" type="move" name="bindu"/>
+      <point x="355" y="640" type="move" name="abvmCANDRABINDU"/>
     </contour>
     <contour>
-      <point x="470" y="470" type="move" name="top"/>
+      <point x="663" y="640" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
-      <point x="396" y="-161" type="move" name="bottom"/>
+      <point x="396" y="-161" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
 </glyph>

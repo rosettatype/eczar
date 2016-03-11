@@ -18,7 +18,7 @@
     </contour>
     <component base="dvMatraE_dvReph"/>
     <contour>
-      <point x="-141" y="468" type="move" name="_top"/>
+      <point x="-141" y="468" type="move" name="_abvmTOP"/>
     </contour>
   </outline>
 </glyph>

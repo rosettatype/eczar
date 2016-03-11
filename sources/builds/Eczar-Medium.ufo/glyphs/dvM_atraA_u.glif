@@ -44,7 +44,7 @@
       <point x="-229" y="995" type="curve"/>
     </contour>
     <contour>
-      <point x="231" y="625" type="move" name="bindu"/>
+      <point x="231" y="625" type="move" name="abvmBINDU"/>
     </contour>
   </outline>
 </glyph>

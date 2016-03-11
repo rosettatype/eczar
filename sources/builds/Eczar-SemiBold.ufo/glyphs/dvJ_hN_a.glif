@@ -46,19 +46,19 @@
     </contour>
     <component base="dvI"/>
     <contour>
-      <point x="692" y="650" type="move" name="candrabindu"/>
+      <point x="709" y="650" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="937" y="650" type="move" name="candrabinduCXT"/>
+      <point x="707" y="472" type="move" name="abvmTOP"/>
     </contour>
     <contour>
-      <point x="709" y="650" type="move" name="bindu"/>
+      <point x="692" y="650" type="move" name="abvmCANDRABINDU"/>
     </contour>
     <contour>
-      <point x="707" y="472" type="move" name="top"/>
+      <point x="937" y="650" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
-      <point x="666" y="-192" type="move" name="bottom"/>
+      <point x="666" y="-192" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
 </glyph>

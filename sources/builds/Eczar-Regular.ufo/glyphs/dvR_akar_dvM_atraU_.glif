@@ -5,7 +5,7 @@
     <component base="dvRakar.small"/>
     <component base="dvMatraU.small" xOffset="228" yOffset="-175"/>
     <contour>
-      <point x="0" y="0" type="move" name="_bottom"/>
+      <point x="0" y="0" type="move" name="_blwmBOTTOM"/>
     </contour>
   </outline>
   <lib>

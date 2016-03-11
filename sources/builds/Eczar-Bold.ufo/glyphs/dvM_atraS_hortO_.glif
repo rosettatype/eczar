@@ -6,7 +6,7 @@
     <component base="dvMatraAa"/>
     <component base="dvMatraShortE" xOffset="300"/>
     <contour>
-      <point x="301" y="655" type="move" name="bindu"/>
+      <point x="301" y="655" type="move" name="abvmBINDU"/>
     </contour>
   </outline>
 </glyph>

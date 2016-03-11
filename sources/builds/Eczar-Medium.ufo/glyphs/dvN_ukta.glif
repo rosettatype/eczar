@@ -18,7 +18,7 @@
       <point x="10" y="-205" type="curve"/>
     </contour>
     <contour>
-      <point x="-2" y="-31" type="move" name="_nukta"/>
+      <point x="-2" y="-31" type="move" name="_blwmNUKTA"/>
     </contour>
   </outline>
 </glyph>

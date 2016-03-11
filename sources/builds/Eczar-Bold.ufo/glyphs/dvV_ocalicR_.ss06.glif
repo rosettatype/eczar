@@ -67,16 +67,16 @@
     </contour>
     <component base="dvTRa" xOffset="4"/>
     <contour>
-      <point x="504" y="660" type="move" name="candrabindu"/>
+      <point x="504" y="660" type="move" name="abvmCANDRABINDU"/>
     </contour>
     <contour>
-      <point x="497" y="660" type="move" name="bindu"/>
+      <point x="497" y="660" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="492" y="473" type="move" name="top"/>
+      <point x="492" y="473" type="move" name="abvmTOP"/>
     </contour>
     <contour>
-      <point x="385" y="1" type="move" name="bottom"/>
+      <point x="385" y="1" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
 </glyph>

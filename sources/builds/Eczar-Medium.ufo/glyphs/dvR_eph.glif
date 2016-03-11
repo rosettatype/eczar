@@ -25,7 +25,7 @@
       <point x="-164" y="588" type="curve"/>
     </contour>
     <contour>
-      <point x="-163" y="470" type="move" name="_top"/>
+      <point x="-163" y="470" type="move" name="_abvmTOP"/>
     </contour>
   </outline>
 </glyph>

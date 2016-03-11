@@ -49,16 +49,16 @@
     </contour>
     <component base="dvMatraVocalicR" xOffset="694"/>
     <contour>
-      <point x="534" y="640" type="move" name="candrabindu"/>
+      <point x="534" y="640" type="move" name="abvmCANDRABINDU"/>
     </contour>
     <contour>
-      <point x="550" y="640" type="move" name="bindu"/>
+      <point x="550" y="640" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="549" y="470" type="move" name="top"/>
+      <point x="549" y="470" type="move" name="abvmTOP"/>
     </contour>
     <contour>
-      <point x="741" y="640" type="move" name="candrabinduCXT"/>
+      <point x="741" y="640" type="move" name="abvmCANDRABINDU2"/>
     </contour>
   </outline>
 </glyph>

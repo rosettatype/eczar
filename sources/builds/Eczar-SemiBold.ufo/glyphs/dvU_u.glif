@@ -35,10 +35,10 @@
     </contour>
     <component base="dvU"/>
     <contour>
-      <point x="373" y="650" type="move" name="bindu"/>
+      <point x="373" y="650" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="385" y="650" type="move" name="candrabindu"/>
+      <point x="385" y="650" type="move" name="abvmCANDRABINDU"/>
     </contour>
   </outline>
 </glyph>

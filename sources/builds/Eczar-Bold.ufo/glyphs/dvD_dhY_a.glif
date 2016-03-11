@@ -5,19 +5,19 @@
     <component base="dvDdha"/>
     <component base="dvYa.post" xOffset="586"/>
     <contour>
-      <point x="989" y="660" type="move" name="candrabindu"/>
+      <point x="960" y="660" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="1369" y="660" type="move" name="candrabinduCXT"/>
+      <point x="1101" y="473" type="move" name="abvmTOP"/>
     </contour>
     <contour>
-      <point x="960" y="660" type="move" name="bindu"/>
+      <point x="989" y="660" type="move" name="abvmCANDRABINDU"/>
     </contour>
     <contour>
-      <point x="1101" y="473" type="move" name="top"/>
+      <point x="1369" y="660" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
-      <point x="1010" y="-41" type="move" name="bottom"/>
+      <point x="1010" y="-41" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
 </glyph>

@@ -5,7 +5,7 @@
     <component base="dvMatraAa"/>
     <component base="dvMatraE_dvReph_dvAnusvara" xOffset="304"/>
     <contour>
-      <point x="251" y="597" type="move" name="bindu"/>
+      <point x="251" y="597" type="move" name="abvmBINDU"/>
     </contour>
   </outline>
 </glyph>

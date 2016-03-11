@@ -27,7 +27,7 @@
     </contour>
     <component base="dvMatraAi"/>
     <contour>
-      <point x="-156" y="472" type="move" name="_top"/>
+      <point x="-156" y="472" type="move" name="_abvmTOP"/>
     </contour>
   </outline>
 </glyph>

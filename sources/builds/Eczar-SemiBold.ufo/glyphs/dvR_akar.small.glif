@@ -13,10 +13,10 @@
       <point x="32" y="20" type="line"/>
     </contour>
     <contour>
-      <point x="0" y="0" type="move" name="_bottom"/>
+      <point x="0" y="0" type="move" name="_blwmBOTTOM"/>
     </contour>
     <contour>
-      <point x="18" y="-228" type="move" name="bottom"/>
+      <point x="18" y="-228" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
   <lib>

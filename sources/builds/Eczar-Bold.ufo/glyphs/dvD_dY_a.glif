@@ -109,19 +109,19 @@
       <point x="428" y="343" type="line"/>
     </contour>
     <contour>
-      <point x="982" y="660" type="move" name="candrabindu"/>
+      <point x="953" y="660" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="1362" y="660" type="move" name="candrabinduCXT"/>
+      <point x="1094" y="473" type="move" name="abvmTOP"/>
     </contour>
     <contour>
-      <point x="953" y="660" type="move" name="bindu"/>
+      <point x="982" y="660" type="move" name="abvmCANDRABINDU"/>
     </contour>
     <contour>
-      <point x="1094" y="473" type="move" name="top"/>
+      <point x="1362" y="660" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
-      <point x="1002" y="-41" type="move" name="bottom"/>
+      <point x="1002" y="-41" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
 </glyph>

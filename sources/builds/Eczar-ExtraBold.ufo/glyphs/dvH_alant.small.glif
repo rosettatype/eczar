@@ -16,7 +16,7 @@
       <point x="40" y="-320" type="line"/>
     </contour>
     <contour>
-      <point x="-196" y="-40" type="move" name="_bottom"/>
+      <point x="-196" y="-40" type="move" name="_blwmBOTTOM"/>
     </contour>
   </outline>
   <lib>

@@ -11,7 +11,7 @@
       <point x="-113" y="835" type="line"/>
     </contour>
     <contour>
-      <point x="-162" y="473" type="move" name="_top"/>
+      <point x="-162" y="473" type="move" name="_abvmTOP"/>
     </contour>
   </outline>
 </glyph>

@@ -66,7 +66,7 @@
       <point x="-60" y="-217" type="curve"/>
     </contour>
     <contour>
-      <point x="-68" y="0" type="move" name="_bottom"/>
+      <point x="-68" y="0" type="move" name="_blwmBOTTOM"/>
     </contour>
   </outline>
   <lib>

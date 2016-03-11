@@ -6,10 +6,10 @@
     <component base="dvA"/>
     <component base="dvMatraShortO" xOffset="820"/>
     <contour>
-      <point x="1085" y="640" type="move" name="bindu"/>
+      <point x="954" y="465" type="move" name="abvmTOP"/>
     </contour>
     <contour>
-      <point x="954" y="465" type="move" name="top"/>
+      <point x="1085" y="640" type="move" name="abvmBINDU"/>
     </contour>
   </outline>
 </glyph>

@@ -30,7 +30,7 @@
       <point x="-82" y="-207" type="curve"/>
     </contour>
     <contour>
-      <point x="-183" y="0" type="move" name="_bottom"/>
+      <point x="-183" y="0" type="move" name="_blwmBOTTOM"/>
     </contour>
   </outline>
 </glyph>

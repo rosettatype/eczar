@@ -6,7 +6,7 @@
     <component base="dvMatraUE" yOffset="-150"/>
     <component base="dvMatraUE"/>
     <contour>
-      <point x="-263" y="0" type="move" name="_bottom"/>
+      <point x="-263" y="0" type="move" name="_blwmBOTTOM"/>
     </contour>
   </outline>
 </glyph>

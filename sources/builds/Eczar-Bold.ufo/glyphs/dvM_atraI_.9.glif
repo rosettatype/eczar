@@ -41,10 +41,7 @@
       <point x="1282" y="676" type="curve"/>
     </contour>
     <contour>
-      <point x="1296" y="681" type="move" name="matra"/>
-    </contour>
-    <contour>
-      <point x="1327" y="746" type="move" name="top"/>
+      <point x="1327" y="746" type="move" name="abvmTOP"/>
     </contour>
   </outline>
 </glyph>

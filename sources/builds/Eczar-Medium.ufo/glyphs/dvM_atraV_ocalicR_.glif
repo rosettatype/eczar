@@ -27,7 +27,7 @@
       <point x="-85" y="-60" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="-209" y="0" type="move" name="_bottom"/>
+      <point x="-209" y="0" type="move" name="_blwmBOTTOM"/>
     </contour>
   </outline>
   <lib>

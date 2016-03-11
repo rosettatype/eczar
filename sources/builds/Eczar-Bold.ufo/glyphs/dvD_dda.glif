@@ -13,19 +13,19 @@
     </contour>
     <component base="dvDda"/>
     <contour>
-      <point x="423" y="660" type="move" name="candrabindu"/>
+      <point x="440" y="660" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="701" y="660" type="move" name="candrabinduCXT"/>
+      <point x="456" y="473" type="move" name="abvmTOP"/>
     </contour>
     <contour>
-      <point x="440" y="660" type="move" name="bindu"/>
+      <point x="423" y="660" type="move" name="abvmCANDRABINDU"/>
     </contour>
     <contour>
-      <point x="456" y="473" type="move" name="top"/>
+      <point x="701" y="660" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
-      <point x="300" y="-236" type="move" name="bottom"/>
+      <point x="300" y="-236" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
 </glyph>

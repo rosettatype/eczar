@@ -36,19 +36,19 @@
     <component base="dvBh" xOffset="425"/>
     <component base="dvYa" xOffset="867"/>
     <contour>
-      <point x="1258" y="670" type="move" name="candrabindu"/>
+      <point x="1228" y="670" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="1678" y="670" type="move" name="candrabinduCXT"/>
+      <point x="1373" y="475" type="move" name="abvmTOP"/>
     </contour>
     <contour>
-      <point x="1228" y="670" type="move" name="bindu"/>
+      <point x="1258" y="670" type="move" name="abvmCANDRABINDU"/>
     </contour>
     <contour>
-      <point x="1373" y="475" type="move" name="top"/>
+      <point x="1678" y="670" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
-      <point x="1268" y="0" type="move" name="bottom"/>
+      <point x="1268" y="0" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
 </glyph>

@@ -56,19 +56,19 @@
     </contour>
     <component base="dvPTta"/>
     <contour>
-      <point x="993" y="660" type="move" name="candrabindu"/>
+      <point x="965" y="660" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="1373" y="660" type="move" name="candrabinduCXT"/>
+      <point x="1106" y="473" type="move" name="abvmTOP"/>
     </contour>
     <contour>
-      <point x="965" y="660" type="move" name="bindu"/>
+      <point x="993" y="660" type="move" name="abvmCANDRABINDU"/>
     </contour>
     <contour>
-      <point x="1106" y="473" type="move" name="top"/>
+      <point x="1373" y="660" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
-      <point x="1015" y="-41" type="move" name="bottom"/>
+      <point x="1015" y="-41" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
 </glyph>

@@ -65,16 +65,16 @@
     </contour>
     <component base="dvMatraUu" xOffset="465" yOffset="-58"/>
     <contour>
-      <point x="403" y="630" type="move" name="candrabindu"/>
+      <point x="403" y="630" type="move" name="abvmCANDRABINDU"/>
     </contour>
     <contour>
-      <point x="415" y="630" type="move" name="bindu"/>
+      <point x="415" y="630" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="418" y="468" type="move" name="top"/>
+      <point x="418" y="468" type="move" name="abvmTOP"/>
     </contour>
     <contour>
-      <point x="563" y="630" type="move" name="candrabinduCXT"/>
+      <point x="563" y="630" type="move" name="abvmCANDRABINDU2"/>
     </contour>
   </outline>
 </glyph>
