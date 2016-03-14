@@ -1,0 +1,58 @@
+# Created: Fri Mar 11 15:55:45 2016
+# PS Name: Eczar-Bold
+# MM Inst: None
+# exported from Defcon
+
+@mGC_abvmBINDU_0_665 = [dvAnusvara dvAnusvara.calt];
+@mGC_abvmTOP_0_731 = [dvReph_dvAnusvara.alt dvReph.alt];
+@mGC_abvmTOP_n159_473 = [dvMatraShortE dvMatraShortE_dvAnusvara];
+@mGC_abvmTOP_n163_473 = [dvMatraE dvMatraAi dvMatraE_dvAnusvara dvMatraE_dvReph dvMatraE_dvReph_dvAnusvara dvMatraAi_dvAnusvara dvMatraAi_dvReph dvMatraAi_dvReph_dvAnusvara];
+@mGC_abvmTOP_n176_473 = [dvReph_dvAnusvara dvReph];
+@mGC_blwmBOTTOM_n256_0 = [dvMatraVocalicR dvMatraVocalicRr];
+@mGC_blwmBOTTOM_n261_0 = [dvMatraUE dvMatraUUE];
+@mGC_bottom_0_0 = [cedillacomb commaaccentcomb dotbelowcomb macronbelowcomb];
+@mGC_ogonek_0_9 = [ogonekcomb.case ogonekcomb];
+@mGC_top_0_473 = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb tildecomb];
+@mGC_top_0_545 = [caroncomb.case circumflexcomb.case];
+@mGC_top_0_650 = [tildecomb.case ringcomb];
+@mGC_top_1_650 = [acutecomb.case macroncomb.case];
+@mGC_top_n1_650 = [brevecomb.case gravecomb.case];
+
+markClass @mGC_abvmBINDU_0_665 <anchor 0 665> @MC_abvmBINDU;
+markClass @mGC_abvmTOP_0_731 <anchor 0 731> @MC_abvmTOP;
+markClass @mGC_abvmTOP_n159_473 <anchor -159 473> @MC_abvmTOP;
+markClass @mGC_abvmTOP_n163_473 <anchor -163 473> @MC_abvmTOP;
+markClass @mGC_abvmTOP_n176_473 <anchor -176 473> @MC_abvmTOP;
+markClass @mGC_blwmBOTTOM_n256_0 <anchor -256 0> @MC_blwmBOTTOM;
+markClass @mGC_blwmBOTTOM_n261_0 <anchor -261 0> @MC_blwmBOTTOM;
+markClass @mGC_bottom_0_0 <anchor 0 0> @MC_bottom;
+markClass @mGC_ogonek_0_9 <anchor 0 9> @MC_ogonek;
+markClass @mGC_top_0_473 <anchor 0 473> @MC_top;
+markClass @mGC_top_0_545 <anchor 0 545> @MC_top;
+markClass @mGC_top_0_650 <anchor 0 650> @MC_top;
+markClass @mGC_top_1_650 <anchor 1 650> @MC_top;
+markClass @mGC_top_n1_650 <anchor -1 650> @MC_top;
+markClass caroncomb.calt <anchor 0 591> @MC_topright;
+markClass dvAnusvara.alt <anchor 0 665> @MC_abvmTOP;
+markClass dvCandrabindu <anchor -193 665> @MC_abvmCANDRABINDU;
+markClass dvCandrabindu.calt <anchor -82 665> @MC_abvmCANDRABINDU;
+markClass dvCandrabinduInverted <anchor -228 665> @MC_abvmCANDRABINDU;
+markClass dvCandrabinduInverted.calt <anchor -107 665> @MC_abvmCANDRABINDU;
+markClass dvHalant <anchor -187 -10> @MC_blwmBOTTOM;
+markClass dvHalant.small <anchor -185 -40> @MC_blwmBOTTOM;
+markClass dvMatraCandraE <anchor -173 665> @MC_abvmCANDRABINDU;
+markClass dvMatraCandraE.calt <anchor -68 665> @MC_abvmCANDRABINDU;
+markClass dvMatraOE <anchor -162 473> @MC_abvmTOP;
+markClass dvMatraU <anchor -274 0> @MC_blwmBOTTOM;
+markClass dvMatraU.small <anchor -271 0> @MC_blwmBOTTOM;
+markClass dvMatraUu <anchor -263 0> @MC_blwmBOTTOM;
+markClass dvMatraUu.small <anchor -216 0> @MC_blwmBOTTOM;
+markClass dvMatraVocalicL <anchor -68 0> @MC_blwmBOTTOM;
+markClass dvMatraVocalicLl <anchor -73 0> @MC_blwmBOTTOM;
+markClass dvMatraVocalicR.small <anchor -167 0> @MC_blwmBOTTOM;
+markClass dvNukta <anchor -1 -10> @MC_blwmNUKTA;
+markClass dvRakar_dvMatraU <anchor 0 0> @MC_blwmBOTTOM;
+markClass dvRakar_dvMatraUu <anchor 1 0> @MC_blwmBOTTOM;
+markClass hungarumlautcomb.case <anchor -1 473> @MC_top;
+markClass macroncomb <anchor 1 473> @MC_top;
+

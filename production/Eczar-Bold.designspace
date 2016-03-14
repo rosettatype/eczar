@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+
+<designspace format="3">
+    <sources>
+        <source filename="../sources/builds/Eczar-Bold.ufo" name="master">
+            <lib copy="1"/>
+            <groups copy="1"/>
+            <info copy="1"/>
+            <location>
+                <dimension name="weight" xvalue="100"/>
+            </location>
+        </source>
+    </sources>
+
+    <instances>
+        <instance familyname="Eczar" filename="Eczar/Bold/font.ufo" stylename="Bold" postscriptfontname="Eczar-Bold">
+            <location>
+                <dimension name="weight" xvalue="100"/>
+            </location>
+            <info/>
+            <kerning/>
+        </instance>
+    </instances>
+</designspace>
