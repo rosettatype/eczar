@@ -2,7 +2,7 @@
 
 <designspace format="3">
     <sources>
-        <source filename="../sources/builds/Eczar-Medium.ufo" name="master">
+        <source filename="../../sources/builds/Eczar-SemiBold.ufo" name="master">
             <lib copy="1"/>
             <groups copy="1"/>
             <info copy="1"/>
@@ -13,7 +13,7 @@
     </sources>
 
     <instances>
-        <instance familyname="Eczar" filename="Eczar/Medium/font.ufo" stylename="Medium" postscriptfontname="Eczar-Medium">
+        <instance familyname="Eczar" filename="SemiBold/font.ufo" stylename="SemiBold" postscriptfontname="Eczar-SemiBold">
             <location>
                 <dimension name="weight" xvalue="100"/>
             </location>
