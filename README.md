@@ -5,17 +5,17 @@
 
 Eczar started as a student project in 2010–11 during Vaibhav’s MA studies in Typeface Design at the University of Reading. Eczar was designed to bring liveliness and vigor to multi-script typesetting in Latin and Devanagari – with the intention of providing an alternative to existing designs by imparting a strong mix of personality and performance, both at text sizes and in display settings. The family offers a wide expressive range and the display qualities of the design intensify with corresponding increase in weight, making the heaviest weights best suited for headlines and display purposes.
 
-![Eczar specimen 1](https://rawgithub.com/rosettatype/Eczar/master/documentation/Eczar-specimen_1.svg)
+![Eczar specimen 1](https://github.com/rosettatype/Eczar/blob/master/documentation/Eczar-specimen_1.svg)
 
 
 ## Download
 
-You can download the compiled fonts from [Fonts](https://github.com/rosettatype/eczar/tree/master/Fonts) folder of this repo or from the Google Fonts directory.
+You can download the compiled fonts from [Releases](https://github.com/rosettatype/Eczar/releases) section of this repo or from the Google Fonts directory.
 
 
 ## Building the fonts from source
 
-If you want to compile the fonts from sources, read the [production README](documentation/README.md).
+If you want to compile the fonts from sources, read the [production README](https://github.com/rosettatype/eczar/documentation/README.md).
 
 
 ## Rosetta – world typography specialists
@@ -24,14 +24,14 @@ Rosetta addresses the needs of global typography. Together with our collaborator
 
 So far our retail library supports pan-European Latin, Arabic, Armenian, Greek, Cyrillic (besides Slavic languages we also support many Asian languages), Inuktitut, and Indic scripts like Gujarati and Devanagari. In total, the library covers more than 200 languages.
 
-For more information see the website at http://rosettatype.com.
+For more information see the website at [rosettatype.com](http://rosettatype.com).
 
 You can contact us at <ask@rosettatype.com>.
 
 
 ## License
 
-See `LICENSE.txt` for licensing information. Essentially, the fonts and related code are licensed under [Open Font License](LICENSE.txt).
+The fonts and related code are licensed under [Open Font License](https://github.com/rosettatype/eczar/LICENSE.txt). See `LICENSE.txt` for licensing information.
 
 
 ## Feedback & progress
