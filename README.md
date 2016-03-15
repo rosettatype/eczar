@@ -5,7 +5,7 @@
 
 Eczar started as a student project in 2010–11 during Vaibhav’s MA studies in Typeface Design at the University of Reading. Eczar was designed to bring liveliness and vigor to multi-script typesetting in Latin and Devanagari – with the intention of providing an alternative to existing designs by imparting a strong mix of personality and performance, both at text sizes and in display settings. The family offers a wide expressive range and the display qualities of the design intensify with corresponding increase in weight, making the heaviest weights best suited for headlines and display purposes.
 
-![Eczar specimen 1](https://github.com/rosettatype/Eczar/blob/master/documentation/Eczar-specimen_1.svg)
+![Eczar specimen 1](https://rawgithub.com/rosettatype/Eczar/master/documentation/Eczar-specimen_1.svg)
 
 
 ## Download
