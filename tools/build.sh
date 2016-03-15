@@ -170,7 +170,7 @@ then
 	echo "Creating zip file for release."
 	FAMILY=$ZIP
 	VERSION=`cat production/version.fea`
-	zipname="$FAMILY-v$VERSION"
+	zipname="$FAMILY-fonts-v$VERSION"
 	mkdir -p $FAMILY/otf
 	mkdir -p $FAMILY/ttf
 	cp fonts/otf/$FAMILY*.otf $FAMILY/otf/
