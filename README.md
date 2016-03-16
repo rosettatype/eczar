@@ -15,7 +15,7 @@ You can download the compiled fonts from [Releases](https://github.com/rosettaty
 
 ## Building the fonts from source
 
-If you want to compile the fonts from sources, read the [production README](https://github.com/rosettatype/eczar/documentation/README.md).
+If you want to compile the fonts from sources, read the [production README](https://github.com/rosettatype/eczar/tree/master/documentation/).
 
 
 ## Rosetta – world typography specialists
@@ -31,7 +31,7 @@ You can contact us at <ask@rosettatype.com>.
 
 ## License
 
-The fonts and related code are licensed under [Open Font License](https://github.com/rosettatype/eczar/LICENSE.txt). See `LICENSE.txt` for licensing information.
+The fonts and related code are licensed under [Open Font License](https://github.com/rosettatype/eczar/tree/master/LICENSE.txt). See `LICENSE.txt` for licensing information.
 
 
 ## Feedback & progress
