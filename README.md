@@ -10,7 +10,7 @@ Eczar started as a student project in 2010–11 during Vaibhav’s MA studies in
 
 ## Download
 
-You can download the compiled fonts from [Releases](https://github.com/rosettatype/Eczar/releases) section of this repo or from the Google Fonts directory.
+You can download the compiled fonts from Releases section of this repo or from the Google Fonts directory. [Download the latest release](https://github.com/rosettatype/eczar/releases/latest)
 
 
 ## Building the fonts from source
