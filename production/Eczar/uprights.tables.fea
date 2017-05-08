@@ -36,8 +36,8 @@ table OS/2 {
 	TypoLineGap			0;
 	XHeight				470;		# differs from weight to weight
 	CapHeight			650;
-	#WeightClass;
-	WidthClass			5;	# Medium/Normal
+	include(WeightClass.fea);
+	include(../WidthClass.fea);
 	Vendor				" RST";
 } OS/2;
 
