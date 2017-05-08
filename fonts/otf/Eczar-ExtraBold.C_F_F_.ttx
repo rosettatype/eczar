@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="2.5">
+<ttFont ttLibVersion="3.10">
 
   <CFF>
+    <major value="1"/>
+    <minor value="0"/>
     <CFFFont name="Eczar-ExtraBold">
       <version value="1.2"/>
       <Copyright value="Copyright 2014 Eczar Project Authors (info@rosettatype.com)"/>
@@ -3194,7 +3196,7 @@
             return
           </CharString>
           <CharString index="485">
-            756.720001221 175.710006714 hstem
+            756.72 175.71 hstem
             return
           </CharString>
           <CharString index="486">
@@ -8062,7 +8064,7 @@
         </CharString>
         <CharString name="uni0904">
           215 -4 callgsubr
-          -64 49 15 -20 95.4799957275 173.399993896 -12 callgsubr
+          -64 49 15 -20 95.48 173.4 -12 callgsubr
           hintmask 1111000101100000
           -92 callsubr
           186 hlineto
@@ -8315,7 +8317,7 @@
         </CharString>
         <CharString name="uni090E">
           -63 486 339 callsubr
-          -49 49 90.4799957275 173.399993896 275 callgsubr
+          -49 49 90.48 173.4 275 callgsubr
           hintmask 11011100
           49 callsubr
           -85 callsubr
@@ -8392,7 +8394,7 @@
         </CharString>
         <CharString name="uni0912">
           531 -4 callgsubr
-          -64 49 15 -20 95.4799957275 173.399993896 99 callsubr
+          -64 49 15 -20 95.48 173.4 99 callsubr
           hintmask 1111000101110000
           -29 callsubr
           -113 132 callsubr
@@ -14260,7 +14262,7 @@
           endchar
         </CharString>
         <CharString name="uni092A094D091F094D092F">
-          637 -173 162 16 -21 122.160003662 159.839996338 58 162 160 callsubr
+          637 -173 162 16 -21 122.16 159.84 58 162 160 callsubr
           40 192 -172 178 610 140 callsubr
           hintmask 0111100100100000
           1360 538 rmoveto
@@ -16606,7 +16608,7 @@
           endchar
         </CharString>
         <CharString name="uni0937094D091F094D092F">
-          644 -183 162 35 -21 103.160003662 159.839996338 77 162 -9 167 callsubr
+          644 -183 162 35 -21 103.16 159.84 77 162 -9 167 callsubr
           394 callgsubr
           178 281 140 callsubr
           hintmask 1111010001111000
@@ -18110,7 +18112,7 @@
         </CharString>
         <CharString name="uni094A">
           -89 callgsubr
-          90.4799957275 173.399993896 hstemhm
+          90.48 173.4 hstemhm
           60 186 hintmask 11101100
           -75 callsubr
           -113 132 callsubr
@@ -23257,7 +23259,7 @@
         return
       </CharString>
       <CharString index="469">
-        162 117.160003662 159.839996338 return
+        162 117.16 159.84 return
       </CharString>
       <CharString index="470">
         -37 -34 -17 -38 -37 vvcurveto

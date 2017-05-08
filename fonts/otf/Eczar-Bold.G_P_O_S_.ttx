@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="2.5">
+<ttFont ttLibVersion="3.10">
 
   <GPOS>
-    <Version value="1.0"/>
+    <Version value="0x00010000"/>
     <ScriptList>
       <!-- ScriptCount=4 -->
       <ScriptRecord index="0">
@@ -360,11 +360,11 @@
     <LookupList>
       <!-- LookupCount=6 -->
       <Lookup index="0">
-        <!-- LookupType=2 -->
+        <LookupType value="2"/>
         <LookupFlag value="8"/>
         <!-- SubTableCount=3 -->
         <PairPos index="0" Format="1">
-          <Coverage>
+          <Coverage Format="1">
             <Glyph value="zero"/>
             <Glyph value="one"/>
             <Glyph value="two"/>
@@ -2067,7 +2067,7 @@
           </PairSet>
         </PairPos>
         <PairPos index="1" Format="2">
-          <Coverage>
+          <Coverage Format="1">
             <Glyph value="B"/>
             <Glyph value="F"/>
             <Glyph value="J"/>
@@ -2101,7 +2101,7 @@
           </Coverage>
           <ValueFormat1 value="4"/>
           <ValueFormat2 value="0"/>
-          <ClassDef1>
+          <ClassDef1 Format="2">
             <ClassDef glyph="F" class="1"/>
             <ClassDef glyph="J" class="2"/>
             <ClassDef glyph="P" class="3"/>
@@ -2132,7 +2132,7 @@
             <ClassDef glyph="uni0938094D" class="22"/>
             <ClassDef glyph="uni0939094D" class="9"/>
           </ClassDef1>
-          <ClassDef2>
+          <ClassDef2 Format="2">
             <ClassDef glyph="A" class="1"/>
             <ClassDef glyph="AE" class="1"/>
             <ClassDef glyph="Aacute" class="1"/>
@@ -5931,7 +5931,7 @@
           </Class1Record>
         </PairPos>
         <PairPos index="2" Format="2">
-          <Coverage>
+          <Coverage Format="2">
             <Glyph value="dollar"/>
             <Glyph value="A"/>
             <Glyph value="C"/>
@@ -6136,7 +6136,7 @@
           </Coverage>
           <ValueFormat1 value="4"/>
           <ValueFormat2 value="0"/>
-          <ClassDef1>
+          <ClassDef1 Format="2">
             <ClassDef glyph="AE" class="2"/>
             <ClassDef glyph="C" class="1"/>
             <ClassDef glyph="Cacute" class="1"/>
@@ -6329,7 +6329,7 @@
             <ClassDef glyph="y" class="35"/>
             <ClassDef glyph="z" class="36"/>
           </ClassDef1>
-          <ClassDef2>
+          <ClassDef2 Format="2">
             <ClassDef glyph="A" class="20"/>
             <ClassDef glyph="AE" class="20"/>
             <ClassDef glyph="Aacute" class="20"/>
@@ -11794,15 +11794,15 @@
         </PairPos>
       </Lookup>
       <Lookup index="1">
-        <!-- LookupType=4 -->
+        <LookupType value="4"/>
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <MarkBasePos index="0" Format="1">
-          <MarkCoverage>
+          <MarkCoverage Format="1">
             <Glyph value="uni0902"/>
             <Glyph value="uni0902.calt"/>
           </MarkCoverage>
-          <BaseCoverage>
+          <BaseCoverage Format="2">
             <Glyph value="uni0904"/>
             <Glyph value="uni0905"/>
             <Glyph value="uni0906"/>
@@ -14432,11 +14432,11 @@
         </MarkBasePos>
       </Lookup>
       <Lookup index="2">
-        <!-- LookupType=4 -->
+        <LookupType value="4"/>
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <MarkBasePos index="0" Format="1">
-          <MarkCoverage>
+          <MarkCoverage Format="1">
             <Glyph value="uni0945"/>
             <Glyph value="uni0900"/>
             <Glyph value="uni0901"/>
@@ -14444,7 +14444,7 @@
             <Glyph value="uni0901.calt"/>
             <Glyph value="uni0900.calt"/>
           </MarkCoverage>
-          <BaseCoverage>
+          <BaseCoverage Format="2">
             <Glyph value="uni0905"/>
             <Glyph value="uni0906"/>
             <Glyph value="uni0907"/>
@@ -16934,11 +16934,11 @@
         </MarkBasePos>
       </Lookup>
       <Lookup index="3">
-        <!-- LookupType=4 -->
+        <LookupType value="4"/>
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <MarkBasePos index="0" Format="1">
-          <MarkCoverage>
+          <MarkCoverage Format="1">
             <Glyph value="uni0946"/>
             <Glyph value="uni0947"/>
             <Glyph value="uni0948"/>
@@ -16956,7 +16956,7 @@
             <Glyph value="uni09480930094D"/>
             <Glyph value="uni09480930094D0902"/>
           </MarkCoverage>
-          <BaseCoverage>
+          <BaseCoverage Format="2">
             <Glyph value="uni090B"/>
             <Glyph value="uni090B.ss06"/>
             <Glyph value="uni0960"/>
@@ -19677,15 +19677,15 @@
         </MarkBasePos>
       </Lookup>
       <Lookup index="4">
-        <!-- LookupType=6 -->
+        <LookupType value="6"/>
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <MarkMarkPos index="0" Format="1">
-          <Mark1Coverage>
+          <Mark1Coverage Format="1">
             <Glyph value="uni0902"/>
             <Glyph value="uni0902.calt"/>
           </Mark1Coverage>
-          <Mark2Coverage>
+          <Mark2Coverage Format="2">
             <Glyph value="uni0946"/>
             <Glyph value="uni0947"/>
             <Glyph value="uni0948"/>
@@ -19732,11 +19732,11 @@
         </MarkMarkPos>
       </Lookup>
       <Lookup index="5">
-        <!-- LookupType=4 -->
+        <LookupType value="4"/>
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <MarkBasePos index="0" Format="1">
-          <MarkCoverage>
+          <MarkCoverage Format="1">
             <Glyph value="uni0941"/>
             <Glyph value="uni0942"/>
             <Glyph value="uni0943"/>
@@ -19753,7 +19753,7 @@
             <Glyph value="uni094D09300941"/>
             <Glyph value="uni094D09300942"/>
           </MarkCoverage>
-          <BaseCoverage>
+          <BaseCoverage Format="2">
             <Glyph value="uni090B"/>
             <Glyph value="uni090B.ss06"/>
             <Glyph value="uni0960"/>

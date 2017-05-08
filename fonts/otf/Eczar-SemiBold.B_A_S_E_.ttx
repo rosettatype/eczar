@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="2.5">
+<ttFont ttLibVersion="3.10">
 
   <BASE>
-    <Version value="1.0"/>
+    <Version value="0x00010000"/>
     <HorizAxis>
       <BaseTagList>
         <!-- BaseTagCount=2 -->

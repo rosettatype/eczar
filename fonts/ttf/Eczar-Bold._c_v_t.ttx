@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="2.5">
+<ttFont ttLibVersion="3.10">
 
   <cvt>
     <cv index="0" value="0"/>
@@ -18,66 +18,61 @@
     <cv index="13" value="0"/>
     <cv index="14" value="0"/>
     <cv index="15" value="0"/>
-    <cv index="16" value="151"/>
-    <cv index="17" value="151"/>
-    <cv index="18" value="117"/>
-    <cv index="19" value="117"/>
-    <cv index="20" value="133"/>
-    <cv index="21" value="49"/>
-    <cv index="22" value="1004"/>
-    <cv index="23" value="655"/>
-    <cv index="24" value="655"/>
-    <cv index="25" value="-43"/>
-    <cv index="26" value="-326"/>
-    <cv index="27" value="1143"/>
-    <cv index="28" value="-634"/>
-    <cv index="29" value="1004"/>
-    <cv index="30" value="678"/>
-    <cv index="31" value="655"/>
-    <cv index="32" value="-45"/>
-    <cv index="33" value="-326"/>
-    <cv index="34" value="1143"/>
-    <cv index="35" value="-634"/>
+    <cv index="16" value="0"/>
+    <cv index="17" value="0"/>
+    <cv index="18" value="0"/>
+    <cv index="19" value="151"/>
+    <cv index="20" value="151"/>
+    <cv index="21" value="117"/>
+    <cv index="22" value="117"/>
+    <cv index="23" value="133"/>
+    <cv index="24" value="49"/>
+    <cv index="25" value="1004"/>
+    <cv index="26" value="655"/>
+    <cv index="27" value="655"/>
+    <cv index="28" value="-43"/>
+    <cv index="29" value="-326"/>
+    <cv index="30" value="1004"/>
+    <cv index="31" value="678"/>
+    <cv index="32" value="655"/>
+    <cv index="33" value="-45"/>
+    <cv index="34" value="-326"/>
+    <cv index="35" value="175"/>
     <cv index="36" value="175"/>
-    <cv index="37" value="175"/>
+    <cv index="37" value="93"/>
     <cv index="38" value="93"/>
-    <cv index="39" value="93"/>
-    <cv index="40" value="662"/>
-    <cv index="41" value="0"/>
-    <cv index="42" value="749"/>
-    <cv index="43" value="500"/>
-    <cv index="44" value="0"/>
-    <cv index="45" value="-202"/>
-    <cv index="46" value="1143"/>
-    <cv index="47" value="-634"/>
-    <cv index="48" value="682"/>
+    <cv index="39" value="662"/>
+    <cv index="40" value="0"/>
+    <cv index="41" value="749"/>
+    <cv index="42" value="500"/>
+    <cv index="43" value="0"/>
+    <cv index="44" value="-202"/>
+    <cv index="45" value="682"/>
+    <cv index="46" value="-20"/>
+    <cv index="47" value="749"/>
+    <cv index="48" value="500"/>
     <cv index="49" value="-20"/>
-    <cv index="50" value="749"/>
-    <cv index="51" value="500"/>
-    <cv index="52" value="-20"/>
-    <cv index="53" value="-247"/>
-    <cv index="54" value="1143"/>
-    <cv index="55" value="-634"/>
-    <cv index="56" value="175"/>
-    <cv index="57" value="175"/>
-    <cv index="58" value="93"/>
-    <cv index="59" value="93"/>
-    <cv index="60" value="662"/>
-    <cv index="61" value="418"/>
-    <cv index="62" value="749"/>
-    <cv index="63" value="500"/>
-    <cv index="64" value="0"/>
-    <cv index="65" value="-202"/>
-    <cv index="66" value="1143"/>
-    <cv index="67" value="-634"/>
-    <cv index="68" value="682"/>
-    <cv index="69" value="-15"/>
-    <cv index="70" value="749"/>
-    <cv index="71" value="500"/>
-    <cv index="72" value="-20"/>
-    <cv index="73" value="-247"/>
-    <cv index="74" value="1143"/>
-    <cv index="75" value="-634"/>
+    <cv index="50" value="-247"/>
+    <cv index="51" value="175"/>
+    <cv index="52" value="175"/>
+    <cv index="53" value="93"/>
+    <cv index="54" value="93"/>
+    <cv index="55" value="662"/>
+    <cv index="56" value="418"/>
+    <cv index="57" value="749"/>
+    <cv index="58" value="500"/>
+    <cv index="59" value="0"/>
+    <cv index="60" value="-202"/>
+    <cv index="61" value="682"/>
+    <cv index="62" value="-15"/>
+    <cv index="63" value="749"/>
+    <cv index="64" value="500"/>
+    <cv index="65" value="-20"/>
+    <cv index="66" value="-247"/>
+    <cv index="67" value="24"/>
+    <cv index="68" value="24"/>
+    <cv index="69" value="24"/>
+    <cv index="70" value="24"/>
   </cvt>
 
 </ttFont>

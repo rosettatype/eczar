@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="2.5">
+<ttFont ttLibVersion="3.10">
 
   <GDEF>
-    <Version value="1.0"/>
-    <GlyphClassDef>
+    <Version value="0x00010000"/>
+    <GlyphClassDef Format="2">
       <ClassDef glyph="A" class="1"/>
       <ClassDef glyph="AE" class="1"/>
       <ClassDef glyph="Aacute" class="1"/>
@@ -838,7 +838,7 @@
       <ClassDef glyph="zcaron" class="1"/>
       <ClassDef glyph="zdotaccent" class="1"/>
     </GlyphClassDef>
-    <MarkAttachClassDef>
+    <MarkAttachClassDef Format="2">
       <ClassDef glyph="uni0900" class="2"/>
       <ClassDef glyph="uni0901" class="2"/>
       <ClassDef glyph="uni0901.calt" class="2"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="2.5">
+<ttFont ttLibVersion="3.10">
 
   <cmap>
     <tableVersion version="0"/>
@@ -486,28 +486,7 @@
     </cmap_format_4>
     <cmap_format_6 platformID="1" platEncID="0" language="0">
       <map code="0x9" name="space"/>
-      <map code="0xa" name=".notdef"/>
-      <map code="0xb" name=".notdef"/>
-      <map code="0xc" name=".notdef"/>
       <map code="0xd" name="space"/>
-      <map code="0xe" name=".notdef"/>
-      <map code="0xf" name=".notdef"/>
-      <map code="0x10" name=".notdef"/>
-      <map code="0x11" name=".notdef"/>
-      <map code="0x12" name=".notdef"/>
-      <map code="0x13" name=".notdef"/>
-      <map code="0x14" name=".notdef"/>
-      <map code="0x15" name=".notdef"/>
-      <map code="0x16" name=".notdef"/>
-      <map code="0x17" name=".notdef"/>
-      <map code="0x18" name=".notdef"/>
-      <map code="0x19" name=".notdef"/>
-      <map code="0x1a" name=".notdef"/>
-      <map code="0x1b" name=".notdef"/>
-      <map code="0x1c" name=".notdef"/>
-      <map code="0x1d" name=".notdef"/>
-      <map code="0x1e" name=".notdef"/>
-      <map code="0x1f" name=".notdef"/>
       <map code="0x20" name="space"/>
       <map code="0x21" name="exclam"/>
       <map code="0x22" name="quotedbl"/>
@@ -603,7 +582,6 @@
       <map code="0x7c" name="bar"/>
       <map code="0x7d" name="braceright"/>
       <map code="0x7e" name="asciitilde"/>
-      <map code="0x7f" name=".notdef"/>
       <map code="0x80" name="Adieresis"/>
       <map code="0x81" name="Aring"/>
       <map code="0x82" name="Ccedilla"/>
@@ -665,14 +643,12 @@
       <map code="0xba" name="integral"/>
       <map code="0xbb" name="ordfeminine"/>
       <map code="0xbc" name="ordmasculine"/>
-      <map code="0xbd" name=".notdef"/>
       <map code="0xbe" name="ae"/>
       <map code="0xbf" name="oslash"/>
       <map code="0xc0" name="questiondown"/>
       <map code="0xc1" name="exclamdown"/>
       <map code="0xc2" name="logicalnot"/>
       <map code="0xc3" name="radical"/>
-      <map code="0xc4" name=".notdef"/>
       <map code="0xc5" name="approxequal"/>
       <map code="0xc6" name="uni2206"/>
       <map code="0xc7" name="guillemotleft"/>
@@ -698,8 +674,6 @@
       <map code="0xdb" name="Euro"/>
       <map code="0xdc" name="guilsinglleft"/>
       <map code="0xdd" name="guilsinglright"/>
-      <map code="0xde" name=".notdef"/>
-      <map code="0xdf" name=".notdef"/>
       <map code="0xe0" name="daggerdbl"/>
       <map code="0xe1" name="periodcentered"/>
       <map code="0xe2" name="quotesinglbase"/>
@@ -716,7 +690,6 @@
       <map code="0xed" name="Igrave"/>
       <map code="0xee" name="Oacute"/>
       <map code="0xef" name="Ocircumflex"/>
-      <map code="0xf0" name=".notdef"/>
       <map code="0xf1" name="Ograve"/>
       <map code="0xf2" name="Uacute"/>
       <map code="0xf3" name="Ucircumflex"/>

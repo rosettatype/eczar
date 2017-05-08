@@ -1,98 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="2.5">
+<ttFont ttLibVersion="3.10">
 
   <prep>
     <assembly>
       SVTCA[0]	/* SetFPVectorToAxis */
       MPPEM[ ]	/* MeasurePixelPerEm */
-      PUSH[ ]	/* 1 value pushed */
+      PUSHW[ ]	/* 1 value pushed */
       200
       GT[ ]	/* GreaterThan */
       IF[ ]	/* If */
-      PUSH[ ]	/* 2 values pushed */
-      1 1
-      INSTCTRL[ ]	/* SetInstrExecControl */
+        PUSHB[ ]	/* 2 values pushed */
+        1 1
+        INSTCTRL[ ]	/* SetInstrExecControl */
       EIF[ ]	/* EndIf */
-      PUSH[ ]	/* 3 values pushed */
-      1 2048 2048
+      PUSHB[ ]	/* 1 value pushed */
+      1
+      PUSHW[ ]	/* 2 values pushed */
+      2048 2048
       MUL[ ]	/* Multiply */
       WCVTF[ ]	/* WriteCVTInFUnits */
-      PUSH[ ]	/* 2 values pushed */
+      PUSHB[ ]	/* 2 values pushed */
       0 7
       WS[ ]	/* WriteStore */
-      PUSH[ ]	/* 5 values pushed */
-      70 50 30 3 0
+      PUSHB[ ]	/* 6 values pushed */
+      0 63 47 31 4 0
       LOOPCALL[ ]	/* LoopAndCallFunction */
-      PUSH[ ]	/* 2 values pushed */
+      PUSHB[ ]	/* 2 values pushed */
       0 7
       WS[ ]	/* WriteStore */
-      PUSH[ ]	/* 8 values pushed */
-      57 8 37 8 18 8 3 8
+      NPUSHB[ ]	/* 10 values pushed */
+      68 2 52 8 36 8 21 8 4 8
       LOOPCALL[ ]	/* LoopAndCallFunction */
-      PUSH[ ]	/* 2 values pushed */
+      PUSHB[ ]	/* 2 values pushed */
       0 7
       WS[ ]	/* WriteStore */
-      PUSH[ ]	/* 8 values pushed */
-      67 6 47 6 28 5 3 8
+      NPUSHB[ ]	/* 10 values pushed */
+      70 0 60 6 44 6 29 5 4 8
       LOOPCALL[ ]	/* LoopAndCallFunction */
-      PUSH[ ]	/* 2 values pushed */
-      0 10
+      PUSHB[ ]	/* 2 values pushed */
+      0 11
       WS[ ]	/* WriteStore */
-      PUSH[ ]	/* 5 values pushed */
-      3712 2432 1216 3 9
+      PUSHW[ ]	/* 6 values pushed */
+      4416 3392 2368 1408 4 9
       LOOPCALL[ ]	/* LoopAndCallFunction */
-      PUSH[ ]	/* 2 values pushed */
-      0 13
+      PUSHB[ ]	/* 2 values pushed */
+      0 15
       WS[ ]	/* WriteStore */
-      PUSH[ ]	/* 5 values pushed */
-      64 64 128 3 9
+      PUSHW[ ]	/* 6 values pushed */
+      64 64 64 128 4 9
       LOOPCALL[ ]	/* LoopAndCallFunction */
-      PUSH[ ]	/* 2 values pushed */
+      PUSHB[ ]	/* 2 values pushed */
       3 0
       WCVTP[ ]	/* WriteCVTInPixels */
-      PUSH[ ]	/* 2 values pushed */
+      PUSHB[ ]	/* 2 values pushed */
       36 1
       GETINFO[ ]	/* GetInfo */
       LTEQ[ ]	/* LessThenOrEqual */
       IF[ ]	/* If */
-      PUSH[ ]	/* 1 value pushed */
-      64
-      GETINFO[ ]	/* GetInfo */
-      IF[ ]	/* If */
-      PUSH[ ]	/* 2 values pushed */
-      3 100
-      WCVTP[ ]	/* WriteCVTInPixels */
-      PUSH[ ]	/* 2 values pushed */
-      38 1
-      GETINFO[ ]	/* GetInfo */
-      LTEQ[ ]	/* LessThenOrEqual */
-      IF[ ]	/* If */
-      PUSH[ ]	/* 3 values pushed */
-      2176 1 1088
-      GETINFO[ ]	/* GetInfo */
-      MUL[ ]	/* Multiply */
-      EQ[ ]	/* Equal */
-      IF[ ]	/* If */
-      PUSH[ ]	/* 2 values pushed */
-      3 0
-      WCVTP[ ]	/* WriteCVTInPixels */
+        PUSHB[ ]	/* 1 value pushed */
+        64
+        GETINFO[ ]	/* GetInfo */
+        IF[ ]	/* If */
+          PUSHB[ ]	/* 2 values pushed */
+          3 100
+          WCVTP[ ]	/* WriteCVTInPixels */
+          PUSHB[ ]	/* 2 values pushed */
+          38 1
+          GETINFO[ ]	/* GetInfo */
+          LTEQ[ ]	/* LessThenOrEqual */
+          IF[ ]	/* If */
+            PUSHW[ ]	/* 3 values pushed */
+            2176 1 1088
+            GETINFO[ ]	/* GetInfo */
+            MUL[ ]	/* Multiply */
+            EQ[ ]	/* Equal */
+            IF[ ]	/* If */
+              PUSHB[ ]	/* 2 values pushed */
+              3 0
+              WCVTP[ ]	/* WriteCVTInPixels */
+            EIF[ ]	/* EndIf */
+          EIF[ ]	/* EndIf */
+        EIF[ ]	/* EndIf */
       EIF[ ]	/* EndIf */
-      EIF[ ]	/* EndIf */
-      EIF[ ]	/* EndIf */
-      EIF[ ]	/* EndIf */
-      PUSH[ ]	/* 8 values pushed */
-      59 8 39 8 21 7 3 12
+      NPUSHB[ ]	/* 10 values pushed */
+      70 0 54 6 38 6 24 5 4 12
       LOOPCALL[ ]	/* LoopAndCallFunction */
-      PUSH[ ]	/* 1 value pushed */
+      PUSHW[ ]	/* 1 value pushed */
       511
       SCANCTRL[ ]	/* ScanConversionControl */
-      PUSH[ ]	/* 1 value pushed */
+      PUSHB[ ]	/* 1 value pushed */
       4
       SCANTYPE[ ]	/* ScanType */
-      PUSH[ ]	/* 2 values pushed */
+      PUSHB[ ]	/* 2 values pushed */
       2 0
       WCVTP[ ]	/* WriteCVTInPixels */
-      PUSH[ ]	/* 4 values pushed */
+      PUSHB[ ]	/* 4 values pushed */
       5 100 6 0
       WCVTP[ ]	/* WriteCVTInPixels */
       WCVTP[ ]	/* WriteCVTInPixels */

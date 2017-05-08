@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="2.5">
+<ttFont ttLibVersion="3.10">
 
   <GPOS>
-    <Version value="1.0"/>
+    <Version value="0x00010000"/>
     <ScriptList>
       <!-- ScriptCount=4 -->
       <ScriptRecord index="0">
@@ -360,11 +360,11 @@
     <LookupList>
       <!-- LookupCount=6 -->
       <Lookup index="0">
-        <!-- LookupType=2 -->
+        <LookupType value="2"/>
         <LookupFlag value="8"/>
         <!-- SubTableCount=3 -->
         <PairPos index="0" Format="1">
-          <Coverage>
+          <Coverage Format="1">
             <Glyph value="zero"/>
             <Glyph value="one"/>
             <Glyph value="two"/>
@@ -1899,7 +1899,7 @@
           </PairSet>
         </PairPos>
         <PairPos index="1" Format="2">
-          <Coverage>
+          <Coverage Format="1">
             <Glyph value="B"/>
             <Glyph value="F"/>
             <Glyph value="J"/>
@@ -1934,7 +1934,7 @@
           </Coverage>
           <ValueFormat1 value="4"/>
           <ValueFormat2 value="0"/>
-          <ClassDef1>
+          <ClassDef1 Format="2">
             <ClassDef glyph="F" class="1"/>
             <ClassDef glyph="J" class="2"/>
             <ClassDef glyph="P" class="3"/>
@@ -1966,7 +1966,7 @@
             <ClassDef glyph="uni0938094D" class="22"/>
             <ClassDef glyph="uni0939094D" class="9"/>
           </ClassDef1>
-          <ClassDef2>
+          <ClassDef2 Format="2">
             <ClassDef glyph="A" class="1"/>
             <ClassDef glyph="AE" class="1"/>
             <ClassDef glyph="Aacute" class="1"/>
@@ -5886,7 +5886,7 @@
           </Class1Record>
         </PairPos>
         <PairPos index="2" Format="2">
-          <Coverage>
+          <Coverage Format="2">
             <Glyph value="dollar"/>
             <Glyph value="A"/>
             <Glyph value="C"/>
@@ -6104,7 +6104,7 @@
           </Coverage>
           <ValueFormat1 value="4"/>
           <ValueFormat2 value="0"/>
-          <ClassDef1>
+          <ClassDef1 Format="2">
             <ClassDef glyph="AE" class="2"/>
             <ClassDef glyph="C" class="1"/>
             <ClassDef glyph="Cacute" class="1"/>
@@ -6310,7 +6310,7 @@
             <ClassDef glyph="zcaron" class="36"/>
             <ClassDef glyph="zdotaccent" class="36"/>
           </ClassDef1>
-          <ClassDef2>
+          <ClassDef2 Format="1">
             <ClassDef glyph="A" class="20"/>
             <ClassDef glyph="AE" class="20"/>
             <ClassDef glyph="Aacute" class="20"/>
@@ -6340,7 +6340,6 @@
             <ClassDef glyph="Emacron" class="1"/>
             <ClassDef glyph="Eogonek" class="1"/>
             <ClassDef glyph="Eth" class="1"/>
-            <ClassDef glyph="Euro" class="0"/>
             <ClassDef glyph="F" class="1"/>
             <ClassDef glyph="G" class="2"/>
             <ClassDef glyph="Gbreve" class="2"/>
@@ -6415,60 +6414,25 @@
             <ClassDef glyph="aacute" class="8"/>
             <ClassDef glyph="abreve" class="8"/>
             <ClassDef glyph="acircumflex" class="8"/>
-            <ClassDef glyph="acute" class="0"/>
-            <ClassDef glyph="acutecomb" class="0"/>
-            <ClassDef glyph="acutecomb.case" class="0"/>
             <ClassDef glyph="adieresis" class="8"/>
             <ClassDef glyph="ae" class="8"/>
             <ClassDef glyph="agrave" class="8"/>
             <ClassDef glyph="amacron" class="8"/>
-            <ClassDef glyph="ampersand" class="0"/>
             <ClassDef glyph="aogonek" class="8"/>
-            <ClassDef glyph="approxequal" class="0"/>
             <ClassDef glyph="aring" class="8"/>
-            <ClassDef glyph="asciicircum" class="0"/>
-            <ClassDef glyph="asciitilde" class="0"/>
             <ClassDef glyph="asterisk" class="39"/>
-            <ClassDef glyph="at" class="0"/>
             <ClassDef glyph="atilde" class="8"/>
             <ClassDef glyph="b" class="9"/>
-            <ClassDef glyph="backslash" class="0"/>
-            <ClassDef glyph="bar" class="0"/>
-            <ClassDef glyph="braceleft" class="0"/>
-            <ClassDef glyph="braceright" class="0"/>
-            <ClassDef glyph="bracketleft" class="0"/>
-            <ClassDef glyph="bracketright" class="0"/>
-            <ClassDef glyph="breve" class="0"/>
-            <ClassDef glyph="brokenbar" class="0"/>
-            <ClassDef glyph="bullet" class="0"/>
-            <ClassDef glyph="bulletoperator" class="0"/>
             <ClassDef glyph="c" class="13"/>
             <ClassDef glyph="cacute" class="13"/>
-            <ClassDef glyph="caron" class="0"/>
             <ClassDef glyph="ccaron" class="13"/>
             <ClassDef glyph="ccedilla" class="13"/>
-            <ClassDef glyph="cedilla" class="0"/>
-            <ClassDef glyph="cent" class="0"/>
-            <ClassDef glyph="circumflex" class="0"/>
-            <ClassDef glyph="colon" class="0"/>
             <ClassDef glyph="comma" class="41"/>
-            <ClassDef glyph="copyright" class="0"/>
-            <ClassDef glyph="currency" class="0"/>
             <ClassDef glyph="d" class="13"/>
-            <ClassDef glyph="dagger" class="0"/>
-            <ClassDef glyph="daggerdbl" class="0"/>
             <ClassDef glyph="dcaron" class="13"/>
             <ClassDef glyph="dcroat" class="13"/>
-            <ClassDef glyph="degree" class="0"/>
-            <ClassDef glyph="dieresis" class="0"/>
-            <ClassDef glyph="divide" class="0"/>
             <ClassDef glyph="dollar" class="3"/>
-            <ClassDef glyph="dotaccent" class="0"/>
-            <ClassDef glyph="dotbelowcomb" class="0"/>
-            <ClassDef glyph="dotbelowcomb.case" class="0"/>
             <ClassDef glyph="dotlessi" class="12"/>
-            <ClassDef glyph="dvKSPLa" class="0"/>
-            <ClassDef glyph="dvKSPLa.MAR" class="0"/>
             <ClassDef glyph="e" class="13"/>
             <ClassDef glyph="eacute" class="13"/>
             <ClassDef glyph="ecaron" class="13"/>
@@ -6476,15 +6440,9 @@
             <ClassDef glyph="edieresis" class="13"/>
             <ClassDef glyph="edotaccent" class="13"/>
             <ClassDef glyph="egrave" class="13"/>
-            <ClassDef glyph="eight" class="0"/>
-            <ClassDef glyph="ellipsis" class="0"/>
             <ClassDef glyph="emacron" class="13"/>
-            <ClassDef glyph="emdash" class="0"/>
-            <ClassDef glyph="endash" class="0"/>
             <ClassDef glyph="eogonek" class="13"/>
-            <ClassDef glyph="equal" class="0"/>
             <ClassDef glyph="eth" class="13"/>
-            <ClassDef glyph="exclamdown" class="0"/>
             <ClassDef glyph="f" class="10"/>
             <ClassDef glyph="f_b.liga" class="10"/>
             <ClassDef glyph="f_f.liga" class="10"/>
@@ -6494,36 +6452,17 @@
             <ClassDef glyph="f_k.liga" class="10"/>
             <ClassDef glyph="f_l.liga" class="10"/>
             <ClassDef glyph="f_t.liga" class="10"/>
-            <ClassDef glyph="five" class="0"/>
-            <ClassDef glyph="four" class="0"/>
-            <ClassDef glyph="four.dnom" class="0"/>
-            <ClassDef glyph="four.numr" class="0"/>
-            <ClassDef glyph="foursuperior" class="0"/>
-            <ClassDef glyph="fraction" class="0"/>
             <ClassDef glyph="g" class="11"/>
             <ClassDef glyph="gbreve" class="11"/>
             <ClassDef glyph="gcommaaccent" class="11"/>
             <ClassDef glyph="germandbls" class="10"/>
-            <ClassDef glyph="grave" class="0"/>
-            <ClassDef glyph="gravecomb" class="0"/>
-            <ClassDef glyph="gravecomb.case" class="0"/>
-            <ClassDef glyph="greater" class="0"/>
-            <ClassDef glyph="greaterequal" class="0"/>
-            <ClassDef glyph="guillemotleft" class="0"/>
-            <ClassDef glyph="guillemotright" class="0"/>
-            <ClassDef glyph="guilsinglleft" class="0"/>
-            <ClassDef glyph="guilsinglright" class="0"/>
             <ClassDef glyph="h" class="22"/>
-            <ClassDef glyph="hungarumlaut" class="0"/>
-            <ClassDef glyph="hyphen" class="0"/>
             <ClassDef glyph="i" class="12"/>
             <ClassDef glyph="iacute" class="12"/>
             <ClassDef glyph="icircumflex" class="12"/>
             <ClassDef glyph="idieresis" class="12"/>
             <ClassDef glyph="igrave" class="12"/>
             <ClassDef glyph="imacron" class="12"/>
-            <ClassDef glyph="infinity" class="0"/>
-            <ClassDef glyph="integral" class="0"/>
             <ClassDef glyph="iogonek" class="12"/>
             <ClassDef glyph="j" class="21"/>
             <ClassDef glyph="k" class="22"/>
@@ -6532,203 +6471,69 @@
             <ClassDef glyph="lacute" class="22"/>
             <ClassDef glyph="lcaron" class="22"/>
             <ClassDef glyph="lcommaaccent" class="22"/>
-            <ClassDef glyph="less" class="0"/>
-            <ClassDef glyph="lessequal" class="0"/>
-            <ClassDef glyph="logicalnot" class="0"/>
             <ClassDef glyph="lslash" class="22"/>
             <ClassDef glyph="m" class="12"/>
-            <ClassDef glyph="macron" class="0"/>
-            <ClassDef glyph="minus" class="0"/>
-            <ClassDef glyph="multiply" class="0"/>
             <ClassDef glyph="n" class="12"/>
             <ClassDef glyph="nacute" class="12"/>
             <ClassDef glyph="ncaron" class="12"/>
             <ClassDef glyph="ncommaaccent" class="12"/>
-            <ClassDef glyph="nine" class="0"/>
-            <ClassDef glyph="notequal" class="0"/>
             <ClassDef glyph="ntilde" class="12"/>
             <ClassDef glyph="o" class="13"/>
             <ClassDef glyph="oacute" class="13"/>
             <ClassDef glyph="ocircumflex" class="13"/>
             <ClassDef glyph="odieresis" class="13"/>
             <ClassDef glyph="oe" class="13"/>
-            <ClassDef glyph="ogonek" class="0"/>
             <ClassDef glyph="ograve" class="13"/>
             <ClassDef glyph="ohungarumlaut" class="13"/>
             <ClassDef glyph="omacron" class="13"/>
-            <ClassDef glyph="one" class="0"/>
-            <ClassDef glyph="one.dnom" class="0"/>
-            <ClassDef glyph="one.numr" class="0"/>
-            <ClassDef glyph="onehalf" class="0"/>
-            <ClassDef glyph="onequarter" class="0"/>
-            <ClassDef glyph="onesuperior" class="0"/>
-            <ClassDef glyph="ordfeminine" class="0"/>
-            <ClassDef glyph="ordmasculine" class="0"/>
             <ClassDef glyph="oslash" class="13"/>
             <ClassDef glyph="otilde" class="13"/>
             <ClassDef glyph="p" class="12"/>
-            <ClassDef glyph="paragraph" class="0"/>
-            <ClassDef glyph="parenleft" class="0"/>
-            <ClassDef glyph="parenright" class="0"/>
-            <ClassDef glyph="partialdiff" class="0"/>
-            <ClassDef glyph="percent" class="0"/>
             <ClassDef glyph="period" class="42"/>
-            <ClassDef glyph="periodcentered" class="0"/>
-            <ClassDef glyph="perthousand" class="0"/>
-            <ClassDef glyph="pi" class="0"/>
-            <ClassDef glyph="plus" class="0"/>
-            <ClassDef glyph="plusminus" class="0"/>
-            <ClassDef glyph="product" class="0"/>
             <ClassDef glyph="q" class="13"/>
-            <ClassDef glyph="question" class="0"/>
-            <ClassDef glyph="questiondown" class="0"/>
-            <ClassDef glyph="quotedblbase" class="0"/>
-            <ClassDef glyph="quotedblleft" class="0"/>
-            <ClassDef glyph="quotedblright" class="0"/>
-            <ClassDef glyph="quoteleft" class="0"/>
             <ClassDef glyph="quoteright" class="40"/>
-            <ClassDef glyph="quotesinglbase" class="0"/>
-            <ClassDef glyph="quotesingle" class="0"/>
             <ClassDef glyph="r" class="12"/>
             <ClassDef glyph="racute" class="12"/>
-            <ClassDef glyph="radical" class="0"/>
             <ClassDef glyph="rcaron" class="12"/>
             <ClassDef glyph="rcommaaccent" class="12"/>
-            <ClassDef glyph="registered" class="0"/>
-            <ClassDef glyph="ring" class="0"/>
             <ClassDef glyph="s" class="14"/>
             <ClassDef glyph="sacute" class="14"/>
             <ClassDef glyph="scaron" class="14"/>
             <ClassDef glyph="scedilla" class="14"/>
             <ClassDef glyph="scommaaccent" class="14"/>
-            <ClassDef glyph="section" class="0"/>
             <ClassDef glyph="semicolon" class="43"/>
-            <ClassDef glyph="seven" class="0"/>
-            <ClassDef glyph="six" class="0"/>
-            <ClassDef glyph="slash" class="0"/>
-            <ClassDef glyph="sterling" class="0"/>
-            <ClassDef glyph="summation" class="0"/>
             <ClassDef glyph="t" class="15"/>
             <ClassDef glyph="tcaron" class="15"/>
             <ClassDef glyph="thorn" class="9"/>
-            <ClassDef glyph="three" class="0"/>
-            <ClassDef glyph="three.dnom" class="0"/>
-            <ClassDef glyph="three.numr" class="0"/>
-            <ClassDef glyph="threequarters" class="0"/>
-            <ClassDef glyph="threesuperior" class="0"/>
-            <ClassDef glyph="tilde" class="0"/>
-            <ClassDef glyph="tildecomb" class="0"/>
-            <ClassDef glyph="tildecomb.case" class="0"/>
-            <ClassDef glyph="trademark" class="0"/>
-            <ClassDef glyph="two" class="0"/>
-            <ClassDef glyph="two.dnom" class="0"/>
-            <ClassDef glyph="two.numr" class="0"/>
-            <ClassDef glyph="twosuperior" class="0"/>
             <ClassDef glyph="u" class="16"/>
             <ClassDef glyph="u09080902" class="27"/>
-            <ClassDef glyph="u0915094D0937094D092E094D092F" class="0"/>
-            <ClassDef glyph="u0915094D0938094D092A094D0930" class="0"/>
-            <ClassDef glyph="u0924094D0938094D0928094D092F" class="0"/>
-            <ClassDef glyph="u0928094D0938094D092E094D092F" class="0"/>
             <ClassDef glyph="uacute" class="16"/>
             <ClassDef glyph="ucircumflex" class="16"/>
             <ClassDef glyph="udieresis" class="16"/>
             <ClassDef glyph="ugrave" class="16"/>
             <ClassDef glyph="uhungarumlaut" class="16"/>
             <ClassDef glyph="umacron" class="16"/>
-            <ClassDef glyph="underscore" class="0"/>
-            <ClassDef glyph="uni00200326" class="0"/>
-            <ClassDef glyph="uni00AD" class="0"/>
-            <ClassDef glyph="uni00B5" class="0"/>
             <ClassDef glyph="uni0162" class="4"/>
             <ClassDef glyph="uni0163" class="15"/>
             <ClassDef glyph="uni021A" class="4"/>
             <ClassDef glyph="uni021B" class="15"/>
-            <ClassDef glyph="uni02C9" class="0"/>
-            <ClassDef glyph="uni0302" class="0"/>
-            <ClassDef glyph="uni0302.case" class="0"/>
-            <ClassDef glyph="uni0304" class="0"/>
-            <ClassDef glyph="uni0304.case" class="0"/>
-            <ClassDef glyph="uni0306" class="0"/>
-            <ClassDef glyph="uni0306.case" class="0"/>
-            <ClassDef glyph="uni0307" class="0"/>
-            <ClassDef glyph="uni0307.case" class="0"/>
-            <ClassDef glyph="uni0308" class="0"/>
-            <ClassDef glyph="uni0308.case" class="0"/>
-            <ClassDef glyph="uni030A" class="0"/>
-            <ClassDef glyph="uni030A.case" class="0"/>
-            <ClassDef glyph="uni030B" class="0"/>
-            <ClassDef glyph="uni030B.case" class="0"/>
-            <ClassDef glyph="uni030C" class="0"/>
-            <ClassDef glyph="uni030C.calt" class="0"/>
-            <ClassDef glyph="uni030C.case" class="0"/>
-            <ClassDef glyph="uni0312" class="0"/>
-            <ClassDef glyph="uni0312.case" class="0"/>
-            <ClassDef glyph="uni0326" class="0"/>
-            <ClassDef glyph="uni0326.case" class="0"/>
-            <ClassDef glyph="uni0327" class="0"/>
-            <ClassDef glyph="uni0327.case" class="0"/>
-            <ClassDef glyph="uni0328" class="0"/>
-            <ClassDef glyph="uni0328.case" class="0"/>
-            <ClassDef glyph="uni0331" class="0"/>
-            <ClassDef glyph="uni0331.case" class="0"/>
-            <ClassDef glyph="uni0900" class="0"/>
-            <ClassDef glyph="uni0900.calt" class="0"/>
-            <ClassDef glyph="uni0901" class="0"/>
-            <ClassDef glyph="uni0901.calt" class="0"/>
-            <ClassDef glyph="uni0902" class="0"/>
-            <ClassDef glyph="uni0902.alt" class="0"/>
-            <ClassDef glyph="uni0902.alt2" class="0"/>
-            <ClassDef glyph="uni0902.calt" class="0"/>
-            <ClassDef glyph="uni0903" class="0"/>
-            <ClassDef glyph="uni0904" class="0"/>
-            <ClassDef glyph="uni0905" class="0"/>
-            <ClassDef glyph="uni0906" class="0"/>
             <ClassDef glyph="uni0907" class="27"/>
             <ClassDef glyph="uni0908" class="27"/>
-            <ClassDef glyph="uni0909" class="0"/>
-            <ClassDef glyph="uni090A" class="0"/>
-            <ClassDef glyph="uni090B" class="0"/>
-            <ClassDef glyph="uni090B.ss06" class="0"/>
             <ClassDef glyph="uni090C" class="29"/>
-            <ClassDef glyph="uni090D" class="0"/>
-            <ClassDef glyph="uni090E" class="0"/>
-            <ClassDef glyph="uni090F" class="0"/>
-            <ClassDef glyph="uni0910" class="0"/>
-            <ClassDef glyph="uni0911" class="0"/>
-            <ClassDef glyph="uni0912" class="0"/>
-            <ClassDef glyph="uni0913" class="0"/>
-            <ClassDef glyph="uni0914" class="0"/>
             <ClassDef glyph="uni0915" class="35"/>
             <ClassDef glyph="uni0915094D" class="35"/>
             <ClassDef glyph="uni0915094D.alt" class="35"/>
             <ClassDef glyph="uni0915094D0915.ss03" class="35"/>
             <ClassDef glyph="uni0915094D091A" class="35"/>
             <ClassDef glyph="uni0915094D0921" class="35"/>
-            <ClassDef glyph="uni0915094D0924.ss03" class="0"/>
-            <ClassDef glyph="uni0915094D0924094D092F" class="0"/>
-            <ClassDef glyph="uni0915094D0924094D0930" class="0"/>
             <ClassDef glyph="uni0915094D0925" class="35"/>
             <ClassDef glyph="uni0915094D0927" class="35"/>
             <ClassDef glyph="uni0915094D0928" class="35"/>
             <ClassDef glyph="uni0915094D092F" class="35"/>
             <ClassDef glyph="uni0915094D0930" class="35"/>
-            <ClassDef glyph="uni0915094D0930.ss03" class="0"/>
             <ClassDef glyph="uni0915094D0930094D" class="35"/>
             <ClassDef glyph="uni0915094D0935.ss03" class="35"/>
-            <ClassDef glyph="uni0915094D0935094D092F" class="0"/>
             <ClassDef glyph="uni0915094D0936" class="35"/>
-            <ClassDef glyph="uni0915094D0936.MAR" class="0"/>
-            <ClassDef glyph="uni0915094D0937" class="0"/>
-            <ClassDef glyph="uni0915094D0937094D" class="0"/>
-            <ClassDef glyph="uni0915094D0937094D092E" class="0"/>
-            <ClassDef glyph="uni0915094D0937094D092E094D" class="0"/>
-            <ClassDef glyph="uni0915094D0937094D092F" class="0"/>
-            <ClassDef glyph="uni0915094D0937094D0930" class="0"/>
-            <ClassDef glyph="uni0915094D0937094D0935" class="0"/>
-            <ClassDef glyph="uni0915094D0938094D091F" class="0"/>
-            <ClassDef glyph="uni0915094D0938094D0921" class="0"/>
-            <ClassDef glyph="uni0915094D0938094D0924" class="0"/>
             <ClassDef glyph="uni0915094D0939" class="35"/>
             <ClassDef glyph="uni0916" class="36"/>
             <ClassDef glyph="uni0916094D" class="29"/>
@@ -6749,7 +6554,6 @@
             <ClassDef glyph="uni0918094D0930" class="34"/>
             <ClassDef glyph="uni0918094D0930094D" class="34"/>
             <ClassDef glyph="uni0919" class="27"/>
-            <ClassDef glyph="uni0919094D" class="0"/>
             <ClassDef glyph="uni0919094D0915" class="27"/>
             <ClassDef glyph="uni0919094D0915094D0930" class="27"/>
             <ClassDef glyph="uni0919094D0917" class="27"/>
@@ -6758,46 +6562,20 @@
             <ClassDef glyph="uni0919094D09180930" class="27"/>
             <ClassDef glyph="uni0919094D092E" class="27"/>
             <ClassDef glyph="uni0919094D092F" class="27"/>
-            <ClassDef glyph="uni091A" class="0"/>
-            <ClassDef glyph="uni091A094D" class="0"/>
-            <ClassDef glyph="uni091A094D091B" class="0"/>
-            <ClassDef glyph="uni091A094D091B094D0935" class="0"/>
-            <ClassDef glyph="uni091A094D0921" class="0"/>
-            <ClassDef glyph="uni091A094D0928" class="0"/>
-            <ClassDef glyph="uni091A094D0930" class="0"/>
             <ClassDef glyph="uni091B" class="32"/>
-            <ClassDef glyph="uni091B094D" class="0"/>
-            <ClassDef glyph="uni091B094D092F" class="0"/>
-            <ClassDef glyph="uni091B094D0930094D092F" class="0"/>
-            <ClassDef glyph="uni091B094D0935" class="0"/>
             <ClassDef glyph="uni091C" class="28"/>
             <ClassDef glyph="uni091C094D" class="28"/>
             <ClassDef glyph="uni091C094D.alt" class="28"/>
             <ClassDef glyph="uni091C094D091C" class="28"/>
-            <ClassDef glyph="uni091C094D091C094D092F" class="0"/>
-            <ClassDef glyph="uni091C094D091C094D0935" class="0"/>
-            <ClassDef glyph="uni091C094D091E" class="0"/>
-            <ClassDef glyph="uni091C094D091E094D" class="0"/>
-            <ClassDef glyph="uni091C094D091E094D092F" class="0"/>
             <ClassDef glyph="uni091C094D0928" class="28"/>
             <ClassDef glyph="uni091C094D092E" class="28"/>
             <ClassDef glyph="uni091C094D092F" class="28"/>
             <ClassDef glyph="uni091C094D0930" class="28"/>
             <ClassDef glyph="uni091D" class="27"/>
             <ClassDef glyph="uni091D.NEP" class="33"/>
-            <ClassDef glyph="uni091D094D" class="0"/>
             <ClassDef glyph="uni091D094D.NEP" class="33"/>
-            <ClassDef glyph="uni091D094D0928" class="0"/>
             <ClassDef glyph="uni091D094D0930" class="27"/>
-            <ClassDef glyph="uni091E" class="0"/>
-            <ClassDef glyph="uni091E094D" class="0"/>
-            <ClassDef glyph="uni091E094D091A" class="0"/>
-            <ClassDef glyph="uni091E094D091A094D092F" class="0"/>
-            <ClassDef glyph="uni091E094D091C" class="0"/>
-            <ClassDef glyph="uni091E094D091C094D092F" class="0"/>
-            <ClassDef glyph="uni091E094D0936" class="0"/>
             <ClassDef glyph="uni091F" class="26"/>
-            <ClassDef glyph="uni091F094D" class="0"/>
             <ClassDef glyph="uni091F094D0915" class="26"/>
             <ClassDef glyph="uni091F094D091F" class="26"/>
             <ClassDef glyph="uni091F094D091F094D092F" class="26"/>
@@ -6806,7 +6584,6 @@
             <ClassDef glyph="uni091F094D092F" class="26"/>
             <ClassDef glyph="uni091F094D0935" class="26"/>
             <ClassDef glyph="uni0920" class="26"/>
-            <ClassDef glyph="uni0920094D" class="0"/>
             <ClassDef glyph="uni0920094D0915" class="27"/>
             <ClassDef glyph="uni0920094D0917" class="27"/>
             <ClassDef glyph="uni0920094D0920" class="26"/>
@@ -6814,7 +6591,6 @@
             <ClassDef glyph="uni0920094D092F" class="26"/>
             <ClassDef glyph="uni0920094D0935" class="26"/>
             <ClassDef glyph="uni0921" class="27"/>
-            <ClassDef glyph="uni0921094D" class="0"/>
             <ClassDef glyph="uni0921094D091F" class="27"/>
             <ClassDef glyph="uni0921094D0921" class="27"/>
             <ClassDef glyph="uni0921094D0921094D092F" class="27"/>
@@ -6822,7 +6598,6 @@
             <ClassDef glyph="uni0921094D092F" class="27"/>
             <ClassDef glyph="uni0921094D0935" class="27"/>
             <ClassDef glyph="uni0922" class="26"/>
-            <ClassDef glyph="uni0922094D" class="0"/>
             <ClassDef glyph="uni0922094D0922" class="26"/>
             <ClassDef glyph="uni0922094D092F" class="26"/>
             <ClassDef glyph="uni0922094D0930094D092F" class="30"/>
@@ -6836,19 +6611,11 @@
             <ClassDef glyph="uni0924094D0915094D092F" class="29"/>
             <ClassDef glyph="uni0924094D0915094D0937" class="29"/>
             <ClassDef glyph="uni0924094D091E" class="29"/>
-            <ClassDef glyph="uni0924094D0924" class="0"/>
-            <ClassDef glyph="uni0924094D0924094D" class="0"/>
-            <ClassDef glyph="uni0924094D0924094D.alt" class="0"/>
-            <ClassDef glyph="uni0924094D0924094D.alt1" class="0"/>
-            <ClassDef glyph="uni0924094D0924094D092F" class="0"/>
             <ClassDef glyph="uni0924094D0925" class="29"/>
             <ClassDef glyph="uni0924094D0928" class="29"/>
             <ClassDef glyph="uni0924094D092F" class="29"/>
-            <ClassDef glyph="uni0924094D0930" class="0"/>
             <ClassDef glyph="uni0924094D0930.ss03" class="29"/>
-            <ClassDef glyph="uni0924094D0930094D" class="0"/>
             <ClassDef glyph="uni0924094D0930094D.ss03" class="29"/>
-            <ClassDef glyph="uni0924094D0930094D092F" class="0"/>
             <ClassDef glyph="uni0925" class="37"/>
             <ClassDef glyph="uni0925094D" class="37"/>
             <ClassDef glyph="uni0925094D0921" class="37"/>
@@ -6860,23 +6627,16 @@
             <ClassDef glyph="uni09260942" class="26"/>
             <ClassDef glyph="uni09260943" class="26"/>
             <ClassDef glyph="uni09260943.ss06" class="27"/>
-            <ClassDef glyph="uni0926094D" class="0"/>
             <ClassDef glyph="uni0926094D0917" class="26"/>
             <ClassDef glyph="uni0926094D0917094D0930" class="30"/>
             <ClassDef glyph="uni0926094D0918" class="26"/>
             <ClassDef glyph="uni0926094D0926" class="27"/>
             <ClassDef glyph="uni0926094D0926094D092F" class="27"/>
             <ClassDef glyph="uni0926094D0926094D0930" class="27"/>
-            <ClassDef glyph="uni0926094D0927" class="0"/>
-            <ClassDef glyph="uni0926094D0927094D092F" class="0"/>
             <ClassDef glyph="uni0926094D0928" class="26"/>
             <ClassDef glyph="uni0926094D092C" class="26"/>
             <ClassDef glyph="uni0926094D092C0943" class="26"/>
             <ClassDef glyph="uni0926094D092C094D0930" class="26"/>
-            <ClassDef glyph="uni0926094D092D" class="0"/>
-            <ClassDef glyph="uni0926094D092D094D092F" class="0"/>
-            <ClassDef glyph="uni0926094D092D094D0930" class="0"/>
-            <ClassDef glyph="uni0926094D092E" class="0"/>
             <ClassDef glyph="uni0926094D092F" class="27"/>
             <ClassDef glyph="uni0926094D0930" class="26"/>
             <ClassDef glyph="uni0926094D0930094D092F" class="26"/>
@@ -6892,37 +6652,6 @@
             <ClassDef glyph="uni0927094D0930" class="27"/>
             <ClassDef glyph="uni0927094D0930094D" class="34"/>
             <ClassDef glyph="uni0927094D0935" class="27"/>
-            <ClassDef glyph="uni0928" class="0"/>
-            <ClassDef glyph="uni0928094D" class="0"/>
-            <ClassDef glyph="uni0928094D.alt" class="0"/>
-            <ClassDef glyph="uni0928094D0917" class="0"/>
-            <ClassDef glyph="uni0928094D091A" class="0"/>
-            <ClassDef glyph="uni0928094D091B" class="0"/>
-            <ClassDef glyph="uni0928094D091C094D092F" class="0"/>
-            <ClassDef glyph="uni0928094D0921" class="0"/>
-            <ClassDef glyph="uni0928094D0924094D092F" class="0"/>
-            <ClassDef glyph="uni0928094D0924094D0930" class="0"/>
-            <ClassDef glyph="uni0928094D0924094D0938" class="0"/>
-            <ClassDef glyph="uni0928094D0925094D092F" class="0"/>
-            <ClassDef glyph="uni0928094D0925094D0935" class="0"/>
-            <ClassDef glyph="uni0928094D0926094D0930" class="0"/>
-            <ClassDef glyph="uni0928094D0927" class="0"/>
-            <ClassDef glyph="uni0928094D0927094D092F" class="0"/>
-            <ClassDef glyph="uni0928094D0927094D0930" class="0"/>
-            <ClassDef glyph="uni0928094D0927094D0935" class="0"/>
-            <ClassDef glyph="uni0928094D0928" class="0"/>
-            <ClassDef glyph="uni0928094D0928094D092F" class="0"/>
-            <ClassDef glyph="uni0928094D092D" class="0"/>
-            <ClassDef glyph="uni0928094D092D094D" class="0"/>
-            <ClassDef glyph="uni0928094D092D094D092F" class="0"/>
-            <ClassDef glyph="uni0928094D092E" class="0"/>
-            <ClassDef glyph="uni0928094D092E094D092F" class="0"/>
-            <ClassDef glyph="uni0928094D092E094D0935" class="0"/>
-            <ClassDef glyph="uni0928094D0930" class="0"/>
-            <ClassDef glyph="uni0928094D0936" class="0"/>
-            <ClassDef glyph="uni0928094D0938094D" class="0"/>
-            <ClassDef glyph="uni0929" class="0"/>
-            <ClassDef glyph="uni0929094D" class="0"/>
             <ClassDef glyph="uni092A" class="30"/>
             <ClassDef glyph="uni092A094D" class="30"/>
             <ClassDef glyph="uni092A094D091F" class="30"/>
@@ -6972,8 +6701,6 @@
             <ClassDef glyph="uni092E094D0930" class="33"/>
             <ClassDef glyph="uni092E094D0936" class="33"/>
             <ClassDef glyph="uni092F" class="37"/>
-            <ClassDef glyph="uni092F.post" class="0"/>
-            <ClassDef glyph="uni092F094D" class="0"/>
             <ClassDef glyph="uni092F094D0921" class="37"/>
             <ClassDef glyph="uni092F094D0925" class="37"/>
             <ClassDef glyph="uni092F094D0928" class="37"/>
@@ -6982,13 +6709,6 @@
             <ClassDef glyph="uni0930" class="36"/>
             <ClassDef glyph="uni09300941" class="29"/>
             <ClassDef glyph="uni09300942" class="29"/>
-            <ClassDef glyph="uni0930094D" class="0"/>
-            <ClassDef glyph="uni0930094D.MAR" class="0"/>
-            <ClassDef glyph="uni0930094D.alt" class="0"/>
-            <ClassDef glyph="uni0930094D.alt2" class="0"/>
-            <ClassDef glyph="uni0930094D0902" class="0"/>
-            <ClassDef glyph="uni0930094D0902.alt" class="0"/>
-            <ClassDef glyph="uni0930094D0902.alt2" class="0"/>
             <ClassDef glyph="uni0931" class="36"/>
             <ClassDef glyph="uni0932" class="29"/>
             <ClassDef glyph="uni0932.MAR" class="29"/>
@@ -7014,26 +6734,11 @@
             <ClassDef glyph="uni0935094D0928" class="31"/>
             <ClassDef glyph="uni0935094D0930" class="31"/>
             <ClassDef glyph="uni0935094D0930094D" class="31"/>
-            <ClassDef glyph="uni0935094D0939" class="0"/>
             <ClassDef glyph="uni0936" class="38"/>
-            <ClassDef glyph="uni0936.MAR" class="0"/>
-            <ClassDef glyph="uni09360943" class="0"/>
-            <ClassDef glyph="uni0936094D" class="0"/>
-            <ClassDef glyph="uni0936094D.MAR" class="0"/>
-            <ClassDef glyph="uni0936094D091A" class="0"/>
-            <ClassDef glyph="uni0936094D0928" class="0"/>
-            <ClassDef glyph="uni0936094D0930" class="0"/>
-            <ClassDef glyph="uni0936094D0930094D" class="0"/>
-            <ClassDef glyph="uni0936094D0930094D092F" class="0"/>
-            <ClassDef glyph="uni0936094D0935" class="0"/>
             <ClassDef glyph="uni0937" class="30"/>
             <ClassDef glyph="uni0937094D" class="30"/>
-            <ClassDef glyph="uni0937094D0915094D0930" class="0"/>
-            <ClassDef glyph="uni0937094D091F" class="0"/>
             <ClassDef glyph="uni0937094D091F094D092F" class="30"/>
-            <ClassDef glyph="uni0937094D0920" class="0"/>
             <ClassDef glyph="uni0937094D0920094D092F" class="30"/>
-            <ClassDef glyph="uni0937094D092E094D092F" class="0"/>
             <ClassDef glyph="uni0937094D0930" class="30"/>
             <ClassDef glyph="uni0937094D0930094D" class="30"/>
             <ClassDef glyph="uni0938" class="36"/>
@@ -7050,7 +6755,6 @@
             <ClassDef glyph="uni09390941" class="27"/>
             <ClassDef glyph="uni09390942" class="27"/>
             <ClassDef glyph="uni09390943" class="27"/>
-            <ClassDef glyph="uni0939094D" class="0"/>
             <ClassDef glyph="uni0939094D0923" class="27"/>
             <ClassDef glyph="uni0939094D0928" class="27"/>
             <ClassDef glyph="uni0939094D092E" class="27"/>
@@ -7060,65 +6764,6 @@
             <ClassDef glyph="uni0939094D0930" class="27"/>
             <ClassDef glyph="uni0939094D0932" class="27"/>
             <ClassDef glyph="uni0939094D0935" class="27"/>
-            <ClassDef glyph="uni093A" class="0"/>
-            <ClassDef glyph="uni093B" class="0"/>
-            <ClassDef glyph="uni093C" class="0"/>
-            <ClassDef glyph="uni093D" class="0"/>
-            <ClassDef glyph="uni093E" class="0"/>
-            <ClassDef glyph="uni093F" class="0"/>
-            <ClassDef glyph="uni093F.1" class="0"/>
-            <ClassDef glyph="uni093F.10" class="0"/>
-            <ClassDef glyph="uni093F.11" class="0"/>
-            <ClassDef glyph="uni093F.12" class="0"/>
-            <ClassDef glyph="uni093F.13" class="0"/>
-            <ClassDef glyph="uni093F.14" class="0"/>
-            <ClassDef glyph="uni093F.15" class="0"/>
-            <ClassDef glyph="uni093F.16" class="0"/>
-            <ClassDef glyph="uni093F.17" class="0"/>
-            <ClassDef glyph="uni093F.18" class="0"/>
-            <ClassDef glyph="uni093F.19" class="0"/>
-            <ClassDef glyph="uni093F.2" class="0"/>
-            <ClassDef glyph="uni093F.20" class="0"/>
-            <ClassDef glyph="uni093F.21" class="0"/>
-            <ClassDef glyph="uni093F.3" class="0"/>
-            <ClassDef glyph="uni093F.4" class="0"/>
-            <ClassDef glyph="uni093F.5" class="0"/>
-            <ClassDef glyph="uni093F.6" class="0"/>
-            <ClassDef glyph="uni093F.7" class="0"/>
-            <ClassDef glyph="uni093F.8" class="0"/>
-            <ClassDef glyph="uni093F.9" class="0"/>
-            <ClassDef glyph="uni0940" class="0"/>
-            <ClassDef glyph="uni0940.1" class="0"/>
-            <ClassDef glyph="uni0940.2" class="0"/>
-            <ClassDef glyph="uni0941" class="0"/>
-            <ClassDef glyph="uni0941.small" class="0"/>
-            <ClassDef glyph="uni0942" class="0"/>
-            <ClassDef glyph="uni0942.small" class="0"/>
-            <ClassDef glyph="uni0943" class="0"/>
-            <ClassDef glyph="uni0943.small" class="0"/>
-            <ClassDef glyph="uni0944" class="0"/>
-            <ClassDef glyph="uni0945" class="0"/>
-            <ClassDef glyph="uni0945.calt" class="0"/>
-            <ClassDef glyph="uni0946" class="0"/>
-            <ClassDef glyph="uni0947" class="0"/>
-            <ClassDef glyph="uni0948" class="0"/>
-            <ClassDef glyph="uni0949" class="0"/>
-            <ClassDef glyph="uni094A" class="0"/>
-            <ClassDef glyph="uni094B" class="0"/>
-            <ClassDef glyph="uni094C" class="0"/>
-            <ClassDef glyph="uni094D" class="0"/>
-            <ClassDef glyph="uni094D.small" class="0"/>
-            <ClassDef glyph="uni094D0930" class="0"/>
-            <ClassDef glyph="uni094D0930.small" class="0"/>
-            <ClassDef glyph="uni094F" class="0"/>
-            <ClassDef glyph="uni0950" class="0"/>
-            <ClassDef glyph="uni0951" class="0"/>
-            <ClassDef glyph="uni0952" class="0"/>
-            <ClassDef glyph="uni0953" class="0"/>
-            <ClassDef glyph="uni0954" class="0"/>
-            <ClassDef glyph="uni0955" class="0"/>
-            <ClassDef glyph="uni0956" class="0"/>
-            <ClassDef glyph="uni0957" class="0"/>
             <ClassDef glyph="uni0958" class="35"/>
             <ClassDef glyph="uni0958094D" class="35"/>
             <ClassDef glyph="uni0958094D.alt" class="35"/>
@@ -7143,7 +6788,6 @@
             <ClassDef glyph="uni095A094D0930" class="34"/>
             <ClassDef glyph="uni095B" class="28"/>
             <ClassDef glyph="uni095B094D" class="28"/>
-            <ClassDef glyph="uni095B094D.alt" class="0"/>
             <ClassDef glyph="uni095B094D092F" class="28"/>
             <ClassDef glyph="uni095B094D0930" class="28"/>
             <ClassDef glyph="uni095B094D095B" class="28"/>
@@ -7160,82 +6804,24 @@
             <ClassDef glyph="uni095F" class="37"/>
             <ClassDef glyph="uni095F094D" class="37"/>
             <ClassDef glyph="uni095F094D0930" class="37"/>
-            <ClassDef glyph="uni0960" class="0"/>
             <ClassDef glyph="uni0961" class="29"/>
-            <ClassDef glyph="uni0962" class="0"/>
-            <ClassDef glyph="uni0963" class="0"/>
-            <ClassDef glyph="uni0964" class="0"/>
-            <ClassDef glyph="uni0965" class="0"/>
-            <ClassDef glyph="uni0966" class="0"/>
-            <ClassDef glyph="uni0966.tf" class="0"/>
-            <ClassDef glyph="uni0967" class="0"/>
-            <ClassDef glyph="uni0967.ss05" class="0"/>
-            <ClassDef glyph="uni0967.ss05.tf" class="0"/>
-            <ClassDef glyph="uni0967.tf" class="0"/>
-            <ClassDef glyph="uni0968" class="0"/>
-            <ClassDef glyph="uni0968.tf" class="0"/>
-            <ClassDef glyph="uni0969" class="0"/>
-            <ClassDef glyph="uni0969.tf" class="0"/>
-            <ClassDef glyph="uni096A" class="0"/>
-            <ClassDef glyph="uni096A.tf" class="0"/>
-            <ClassDef glyph="uni096B" class="0"/>
-            <ClassDef glyph="uni096B.ss05" class="0"/>
-            <ClassDef glyph="uni096B.ss05.tf" class="0"/>
-            <ClassDef glyph="uni096B.tf" class="0"/>
-            <ClassDef glyph="uni096C" class="0"/>
-            <ClassDef glyph="uni096C.tf" class="0"/>
-            <ClassDef glyph="uni096D" class="0"/>
-            <ClassDef glyph="uni096D.tf" class="0"/>
-            <ClassDef glyph="uni096E" class="0"/>
-            <ClassDef glyph="uni096E.ss05" class="0"/>
-            <ClassDef glyph="uni096E.ss05.tf" class="0"/>
-            <ClassDef glyph="uni096E.tf" class="0"/>
-            <ClassDef glyph="uni096F" class="0"/>
-            <ClassDef glyph="uni096F.ss05" class="0"/>
-            <ClassDef glyph="uni096F.ss05.tf" class="0"/>
-            <ClassDef glyph="uni096F.tf" class="0"/>
-            <ClassDef glyph="uni0970" class="0"/>
-            <ClassDef glyph="uni0971" class="0"/>
-            <ClassDef glyph="uni0972" class="0"/>
-            <ClassDef glyph="uni0973" class="0"/>
-            <ClassDef glyph="uni0974" class="0"/>
-            <ClassDef glyph="uni0975" class="0"/>
-            <ClassDef glyph="uni0976" class="0"/>
-            <ClassDef glyph="uni0977" class="0"/>
             <ClassDef glyph="uni0979" class="28"/>
             <ClassDef glyph="uni097A" class="37"/>
             <ClassDef glyph="uni097B" class="33"/>
             <ClassDef glyph="uni097C" class="28"/>
-            <ClassDef glyph="uni097D" class="0"/>
             <ClassDef glyph="uni097E" class="27"/>
             <ClassDef glyph="uni097F" class="31"/>
-            <ClassDef glyph="uni0FD5" class="0"/>
             <ClassDef glyph="uni20BD" class="1"/>
-            <ClassDef glyph="uni2126" class="0"/>
-            <ClassDef glyph="uni2206" class="0"/>
-            <ClassDef glyph="uni2215" class="0"/>
-            <ClassDef glyph="uni25CA" class="0"/>
-            <ClassDef glyph="uniA8FB" class="0"/>
-            <ClassDef glyph="uniA8FB.dvDha" class="0"/>
-            <ClassDef glyph="uniA8FB.dvKSsa" class="0"/>
-            <ClassDef glyph="uniA8FB.dvShRa" class="0"/>
-            <ClassDef glyph="uniA8FB.dvTha" class="0"/>
-            <ClassDef glyph="uniA8FB.small" class="0"/>
-            <ClassDef glyph="uniA8FB0901" class="0"/>
             <ClassDef glyph="uogonek" class="16"/>
             <ClassDef glyph="uring" class="16"/>
             <ClassDef glyph="v" class="17"/>
             <ClassDef glyph="w" class="17"/>
             <ClassDef glyph="x" class="24"/>
             <ClassDef glyph="y" class="17"/>
-            <ClassDef glyph="yacute" class="0"/>
-            <ClassDef glyph="ydieresis" class="0"/>
-            <ClassDef glyph="yen" class="0"/>
             <ClassDef glyph="z" class="23"/>
             <ClassDef glyph="zacute" class="23"/>
             <ClassDef glyph="zcaron" class="23"/>
             <ClassDef glyph="zdotaccent" class="23"/>
-            <ClassDef glyph="zero" class="0"/>
           </ClassDef2>
           <!-- Class1Count=37 -->
           <!-- Class2Count=44 -->
@@ -12200,15 +11786,15 @@
         </PairPos>
       </Lookup>
       <Lookup index="1">
-        <!-- LookupType=4 -->
+        <LookupType value="4"/>
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <MarkBasePos index="0" Format="1">
-          <MarkCoverage>
+          <MarkCoverage Format="1">
             <Glyph value="uni0902"/>
             <Glyph value="uni0902.calt"/>
           </MarkCoverage>
-          <BaseCoverage>
+          <BaseCoverage Format="2">
             <Glyph value="uni0904"/>
             <Glyph value="uni0905"/>
             <Glyph value="uni0906"/>
@@ -14838,11 +14424,11 @@
         </MarkBasePos>
       </Lookup>
       <Lookup index="2">
-        <!-- LookupType=4 -->
+        <LookupType value="4"/>
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <MarkBasePos index="0" Format="1">
-          <MarkCoverage>
+          <MarkCoverage Format="1">
             <Glyph value="uni0945"/>
             <Glyph value="uni0900"/>
             <Glyph value="uni0901"/>
@@ -14850,7 +14436,7 @@
             <Glyph value="uni0901.calt"/>
             <Glyph value="uni0900.calt"/>
           </MarkCoverage>
-          <BaseCoverage>
+          <BaseCoverage Format="2">
             <Glyph value="uni0905"/>
             <Glyph value="uni0906"/>
             <Glyph value="uni0907"/>
@@ -17340,11 +16926,11 @@
         </MarkBasePos>
       </Lookup>
       <Lookup index="3">
-        <!-- LookupType=4 -->
+        <LookupType value="4"/>
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <MarkBasePos index="0" Format="1">
-          <MarkCoverage>
+          <MarkCoverage Format="1">
             <Glyph value="uni0946"/>
             <Glyph value="uni0947"/>
             <Glyph value="uni0948"/>
@@ -17362,7 +16948,7 @@
             <Glyph value="uni09480930094D"/>
             <Glyph value="uni09480930094D0902"/>
           </MarkCoverage>
-          <BaseCoverage>
+          <BaseCoverage Format="2">
             <Glyph value="uni090B"/>
             <Glyph value="uni090B.ss06"/>
             <Glyph value="uni0960"/>
@@ -20083,15 +19669,15 @@
         </MarkBasePos>
       </Lookup>
       <Lookup index="4">
-        <!-- LookupType=6 -->
+        <LookupType value="6"/>
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <MarkMarkPos index="0" Format="1">
-          <Mark1Coverage>
+          <Mark1Coverage Format="1">
             <Glyph value="uni0902"/>
             <Glyph value="uni0902.calt"/>
           </Mark1Coverage>
-          <Mark2Coverage>
+          <Mark2Coverage Format="2">
             <Glyph value="uni0946"/>
             <Glyph value="uni0947"/>
             <Glyph value="uni0948"/>
@@ -20138,11 +19724,11 @@
         </MarkMarkPos>
       </Lookup>
       <Lookup index="5">
-        <!-- LookupType=4 -->
+        <LookupType value="4"/>
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->
         <MarkBasePos index="0" Format="1">
-          <MarkCoverage>
+          <MarkCoverage Format="1">
             <Glyph value="uni0941"/>
             <Glyph value="uni0942"/>
             <Glyph value="uni0943"/>
@@ -20159,7 +19745,7 @@
             <Glyph value="uni094D09300941"/>
             <Glyph value="uni094D09300942"/>
           </MarkCoverage>
-          <BaseCoverage>
+          <BaseCoverage Format="2">
             <Glyph value="uni090B"/>
             <Glyph value="uni090B.ss06"/>
             <Glyph value="uni0960"/>

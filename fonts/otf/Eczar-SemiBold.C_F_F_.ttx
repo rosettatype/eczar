@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="2.5">
+<ttFont ttLibVersion="3.10">
 
   <CFF>
+    <major value="1"/>
+    <minor value="0"/>
     <CFFFont name="Eczar-SemiBold">
       <version value="1.2"/>
       <Copyright value="Copyright 2014 Eczar Project Authors (info@rosettatype.com)"/>
@@ -7472,7 +7474,7 @@
         </CharString>
         <CharString name="uni0904">
           172 2 -7 callgsubr
-          88.9700012207 128.190002441 4 callgsubr
+          88.97 128.19 4 callgsubr
           hintmask 1111010110000000
           -93 callsubr
           170 hlineto
@@ -7667,7 +7669,7 @@
         </CharString>
         <CharString name="uni090E">
           243 callsubr
-          99.9700012207 128.190002441 186 callsubr
+          99.97 128.19 186 callsubr
           hintmask 11111100
           16 callgsubr
           -122 43 callgsubr
@@ -7723,7 +7725,7 @@
         </CharString>
         <CharString name="uni0912">
           462 2 -7 callgsubr
-          88.9700012207 128.190002441 4 callgsubr
+          88.97 128.19 4 callgsubr
           228 callgsubr
           hintmask 1111010111000000
           -93 callsubr
@@ -15960,7 +15962,7 @@
         </CharString>
         <CharString name="uni094A">
           -64 callgsubr
-          99.9700012207 128.190002441 288 callgsubr
+          99.97 128.19 288 callgsubr
           -108 43 callgsubr
           -130 -82 callgsubr
         </CharString>
@@ -19349,7 +19351,7 @@
         return
       </CharString>
       <CharString index="208">
-        737.38999939 128.919998169 hstem
+        737.39 128.92 hstem
         -563 454 vstem
         -563 981 rmoveto
         23 -377 340 236 10 -218 rrcurveto
