@@ -11,6 +11,7 @@
 [Eczar-Regular]
 	f=Eczar
 	s=Regular
+	m=1,Eczar Regular
 	f=3,1,0x0439,\090F\0915\094D\091C\093C\0930
 	s=3,1,0x0439,Regular
 	f=3,1,0x044E,\090F\0915\094D\091C\093C\0930
