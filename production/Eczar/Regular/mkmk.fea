@@ -1,0 +1,14 @@
+# Created: Sun Dec 16 01:24:58 2018
+# PS Name: Eczar-Regular
+# MM Inst: None
+# exported from Defcon
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MKMK_MARK_left {
+	lookupflag MarkAttachmentType @MC_left;
+
+	pos mark grGrave.case <anchor 78 343> mark @MC_left;
+} MKMK_MARK_left;
+
+

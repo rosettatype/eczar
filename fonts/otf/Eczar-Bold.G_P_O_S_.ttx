@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="3.11">
+<ttFont ttLibVersion="3.29">
 
   <GPOS>
     <Version value="0x00010000"/>
     <ScriptList>
-      <!-- ScriptCount=4 -->
+      <!-- ScriptCount=5 -->
       <ScriptRecord index="0">
         <ScriptTag value="DFLT"/>
         <Script>
@@ -12,9 +12,9 @@
             <ReqFeatureIndex value="65535"/>
             <!-- FeatureCount=4 -->
             <FeatureIndex index="0" value="0"/>
-            <FeatureIndex index="1" value="8"/>
-            <FeatureIndex index="2" value="16"/>
-            <FeatureIndex index="3" value="24"/>
+            <FeatureIndex index="1" value="9"/>
+            <FeatureIndex index="2" value="18"/>
+            <FeatureIndex index="3" value="27"/>
           </DefaultLangSys>
           <!-- LangSysCount=0 -->
         </Script>
@@ -26,9 +26,9 @@
             <ReqFeatureIndex value="65535"/>
             <!-- FeatureCount=4 -->
             <FeatureIndex index="0" value="1"/>
-            <FeatureIndex index="1" value="9"/>
-            <FeatureIndex index="2" value="17"/>
-            <FeatureIndex index="3" value="25"/>
+            <FeatureIndex index="1" value="10"/>
+            <FeatureIndex index="2" value="19"/>
+            <FeatureIndex index="3" value="28"/>
           </DefaultLangSys>
           <!-- LangSysCount=2 -->
           <LangSysRecord index="0">
@@ -37,9 +37,9 @@
               <ReqFeatureIndex value="65535"/>
               <!-- FeatureCount=4 -->
               <FeatureIndex index="0" value="2"/>
-              <FeatureIndex index="1" value="10"/>
-              <FeatureIndex index="2" value="18"/>
-              <FeatureIndex index="3" value="26"/>
+              <FeatureIndex index="1" value="11"/>
+              <FeatureIndex index="2" value="20"/>
+              <FeatureIndex index="3" value="29"/>
             </LangSys>
           </LangSysRecord>
           <LangSysRecord index="1">
@@ -48,9 +48,9 @@
               <ReqFeatureIndex value="65535"/>
               <!-- FeatureCount=4 -->
               <FeatureIndex index="0" value="3"/>
-              <FeatureIndex index="1" value="11"/>
-              <FeatureIndex index="2" value="19"/>
-              <FeatureIndex index="3" value="27"/>
+              <FeatureIndex index="1" value="12"/>
+              <FeatureIndex index="2" value="21"/>
+              <FeatureIndex index="3" value="30"/>
             </LangSys>
           </LangSysRecord>
         </Script>
@@ -62,23 +62,37 @@
             <ReqFeatureIndex value="65535"/>
             <!-- FeatureCount=4 -->
             <FeatureIndex index="0" value="4"/>
-            <FeatureIndex index="1" value="12"/>
-            <FeatureIndex index="2" value="20"/>
-            <FeatureIndex index="3" value="28"/>
+            <FeatureIndex index="1" value="13"/>
+            <FeatureIndex index="2" value="22"/>
+            <FeatureIndex index="3" value="31"/>
           </DefaultLangSys>
           <!-- LangSysCount=0 -->
         </Script>
       </ScriptRecord>
       <ScriptRecord index="3">
-        <ScriptTag value="latn"/>
+        <ScriptTag value="grek"/>
         <Script>
           <DefaultLangSys>
             <ReqFeatureIndex value="65535"/>
             <!-- FeatureCount=4 -->
             <FeatureIndex index="0" value="5"/>
-            <FeatureIndex index="1" value="13"/>
-            <FeatureIndex index="2" value="21"/>
-            <FeatureIndex index="3" value="29"/>
+            <FeatureIndex index="1" value="14"/>
+            <FeatureIndex index="2" value="23"/>
+            <FeatureIndex index="3" value="32"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="4">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=4 -->
+            <FeatureIndex index="0" value="6"/>
+            <FeatureIndex index="1" value="15"/>
+            <FeatureIndex index="2" value="24"/>
+            <FeatureIndex index="3" value="33"/>
           </DefaultLangSys>
           <!-- LangSysCount=2 -->
           <LangSysRecord index="0">
@@ -86,10 +100,10 @@
             <LangSys>
               <ReqFeatureIndex value="65535"/>
               <!-- FeatureCount=4 -->
-              <FeatureIndex index="0" value="6"/>
-              <FeatureIndex index="1" value="14"/>
-              <FeatureIndex index="2" value="22"/>
-              <FeatureIndex index="3" value="30"/>
+              <FeatureIndex index="0" value="7"/>
+              <FeatureIndex index="1" value="16"/>
+              <FeatureIndex index="2" value="25"/>
+              <FeatureIndex index="3" value="34"/>
             </LangSys>
           </LangSysRecord>
           <LangSysRecord index="1">
@@ -97,17 +111,17 @@
             <LangSys>
               <ReqFeatureIndex value="65535"/>
               <!-- FeatureCount=4 -->
-              <FeatureIndex index="0" value="7"/>
-              <FeatureIndex index="1" value="15"/>
-              <FeatureIndex index="2" value="23"/>
-              <FeatureIndex index="3" value="31"/>
+              <FeatureIndex index="0" value="8"/>
+              <FeatureIndex index="1" value="17"/>
+              <FeatureIndex index="2" value="26"/>
+              <FeatureIndex index="3" value="35"/>
             </LangSys>
           </LangSysRecord>
         </Script>
       </ScriptRecord>
     </ScriptList>
     <FeatureList>
-      <!-- FeatureCount=32 -->
+      <!-- FeatureCount=36 -->
       <FeatureRecord index="0">
         <FeatureTag value="abvm"/>
         <Feature>
@@ -189,10 +203,13 @@
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="8">
-        <FeatureTag value="blwm"/>
+        <FeatureTag value="abvm"/>
         <Feature>
-          <!-- LookupCount=1 -->
-          <LookupListIndex index="0" value="5"/>
+          <!-- LookupCount=4 -->
+          <LookupListIndex index="0" value="1"/>
+          <LookupListIndex index="1" value="2"/>
+          <LookupListIndex index="2" value="3"/>
+          <LookupListIndex index="3" value="4"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="9">
@@ -245,17 +262,17 @@
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="16">
-        <FeatureTag value="dist"/>
+        <FeatureTag value="blwm"/>
         <Feature>
           <!-- LookupCount=1 -->
-          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="0" value="5"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="17">
-        <FeatureTag value="dist"/>
+        <FeatureTag value="blwm"/>
         <Feature>
           <!-- LookupCount=1 -->
-          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="0" value="5"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="18">
@@ -301,21 +318,21 @@
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="24">
-        <FeatureTag value="kern"/>
+        <FeatureTag value="dist"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="25">
-        <FeatureTag value="kern"/>
+        <FeatureTag value="dist"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
       <FeatureRecord index="26">
-        <FeatureTag value="kern"/>
+        <FeatureTag value="dist"/>
         <Feature>
           <!-- LookupCount=1 -->
           <LookupListIndex index="0" value="0"/>
@@ -356,6 +373,34 @@
           <LookupListIndex index="0" value="0"/>
         </Feature>
       </FeatureRecord>
+      <FeatureRecord index="32">
+        <FeatureTag value="kern"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="33">
+        <FeatureTag value="kern"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="34">
+        <FeatureTag value="kern"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="35">
+        <FeatureTag value="kern"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
     </FeatureList>
     <LookupList>
       <!-- LookupCount=6 -->
@@ -379,6 +424,7 @@
             <Glyph value="F"/>
             <Glyph value="P"/>
             <Glyph value="Q"/>
+            <Glyph value="pi"/>
             <Glyph value="uni0915094D"/>
             <Glyph value="uni0917094D"/>
             <Glyph value="uni0918094D"/>
@@ -415,10 +461,27 @@
             <Glyph value="uni096B.ss05"/>
             <Glyph value="uni096E.ss05"/>
             <Glyph value="uni096F.ss05"/>
+            <Glyph value="Beta"/>
+            <Glyph value="Gamma"/>
+            <Glyph value="Kappa"/>
+            <Glyph value="Tau"/>
+            <Glyph value="Chi"/>
+            <Glyph value="beta"/>
+            <Glyph value="delta"/>
+            <Glyph value="zeta"/>
+            <Glyph value="theta"/>
+            <Glyph value="kappa"/>
+            <Glyph value="lamda"/>
+            <Glyph value="xi"/>
+            <Glyph value="finalsigma"/>
+            <Glyph value="sigma"/>
+            <Glyph value="tau"/>
+            <Glyph value="chi"/>
+            <Glyph value="kaisymbol"/>
           </Coverage>
           <ValueFormat1 value="4"/>
           <ValueFormat2 value="0"/>
-          <!-- PairSetCount=50 -->
+          <!-- PairSetCount=68 -->
           <PairSet index="0">
             <!-- PairValueCount=7 -->
             <PairValueRecord index="0">
@@ -670,6 +733,33 @@
             </PairValueRecord>
           </PairSet>
           <PairSet index="14">
+            <!-- PairValueCount=6 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="48"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-28"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="paragraph"/>
+              <Value1 XAdvance="40"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="Tau"/>
+              <Value1 XAdvance="-25"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="Chi"/>
+              <Value1 XAdvance="-25"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="lamda"/>
+              <Value1 XAdvance="-23"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="15">
             <!-- PairValueCount=2 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni091D"/>
@@ -680,14 +770,14 @@
               <Value1 XAdvance="-73"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="15">
+          <PairSet index="16">
             <!-- PairValueCount=1 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0928"/>
               <Value1 XAdvance="-20"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="16">
+          <PairSet index="17">
             <!-- PairValueCount=2 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni091A"/>
@@ -698,14 +788,14 @@
               <Value1 XAdvance="-5"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="17">
+          <PairSet index="18">
             <!-- PairValueCount=1 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni091A"/>
               <Value1 XAdvance="-66"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="18">
+          <PairSet index="19">
             <!-- PairValueCount=2 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni091D"/>
@@ -716,7 +806,7 @@
               <Value1 XAdvance="-73"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="19">
+          <PairSet index="20">
             <!-- PairValueCount=2 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni091A"/>
@@ -727,7 +817,7 @@
               <Value1 XAdvance="-15"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="20">
+          <PairSet index="21">
             <!-- PairValueCount=2 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0936"/>
@@ -738,7 +828,7 @@
               <Value1 XAdvance="-38"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="21">
+          <PairSet index="22">
             <!-- PairValueCount=2 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni091A"/>
@@ -749,7 +839,7 @@
               <Value1 XAdvance="-15"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="22">
+          <PairSet index="23">
             <!-- PairValueCount=2 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni091A"/>
@@ -760,7 +850,7 @@
               <Value1 XAdvance="-30"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="23">
+          <PairSet index="24">
             <!-- PairValueCount=91 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni090C"/>
@@ -1127,7 +1217,7 @@
               <Value1 XAdvance="-10"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="24">
+          <PairSet index="25">
             <!-- PairValueCount=32 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni091C"/>
@@ -1258,7 +1348,7 @@
               <Value1 XAdvance="-32"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="25">
+          <PairSet index="26">
             <!-- PairValueCount=3 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni091A"/>
@@ -1273,7 +1363,7 @@
               <Value1 XAdvance="-23"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="26">
+          <PairSet index="27">
             <!-- PairValueCount=2 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni091A"/>
@@ -1284,28 +1374,28 @@
               <Value1 XAdvance="-18"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="27">
+          <PairSet index="28">
             <!-- PairValueCount=1 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni092D"/>
               <Value1 XAdvance="-13"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="28">
+          <PairSet index="29">
             <!-- PairValueCount=1 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0936.MAR"/>
               <Value1 XAdvance="10"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="29">
+          <PairSet index="30">
             <!-- PairValueCount=1 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0925"/>
               <Value1 XAdvance="-40"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="30">
+          <PairSet index="31">
             <!-- PairValueCount=4 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni091A"/>
@@ -1324,7 +1414,7 @@
               <Value1 XAdvance="-33"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="31">
+          <PairSet index="32">
             <!-- PairValueCount=3 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni091A"/>
@@ -1339,22 +1429,11 @@
               <Value1 XAdvance="-36"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="32">
+          <PairSet index="33">
             <!-- PairValueCount=1 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0921"/>
               <Value1 XAdvance="-23"/>
-            </PairValueRecord>
-          </PairSet>
-          <PairSet index="33">
-            <!-- PairValueCount=2 -->
-            <PairValueRecord index="0">
-              <SecondGlyph value="uni091D"/>
-              <Value1 XAdvance="-53"/>
-            </PairValueRecord>
-            <PairValueRecord index="1">
-              <SecondGlyph value="uni095C"/>
-              <Value1 XAdvance="-73"/>
             </PairValueRecord>
           </PairSet>
           <PairSet index="34">
@@ -1380,6 +1459,17 @@
             </PairValueRecord>
           </PairSet>
           <PairSet index="36">
+            <!-- PairValueCount=2 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="uni091D"/>
+              <Value1 XAdvance="-53"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="uni095C"/>
+              <Value1 XAdvance="-73"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="37">
             <!-- PairValueCount=13 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0966"/>
@@ -1434,7 +1524,7 @@
               <Value1 XAdvance="10"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="37">
+          <PairSet index="38">
             <!-- PairValueCount=11 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0966"/>
@@ -1481,7 +1571,7 @@
               <Value1 XAdvance="15"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="38">
+          <PairSet index="39">
             <!-- PairValueCount=12 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0966"/>
@@ -1532,7 +1622,7 @@
               <Value1 XAdvance="15"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="39">
+          <PairSet index="40">
             <!-- PairValueCount=9 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0966"/>
@@ -1571,7 +1661,7 @@
               <Value1 XAdvance="-5"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="40">
+          <PairSet index="41">
             <!-- PairValueCount=12 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0966"/>
@@ -1622,7 +1712,7 @@
               <Value1 XAdvance="3"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="41">
+          <PairSet index="42">
             <!-- PairValueCount=12 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0966"/>
@@ -1673,7 +1763,7 @@
               <Value1 XAdvance="5"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="42">
+          <PairSet index="43">
             <!-- PairValueCount=13 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0966"/>
@@ -1728,7 +1818,7 @@
               <Value1 XAdvance="-25"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="43">
+          <PairSet index="44">
             <!-- PairValueCount=11 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0966"/>
@@ -1775,7 +1865,7 @@
               <Value1 XAdvance="20"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="44">
+          <PairSet index="45">
             <!-- PairValueCount=11 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0966"/>
@@ -1822,7 +1912,7 @@
               <Value1 XAdvance="3"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="45">
+          <PairSet index="46">
             <!-- PairValueCount=12 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0966"/>
@@ -1873,7 +1963,7 @@
               <Value1 XAdvance="8"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="46">
+          <PairSet index="47">
             <!-- PairValueCount=8 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0968"/>
@@ -1908,7 +1998,7 @@
               <Value1 XAdvance="18"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="47">
+          <PairSet index="48">
             <!-- PairValueCount=12 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0966"/>
@@ -1959,7 +2049,7 @@
               <Value1 XAdvance="-8"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="48">
+          <PairSet index="49">
             <!-- PairValueCount=12 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0966"/>
@@ -2010,7 +2100,7 @@
               <Value1 XAdvance="15"/>
             </PairValueRecord>
           </PairSet>
-          <PairSet index="49">
+          <PairSet index="50">
             <!-- PairValueCount=13 -->
             <PairValueRecord index="0">
               <SecondGlyph value="uni0966"/>
@@ -2063,6 +2153,413 @@
             <PairValueRecord index="12">
               <SecondGlyph value="uni096E.ss05"/>
               <Value1 XAdvance="-20"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="51">
+            <!-- PairValueCount=5 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="40"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="paragraph"/>
+              <Value1 XAdvance="10"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="Chi"/>
+              <Value1 XAdvance="-30"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="Omega"/>
+              <Value1 XAdvance="-14"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="lamda"/>
+              <Value1 XAdvance="-23"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="52">
+            <!-- PairValueCount=10 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="80"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="asterisk"/>
+              <Value1 XAdvance="53"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-28"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="paragraph"/>
+              <Value1 XAdvance="50"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="pi"/>
+              <Value1 XAdvance="-50"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="Chi"/>
+              <Value1 XAdvance="-40"/>
+            </PairValueRecord>
+            <PairValueRecord index="6">
+              <SecondGlyph value="Omega"/>
+              <Value1 XAdvance="-53"/>
+            </PairValueRecord>
+            <PairValueRecord index="7">
+              <SecondGlyph value="lamda"/>
+              <Value1 XAdvance="-4"/>
+            </PairValueRecord>
+            <PairValueRecord index="8">
+              <SecondGlyph value="tau"/>
+              <Value1 XAdvance="-53"/>
+            </PairValueRecord>
+            <PairValueRecord index="9">
+              <SecondGlyph value="lownumeralsign"/>
+              <Value1 XAdvance="-40"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="53">
+            <!-- PairValueCount=7 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="10"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="pi"/>
+              <Value1 XAdvance="-25"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="Tau"/>
+              <Value1 XAdvance="-20"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="Omega"/>
+              <Value1 XAdvance="-10"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="beta"/>
+              <Value1 XAdvance="-13"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="theta"/>
+              <Value1 XAdvance="-38"/>
+            </PairValueRecord>
+            <PairValueRecord index="6">
+              <SecondGlyph value="tau"/>
+              <Value1 XAdvance="-63"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="54">
+            <!-- PairValueCount=7 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="80"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="asterisk"/>
+              <Value1 XAdvance="53"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="paragraph"/>
+              <Value1 XAdvance="50"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="pi"/>
+              <Value1 XAdvance="-40"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="Chi"/>
+              <Value1 XAdvance="-20"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="tau"/>
+              <Value1 XAdvance="-30"/>
+            </PairValueRecord>
+            <PairValueRecord index="6">
+              <SecondGlyph value="lownumeralsign"/>
+              <Value1 XAdvance="-30"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="55">
+            <!-- PairValueCount=5 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="pi"/>
+              <Value1 XAdvance="-25"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="Tau"/>
+              <Value1 XAdvance="-20"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="beta"/>
+              <Value1 XAdvance="-5"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="theta"/>
+              <Value1 XAdvance="-23"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="tau"/>
+              <Value1 XAdvance="-63"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="56">
+            <!-- PairValueCount=4 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="30"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-30"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="period"/>
+              <Value1 XAdvance="-30"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="Chi"/>
+              <Value1 XAdvance="-28"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="57">
+            <!-- PairValueCount=4 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="40"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="asterisk"/>
+              <Value1 XAdvance="50"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-30"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="period"/>
+              <Value1 XAdvance="-30"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="58">
+            <!-- PairValueCount=7 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="95"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="asterisk"/>
+              <Value1 XAdvance="83"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="paragraph"/>
+              <Value1 XAdvance="53"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="Tau"/>
+              <Value1 XAdvance="60"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="Chi"/>
+              <Value1 XAdvance="25"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="beta"/>
+              <Value1 XAdvance="20"/>
+            </PairValueRecord>
+            <PairValueRecord index="6">
+              <SecondGlyph value="delta"/>
+              <Value1 XAdvance="8"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="59">
+            <!-- PairValueCount=5 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="40"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-34"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="period"/>
+              <Value1 XAdvance="-30"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="paragraph"/>
+              <Value1 XAdvance="20"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="Chi"/>
+              <Value1 XAdvance="-20"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="60">
+            <!-- PairValueCount=3 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="35"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-15"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="paragraph"/>
+              <Value1 XAdvance="30"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="61">
+            <!-- PairValueCount=5 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="-20"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="paragraph"/>
+              <Value1 XAdvance="-40"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="pi"/>
+              <Value1 XAdvance="-25"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="Tau"/>
+              <Value1 XAdvance="-73"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="tau"/>
+              <Value1 XAdvance="-70"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="62">
+            <!-- PairValueCount=6 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="70"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="asterisk"/>
+              <Value1 XAdvance="65"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="paragraph"/>
+              <Value1 XAdvance="35"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="Tau"/>
+              <Value1 XAdvance="40"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="beta"/>
+              <Value1 XAdvance="20"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="delta"/>
+              <Value1 XAdvance="3"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="63">
+            <!-- PairValueCount=2 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-20"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="paragraph"/>
+              <Value1 XAdvance="50"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="64">
+            <!-- PairValueCount=6 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="40"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-45"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="paragraph"/>
+              <Value1 XAdvance="40"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="Tau"/>
+              <Value1 XAdvance="-15"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="Chi"/>
+              <Value1 XAdvance="-45"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="lamda"/>
+              <Value1 XAdvance="-35"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="65">
+            <!-- PairValueCount=6 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="48"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-50"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="period"/>
+              <Value1 XAdvance="-20"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="paragraph"/>
+              <Value1 XAdvance="40"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="Tau"/>
+              <Value1 XAdvance="-15"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="Chi"/>
+              <Value1 XAdvance="-30"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="66">
+            <!-- PairValueCount=6 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="comma"/>
+              <Value1 XAdvance="-10"/>
+            </PairValueRecord>
+            <PairValueRecord index="1">
+              <SecondGlyph value="period"/>
+              <Value1 XAdvance="-80"/>
+            </PairValueRecord>
+            <PairValueRecord index="2">
+              <SecondGlyph value="paragraph"/>
+              <Value1 XAdvance="40"/>
+            </PairValueRecord>
+            <PairValueRecord index="3">
+              <SecondGlyph value="Tau"/>
+              <Value1 XAdvance="-33"/>
+            </PairValueRecord>
+            <PairValueRecord index="4">
+              <SecondGlyph value="Chi"/>
+              <Value1 XAdvance="-40"/>
+            </PairValueRecord>
+            <PairValueRecord index="5">
+              <SecondGlyph value="lamda"/>
+              <Value1 XAdvance="-28"/>
+            </PairValueRecord>
+          </PairSet>
+          <PairSet index="67">
+            <!-- PairValueCount=1 -->
+            <PairValueRecord index="0">
+              <SecondGlyph value="quotesingle"/>
+              <Value1 XAdvance="35"/>
             </PairValueRecord>
           </PairSet>
         </PairPos>
@@ -6530,7 +7027,7 @@
             <ClassDef glyph="uni021B" class="15"/>
             <ClassDef glyph="uni0907" class="27"/>
             <ClassDef glyph="uni0908" class="27"/>
-            <ClassDef glyph="uni090C" class="29"/>
+            <ClassDef glyph="uni090C" class="28"/>
             <ClassDef glyph="uni0915" class="35"/>
             <ClassDef glyph="uni0915094D" class="35"/>
             <ClassDef glyph="uni0915094D.alt" class="35"/>
@@ -6547,23 +7044,23 @@
             <ClassDef glyph="uni0915094D0936" class="35"/>
             <ClassDef glyph="uni0915094D0939" class="35"/>
             <ClassDef glyph="uni0916" class="36"/>
-            <ClassDef glyph="uni0916094D" class="29"/>
+            <ClassDef glyph="uni0916094D" class="28"/>
             <ClassDef glyph="uni0916094D0928" class="36"/>
             <ClassDef glyph="uni0916094D0930" class="36"/>
-            <ClassDef glyph="uni0917" class="33"/>
-            <ClassDef glyph="uni0917094D" class="33"/>
-            <ClassDef glyph="uni0917094D0927094D092F" class="33"/>
-            <ClassDef glyph="uni0917094D0927094D0935" class="33"/>
-            <ClassDef glyph="uni0917094D0928" class="33"/>
-            <ClassDef glyph="uni0917094D0928094D092F" class="33"/>
-            <ClassDef glyph="uni0917094D092D094D092F" class="33"/>
-            <ClassDef glyph="uni0917094D0930" class="33"/>
-            <ClassDef glyph="uni0917094D0930094D092F" class="33"/>
-            <ClassDef glyph="uni0918" class="34"/>
-            <ClassDef glyph="uni0918094D" class="34"/>
-            <ClassDef glyph="uni0918094D0928" class="34"/>
-            <ClassDef glyph="uni0918094D0930" class="34"/>
-            <ClassDef glyph="uni0918094D0930094D" class="34"/>
+            <ClassDef glyph="uni0917" class="32"/>
+            <ClassDef glyph="uni0917094D" class="32"/>
+            <ClassDef glyph="uni0917094D0927094D092F" class="32"/>
+            <ClassDef glyph="uni0917094D0927094D0935" class="32"/>
+            <ClassDef glyph="uni0917094D0928" class="32"/>
+            <ClassDef glyph="uni0917094D0928094D092F" class="32"/>
+            <ClassDef glyph="uni0917094D092D094D092F" class="32"/>
+            <ClassDef glyph="uni0917094D0930" class="32"/>
+            <ClassDef glyph="uni0917094D0930094D092F" class="32"/>
+            <ClassDef glyph="uni0918" class="33"/>
+            <ClassDef glyph="uni0918094D" class="33"/>
+            <ClassDef glyph="uni0918094D0928" class="33"/>
+            <ClassDef glyph="uni0918094D0930" class="33"/>
+            <ClassDef glyph="uni0918094D0930094D" class="33"/>
             <ClassDef glyph="uni0919" class="27"/>
             <ClassDef glyph="uni0919094D0915" class="27"/>
             <ClassDef glyph="uni0919094D0915094D0930" class="27"/>
@@ -6573,18 +7070,18 @@
             <ClassDef glyph="uni0919094D09180930" class="27"/>
             <ClassDef glyph="uni0919094D092E" class="27"/>
             <ClassDef glyph="uni0919094D092F" class="27"/>
-            <ClassDef glyph="uni091B" class="32"/>
-            <ClassDef glyph="uni091C" class="28"/>
-            <ClassDef glyph="uni091C094D" class="28"/>
-            <ClassDef glyph="uni091C094D.alt" class="28"/>
-            <ClassDef glyph="uni091C094D091C" class="28"/>
-            <ClassDef glyph="uni091C094D0928" class="28"/>
-            <ClassDef glyph="uni091C094D092E" class="28"/>
-            <ClassDef glyph="uni091C094D092F" class="28"/>
-            <ClassDef glyph="uni091C094D0930" class="28"/>
+            <ClassDef glyph="uni091B" class="31"/>
+            <ClassDef glyph="uni091C" class="34"/>
+            <ClassDef glyph="uni091C094D" class="34"/>
+            <ClassDef glyph="uni091C094D.alt" class="34"/>
+            <ClassDef glyph="uni091C094D091C" class="34"/>
+            <ClassDef glyph="uni091C094D0928" class="34"/>
+            <ClassDef glyph="uni091C094D092E" class="34"/>
+            <ClassDef glyph="uni091C094D092F" class="34"/>
+            <ClassDef glyph="uni091C094D0930" class="34"/>
             <ClassDef glyph="uni091D" class="27"/>
-            <ClassDef glyph="uni091D.NEP" class="33"/>
-            <ClassDef glyph="uni091D094D.NEP" class="33"/>
+            <ClassDef glyph="uni091D.NEP" class="32"/>
+            <ClassDef glyph="uni091D094D.NEP" class="32"/>
             <ClassDef glyph="uni091D094D0930" class="27"/>
             <ClassDef glyph="uni091F" class="26"/>
             <ClassDef glyph="uni091F094D0915" class="26"/>
@@ -6611,22 +7108,22 @@
             <ClassDef glyph="uni0922" class="26"/>
             <ClassDef glyph="uni0922094D0922" class="26"/>
             <ClassDef glyph="uni0922094D092F" class="26"/>
-            <ClassDef glyph="uni0922094D0930094D092F" class="30"/>
+            <ClassDef glyph="uni0922094D0930094D092F" class="29"/>
             <ClassDef glyph="uni0922094D0935" class="26"/>
-            <ClassDef glyph="uni0923" class="30"/>
-            <ClassDef glyph="uni0923094D" class="30"/>
-            <ClassDef glyph="uni0924" class="29"/>
-            <ClassDef glyph="uni0924094D" class="29"/>
-            <ClassDef glyph="uni0924094D.alt" class="29"/>
-            <ClassDef glyph="uni0924094D.alt1" class="29"/>
-            <ClassDef glyph="uni0924094D0915094D092F" class="29"/>
-            <ClassDef glyph="uni0924094D0915094D0937" class="29"/>
-            <ClassDef glyph="uni0924094D091E" class="29"/>
-            <ClassDef glyph="uni0924094D0925" class="29"/>
-            <ClassDef glyph="uni0924094D0928" class="29"/>
-            <ClassDef glyph="uni0924094D092F" class="29"/>
-            <ClassDef glyph="uni0924094D0930.ss03" class="29"/>
-            <ClassDef glyph="uni0924094D0930094D.ss03" class="29"/>
+            <ClassDef glyph="uni0923" class="29"/>
+            <ClassDef glyph="uni0923094D" class="29"/>
+            <ClassDef glyph="uni0924" class="28"/>
+            <ClassDef glyph="uni0924094D" class="28"/>
+            <ClassDef glyph="uni0924094D.alt" class="28"/>
+            <ClassDef glyph="uni0924094D.alt1" class="28"/>
+            <ClassDef glyph="uni0924094D0915094D092F" class="28"/>
+            <ClassDef glyph="uni0924094D0915094D0937" class="28"/>
+            <ClassDef glyph="uni0924094D091E" class="28"/>
+            <ClassDef glyph="uni0924094D0925" class="28"/>
+            <ClassDef glyph="uni0924094D0928" class="28"/>
+            <ClassDef glyph="uni0924094D092F" class="28"/>
+            <ClassDef glyph="uni0924094D0930.ss03" class="28"/>
+            <ClassDef glyph="uni0924094D0930094D.ss03" class="28"/>
             <ClassDef glyph="uni0925" class="37"/>
             <ClassDef glyph="uni0925094D" class="37"/>
             <ClassDef glyph="uni0925094D0921" class="37"/>
@@ -6639,7 +7136,7 @@
             <ClassDef glyph="uni09260943" class="26"/>
             <ClassDef glyph="uni09260943.ss06" class="27"/>
             <ClassDef glyph="uni0926094D0917" class="26"/>
-            <ClassDef glyph="uni0926094D0917094D0930" class="30"/>
+            <ClassDef glyph="uni0926094D0917094D0930" class="29"/>
             <ClassDef glyph="uni0926094D0918" class="26"/>
             <ClassDef glyph="uni0926094D0926" class="27"/>
             <ClassDef glyph="uni0926094D0926094D092F" class="27"/>
@@ -6655,62 +7152,62 @@
             <ClassDef glyph="uni0926094D09350943" class="26"/>
             <ClassDef glyph="uni0926094D0935094D092F" class="26"/>
             <ClassDef glyph="uni0926094D0935094D0930" class="26"/>
-            <ClassDef glyph="uni0927" class="34"/>
-            <ClassDef glyph="uni0927094D" class="34"/>
+            <ClassDef glyph="uni0927" class="33"/>
+            <ClassDef glyph="uni0927094D" class="33"/>
             <ClassDef glyph="uni0927094D0927" class="27"/>
             <ClassDef glyph="uni0927094D0928" class="27"/>
-            <ClassDef glyph="uni0927094D0928094D092F" class="34"/>
+            <ClassDef glyph="uni0927094D0928094D092F" class="33"/>
             <ClassDef glyph="uni0927094D0930" class="27"/>
-            <ClassDef glyph="uni0927094D0930094D" class="34"/>
+            <ClassDef glyph="uni0927094D0930094D" class="33"/>
             <ClassDef glyph="uni0927094D0935" class="27"/>
-            <ClassDef glyph="uni092A" class="30"/>
-            <ClassDef glyph="uni092A094D" class="30"/>
-            <ClassDef glyph="uni092A094D091F" class="30"/>
-            <ClassDef glyph="uni092A094D091F094D092F" class="30"/>
-            <ClassDef glyph="uni092A094D0920" class="30"/>
-            <ClassDef glyph="uni092A094D0920094D092F" class="30"/>
-            <ClassDef glyph="uni092A094D0921" class="30"/>
-            <ClassDef glyph="uni092A094D0924094D092F" class="30"/>
-            <ClassDef glyph="uni092A094D0925" class="30"/>
-            <ClassDef glyph="uni092A094D0928" class="30"/>
-            <ClassDef glyph="uni092A094D0930" class="30"/>
-            <ClassDef glyph="uni092A094D0930094D" class="30"/>
-            <ClassDef glyph="uni092A094D0936" class="30"/>
-            <ClassDef glyph="uni092B" class="30"/>
-            <ClassDef glyph="uni092B094D" class="30"/>
-            <ClassDef glyph="uni092B094D.alt" class="30"/>
-            <ClassDef glyph="uni092B094D0917" class="30"/>
-            <ClassDef glyph="uni092B094D091A" class="30"/>
-            <ClassDef glyph="uni092B094D0925" class="30"/>
-            <ClassDef glyph="uni092B094D0928" class="30"/>
-            <ClassDef glyph="uni092B094D0930" class="30"/>
-            <ClassDef glyph="uni092B094D0936" class="30"/>
-            <ClassDef glyph="uni092C" class="31"/>
-            <ClassDef glyph="uni092C094D" class="31"/>
-            <ClassDef glyph="uni092C094D091C094D092F" class="31"/>
-            <ClassDef glyph="uni092C094D0927094D0935" class="31"/>
-            <ClassDef glyph="uni092C094D0928" class="31"/>
-            <ClassDef glyph="uni092C094D092D094D0930" class="31"/>
-            <ClassDef glyph="uni092C094D0930" class="31"/>
-            <ClassDef glyph="uni092C094D0932094D092F" class="31"/>
-            <ClassDef glyph="uni092D" class="33"/>
-            <ClassDef glyph="uni092D094D" class="33"/>
-            <ClassDef glyph="uni092D094D0928" class="33"/>
-            <ClassDef glyph="uni092D094D092D" class="33"/>
-            <ClassDef glyph="uni092D094D0930" class="33"/>
-            <ClassDef glyph="uni092D094D0930094D092F" class="33"/>
-            <ClassDef glyph="uni092E" class="33"/>
-            <ClassDef glyph="uni092E094D" class="33"/>
-            <ClassDef glyph="uni092E094D0921" class="33"/>
-            <ClassDef glyph="uni092E094D0928" class="33"/>
-            <ClassDef glyph="uni092E094D092C094D092F" class="33"/>
-            <ClassDef glyph="uni092E094D092D" class="33"/>
-            <ClassDef glyph="uni092E094D092D094D" class="33"/>
-            <ClassDef glyph="uni092E094D092D094D092F" class="33"/>
-            <ClassDef glyph="uni092E094D092D094D0930" class="33"/>
-            <ClassDef glyph="uni092E094D092D094D0935" class="33"/>
-            <ClassDef glyph="uni092E094D0930" class="33"/>
-            <ClassDef glyph="uni092E094D0936" class="33"/>
+            <ClassDef glyph="uni092A" class="29"/>
+            <ClassDef glyph="uni092A094D" class="29"/>
+            <ClassDef glyph="uni092A094D091F" class="29"/>
+            <ClassDef glyph="uni092A094D091F094D092F" class="29"/>
+            <ClassDef glyph="uni092A094D0920" class="29"/>
+            <ClassDef glyph="uni092A094D0920094D092F" class="29"/>
+            <ClassDef glyph="uni092A094D0921" class="29"/>
+            <ClassDef glyph="uni092A094D0924094D092F" class="29"/>
+            <ClassDef glyph="uni092A094D0925" class="29"/>
+            <ClassDef glyph="uni092A094D0928" class="29"/>
+            <ClassDef glyph="uni092A094D0930" class="29"/>
+            <ClassDef glyph="uni092A094D0930094D" class="29"/>
+            <ClassDef glyph="uni092A094D0936" class="29"/>
+            <ClassDef glyph="uni092B" class="29"/>
+            <ClassDef glyph="uni092B094D" class="29"/>
+            <ClassDef glyph="uni092B094D.alt" class="29"/>
+            <ClassDef glyph="uni092B094D0917" class="29"/>
+            <ClassDef glyph="uni092B094D091A" class="29"/>
+            <ClassDef glyph="uni092B094D0925" class="29"/>
+            <ClassDef glyph="uni092B094D0928" class="29"/>
+            <ClassDef glyph="uni092B094D0930" class="29"/>
+            <ClassDef glyph="uni092B094D0936" class="29"/>
+            <ClassDef glyph="uni092C" class="30"/>
+            <ClassDef glyph="uni092C094D" class="30"/>
+            <ClassDef glyph="uni092C094D091C094D092F" class="30"/>
+            <ClassDef glyph="uni092C094D0927094D0935" class="30"/>
+            <ClassDef glyph="uni092C094D0928" class="30"/>
+            <ClassDef glyph="uni092C094D092D094D0930" class="30"/>
+            <ClassDef glyph="uni092C094D0930" class="30"/>
+            <ClassDef glyph="uni092C094D0932094D092F" class="30"/>
+            <ClassDef glyph="uni092D" class="32"/>
+            <ClassDef glyph="uni092D094D" class="32"/>
+            <ClassDef glyph="uni092D094D0928" class="32"/>
+            <ClassDef glyph="uni092D094D092D" class="32"/>
+            <ClassDef glyph="uni092D094D0930" class="32"/>
+            <ClassDef glyph="uni092D094D0930094D092F" class="32"/>
+            <ClassDef glyph="uni092E" class="32"/>
+            <ClassDef glyph="uni092E094D" class="32"/>
+            <ClassDef glyph="uni092E094D0921" class="32"/>
+            <ClassDef glyph="uni092E094D0928" class="32"/>
+            <ClassDef glyph="uni092E094D092C094D092F" class="32"/>
+            <ClassDef glyph="uni092E094D092D" class="32"/>
+            <ClassDef glyph="uni092E094D092D094D" class="32"/>
+            <ClassDef glyph="uni092E094D092D094D092F" class="32"/>
+            <ClassDef glyph="uni092E094D092D094D0930" class="32"/>
+            <ClassDef glyph="uni092E094D092D094D0935" class="32"/>
+            <ClassDef glyph="uni092E094D0930" class="32"/>
+            <ClassDef glyph="uni092E094D0936" class="32"/>
             <ClassDef glyph="uni092F" class="37"/>
             <ClassDef glyph="uni092F094D0921" class="37"/>
             <ClassDef glyph="uni092F094D0925" class="37"/>
@@ -6718,48 +7215,48 @@
             <ClassDef glyph="uni092F094D0930" class="37"/>
             <ClassDef glyph="uni092F094D0936" class="37"/>
             <ClassDef glyph="uni0930" class="36"/>
-            <ClassDef glyph="uni09300941" class="29"/>
-            <ClassDef glyph="uni09300942" class="29"/>
+            <ClassDef glyph="uni09300941" class="28"/>
+            <ClassDef glyph="uni09300942" class="28"/>
             <ClassDef glyph="uni0931" class="36"/>
-            <ClassDef glyph="uni0932" class="29"/>
-            <ClassDef glyph="uni0932.MAR" class="29"/>
-            <ClassDef glyph="uni0932094D" class="29"/>
-            <ClassDef glyph="uni0932094D.alt" class="29"/>
-            <ClassDef glyph="uni0932094D.alt1" class="29"/>
-            <ClassDef glyph="uni0932094D0915094D092F" class="29"/>
-            <ClassDef glyph="uni0932094D091A" class="29"/>
-            <ClassDef glyph="uni0932094D0925094D092F" class="29"/>
-            <ClassDef glyph="uni0932094D0928" class="29"/>
-            <ClassDef glyph="uni0932094D092D" class="29"/>
-            <ClassDef glyph="uni0932094D092D094D" class="29"/>
-            <ClassDef glyph="uni0932094D0930" class="29"/>
-            <ClassDef glyph="uni0932094D0930.MAR" class="29"/>
-            <ClassDef glyph="uni0932094D0932094D092F" class="29"/>
-            <ClassDef glyph="uni0932094D0935094D0921" class="29"/>
-            <ClassDef glyph="uni0933" class="29"/>
-            <ClassDef glyph="uni0933094D" class="29"/>
-            <ClassDef glyph="uni0934" class="29"/>
-            <ClassDef glyph="uni0934094D" class="29"/>
-            <ClassDef glyph="uni0935" class="31"/>
-            <ClassDef glyph="uni0935094D" class="31"/>
-            <ClassDef glyph="uni0935094D0928" class="31"/>
-            <ClassDef glyph="uni0935094D0930" class="31"/>
-            <ClassDef glyph="uni0935094D0930094D" class="31"/>
+            <ClassDef glyph="uni0932" class="28"/>
+            <ClassDef glyph="uni0932.MAR" class="28"/>
+            <ClassDef glyph="uni0932094D" class="28"/>
+            <ClassDef glyph="uni0932094D.alt" class="28"/>
+            <ClassDef glyph="uni0932094D.alt1" class="28"/>
+            <ClassDef glyph="uni0932094D0915094D092F" class="28"/>
+            <ClassDef glyph="uni0932094D091A" class="28"/>
+            <ClassDef glyph="uni0932094D0925094D092F" class="28"/>
+            <ClassDef glyph="uni0932094D0928" class="28"/>
+            <ClassDef glyph="uni0932094D092D" class="28"/>
+            <ClassDef glyph="uni0932094D092D094D" class="28"/>
+            <ClassDef glyph="uni0932094D0930" class="28"/>
+            <ClassDef glyph="uni0932094D0930.MAR" class="28"/>
+            <ClassDef glyph="uni0932094D0932094D092F" class="28"/>
+            <ClassDef glyph="uni0932094D0935094D0921" class="28"/>
+            <ClassDef glyph="uni0933" class="28"/>
+            <ClassDef glyph="uni0933094D" class="28"/>
+            <ClassDef glyph="uni0934" class="28"/>
+            <ClassDef glyph="uni0934094D" class="28"/>
+            <ClassDef glyph="uni0935" class="30"/>
+            <ClassDef glyph="uni0935094D" class="30"/>
+            <ClassDef glyph="uni0935094D0928" class="30"/>
+            <ClassDef glyph="uni0935094D0930" class="30"/>
+            <ClassDef glyph="uni0935094D0930094D" class="30"/>
             <ClassDef glyph="uni0936" class="38"/>
-            <ClassDef glyph="uni0937" class="30"/>
-            <ClassDef glyph="uni0937094D" class="30"/>
-            <ClassDef glyph="uni0937094D091F094D092F" class="30"/>
-            <ClassDef glyph="uni0937094D0920094D092F" class="30"/>
-            <ClassDef glyph="uni0937094D0930" class="30"/>
-            <ClassDef glyph="uni0937094D0930094D" class="30"/>
+            <ClassDef glyph="uni0937" class="29"/>
+            <ClassDef glyph="uni0937094D" class="29"/>
+            <ClassDef glyph="uni0937094D091F094D092F" class="29"/>
+            <ClassDef glyph="uni0937094D0920094D092F" class="29"/>
+            <ClassDef glyph="uni0937094D0930" class="29"/>
+            <ClassDef glyph="uni0937094D0930094D" class="29"/>
             <ClassDef glyph="uni0938" class="36"/>
             <ClassDef glyph="uni0938094D" class="36"/>
-            <ClassDef glyph="uni0938094D0924094D092F" class="29"/>
-            <ClassDef glyph="uni0938094D0924094D0930" class="29"/>
-            <ClassDef glyph="uni0938094D0925094D092F" class="29"/>
+            <ClassDef glyph="uni0938094D0924094D092F" class="28"/>
+            <ClassDef glyph="uni0938094D0924094D0930" class="28"/>
+            <ClassDef glyph="uni0938094D0925094D092F" class="28"/>
             <ClassDef glyph="uni0938094D0928" class="36"/>
             <ClassDef glyph="uni0938094D092E" class="36"/>
-            <ClassDef glyph="uni0938094D092E094D092F" class="29"/>
+            <ClassDef glyph="uni0938094D092E094D092F" class="28"/>
             <ClassDef glyph="uni0938094D0930" class="36"/>
             <ClassDef glyph="uni0938094D0930094D" class="36"/>
             <ClassDef glyph="uni0939" class="27"/>
@@ -6782,7 +7279,7 @@
             <ClassDef glyph="uni0958094D092B" class="35"/>
             <ClassDef glyph="uni0958094D092C" class="35"/>
             <ClassDef glyph="uni0958094D092E" class="35"/>
-            <ClassDef glyph="uni0958094D0930" class="31"/>
+            <ClassDef glyph="uni0958094D0930" class="30"/>
             <ClassDef glyph="uni0958094D0958" class="35"/>
             <ClassDef glyph="uni0958094D095E" class="35"/>
             <ClassDef glyph="uni0959" class="36"/>
@@ -6794,34 +7291,34 @@
             <ClassDef glyph="uni0959094D0935" class="36"/>
             <ClassDef glyph="uni0959094D0936" class="36"/>
             <ClassDef glyph="uni0959094D0938" class="36"/>
-            <ClassDef glyph="uni095A" class="33"/>
-            <ClassDef glyph="uni095A094D" class="33"/>
-            <ClassDef glyph="uni095A094D0930" class="34"/>
-            <ClassDef glyph="uni095B" class="28"/>
-            <ClassDef glyph="uni095B094D" class="28"/>
-            <ClassDef glyph="uni095B094D092F" class="28"/>
-            <ClassDef glyph="uni095B094D0930" class="28"/>
-            <ClassDef glyph="uni095B094D095B" class="28"/>
+            <ClassDef glyph="uni095A" class="32"/>
+            <ClassDef glyph="uni095A094D" class="32"/>
+            <ClassDef glyph="uni095A094D0930" class="33"/>
+            <ClassDef glyph="uni095B" class="34"/>
+            <ClassDef glyph="uni095B094D" class="34"/>
+            <ClassDef glyph="uni095B094D092F" class="34"/>
+            <ClassDef glyph="uni095B094D0930" class="34"/>
+            <ClassDef glyph="uni095B094D095B" class="34"/>
             <ClassDef glyph="uni095C" class="27"/>
             <ClassDef glyph="uni095D" class="26"/>
-            <ClassDef glyph="uni095E" class="30"/>
-            <ClassDef glyph="uni095E094D" class="30"/>
-            <ClassDef glyph="uni095E094D.alt" class="30"/>
-            <ClassDef glyph="uni095E094D0924" class="30"/>
-            <ClassDef glyph="uni095E094D0930" class="30"/>
-            <ClassDef glyph="uni095E094D0938" class="30"/>
-            <ClassDef glyph="uni095E094D095B" class="30"/>
-            <ClassDef glyph="uni095E094D095E" class="30"/>
+            <ClassDef glyph="uni095E" class="29"/>
+            <ClassDef glyph="uni095E094D" class="29"/>
+            <ClassDef glyph="uni095E094D.alt" class="29"/>
+            <ClassDef glyph="uni095E094D0924" class="29"/>
+            <ClassDef glyph="uni095E094D0930" class="29"/>
+            <ClassDef glyph="uni095E094D0938" class="29"/>
+            <ClassDef glyph="uni095E094D095B" class="29"/>
+            <ClassDef glyph="uni095E094D095E" class="29"/>
             <ClassDef glyph="uni095F" class="37"/>
             <ClassDef glyph="uni095F094D" class="37"/>
             <ClassDef glyph="uni095F094D0930" class="37"/>
-            <ClassDef glyph="uni0961" class="29"/>
-            <ClassDef glyph="uni0979" class="28"/>
+            <ClassDef glyph="uni0961" class="28"/>
+            <ClassDef glyph="uni0979" class="34"/>
             <ClassDef glyph="uni097A" class="37"/>
-            <ClassDef glyph="uni097B" class="33"/>
-            <ClassDef glyph="uni097C" class="28"/>
+            <ClassDef glyph="uni097B" class="32"/>
+            <ClassDef glyph="uni097C" class="34"/>
             <ClassDef glyph="uni097E" class="27"/>
-            <ClassDef glyph="uni097F" class="31"/>
+            <ClassDef glyph="uni097F" class="30"/>
             <ClassDef glyph="uni20BD" class="1"/>
             <ClassDef glyph="uogonek" class="16"/>
             <ClassDef glyph="uring" class="16"/>
@@ -7723,19 +8220,19 @@
               <Value1 XAdvance="-73"/>
             </Class2Record>
             <Class2Record index="28">
-              <Value1 XAdvance="1"/>
+              <Value1 XAdvance="-15"/>
             </Class2Record>
             <Class2Record index="29">
-              <Value1 XAdvance="-15"/>
-            </Class2Record>
-            <Class2Record index="30">
               <Value1 XAdvance="-58"/>
             </Class2Record>
-            <Class2Record index="31">
+            <Class2Record index="30">
               <Value1 XAdvance="-15"/>
             </Class2Record>
-            <Class2Record index="32">
+            <Class2Record index="31">
               <Value1 XAdvance="-30"/>
+            </Class2Record>
+            <Class2Record index="32">
+              <Value1 XAdvance="0"/>
             </Class2Record>
             <Class2Record index="33">
               <Value1 XAdvance="0"/>
@@ -7869,10 +8366,10 @@
               <Value1 XAdvance="0"/>
             </Class2Record>
             <Class2Record index="32">
-              <Value1 XAdvance="0"/>
+              <Value1 XAdvance="-3"/>
             </Class2Record>
             <Class2Record index="33">
-              <Value1 XAdvance="-3"/>
+              <Value1 XAdvance="0"/>
             </Class2Record>
             <Class2Record index="34">
               <Value1 XAdvance="0"/>
@@ -8929,25 +9426,25 @@
               <Value1 XAdvance="-8"/>
             </Class2Record>
             <Class2Record index="28">
-              <Value1 XAdvance="-9"/>
-            </Class2Record>
-            <Class2Record index="29">
               <Value1 XAdvance="-46"/>
             </Class2Record>
-            <Class2Record index="30">
+            <Class2Record index="29">
               <Value1 XAdvance="-25"/>
             </Class2Record>
-            <Class2Record index="31">
+            <Class2Record index="30">
               <Value1 XAdvance="-39"/>
             </Class2Record>
-            <Class2Record index="32">
+            <Class2Record index="31">
               <Value1 XAdvance="0"/>
             </Class2Record>
-            <Class2Record index="33">
+            <Class2Record index="32">
               <Value1 XAdvance="-5"/>
             </Class2Record>
-            <Class2Record index="34">
+            <Class2Record index="33">
               <Value1 XAdvance="-53"/>
+            </Class2Record>
+            <Class2Record index="34">
+              <Value1 XAdvance="-9"/>
             </Class2Record>
             <Class2Record index="35">
               <Value1 XAdvance="-46"/>

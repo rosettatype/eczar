@@ -1,27 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="3.11">
+<ttFont ttLibVersion="3.29">
 
   <hmtx>
     <mtx name=".notdef" width="512" lsb="47"/>
     <mtx name="A" width="741" lsb="-20"/>
-    <mtx name="AE" width="982" lsb="-6"/>
+    <mtx name="AE" width="982" lsb="-20"/>
     <mtx name="Aacute" width="741" lsb="-20"/>
     <mtx name="Abreve" width="741" lsb="-20"/>
     <mtx name="Acircumflex" width="741" lsb="-20"/>
     <mtx name="Adieresis" width="741" lsb="-20"/>
     <mtx name="Agrave" width="741" lsb="-20"/>
+    <mtx name="Alpha" width="741" lsb="-20"/>
+    <mtx name="Alphaacute" width="741" lsb="-20"/>
+    <mtx name="Alphaasper" width="741" lsb="-20"/>
+    <mtx name="Alphaasperacute" width="741" lsb="-190"/>
+    <mtx name="Alphaasperacuteiotasub" width="741" lsb="-190"/>
+    <mtx name="Alphaaspergrave" width="741" lsb="-198"/>
+    <mtx name="Alphaaspergraveiotasub" width="741" lsb="-198"/>
+    <mtx name="Alphaasperiotasub" width="741" lsb="-20"/>
+    <mtx name="Alphaaspertilde" width="741" lsb="-275"/>
+    <mtx name="Alphaaspertildeiotasub" width="741" lsb="-275"/>
+    <mtx name="Alphabreve" width="741" lsb="-20"/>
+    <mtx name="Alphagrave" width="741" lsb="-20"/>
+    <mtx name="Alphaiotasub" width="741" lsb="-20"/>
+    <mtx name="Alphalenis" width="741" lsb="-20"/>
+    <mtx name="Alphalenisacute" width="741" lsb="-176"/>
+    <mtx name="Alphalenisacuteiotasub" width="741" lsb="-176"/>
+    <mtx name="Alphalenisgrave" width="741" lsb="-206"/>
+    <mtx name="Alphalenisgraveiotasub" width="741" lsb="-206"/>
+    <mtx name="Alphalenisiotasub" width="741" lsb="-20"/>
+    <mtx name="Alphalenistilde" width="741" lsb="-275"/>
+    <mtx name="Alphalenistildeiotasub" width="741" lsb="-275"/>
+    <mtx name="Alphawithmacron" width="741" lsb="-20"/>
+    <mtx name="Alphawithtonos" width="741" lsb="-20"/>
     <mtx name="Amacron" width="741" lsb="-20"/>
     <mtx name="Aogonek" width="741" lsb="-20"/>
     <mtx name="Aring" width="741" lsb="-20"/>
     <mtx name="Atilde" width="741" lsb="-20"/>
     <mtx name="B" width="717" lsb="22"/>
-    <mtx name="C" width="611" lsb="7"/>
-    <mtx name="Cacute" width="611" lsb="7"/>
-    <mtx name="Ccaron" width="611" lsb="7"/>
-    <mtx name="Ccedilla" width="611" lsb="7"/>
+    <mtx name="Beta" width="717" lsb="22"/>
+    <mtx name="C" width="612" lsb="8"/>
+    <mtx name="Cacute" width="612" lsb="8"/>
+    <mtx name="Ccaron" width="612" lsb="8"/>
+    <mtx name="Ccedilla" width="612" lsb="8"/>
+    <mtx name="Chi" width="727" lsb="-6"/>
     <mtx name="D" width="757" lsb="22"/>
     <mtx name="Dcaron" width="757" lsb="22"/>
-    <mtx name="Dcroat" width="784" lsb="12"/>
+    <mtx name="Dcroat" width="757" lsb="12"/>
+    <mtx name="Delta" width="696" lsb="17"/>
     <mtx name="E" width="670" lsb="22"/>
     <mtx name="Eacute" width="670" lsb="22"/>
     <mtx name="Ecaron" width="670" lsb="22"/>
@@ -31,12 +57,44 @@
     <mtx name="Egrave" width="670" lsb="22"/>
     <mtx name="Emacron" width="670" lsb="22"/>
     <mtx name="Eogonek" width="670" lsb="22"/>
-    <mtx name="Eth" width="784" lsb="12"/>
-    <mtx name="Euro" width="668" lsb="-23"/>
-    <mtx name="F" width="646" lsb="24"/>
-    <mtx name="G" width="720" lsb="7"/>
-    <mtx name="Gbreve" width="720" lsb="7"/>
-    <mtx name="Gcommaaccent" width="720" lsb="7"/>
+    <mtx name="Epsilon" width="670" lsb="22"/>
+    <mtx name="Epsilonacute" width="670" lsb="-200"/>
+    <mtx name="Epsilonasper" width="670" lsb="-189"/>
+    <mtx name="Epsilonasperacute" width="670" lsb="-386"/>
+    <mtx name="Epsilonaspergrave" width="670" lsb="-394"/>
+    <mtx name="Epsilongrave" width="670" lsb="-202"/>
+    <mtx name="Epsilonlenis" width="670" lsb="-193"/>
+    <mtx name="Epsilonlenisacute" width="670" lsb="-372"/>
+    <mtx name="Epsilonlenisgrave" width="670" lsb="-402"/>
+    <mtx name="Epsilonwithtonos" width="670" lsb="-200"/>
+    <mtx name="Eta" width="855" lsb="22"/>
+    <mtx name="Etaacute" width="855" lsb="-199"/>
+    <mtx name="Etaasper" width="855" lsb="-188"/>
+    <mtx name="Etaasperacute" width="855" lsb="-385"/>
+    <mtx name="Etaasperacuteiotasub" width="855" lsb="-385"/>
+    <mtx name="Etaaspergrave" width="855" lsb="-393"/>
+    <mtx name="Etaaspergraveiotasub" width="855" lsb="-393"/>
+    <mtx name="Etaasperiotasub" width="855" lsb="-188"/>
+    <mtx name="Etaaspertilde" width="855" lsb="-470"/>
+    <mtx name="Etaaspertildeiotasub" width="855" lsb="-470"/>
+    <mtx name="Etagrave" width="855" lsb="-201"/>
+    <mtx name="Etaiotasub" width="855" lsb="22"/>
+    <mtx name="Etalenis" width="855" lsb="-192"/>
+    <mtx name="Etalenisacute" width="855" lsb="-371"/>
+    <mtx name="Etalenisacuteiotasub" width="855" lsb="-371"/>
+    <mtx name="Etalenisgrave" width="855" lsb="-401"/>
+    <mtx name="Etalenisgraveiotasub" width="855" lsb="-401"/>
+    <mtx name="Etalenisiotasub" width="855" lsb="-192"/>
+    <mtx name="Etalenistilde" width="855" lsb="-470"/>
+    <mtx name="Etalenistildeiotasub" width="855" lsb="-470"/>
+    <mtx name="Etawithtonos" width="855" lsb="-199"/>
+    <mtx name="Eth" width="757" lsb="12"/>
+    <mtx name="Euro" width="660" lsb="-23"/>
+    <mtx name="F" width="659" lsb="22"/>
+    <mtx name="G" width="721" lsb="8"/>
+    <mtx name="Gamma" width="620" lsb="22"/>
+    <mtx name="Gbreve" width="721" lsb="8"/>
+    <mtx name="Gcommaaccent" width="721" lsb="8"/>
     <mtx name="H" width="855" lsb="22"/>
     <mtx name="I" width="428" lsb="22"/>
     <mtx name="Iacute" width="428" lsb="22"/>
@@ -44,47 +102,106 @@
     <mtx name="Idieresis" width="428" lsb="-15"/>
     <mtx name="Idotaccent" width="428" lsb="22"/>
     <mtx name="Igrave" width="428" lsb="22"/>
-    <mtx name="Imacron" width="441" lsb="25"/>
+    <mtx name="Imacron" width="434" lsb="22"/>
     <mtx name="Iogonek" width="428" lsb="22"/>
+    <mtx name="Iota" width="428" lsb="22"/>
+    <mtx name="Iotaacute" width="428" lsb="-200"/>
+    <mtx name="Iotaasper" width="428" lsb="-189"/>
+    <mtx name="Iotaasperacute" width="428" lsb="-386"/>
+    <mtx name="Iotaaspergrave" width="428" lsb="-394"/>
+    <mtx name="Iotaaspertilde" width="428" lsb="-471"/>
+    <mtx name="Iotabreve" width="428" lsb="22"/>
+    <mtx name="Iotadieresis" width="428" lsb="-15"/>
+    <mtx name="Iotagrave" width="428" lsb="-202"/>
+    <mtx name="Iotalenis" width="428" lsb="-193"/>
+    <mtx name="Iotalenisacute" width="428" lsb="-372"/>
+    <mtx name="Iotalenisgrave" width="428" lsb="-402"/>
+    <mtx name="Iotalenistilde" width="428" lsb="-471"/>
+    <mtx name="Iotawithmacron" width="428" lsb="10"/>
+    <mtx name="Iotawithtonos" width="428" lsb="-200"/>
     <mtx name="J" width="425" lsb="-31"/>
     <mtx name="K" width="787" lsb="22"/>
+    <mtx name="KORONIS" width="265" lsb="61"/>
+    <mtx name="Kappa" width="787" lsb="22"/>
     <mtx name="Kcommaaccent" width="787" lsb="22"/>
     <mtx name="L" width="643" lsb="22"/>
     <mtx name="Lacute" width="643" lsb="22"/>
+    <mtx name="Lamda" width="741" lsb="-20"/>
     <mtx name="Lcaron" width="643" lsb="22"/>
     <mtx name="Lcommaaccent" width="643" lsb="22"/>
-    <mtx name="Lslash" width="658" lsb="26"/>
-    <mtx name="M" width="1007" lsb="21"/>
+    <mtx name="Lslash" width="658" lsb="22"/>
+    <mtx name="M" width="1008" lsb="22"/>
+    <mtx name="Mu" width="1008" lsb="22"/>
     <mtx name="N" width="802" lsb="22"/>
     <mtx name="NULL" width="600" lsb="0"/>
     <mtx name="Nacute" width="802" lsb="22"/>
     <mtx name="Ncaron" width="802" lsb="22"/>
     <mtx name="Ncommaaccent" width="802" lsb="22"/>
     <mtx name="Ntilde" width="802" lsb="22"/>
+    <mtx name="Nu" width="802" lsb="22"/>
     <mtx name="O" width="698" lsb="8"/>
-    <mtx name="OE" width="1005" lsb="28"/>
+    <mtx name="OE" width="1014" lsb="8"/>
     <mtx name="Oacute" width="698" lsb="8"/>
     <mtx name="Ocircumflex" width="698" lsb="8"/>
     <mtx name="Odieresis" width="698" lsb="8"/>
     <mtx name="Ograve" width="698" lsb="8"/>
     <mtx name="Ohungarumlaut" width="698" lsb="8"/>
     <mtx name="Omacron" width="698" lsb="8"/>
-    <mtx name="Oslash" width="713" lsb="8"/>
+    <mtx name="Omega" width="821" lsb="10"/>
+    <mtx name="Omegaacute" width="821" lsb="-129"/>
+    <mtx name="Omegaasper" width="821" lsb="-118"/>
+    <mtx name="Omegaasperacute" width="821" lsb="-315"/>
+    <mtx name="Omegaasperacuteiotasub" width="821" lsb="-315"/>
+    <mtx name="Omegaaspergrave" width="821" lsb="-323"/>
+    <mtx name="Omegaaspergraveiotasub" width="821" lsb="-323"/>
+    <mtx name="Omegaasperiotasub" width="821" lsb="-118"/>
+    <mtx name="Omegaaspertilde" width="821" lsb="-400"/>
+    <mtx name="Omegaaspertildeiotasub" width="821" lsb="-400"/>
+    <mtx name="Omegagrave" width="821" lsb="-131"/>
+    <mtx name="Omegaiotasub" width="821" lsb="10"/>
+    <mtx name="Omegalenis" width="821" lsb="-122"/>
+    <mtx name="Omegalenisacute" width="821" lsb="-301"/>
+    <mtx name="Omegalenisacuteiotasub" width="821" lsb="-301"/>
+    <mtx name="Omegalenisgrave" width="821" lsb="-331"/>
+    <mtx name="Omegalenisgraveiotasub" width="821" lsb="-331"/>
+    <mtx name="Omegalenisiotasub" width="821" lsb="-122"/>
+    <mtx name="Omegalenistilde" width="821" lsb="-400"/>
+    <mtx name="Omegalenistildeiotasub" width="821" lsb="-400"/>
+    <mtx name="Omegawithtonos" width="821" lsb="-129"/>
+    <mtx name="Omicron" width="698" lsb="8"/>
+    <mtx name="Omicronacute" width="698" lsb="-180"/>
+    <mtx name="Omicronasper" width="698" lsb="-169"/>
+    <mtx name="Omicronasperacute" width="698" lsb="-366"/>
+    <mtx name="Omicronaspergrave" width="698" lsb="-384"/>
+    <mtx name="Omicrongrave" width="698" lsb="-182"/>
+    <mtx name="Omicronlenis" width="698" lsb="-173"/>
+    <mtx name="Omicronlenisacute" width="698" lsb="-352"/>
+    <mtx name="Omicronlenisgrave" width="698" lsb="-382"/>
+    <mtx name="Omicronwithtonos" width="698" lsb="-180"/>
+    <mtx name="Oslash" width="698" lsb="8"/>
     <mtx name="Otilde" width="698" lsb="8"/>
-    <mtx name="P" width="682" lsb="24"/>
+    <mtx name="P" width="680" lsb="22"/>
+    <mtx name="Phi" width="802" lsb="8"/>
+    <mtx name="Pi" width="847" lsb="22"/>
+    <mtx name="Psi" width="995" lsb="-5"/>
     <mtx name="Q" width="735" lsb="8"/>
     <mtx name="R" width="746" lsb="22"/>
     <mtx name="Racute" width="746" lsb="22"/>
     <mtx name="Rcaron" width="746" lsb="22"/>
     <mtx name="Rcommaaccent" width="746" lsb="22"/>
+    <mtx name="Rho" width="680" lsb="22"/>
+    <mtx name="Rhoasper" width="680" lsb="-192"/>
     <mtx name="S" width="622" lsb="48"/>
     <mtx name="Sacute" width="622" lsb="48"/>
     <mtx name="Scaron" width="622" lsb="48"/>
     <mtx name="Scedilla" width="622" lsb="48"/>
     <mtx name="Scommaaccent" width="622" lsb="48"/>
+    <mtx name="Sigma" width="668" lsb="23"/>
     <mtx name="T" width="692" lsb="6"/>
+    <mtx name="Tau" width="692" lsb="6"/>
     <mtx name="Tcaron" width="692" lsb="6"/>
-    <mtx name="Thorn" width="661" lsb="26"/>
+    <mtx name="Theta" width="698" lsb="8"/>
+    <mtx name="Thorn" width="654" lsb="22"/>
     <mtx name="U" width="773" lsb="6"/>
     <mtx name="Uacute" width="773" lsb="6"/>
     <mtx name="Ucircumflex" width="773" lsb="6"/>
@@ -93,17 +210,30 @@
     <mtx name="Uhungarumlaut" width="773" lsb="6"/>
     <mtx name="Umacron" width="773" lsb="6"/>
     <mtx name="Uogonek" width="773" lsb="6"/>
+    <mtx name="Upsilon" width="719" lsb="-4"/>
+    <mtx name="Upsilonacute" width="719" lsb="-239"/>
+    <mtx name="Upsilonasper" width="719" lsb="-228"/>
+    <mtx name="Upsilonasperacute" width="719" lsb="-425"/>
+    <mtx name="Upsilonaspergrave" width="719" lsb="-393"/>
+    <mtx name="Upsilonaspertilde" width="719" lsb="-510"/>
+    <mtx name="Upsilonbreve" width="719" lsb="-4"/>
+    <mtx name="Upsilondieresis" width="719" lsb="-4"/>
+    <mtx name="Upsilongrave" width="719" lsb="-241"/>
+    <mtx name="Upsilonwithmacron" width="719" lsb="-4"/>
+    <mtx name="Upsilonwithtonos" width="719" lsb="-239"/>
     <mtx name="Uring" width="773" lsb="6"/>
     <mtx name="V" width="738" lsb="-4"/>
-    <mtx name="W" width="1049" lsb="4"/>
+    <mtx name="W" width="1041" lsb="-4"/>
     <mtx name="X" width="727" lsb="-6"/>
-    <mtx name="Y" width="697" lsb="-4"/>
-    <mtx name="Yacute" width="697" lsb="-4"/>
-    <mtx name="Ydieresis" width="697" lsb="-4"/>
+    <mtx name="Xi" width="723" lsb="50"/>
+    <mtx name="Y" width="702" lsb="-4"/>
+    <mtx name="Yacute" width="702" lsb="-4"/>
+    <mtx name="Ydieresis" width="702" lsb="-4"/>
     <mtx name="Z" width="689" lsb="31"/>
     <mtx name="Zacute" width="689" lsb="31"/>
     <mtx name="Zcaron" width="689" lsb="31"/>
     <mtx name="Zdotaccent" width="689" lsb="31"/>
+    <mtx name="Zeta" width="689" lsb="31"/>
     <mtx name="a" width="581" lsb="24"/>
     <mtx name="aacute" width="581" lsb="24"/>
     <mtx name="abreve" width="581" lsb="24"/>
@@ -114,19 +244,56 @@
     <mtx name="adieresis" width="581" lsb="24"/>
     <mtx name="ae" width="809" lsb="24"/>
     <mtx name="agrave" width="581" lsb="24"/>
+    <mtx name="alpha" width="611" lsb="15"/>
+    <mtx name="alphaacute" width="611" lsb="15"/>
+    <mtx name="alphaacuteiotasub" width="611" lsb="15"/>
+    <mtx name="alphaasper" width="611" lsb="15"/>
+    <mtx name="alphaasperacute" width="611" lsb="15"/>
+    <mtx name="alphaasperacuteiotasub" width="611" lsb="15"/>
+    <mtx name="alphaaspergrave" width="611" lsb="15"/>
+    <mtx name="alphaaspergraveiotasub" width="611" lsb="15"/>
+    <mtx name="alphaasperiotasub" width="611" lsb="15"/>
+    <mtx name="alphaaspertilde" width="611" lsb="15"/>
+    <mtx name="alphaaspertildeiotasub" width="611" lsb="15"/>
+    <mtx name="alphabreve" width="611" lsb="15"/>
+    <mtx name="alphagrave" width="611" lsb="15"/>
+    <mtx name="alphagraveiotasub" width="611" lsb="15"/>
+    <mtx name="alphaiotasub" width="611" lsb="15"/>
+    <mtx name="alphalenis" width="611" lsb="15"/>
+    <mtx name="alphalenisacute" width="611" lsb="15"/>
+    <mtx name="alphalenisacuteiotasub" width="611" lsb="15"/>
+    <mtx name="alphalenisgrave" width="611" lsb="15"/>
+    <mtx name="alphalenisgraveiotasub" width="611" lsb="15"/>
+    <mtx name="alphalenisiotasub" width="611" lsb="15"/>
+    <mtx name="alphalenistilde" width="611" lsb="15"/>
+    <mtx name="alphalenistildeiotasub" width="611" lsb="15"/>
+    <mtx name="alphatilde" width="611" lsb="15"/>
+    <mtx name="alphatildeiotasub" width="611" lsb="15"/>
+    <mtx name="alphawithmacron" width="611" lsb="15"/>
+    <mtx name="alphawithtonos" width="611" lsb="15"/>
     <mtx name="amacron" width="581" lsb="24"/>
     <mtx name="ampersand" width="712" lsb="9"/>
+    <mtx name="anoteleia" width="299" lsb="40"/>
     <mtx name="aogonek" width="581" lsb="24"/>
     <mtx name="approxequal" width="587" lsb="53"/>
     <mtx name="aring" width="581" lsb="24"/>
     <mtx name="asciicircum" width="483" lsb="8"/>
     <mtx name="asciitilde" width="607" lsb="63"/>
+    <mtx name="asper" width="265" lsb="72"/>
+    <mtx name="asper.case" width="265" lsb="38"/>
+    <mtx name="asperacute" width="265" lsb="-37"/>
+    <mtx name="asperacute.case" width="265" lsb="-10"/>
+    <mtx name="aspergrave" width="265" lsb="-37"/>
+    <mtx name="aspergrave.case" width="500" lsb="-10"/>
+    <mtx name="aspertilde" width="265" lsb="-69"/>
+    <mtx name="aspertilde.case" width="265" lsb="-220"/>
     <mtx name="asterisk" width="434" lsb="-19"/>
     <mtx name="at" width="1098" lsb="33"/>
     <mtx name="atilde" width="581" lsb="24"/>
-    <mtx name="b" width="590" lsb="-24"/>
+    <mtx name="b" width="589" lsb="-24"/>
     <mtx name="backslash" width="417" lsb="-39"/>
     <mtx name="bar" width="333" lsb="93"/>
+    <mtx name="beta" width="541" lsb="22"/>
     <mtx name="braceleft" width="565" lsb="62"/>
     <mtx name="braceright" width="567" lsb="82"/>
     <mtx name="bracketleft" width="440" lsb="84"/>
@@ -141,9 +308,10 @@
     <mtx name="ccaron" width="479" lsb="8"/>
     <mtx name="ccedilla" width="479" lsb="8"/>
     <mtx name="cedilla" width="298" lsb="31"/>
-    <mtx name="cent" width="495" lsb="8"/>
+    <mtx name="cent" width="479" lsb="8"/>
+    <mtx name="chi" width="595" lsb="-5"/>
     <mtx name="circumflex" width="451" lsb="27"/>
-    <mtx name="colon" width="374" lsb="74"/>
+    <mtx name="colon" width="309" lsb="101"/>
     <mtx name="comma" width="329" lsb="51"/>
     <mtx name="copyright" width="769" lsb="24"/>
     <mtx name="currency" width="510" lsb="44"/>
@@ -153,13 +321,18 @@
     <mtx name="dcaron" width="609" lsb="8"/>
     <mtx name="dcroat" width="626" lsb="8"/>
     <mtx name="degree" width="374" lsb="30"/>
+    <mtx name="delta" width="511" lsb="15"/>
     <mtx name="dieresis" width="556" lsb="52"/>
+    <mtx name="dieresisacute" width="265" lsb="-169"/>
+    <mtx name="dieresisgrave" width="265" lsb="-169"/>
+    <mtx name="dieresistilde" width="265" lsb="-69"/>
+    <mtx name="dieresistonos" width="265" lsb="-143"/>
     <mtx name="divide" width="594" lsb="52"/>
-    <mtx name="dollar" width="621" lsb="48"/>
+    <mtx name="dollar" width="622" lsb="48"/>
     <mtx name="dotaccent" width="260" lsb="30"/>
     <mtx name="dotbelowcomb" width="0" lsb="-95"/>
     <mtx name="dotbelowcomb.case" width="0" lsb="-95"/>
-    <mtx name="dotlessi" width="349" lsb="4"/>
+    <mtx name="dotlessi" width="350" lsb="6"/>
     <mtx name="dvKSPLa" width="2228" lsb="-65"/>
     <mtx name="dvKSPLa.MAR" width="2257" lsb="-65"/>
     <mtx name="e" width="516" lsb="8"/>
@@ -170,25 +343,61 @@
     <mtx name="edotaccent" width="516" lsb="8"/>
     <mtx name="egrave" width="516" lsb="8"/>
     <mtx name="eight" width="591" lsb="36"/>
-    <mtx name="ellipsis" width="943" lsb="99"/>
+    <mtx name="ellipsis" width="925" lsb="101"/>
     <mtx name="emacron" width="516" lsb="8"/>
-    <mtx name="emdash" width="1047" lsb="35"/>
-    <mtx name="endash" width="586" lsb="35"/>
+    <mtx name="emdash" width="1049" lsb="34"/>
+    <mtx name="endash" width="588" lsb="34"/>
     <mtx name="enspace" width="500" lsb="0"/>
     <mtx name="eogonek" width="530" lsb="8"/>
+    <mtx name="epsilon" width="494" lsb="20"/>
+    <mtx name="epsilonacute" width="494" lsb="20"/>
+    <mtx name="epsilonasper" width="494" lsb="20"/>
+    <mtx name="epsilonasperacute" width="494" lsb="20"/>
+    <mtx name="epsilonaspergrave" width="494" lsb="20"/>
+    <mtx name="epsilongrave" width="494" lsb="20"/>
+    <mtx name="epsilonlenis" width="494" lsb="20"/>
+    <mtx name="epsilonlenisacute" width="494" lsb="20"/>
+    <mtx name="epsilonlenisgrave" width="494" lsb="20"/>
+    <mtx name="epsilonwithtonos" width="494" lsb="20"/>
     <mtx name="equal" width="576" lsb="52"/>
-    <mtx name="eth" width="557" lsb="16"/>
+    <mtx name="eta" width="567" lsb="1"/>
+    <mtx name="etaacute" width="567" lsb="1"/>
+    <mtx name="etaacuteiotasub" width="567" lsb="1"/>
+    <mtx name="etaasper" width="567" lsb="1"/>
+    <mtx name="etaasperacute" width="567" lsb="1"/>
+    <mtx name="etaasperacuteiotasub" width="567" lsb="1"/>
+    <mtx name="etaaspergrave" width="567" lsb="1"/>
+    <mtx name="etaaspergraveiotasub" width="567" lsb="1"/>
+    <mtx name="etaasperiotasub" width="567" lsb="1"/>
+    <mtx name="etaaspertilde" width="567" lsb="1"/>
+    <mtx name="etaaspertildeiotasub" width="567" lsb="1"/>
+    <mtx name="etagrave" width="567" lsb="1"/>
+    <mtx name="etagraveiotasub" width="567" lsb="1"/>
+    <mtx name="etaiotasub" width="567" lsb="1"/>
+    <mtx name="etalenis" width="567" lsb="1"/>
+    <mtx name="etalenisacute" width="567" lsb="1"/>
+    <mtx name="etalenisacuteiotasub" width="567" lsb="1"/>
+    <mtx name="etalenisgrave" width="567" lsb="1"/>
+    <mtx name="etalenisgraveiotasub" width="567" lsb="1"/>
+    <mtx name="etalenisiotasub" width="567" lsb="1"/>
+    <mtx name="etalenistilde" width="567" lsb="1"/>
+    <mtx name="etalenistildeiotasub" width="567" lsb="1"/>
+    <mtx name="etatilde" width="567" lsb="1"/>
+    <mtx name="etatildeiotasub" width="567" lsb="1"/>
+    <mtx name="etawithtonos" width="567" lsb="1"/>
+    <mtx name="eth" width="549" lsb="8"/>
     <mtx name="exclam" width="366" lsb="66"/>
-    <mtx name="exclamdown" width="366" lsb="66"/>
-    <mtx name="f" width="405" lsb="3"/>
-    <mtx name="f_b.liga" width="1022" lsb="3"/>
-    <mtx name="f_f.liga" width="810" lsb="3"/>
-    <mtx name="f_h.liga" width="1060" lsb="3"/>
-    <mtx name="f_i.liga" width="771" lsb="3"/>
-    <mtx name="f_j.liga" width="751" lsb="3"/>
-    <mtx name="f_k.liga" width="1059" lsb="3"/>
-    <mtx name="f_l.liga" width="773" lsb="3"/>
-    <mtx name="f_t.liga" width="826" lsb="3"/>
+    <mtx name="exclamdown" width="366" lsb="65"/>
+    <mtx name="f" width="408" lsb="6"/>
+    <mtx name="f_b.liga" width="994" lsb="6"/>
+    <mtx name="f_f.liga" width="816" lsb="6"/>
+    <mtx name="f_h.liga" width="1064" lsb="6"/>
+    <mtx name="f_i.liga" width="775" lsb="6"/>
+    <mtx name="f_j.liga" width="754" lsb="6"/>
+    <mtx name="f_k.liga" width="1051" lsb="6"/>
+    <mtx name="f_l.liga" width="778" lsb="6"/>
+    <mtx name="f_t.liga" width="829" lsb="6"/>
+    <mtx name="finalsigma" width="469" lsb="15"/>
     <mtx name="five" width="582" lsb="30"/>
     <mtx name="four" width="630" lsb="9"/>
     <mtx name="four.dnom" width="344" lsb="-4"/>
@@ -196,9 +405,15 @@
     <mtx name="foursuperior" width="344" lsb="-4"/>
     <mtx name="fraction" width="204" lsb="-205"/>
     <mtx name="g" width="591" lsb="7"/>
+    <mtx name="gamma" width="564" lsb="-10"/>
     <mtx name="gbreve" width="591" lsb="7"/>
     <mtx name="gcommaaccent" width="591" lsb="7"/>
-    <mtx name="germandbls" width="681" lsb="-5"/>
+    <mtx name="germandbls" width="692" lsb="6"/>
+    <mtx name="grAcute" width="265" lsb="77"/>
+    <mtx name="grAcute.case" width="265" lsb="-20"/>
+    <mtx name="grGrave" width="265" lsb="-12"/>
+    <mtx name="grGrave.case" width="265" lsb="40"/>
+    <mtx name="grTilde" width="265" lsb="-102"/>
     <mtx name="grave" width="303" lsb="12"/>
     <mtx name="gravecomb" width="0" lsb="-173"/>
     <mtx name="gravecomb.case" width="0" lsb="-163"/>
@@ -208,33 +423,68 @@
     <mtx name="guillemotright" width="657" lsb="52"/>
     <mtx name="guilsinglleft" width="379" lsb="52"/>
     <mtx name="guilsinglright" width="379" lsb="52"/>
-    <mtx name="h" width="658" lsb="6"/>
+    <mtx name="h" width="657" lsb="6"/>
     <mtx name="hungarumlaut" width="545" lsb="30"/>
     <mtx name="hyphen" width="500" lsb="34"/>
     <mtx name="hyphen.deva" width="500" lsb="34"/>
-    <mtx name="i" width="366" lsb="4"/>
-    <mtx name="iacute" width="349" lsb="4"/>
-    <mtx name="icircumflex" width="349" lsb="-25"/>
-    <mtx name="idieresis" width="349" lsb="-59"/>
-    <mtx name="igrave" width="349" lsb="-4"/>
-    <mtx name="imacron" width="366" lsb="9"/>
+    <mtx name="i" width="367" lsb="6"/>
+    <mtx name="iacute" width="350" lsb="6"/>
+    <mtx name="icircumflex" width="350" lsb="-23"/>
+    <mtx name="idieresis" width="350" lsb="-57"/>
+    <mtx name="igrave" width="350" lsb="-2"/>
+    <mtx name="imacron" width="359" lsb="6"/>
     <mtx name="infinity" width="775" lsb="30"/>
     <mtx name="integral" width="475" lsb="-33"/>
-    <mtx name="iogonek" width="366" lsb="4"/>
+    <mtx name="iogonek" width="366" lsb="6"/>
+    <mtx name="iota" width="323" lsb="30"/>
+    <mtx name="iotaacute" width="323" lsb="30"/>
+    <mtx name="iotaadscript" width="265" lsb="52"/>
+    <mtx name="iotaadscript.case" width="265" lsb="37"/>
+    <mtx name="iotaasper" width="323" lsb="30"/>
+    <mtx name="iotaasperacute" width="323" lsb="-55"/>
+    <mtx name="iotaaspergrave" width="323" lsb="-69"/>
+    <mtx name="iotaaspertilde" width="323" lsb="-101"/>
+    <mtx name="iotabreve" width="323" lsb="-10"/>
+    <mtx name="iotadieresis" width="323" lsb="-62"/>
+    <mtx name="iotadieresisacute" width="323" lsb="-129"/>
+    <mtx name="iotadieresisandtonos" width="323" lsb="-129"/>
+    <mtx name="iotadieresisgrave" width="323" lsb="-157"/>
+    <mtx name="iotadieresistilde" width="323" lsb="-83"/>
+    <mtx name="iotagrave" width="323" lsb="4"/>
+    <mtx name="iotalenis" width="323" lsb="30"/>
+    <mtx name="iotalenisacute" width="323" lsb="-37"/>
+    <mtx name="iotalenisgrave" width="323" lsb="-69"/>
+    <mtx name="iotalenistilde" width="323" lsb="-86"/>
+    <mtx name="iotatilde" width="323" lsb="-84"/>
+    <mtx name="iotawithmacron" width="323" lsb="-3"/>
+    <mtx name="iotawithtonos" width="323" lsb="30"/>
     <mtx name="j" width="346" lsb="-13"/>
-    <mtx name="k" width="644" lsb="5"/>
-    <mtx name="kcommaaccent" width="644" lsb="5"/>
-    <mtx name="l" width="369" lsb="4"/>
-    <mtx name="lacute" width="369" lsb="4"/>
-    <mtx name="lcaron" width="369" lsb="4"/>
-    <mtx name="lcommaaccent" width="369" lsb="4"/>
+    <mtx name="k" width="645" lsb="6"/>
+    <mtx name="kaisymbol" width="581" lsb="18"/>
+    <mtx name="kappa" width="581" lsb="18"/>
+    <mtx name="kcommaaccent" width="645" lsb="6"/>
+    <mtx name="l" width="371" lsb="6"/>
+    <mtx name="lacute" width="371" lsb="6"/>
+    <mtx name="lamda" width="583" lsb="-3"/>
+    <mtx name="lcaron" width="371" lsb="6"/>
+    <mtx name="lcommaaccent" width="371" lsb="6"/>
+    <mtx name="lenis" width="265" lsb="61"/>
+    <mtx name="lenis.case" width="265" lsb="-13"/>
+    <mtx name="lenisacute" width="265" lsb="-45"/>
+    <mtx name="lenisacute.case" width="265" lsb="-118"/>
+    <mtx name="lenisgrave" width="265" lsb="-45"/>
+    <mtx name="lenisgrave.case" width="265" lsb="-122"/>
+    <mtx name="lenistilde" width="265" lsb="-69"/>
+    <mtx name="lenistilde.case" width="265" lsb="-220"/>
     <mtx name="less" width="578" lsb="56"/>
     <mtx name="lessequal" width="594" lsb="52"/>
     <mtx name="logicalnot" width="592" lsb="52"/>
-    <mtx name="lslash" width="456" lsb="3"/>
+    <mtx name="lownumeralsign" width="265" lsb="33"/>
+    <mtx name="lslash" width="459" lsb="6"/>
     <mtx name="m" width="968" lsb="6"/>
     <mtx name="macron" width="454" lsb="62"/>
     <mtx name="minus" width="594" lsb="52"/>
+    <mtx name="mu" width="619" lsb="15"/>
     <mtx name="multiply" width="553" lsb="55"/>
     <mtx name="n" width="666" lsb="6"/>
     <mtx name="nacute" width="666" lsb="6"/>
@@ -243,7 +493,9 @@
     <mtx name="nine" width="592" lsb="26"/>
     <mtx name="notequal" width="576" lsb="52"/>
     <mtx name="ntilde" width="666" lsb="6"/>
+    <mtx name="nu" width="564" lsb="-10"/>
     <mtx name="numbersign" width="621" lsb="52"/>
+    <mtx name="numeralsign" width="265" lsb="33"/>
     <mtx name="o" width="539" lsb="8"/>
     <mtx name="oacute" width="539" lsb="8"/>
     <mtx name="ocircumflex" width="539" lsb="8"/>
@@ -253,6 +505,41 @@
     <mtx name="ograve" width="539" lsb="8"/>
     <mtx name="ohungarumlaut" width="539" lsb="8"/>
     <mtx name="omacron" width="539" lsb="8"/>
+    <mtx name="omega" width="718" lsb="15"/>
+    <mtx name="omegaacute" width="718" lsb="15"/>
+    <mtx name="omegaacuteiotasub" width="718" lsb="15"/>
+    <mtx name="omegaasper" width="718" lsb="15"/>
+    <mtx name="omegaasperacute" width="718" lsb="15"/>
+    <mtx name="omegaasperacuteiotasub" width="718" lsb="15"/>
+    <mtx name="omegaaspergrave" width="718" lsb="15"/>
+    <mtx name="omegaaspergraveiotasub" width="718" lsb="15"/>
+    <mtx name="omegaasperiotasub" width="718" lsb="15"/>
+    <mtx name="omegaaspertilde" width="718" lsb="15"/>
+    <mtx name="omegaaspertildeiotasub" width="718" lsb="15"/>
+    <mtx name="omegagrave" width="718" lsb="15"/>
+    <mtx name="omegagraveiotasub" width="718" lsb="15"/>
+    <mtx name="omegaiotasub" width="718" lsb="15"/>
+    <mtx name="omegalenis" width="718" lsb="15"/>
+    <mtx name="omegalenisacute" width="718" lsb="15"/>
+    <mtx name="omegalenisacuteiotasub" width="718" lsb="15"/>
+    <mtx name="omegalenisgrave" width="718" lsb="15"/>
+    <mtx name="omegalenisgraveiotasub" width="718" lsb="15"/>
+    <mtx name="omegalenisiotasub" width="718" lsb="15"/>
+    <mtx name="omegalenistilde" width="718" lsb="15"/>
+    <mtx name="omegalenistildeiotasub" width="718" lsb="15"/>
+    <mtx name="omegatilde" width="718" lsb="15"/>
+    <mtx name="omegatildeiotasub" width="718" lsb="15"/>
+    <mtx name="omegawithtonos" width="718" lsb="15"/>
+    <mtx name="omicron" width="534" lsb="15"/>
+    <mtx name="omicronacute" width="534" lsb="15"/>
+    <mtx name="omicronasper" width="534" lsb="15"/>
+    <mtx name="omicronasperacute" width="534" lsb="15"/>
+    <mtx name="omicronaspergrave" width="534" lsb="15"/>
+    <mtx name="omicrongrave" width="534" lsb="15"/>
+    <mtx name="omicronlenis" width="534" lsb="15"/>
+    <mtx name="omicronlenisacute" width="534" lsb="15"/>
+    <mtx name="omicronlenisgrave" width="534" lsb="15"/>
+    <mtx name="omicronwithtonos" width="534" lsb="15"/>
     <mtx name="one" width="469" lsb="5"/>
     <mtx name="one.dnom" width="286" lsb="16"/>
     <mtx name="one.numr" width="286" lsb="16"/>
@@ -261,10 +548,10 @@
     <mtx name="onesuperior" width="286" lsb="16"/>
     <mtx name="ordfeminine" width="453" lsb="31"/>
     <mtx name="ordmasculine" width="442" lsb="16"/>
-    <mtx name="oslash" width="551" lsb="8"/>
+    <mtx name="oslash" width="539" lsb="8"/>
     <mtx name="otilde" width="539" lsb="8"/>
-    <mtx name="p" width="619" lsb="3"/>
-    <mtx name="paragraph" width="721" lsb="0"/>
+    <mtx name="p" width="618" lsb="6"/>
+    <mtx name="paragraph" width="718" lsb="0"/>
     <mtx name="parenleft" width="386" lsb="33"/>
     <mtx name="parenright" width="386" lsb="41"/>
     <mtx name="partialdiff" width="600" lsb="43"/>
@@ -273,17 +560,19 @@
     <mtx name="period.deva" width="320" lsb="101"/>
     <mtx name="periodcentered" width="309" lsb="30"/>
     <mtx name="perthousand" width="1200" lsb="36"/>
+    <mtx name="phi" width="719" lsb="15"/>
     <mtx name="pi" width="817" lsb="30"/>
     <mtx name="plus" width="569" lsb="52"/>
     <mtx name="plusminus" width="561" lsb="52"/>
     <mtx name="product" width="842" lsb="22"/>
-    <mtx name="q" width="602" lsb="17"/>
+    <mtx name="psi" width="756" lsb="-5"/>
+    <mtx name="q" width="593" lsb="8"/>
     <mtx name="question" width="661" lsb="85"/>
-    <mtx name="questiondown" width="661" lsb="84"/>
+    <mtx name="questiondown" width="661" lsb="85"/>
     <mtx name="quotedbl" width="475" lsb="6"/>
-    <mtx name="quotedblbase" width="508" lsb="40"/>
+    <mtx name="quotedblbase" width="507" lsb="40"/>
     <mtx name="quotedblleft" width="507" lsb="22"/>
-    <mtx name="quotedblright" width="508" lsb="40"/>
+    <mtx name="quotedblright" width="507" lsb="40"/>
     <mtx name="quoteleft" width="270" lsb="22"/>
     <mtx name="quoteright" width="270" lsb="40"/>
     <mtx name="quotesinglbase" width="270" lsb="40"/>
@@ -294,22 +583,28 @@
     <mtx name="rcaron" width="517" lsb="6"/>
     <mtx name="rcommaaccent" width="517" lsb="6"/>
     <mtx name="registered" width="575" lsb="11"/>
+    <mtx name="rho" width="525" lsb="22"/>
+    <mtx name="rhoasper" width="525" lsb="22"/>
+    <mtx name="rholenis" width="525" lsb="22"/>
     <mtx name="ring" width="306" lsb="25"/>
     <mtx name="s" width="472" lsb="15"/>
     <mtx name="sacute" width="472" lsb="15"/>
     <mtx name="scaron" width="472" lsb="15"/>
     <mtx name="scedilla" width="472" lsb="15"/>
     <mtx name="scommaaccent" width="472" lsb="15"/>
-    <mtx name="section" width="549" lsb="66"/>
+    <mtx name="section" width="523" lsb="48"/>
     <mtx name="semicolon" width="334" lsb="51"/>
     <mtx name="seven" width="527" lsb="21"/>
+    <mtx name="sigma" width="627" lsb="15"/>
     <mtx name="six" width="599" lsb="32"/>
     <mtx name="slash" width="428" lsb="7"/>
     <mtx name="space" width="265" lsb="0"/>
     <mtx name="sterling" width="617" lsb="12"/>
     <mtx name="summation" width="719" lsb="30"/>
     <mtx name="t" width="421" lsb="-4"/>
+    <mtx name="tau" width="597" lsb="-5"/>
     <mtx name="tcaron" width="421" lsb="-4"/>
+    <mtx name="theta" width="542" lsb="17"/>
     <mtx name="thorn" width="605" lsb="-24"/>
     <mtx name="three" width="611" lsb="36"/>
     <mtx name="three.dnom" width="320" lsb="23"/>
@@ -319,7 +614,9 @@
     <mtx name="tilde" width="531" lsb="28"/>
     <mtx name="tildecomb" width="0" lsb="-225"/>
     <mtx name="tildecomb.case" width="0" lsb="-233"/>
-    <mtx name="trademark" width="939" lsb="1"/>
+    <mtx name="tonos" width="265" lsb="77"/>
+    <mtx name="tonos.case" width="265" lsb="-20"/>
+    <mtx name="trademark" width="944" lsb="6"/>
     <mtx name="two" width="617" lsb="33"/>
     <mtx name="two.dnom" width="320" lsb="32"/>
     <mtx name="two.numr" width="320" lsb="32"/>
@@ -935,8 +1232,8 @@
     <mtx name="uni2009" width="100" lsb="0"/>
     <mtx name="uni200C" width="0" lsb="-69"/>
     <mtx name="uni200D" width="0" lsb="-99"/>
-    <mtx name="uni20BD" width="698" lsb="26"/>
-    <mtx name="uni2126" width="744" lsb="28"/>
+    <mtx name="uni20BD" width="690" lsb="22"/>
+    <mtx name="uni2126" width="704" lsb="8"/>
     <mtx name="uni2206" width="743" lsb="40"/>
     <mtx name="uni2215" width="204" lsb="-205"/>
     <mtx name="uni25CA" width="550" lsb="34"/>
@@ -949,19 +1246,41 @@
     <mtx name="uniA8FB.small" width="126" lsb="-65"/>
     <mtx name="uniA8FB0901" width="316" lsb="-107"/>
     <mtx name="uogonek" width="656" lsb="0"/>
+    <mtx name="upsilon" width="562" lsb="-5"/>
+    <mtx name="upsilonacute" width="562" lsb="-5"/>
+    <mtx name="upsilonasper" width="562" lsb="-5"/>
+    <mtx name="upsilonasperacute" width="562" lsb="-5"/>
+    <mtx name="upsilonaspergrave" width="562" lsb="-5"/>
+    <mtx name="upsilonaspertilde" width="562" lsb="-5"/>
+    <mtx name="upsilonbreve" width="562" lsb="-5"/>
+    <mtx name="upsilondieresis" width="562" lsb="-5"/>
+    <mtx name="upsilondieresisacute" width="562" lsb="-5"/>
+    <mtx name="upsilondieresisandtonos" width="562" lsb="-5"/>
+    <mtx name="upsilondieresisgrave" width="562" lsb="-32"/>
+    <mtx name="upsilondieresistilde" width="562" lsb="-5"/>
+    <mtx name="upsilongrave" width="562" lsb="-5"/>
+    <mtx name="upsilonlenis" width="562" lsb="-5"/>
+    <mtx name="upsilonlenisacute" width="562" lsb="-5"/>
+    <mtx name="upsilonlenisgrave" width="562" lsb="-5"/>
+    <mtx name="upsilonlenistilde" width="562" lsb="-5"/>
+    <mtx name="upsilontilde" width="562" lsb="-5"/>
+    <mtx name="upsilonwithmacron" width="562" lsb="-5"/>
+    <mtx name="upsilonwithtonos" width="562" lsb="-5"/>
     <mtx name="uring" width="656" lsb="0"/>
     <mtx name="v" width="565" lsb="-31"/>
-    <mtx name="w" width="803" lsb="-31"/>
+    <mtx name="w" width="802" lsb="-31"/>
     <mtx name="x" width="602" lsb="3"/>
-    <mtx name="y" width="584" lsb="-32"/>
-    <mtx name="yacute" width="584" lsb="-32"/>
-    <mtx name="ydieresis" width="584" lsb="-32"/>
-    <mtx name="yen" width="685" lsb="-28"/>
+    <mtx name="xi" width="444" lsb="-6"/>
+    <mtx name="y" width="584" lsb="-31"/>
+    <mtx name="yacute" width="584" lsb="-31"/>
+    <mtx name="ydieresis" width="584" lsb="-31"/>
+    <mtx name="yen" width="675" lsb="-31"/>
     <mtx name="z" width="537" lsb="10"/>
     <mtx name="zacute" width="537" lsb="10"/>
     <mtx name="zcaron" width="537" lsb="10"/>
     <mtx name="zdotaccent" width="537" lsb="10"/>
     <mtx name="zero" width="614" lsb="17"/>
+    <mtx name="zeta" width="428" lsb="-7"/>
   </hmtx>
 
 </ttFont>

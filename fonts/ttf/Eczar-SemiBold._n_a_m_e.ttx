@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="3.11">
+<ttFont ttLibVersion="3.29">
 
   <name>
     <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
@@ -9,13 +9,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      1.004; RST;Eczar-SemiBold
+      1.005; RST;Eczar-SemiBold
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Eczar SemiBold
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 1.004;PS 1.002;hotconv 1.0.88;makeotf.lib2.5.647800; ttfautohint (v1.6)
+      Version 1.005;hotconv 1.0.109;makeotfexe 2.5.65593; ttfautohint (v1.8.2)
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Eczar-SemiBold
@@ -45,7 +45,7 @@
       Reset matras for alternates
     </namerecord>
     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
-      Copyright 2014 Eczar Project Authors (info@rosettatype.com)
+      Copyright (c) 2014, Vaibhav Singh (design) and Rosetta Type Foundry s.r.o. (post-production).
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
       Eczar SemiBold
@@ -54,13 +54,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      1.004; RST;Eczar-SemiBold
+      1.005; RST;Eczar-SemiBold
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Eczar SemiBold
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 1.004;PS 1.002;hotconv 1.0.88;makeotf.lib2.5.647800; ttfautohint (v1.6)
+      Version 1.005;hotconv 1.0.109;makeotfexe 2.5.65593; ttfautohint (v1.8.2)
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Eczar-SemiBold
@@ -113,6 +113,9 @@
     <namerecord nameID="2" platformID="3" platEncID="1" langID="0x439">
       Regular
     </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x439">
+      एक्ज़र SemiBold
+    </namerecord>
     <namerecord nameID="16" platformID="3" platEncID="1" langID="0x439">
       एक्ज़र
     </namerecord>
@@ -125,6 +128,9 @@
     <namerecord nameID="2" platformID="3" platEncID="1" langID="0x44e">
       Regular
     </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x44e">
+      एक्ज़र SemiBold
+    </namerecord>
     <namerecord nameID="16" platformID="3" platEncID="1" langID="0x44e">
       एक्ज़र
     </namerecord>
@@ -136,6 +142,9 @@
     </namerecord>
     <namerecord nameID="2" platformID="3" platEncID="1" langID="0x461">
       Regular
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x461">
+      एक्ज़र SemiBold
     </namerecord>
     <namerecord nameID="16" platformID="3" platEncID="1" langID="0x461">
       एक्ज़र

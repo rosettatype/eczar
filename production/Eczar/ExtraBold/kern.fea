@@ -1,7 +1,6 @@
-# Created: Mon Mar 14 13:45:01 2016
+# Created: Sun Dec 16 01:24:52 2018
 # PS Name: Eczar-ExtraBold
-# MM Inst: None
-# MinKern: +/- 0 inclusive
+# MinKern: +/- 3 inclusive
 # exported from Defcon
 
 @MMK_L_A = [A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek];
@@ -78,10 +77,56 @@
 
 # glyph, glyph:
 pos B X -30;
+pos Beta Chi -30;
+pos Beta Omega -15;
+pos Beta lamda -25;
+pos Beta paragraph 10;
+pos Beta quotesingle 40;
+pos Chi Tau -20;
+pos Chi pi -25;
+pos Chi tau -65;
+pos Chi theta -20;
 pos F J -30;
 pos F X -40;
+pos Gamma Chi -40;
+pos Gamma Omega -50;
+pos Gamma asterisk 60;
+pos Gamma comma -30;
+pos Gamma lownumeralsign -40;
+pos Gamma paragraph 50;
+pos Gamma pi -50;
+pos Gamma quotesingle 80;
+pos Gamma tau -55;
+pos Kappa Omega -10;
+pos Kappa Tau -20;
+pos Kappa beta -10;
+pos Kappa pi -25;
+pos Kappa quotesingle 10;
+pos Kappa tau -65;
+pos Kappa theta -40;
 pos P J -40;
 pos P X -40;
+pos Tau Chi -20;
+pos Tau asterisk 60;
+pos Tau lownumeralsign -30;
+pos Tau paragraph 50;
+pos Tau pi -40;
+pos Tau quotesingle 80;
+pos Tau tau -30;
+pos beta Chi -30;
+pos beta comma -30;
+pos beta period -30;
+pos beta quotesingle 35;
+pos chi Chi -40;
+pos chi Tau -30;
+pos chi comma -10;
+pos chi lamda -30;
+pos chi paragraph 40;
+pos chi period -80;
+pos delta asterisk 60;
+pos delta comma -30;
+pos delta period -30;
+pos delta quotesingle 45;
 pos dvC dvCa -65;
 pos dvEight dvEight.ss05 -30;
 pos dvEight dvNine -30;
@@ -238,6 +283,8 @@ pos eight nine -10;
 pos eight three -20;
 pos eight two -10;
 pos eight zero -20;
+pos finalsigma comma -20;
+pos finalsigma paragraph 50;
 pos five eight 10;
 pos five five -20;
 pos five four -10;
@@ -245,6 +292,15 @@ pos five nine -10;
 pos five zero -20;
 pos four eight 10;
 pos four zero -25;
+pos kaisymbol quotesingle 40;
+pos kappa comma -15;
+pos kappa paragraph 30;
+pos kappa quotesingle 40;
+pos lamda Tau -80;
+pos lamda paragraph -45;
+pos lamda pi -30;
+pos lamda quotesingle -20;
+pos lamda tau -80;
 pos nine five -15;
 pos nine four -10;
 pos nine three -10;
@@ -252,15 +308,38 @@ pos nine zero -10;
 pos one four -10;
 pos one seven -10;
 pos one zero -40;
+pos pi Chi -30;
+pos pi Tau -25;
+pos pi comma -30;
+pos pi lamda -25;
+pos pi paragraph 40;
+pos pi quotesingle 50;
 pos seven five -15;
 pos seven four -45;
 pos seven one 10;
 pos seven seven 5;
 pos seven six -30;
 pos seven zero -20;
+pos sigma Chi -50;
+pos sigma Tau -15;
+pos sigma comma -45;
+pos sigma lamda -40;
+pos sigma paragraph 40;
+pos sigma quotesingle 45;
 pos six eight 10;
 pos six nine -10;
 pos six zero -10;
+pos tau Chi -30;
+pos tau Tau -15;
+pos tau comma -50;
+pos tau paragraph 40;
+pos tau period -20;
+pos tau quotesingle 50;
+pos theta Chi -20;
+pos theta comma -35;
+pos theta paragraph 20;
+pos theta period -30;
+pos theta quotesingle 45;
 pos three eight 10;
 pos three five -10;
 pos three six 5;
@@ -270,6 +349,11 @@ pos two five -10;
 pos two four -40;
 pos two nine -10;
 pos two zero -40;
+pos xi Tau 40;
+pos xi asterisk 70;
+pos xi beta 20;
+pos xi paragraph 35;
+pos xi quotesingle 70;
 pos zero eight -10;
 pos zero five -20;
 pos zero four -20;
@@ -277,9 +361,17 @@ pos zero nine -10;
 pos zero one -20;
 pos zero three -30;
 pos zero two -20;
+pos zeta Chi 25;
+pos zeta Tau 60;
+pos zeta asterisk 90;
+pos zeta beta 20;
+pos zeta delta 5;
+pos zeta paragraph 55;
+pos zeta quotesingle 100;
 
 # glyph, glyph exceptions:
 pos dvM dvTha -20;
+pos dvSh dvDda 0;
 
 # glyph, group exceptions:
 enum pos Q @MMK_R_Y -55;

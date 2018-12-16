@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont ttLibVersion="3.11">
+<ttFont ttLibVersion="3.29">
 
   <BASE>
     <Version value="0x00010000"/>
@@ -10,7 +10,7 @@
         <BaselineTag index="1" value="romn"/>
       </BaseTagList>
       <BaseScriptList>
-        <!-- BaseScriptCount=3 -->
+        <!-- BaseScriptCount=4 -->
         <BaseScriptRecord index="0">
           <BaseScriptTag value="DFLT"/>
           <BaseScript>
@@ -44,6 +44,22 @@
           </BaseScript>
         </BaseScriptRecord>
         <BaseScriptRecord index="2">
+          <BaseScriptTag value="grek"/>
+          <BaseScript>
+            <BaseValues>
+              <DefaultIndex value="1"/>
+              <!-- BaseCoordCount=2 -->
+              <BaseCoord index="0" Format="1">
+                <Coordinate value="-175"/>
+              </BaseCoord>
+              <BaseCoord index="1" Format="1">
+                <Coordinate value="0"/>
+              </BaseCoord>
+            </BaseValues>
+            <!-- BaseLangSysCount=0 -->
+          </BaseScript>
+        </BaseScriptRecord>
+        <BaseScriptRecord index="3">
           <BaseScriptTag value="latn"/>
           <BaseScript>
             <BaseValues>

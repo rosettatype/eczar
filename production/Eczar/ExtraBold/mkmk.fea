@@ -1,0 +1,14 @@
+# Created: Sun Dec 16 01:24:57 2018
+# PS Name: Eczar-ExtraBold
+# MM Inst: None
+# exported from Defcon
+
+# NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
+
+lookup MKMK_MARK_top {
+	lookupflag MarkAttachmentType @MC_top;
+
+	pos mark asper <anchor 208 474> mark @MC_top;
+} MKMK_MARK_top;
+
+
