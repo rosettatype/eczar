@@ -11,6 +11,14 @@
 
 @dvMatraI = [dvMatraI dvMatraI.1 dvMatraI.2 dvMatraI.3 dvMatraI.4 dvMatraI.5 dvMatraI.6 dvMatraI.7 dvMatraI.8 dvMatraI.9 dvMatraI.10 dvMatraI.11 dvMatraI.12 dvMatraI.13 dvMatraI.14 dvMatraI.15 dvMatraI.16 dvMatraI.17 dvMatraI.18 dvMatraI.19 dvMatraI.20 dvMatraI.21];
 
+@grekAll = [pi Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lamda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphawithtonos Epsilonwithtonos Etawithtonos Iotawithtonos Omicronwithtonos Upsilonwithtonos Omegawithtonos Iotadieresis Upsilondieresis Alphalenis Alphaasper Alphalenisgrave Alphaaspergrave Alphalenisacute Alphaasperacute Alphalenistilde Alphaaspertilde Alphagrave Alphaacute Alphabreve Alphawithmacron Alphaiotasub Alphalenisiotasub Alphaasperiotasub Alphalenisgraveiotasub Alphaaspergraveiotasub Alphalenisacuteiotasub Alphaasperacuteiotasub Alphalenistildeiotasub Alphaaspertildeiotasub Epsilonlenis Epsilonasper Epsilonlenisgrave Epsilonaspergrave Epsilonlenisacute Epsilonasperacute Epsilongrave Epsilonacute Etalenis Etaasper Etalenisgrave Etaaspergrave Etalenisacute Etaasperacute Etalenistilde Etaaspertilde Etagrave Etaacute Etaiotasub Etalenisiotasub Etaasperiotasub Etalenisgraveiotasub Etaaspergraveiotasub Etalenisacuteiotasub Etaasperacuteiotasub Etalenistildeiotasub Etaaspertildeiotasub Iotalenis Iotaasper Iotalenisgrave Iotaaspergrave Iotalenisacute Iotaasperacute Iotalenistilde Iotaaspertilde Iotagrave Iotaacute Iotabreve Iotawithmacron Omicronlenis Omicronasper Omicronlenisgrave Omicronaspergrave Omicronlenisacute Omicronasperacute Omicrongrave Omicronacute Rhoasper Upsilonasper Upsilonaspergrave Upsilonasperacute Upsilonaspertilde Upsilongrave Upsilonacute Upsilonbreve Upsilonwithmacron Omegalenis Omegaasper Omegalenisgrave Omegaaspergrave Omegalenisacute Omegaasperacute Omegalenistilde Omegaaspertilde Omegagrave Omegaacute Omegaiotasub Omegalenisiotasub Omegaasperiotasub Omegalenisgraveiotasub Omegaaspergraveiotasub Omegalenisacuteiotasub Omegaasperacuteiotasub Omegalenistildeiotasub Omegaaspertildeiotasub alpha beta gamma delta epsilon zeta eta theta iota kappa lamda mu nu xi omicron rho finalsigma sigma tau upsilon phi chi psi omega iotawithtonos iotadieresis iotadieresisandtonos upsilonwithtonos upsilondieresis upsilondieresisandtonos omicronwithtonos omegawithtonos alphawithtonos epsilonwithtonos etawithtonos kaisymbol alphalenis alphaasper alphalenisgrave alphaaspergrave alphalenisacute alphaasperacute alphalenistilde alphaaspertilde alphagrave alphaacute alphatilde alphabreve alphawithmacron alphaiotasub alphagraveiotasub alphaacuteiotasub alphalenisiotasub alphaasperiotasub alphalenisgraveiotasub alphaaspergraveiotasub alphalenisacuteiotasub alphaasperacuteiotasub alphalenistildeiotasub alphaaspertildeiotasub alphatildeiotasub epsilonlenis epsilonasper epsilonlenisgrave epsilonaspergrave epsilonlenisacute epsilonasperacute epsilongrave epsilonacute etalenis etaasper etalenisgrave etaaspergrave etalenisacute etaasperacute etalenistilde etaaspertilde etagrave etaacute etatilde etaiotasub etagraveiotasub etaacuteiotasub etalenisiotasub etaasperiotasub etalenisgraveiotasub etaaspergraveiotasub etalenisacuteiotasub etaasperacuteiotasub etalenistildeiotasub etaaspertildeiotasub etatildeiotasub iotalenis iotaasper iotalenisgrave iotaaspergrave iotalenisacute iotaasperacute iotalenistilde iotaaspertilde iotagrave iotaacute iotatilde iotabreve iotawithmacron iotadieresisgrave iotadieresisacute iotadieresistilde omicronlenis omicronasper omicronlenisgrave omicronaspergrave omicronlenisacute omicronasperacute omicrongrave omicronacute rholenis rhoasper upsilonlenis upsilonasper upsilonlenisgrave upsilonaspergrave upsilonlenisacute upsilonasperacute upsilonlenistilde upsilonaspertilde upsilongrave upsilonacute upsilontilde upsilonbreve upsilonwithmacron upsilondieresisgrave upsilondieresisacute upsilondieresistilde omegalenis omegaasper omegalenisgrave omegaaspergrave omegalenisacute omegaasperacute omegalenistilde omegaaspertilde omegagrave omegaacute omegatilde omegaiotasub omegagraveiotasub omegaacuteiotasub omegalenisiotasub omegaasperiotasub omegalenisgraveiotasub omegaaspergraveiotasub omegalenisacuteiotasub omegaasperacuteiotasub omegalenistildeiotasub omegaaspertildeiotasub];
+
+@grekUppercase = [Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lamda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphawithtonos Epsilonwithtonos Etawithtonos Iotawithtonos Omicronwithtonos Upsilonwithtonos Omegawithtonos Iotadieresis Upsilondieresis Alphalenis Alphaasper Alphalenisgrave Alphaaspergrave Alphalenisacute Alphaasperacute Alphalenistilde Alphaaspertilde Alphagrave Alphaacute Alphabreve Alphawithmacron Alphaiotasub Alphalenisiotasub Alphaasperiotasub Alphalenisgraveiotasub Alphaaspergraveiotasub Alphalenisacuteiotasub Alphaasperacuteiotasub Alphalenistildeiotasub Alphaaspertildeiotasub Epsilonlenis Epsilonasper Epsilonlenisgrave Epsilonaspergrave Epsilonlenisacute Epsilonasperacute Epsilongrave Epsilonacute Etalenis Etaasper Etalenisgrave Etaaspergrave Etalenisacute Etaasperacute Etalenistilde Etaaspertilde Etagrave Etaacute Etaiotasub Etalenisiotasub Etaasperiotasub Etalenisgraveiotasub Etaaspergraveiotasub Etalenisacuteiotasub Etaasperacuteiotasub Etalenistildeiotasub Etaaspertildeiotasub Iotalenis Iotaasper Iotalenisgrave Iotaaspergrave Iotalenisacute Iotaasperacute Iotalenistilde Iotaaspertilde Iotagrave Iotaacute Iotabreve Iotawithmacron Omicronlenis Omicronasper Omicronlenisgrave Omicronaspergrave Omicronlenisacute Omicronasperacute Omicrongrave Omicronacute Rhoasper Upsilonasper Upsilonaspergrave Upsilonasperacute Upsilonaspertilde Upsilongrave Upsilonacute Upsilonbreve Upsilonwithmacron Omegalenis Omegaasper Omegalenisgrave Omegaaspergrave Omegalenisacute Omegaasperacute Omegalenistilde Omegaaspertilde Omegagrave Omegaacute Omegaiotasub Omegalenisiotasub Omegaasperiotasub Omegalenisgraveiotasub Omegaaspergraveiotasub Omegalenisacuteiotasub Omegaasperacuteiotasub Omegalenistildeiotasub Omegaaspertildeiotasub];
+
+@grekUppercaseTonos = [Alphawithtonos Epsilonwithtonos Etawithtonos Iotawithtonos Omicronwithtonos Upsilonwithtonos Omegawithtonos];
+
+@grekUppercaseTonosless = [Alpha Epsilon Eta Iota Omicron Upsilon Omega];
+
 
 
 #----------------------------------------------------------------------------
@@ -79,6 +87,11 @@ feature locl {
 			sub scedilla by scommaaccent;
 			sub Tcedilla by Tcommaaccent;
 			sub tcedilla by tcommaaccent;
+	
+	script grek;
+		language dflt;
+			sub acutecomb by tonos;
+
 } locl;
 
 
@@ -1002,6 +1015,22 @@ feature ccmp {
 		sub dvMatraCandraE [dvAnusvara dvCandrabindu dvAnusvara.calt dvCandrabindu.calt] by dvCandrabindu;
 		sub dvMatraCandraE.calt [dvAnusvara dvCandrabindu dvAnusvara.calt dvCandrabindu.calt] by dvCandrabindu.calt;
 	} CCMP_makeCandrabindu;
+
+	lookup grek_dieresisUppercaseInsertion {
+		script grek;
+		sub [Alphawithtonos Epsilonwithtonos Omicronwithtonos Upsilonwithtonos] Iota' by Iotadieresis;
+		sub [Alphawithtonos Epsilonwithtonos Etawithtonos Omicronwithtonos Omegawithtonos] Upsilon' by Upsilondieresis;
+	} grek_dieresisUppercaseInsertion;
+
+	lookup grek_tonosUppercase {
+	    sub @grekUppercaseTonos' @grekUppercase by @grekUppercaseTonosless;
+		sub @grekUppercase @grekUppercaseTonos' by @grekUppercaseTonosless;
+	} grek_tonosUppercase;
+
+	lookup grek_anoteleia {
+		ignore sub @grekAll periodcentered' @grekAll;
+		sub @grekAll periodcentered' by anoteleia;
+	} grek_anoteleia;
 } ccmp;
 
 
@@ -1081,7 +1110,7 @@ feature calt {
 
 
 #----------------------------------------------------------------------------
-# Latin-only features, superiors, numerators, denominators, fractions, ordinals, case-sensitive accents, ligatures
+# Latin and Greek features, superiors, numerators, denominators, fractions, ordinals, case-sensitive accents, ligatures
 
 feature sups {
 	sub two by twosuperior;
@@ -1133,6 +1162,18 @@ feature case {
 	sub ringcomb by ringcomb.case;
 	sub tildecomb by tildecomb.case;
 	sub commaaccentturnedabovecomb by commaaccentturnedabovecomb.case;
+	sub iotaadscript by iotaadscript.case;
+	sub tonos by tonos.case;
+	sub lenis by lenis.case;
+	sub asper by asper.case;
+	sub lenisgrave by lenisgrave.case;
+	sub aspergrave by aspergrave.case;
+	sub lenisacute by lenisacute.case;
+	sub asperacute by asperacute.case;
+	sub lenistilde by lenistilde.case;
+	sub aspertilde by aspertilde.case;
+	sub grGrave by grGrave.case;
+	sub grAcute by grAcute.case;
 } case;
 
 feature liga {
