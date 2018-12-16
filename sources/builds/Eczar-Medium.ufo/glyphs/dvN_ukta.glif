@@ -4,6 +4,7 @@
   <unicode hex="093C"/>
   <outline>
     <contour>
+      <point x="10" y="-205" type="curve"/>
       <point x="35" y="-189"/>
       <point x="61" y="-156"/>
       <point x="72" y="-127" type="curve"/>
@@ -15,10 +16,15 @@
       <point x="-70" y="-144" type="curve"/>
       <point x="-53" y="-167"/>
       <point x="-15" y="-196"/>
-      <point x="10" y="-205" type="curve"/>
     </contour>
     <contour>
       <point x="-2" y="-31" type="move" name="_blwmNUKTA"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:53:53 +0000</string>
+    </dict>
+  </lib>
 </glyph>

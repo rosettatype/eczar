@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eta" format="1">
+  <advance width="533"/>
+  <unicode hex="03B7"/>
+  <outline>
+    <contour>
+      <point x="455" y="-224" type="curve"/>
+      <point x="486" y="-209" type="line"/>
+      <point x="487" y="240" type="line" smooth="yes"/>
+      <point x="487" y="409"/>
+      <point x="438" y="492"/>
+      <point x="339" y="492" type="curve"/>
+      <point x="257" y="492"/>
+      <point x="193" y="418"/>
+      <point x="176" y="306" type="curve"/>
+      <point x="179" y="243" type="line"/>
+      <point x="194" y="191" type="line"/>
+      <point x="215" y="293"/>
+      <point x="285" y="376"/>
+      <point x="355" y="376" type="curve"/>
+      <point x="382" y="376"/>
+      <point x="398" y="371"/>
+      <point x="408" y="359" type="curve"/>
+      <point x="410" y="353"/>
+      <point x="412" y="341"/>
+      <point x="412" y="318" type="curve"/>
+      <point x="412" y="219"/>
+      <point x="399" y="98"/>
+      <point x="349" y="-197" type="curve"/>
+      <point x="380" y="-215"/>
+      <point x="416" y="-224"/>
+    </contour>
+    <contour>
+      <point x="91" y="6" type="line"/>
+      <point x="98" y="-3" type="line"/>
+      <point x="127" y="-8"/>
+      <point x="182" y="-7"/>
+      <point x="212" y="0" type="curve"/>
+      <point x="194" y="243" type="line"/>
+      <point x="199" y="339" type="line"/>
+      <point x="196" y="388"/>
+      <point x="185" y="428"/>
+      <point x="168" y="455" type="curve"/>
+      <point x="153" y="478"/>
+      <point x="133" y="492"/>
+      <point x="111" y="492" type="curve"/>
+      <point x="73" y="492"/>
+      <point x="30" y="455"/>
+      <point x="5" y="402" type="curve"/>
+      <point x="21" y="368" type="line"/>
+      <point x="174" y="379" type="line"/>
+      <point x="141" y="417" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="303" y="470" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

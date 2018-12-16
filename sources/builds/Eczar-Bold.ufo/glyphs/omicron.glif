@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicron" format="1">
+  <advance width="523"/>
+  <unicode hex="03BF"/>
+  <outline>
+    <contour>
+      <point x="254" y="-20" type="curve"/>
+      <point x="398" y="-20"/>
+      <point x="503" y="94"/>
+      <point x="503" y="251" type="curve"/>
+      <point x="503" y="398"/>
+      <point x="407" y="501"/>
+      <point x="269" y="501" type="curve"/>
+      <point x="125" y="501"/>
+      <point x="19" y="386"/>
+      <point x="19" y="229" type="curve"/>
+      <point x="19" y="82"/>
+      <point x="115" y="-20"/>
+    </contour>
+    <contour>
+      <point x="217" y="155" type="curve"/>
+      <point x="180" y="155"/>
+      <point x="145" y="159"/>
+      <point x="119" y="169" type="curve"/>
+      <point x="110" y="181"/>
+      <point x="105" y="197"/>
+      <point x="105" y="216" type="curve"/>
+      <point x="105" y="283"/>
+      <point x="175" y="325"/>
+      <point x="306" y="325" type="curve"/>
+      <point x="343" y="325"/>
+      <point x="377" y="321"/>
+      <point x="404" y="311" type="curve"/>
+      <point x="413" y="299"/>
+      <point x="418" y="283"/>
+      <point x="418" y="265" type="curve"/>
+      <point x="418" y="197"/>
+      <point x="348" y="155"/>
+    </contour>
+    <contour>
+      <point x="286" y="473" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:46:59 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

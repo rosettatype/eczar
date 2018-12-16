@@ -10,56 +10,56 @@
       <point x="208" y="650" type="line"/>
     </contour>
     <contour>
-      <point x="96" y="57"/>
-      <point x="60" y="46"/>
       <point x="30" y="32" type="curve"/>
       <point x="36" y="0" type="line"/>
       <point x="130" y="0" type="line"/>
       <point x="129" y="67" type="line"/>
+      <point x="96" y="57"/>
+      <point x="60" y="46"/>
     </contour>
     <contour>
+      <point x="187" y="63" type="line"/>
       <point x="184" y="0" type="line"/>
       <point x="324" y="0" type="line"/>
       <point x="325" y="47" type="line"/>
-      <point x="187" y="63" type="line"/>
     </contour>
     <contour>
-      <point x="197" y="333" type="line"/>
       <point x="197" y="274" type="line"/>
       <point x="437" y="264" type="line"/>
       <point x="437" y="351" type="line"/>
+      <point x="197" y="333" type="line"/>
     </contour>
     <contour>
-      <point x="109" y="650" type="line"/>
-      <point x="184" y="594" type="line"/>
-      <point x="485" y="573" type="line"/>
-      <point x="502" y="650" type="line"/>
-    </contour>
-    <contour>
-      <point x="45" y="650" type="line"/>
       <point x="44" y="602" type="line"/>
       <point x="140" y="596" type="line"/>
       <point x="138" y="650" type="line"/>
+      <point x="45" y="650" type="line"/>
     </contour>
     <contour>
+      <point x="184" y="594" type="line"/>
+      <point x="485" y="573" type="line"/>
+      <point x="502" y="650" type="line"/>
+      <point x="109" y="650" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="605" type="line"/>
+      <point x="438" y="485" type="line"/>
       <point x="492" y="485" type="line"/>
       <point x="503" y="546"/>
       <point x="505" y="617"/>
       <point x="502" y="650" type="curve"/>
-      <point x="422" y="605" type="line"/>
-      <point x="438" y="485" type="line"/>
-    </contour>
-    <contour>
-      <point x="290" y="650" type="move" name="top"/>
     </contour>
     <contour>
       <point x="290" y="0" type="move" name="bottom"/>
     </contour>
+    <contour>
+      <point x="290" y="650" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:11:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>I</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -8,8 +8,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>auto</string>
       <key>public.markColor</key>

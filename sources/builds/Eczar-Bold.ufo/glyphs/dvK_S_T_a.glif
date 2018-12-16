@@ -3,12 +3,27 @@
   <advance width="1750"/>
   <outline>
     <contour>
-      <point x="720" y="538" type="line"/>
-      <point x="741" y="580" type="line"/>
-      <point x="685" y="655" type="line"/>
-      <point x="-36" y="655" type="line"/>
-      <point x="-57" y="613" type="line"/>
-      <point x="0" y="538" type="line"/>
+      <point x="286" y="87" type="curve"/>
+      <point x="351" y="87"/>
+      <point x="393" y="120"/>
+      <point x="430" y="163" type="curve"/>
+      <point x="358" y="311" type="line"/>
+      <point x="323" y="236"/>
+      <point x="250" y="199"/>
+      <point x="198" y="203" type="curve"/>
+      <point x="156" y="266"/>
+      <point x="194" y="353"/>
+      <point x="280" y="353" type="curve"/>
+      <point x="319" y="353"/>
+      <point x="358" y="335"/>
+      <point x="408" y="300" type="curve"/>
+      <point x="426" y="374" type="line"/>
+      <point x="246" y="469" type="line"/>
+      <point x="115" y="498"/>
+      <point x="24" y="407"/>
+      <point x="24" y="307" type="curve"/>
+      <point x="24" y="174"/>
+      <point x="180" y="87"/>
     </contour>
     <contour>
       <point x="334" y="19" type="line"/>
@@ -19,52 +34,34 @@
       <point x="334" y="590" type="line"/>
     </contour>
     <contour>
-      <point x="759" y="326" type="line"/>
-      <point x="725" y="386"/>
-      <point x="662" y="430"/>
-      <point x="595" y="430" type="curve" smooth="yes"/>
-      <point x="500" y="430"/>
-      <point x="430" y="340"/>
       <point x="380" y="250" type="curve"/>
       <point x="444" y="124" type="line"/>
       <point x="498" y="211"/>
       <point x="575" y="282"/>
-      <point x="624" y="282" type="curve" smooth="yes"/>
+      <point x="624" y="282" type="curve"/>
       <point x="639" y="282"/>
       <point x="649" y="275"/>
-      <point x="660" y="265" type="curve" smooth="yes"/>
+      <point x="660" y="265" type="curve"/>
       <point x="677" y="248" type="line"/>
+      <point x="759" y="326" type="line"/>
+      <point x="725" y="386"/>
+      <point x="662" y="430"/>
+      <point x="595" y="430" type="curve"/>
+      <point x="500" y="430"/>
+      <point x="430" y="340"/>
     </contour>
     <contour>
-      <point x="246" y="469" type="line"/>
-      <point x="115" y="498"/>
-      <point x="24" y="407"/>
-      <point x="24" y="307" type="curve" smooth="yes"/>
-      <point x="24" y="174"/>
-      <point x="180" y="87"/>
-      <point x="286" y="87" type="curve" smooth="yes"/>
-      <point x="351" y="87"/>
-      <point x="393" y="120"/>
-      <point x="430" y="163" type="curve"/>
-      <point x="358" y="311" type="line"/>
-      <point x="323" y="236"/>
-      <point x="250" y="199"/>
-      <point x="198" y="203" type="curve"/>
-      <point x="156" y="266"/>
-      <point x="194" y="353"/>
-      <point x="280" y="353" type="curve" smooth="yes"/>
-      <point x="319" y="353"/>
-      <point x="358" y="335"/>
-      <point x="408" y="300" type="curve"/>
-      <point x="426" y="374" type="line"/>
+      <point x="-57" y="613" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="720" y="538" type="line"/>
+      <point x="741" y="580" type="line"/>
+      <point x="685" y="655" type="line"/>
+      <point x="-36" y="655" type="line"/>
     </contour>
     <component base="dvS" xOffset="645"/>
     <component base="dvTa" xOffset="1122"/>
     <contour>
       <point x="1588" y="660" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="1585" y="473" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="1570" y="660" type="move" name="abvmCANDRABINDU"/>
@@ -73,7 +70,27 @@
       <point x="1852" y="660" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="1585" y="473" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="1493" y="1" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvS</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:51:22 +0000</string>
+    </dict>
+  </lib>
 </glyph>

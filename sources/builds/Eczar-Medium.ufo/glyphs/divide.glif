@@ -10,6 +10,10 @@
       <point x="542" y="278" type="line"/>
     </contour>
     <contour>
+      <point x="311" y="-21" type="curve"/>
+      <point x="359" y="1"/>
+      <point x="372" y="47"/>
+      <point x="375" y="56" type="curve"/>
       <point x="372" y="65"/>
       <point x="361" y="107"/>
       <point x="298" y="132" type="curve"/>
@@ -18,12 +22,12 @@
       <point x="230" y="44" type="curve"/>
       <point x="235" y="36"/>
       <point x="254" y="-9"/>
-      <point x="311" y="-21" type="curve"/>
-      <point x="359" y="1"/>
-      <point x="372" y="47"/>
-      <point x="375" y="56" type="curve"/>
     </contour>
     <contour>
+      <point x="312" y="345" type="curve"/>
+      <point x="360" y="367"/>
+      <point x="373" y="412"/>
+      <point x="376" y="421" type="curve"/>
       <point x="373" y="430"/>
       <point x="362" y="472"/>
       <point x="299" y="498" type="curve"/>
@@ -32,16 +36,12 @@
       <point x="231" y="410" type="curve"/>
       <point x="236" y="401"/>
       <point x="255" y="357"/>
-      <point x="312" y="345" type="curve"/>
-      <point x="360" y="367"/>
-      <point x="373" y="412"/>
-      <point x="376" y="421" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>minus</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

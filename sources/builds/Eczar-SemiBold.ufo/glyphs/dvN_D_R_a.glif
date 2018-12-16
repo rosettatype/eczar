@@ -3,36 +3,33 @@
   <advance width="916"/>
   <outline>
     <contour>
-      <point x="434" y="538" type="line"/>
-      <point x="451" y="573" type="line"/>
-      <point x="404" y="639" type="line"/>
-      <point x="-31" y="639" type="line"/>
-      <point x="-48" y="605" type="line"/>
-      <point x="-1" y="538" type="line"/>
-    </contour>
-    <contour>
-      <point x="24" y="318" type="line"/>
-      <point x="42" y="246"/>
-      <point x="105" y="158"/>
       <point x="169" y="117" type="curve"/>
       <point x="229" y="145" type="line"/>
       <point x="229" y="327" type="line"/>
       <point x="162" y="371" type="line"/>
       <point x="63" y="371" type="line"/>
+      <point x="24" y="318" type="line"/>
+      <point x="42" y="246"/>
+      <point x="105" y="158"/>
     </contour>
     <contour>
-      <point x="460" y="284" type="line"/>
-      <point x="415" y="371" type="line"/>
       <point x="117" y="371" type="line"/>
       <point x="148" y="251" type="line"/>
       <point x="440" y="251" type="line"/>
+      <point x="460" y="284" type="line"/>
+      <point x="415" y="371" type="line"/>
+    </contour>
+    <contour>
+      <point x="-48" y="605" type="line"/>
+      <point x="-1" y="538" type="line"/>
+      <point x="434" y="538" type="line"/>
+      <point x="451" y="573" type="line"/>
+      <point x="404" y="639" type="line"/>
+      <point x="-31" y="639" type="line"/>
     </contour>
     <component base="dvDRa" xOffset="319"/>
     <contour>
       <point x="753" y="650" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="751" y="472" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="736" y="650" type="move" name="abvmCANDRABINDU"/>
@@ -41,7 +38,16 @@
       <point x="981" y="650" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="751" y="472" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="771" y="-147" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:16:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xi" format="1">
+  <advance width="643"/>
+  <unicode hex="039E"/>
+  <outline>
+    <contour>
+      <point x="59" y="660" type="curve"/>
+      <point x="75" y="561" type="line"/>
+      <point x="321" y="572" type="line"/>
+      <point x="568" y="561" type="line"/>
+      <point x="585" y="660" type="line"/>
+      <point x="403" y="654"/>
+      <point x="247" y="655"/>
+    </contour>
+    <contour>
+      <point x="55" y="0" type="curve"/>
+      <point x="156" y="32" type="line"/>
+      <point x="111" y="203" type="line"/>
+      <point x="43" y="198" type="line"/>
+      <point x="41" y="141"/>
+      <point x="46" y="51"/>
+    </contour>
+    <contour>
+      <point x="71" y="97" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="588" y="0" type="line"/>
+      <point x="571" y="97" type="line"/>
+      <point x="322" y="86" type="line"/>
+    </contour>
+    <contour>
+      <point x="487" y="32" type="line"/>
+      <point x="588" y="0" type="line"/>
+      <point x="597" y="51"/>
+      <point x="602" y="141"/>
+      <point x="600" y="198" type="curve"/>
+      <point x="532" y="203" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="286" type="line"/>
+      <point x="492" y="277" type="line"/>
+      <point x="492" y="380" type="line"/>
+      <point x="154" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="461" type="curve"/>
+      <point x="139" y="461" type="line"/>
+      <point x="157" y="623" type="line"/>
+      <point x="59" y="660" type="line"/>
+      <point x="55" y="622"/>
+      <point x="59" y="526"/>
+    </contour>
+    <contour>
+      <point x="486" y="623" type="line"/>
+      <point x="504" y="461" type="line"/>
+      <point x="572" y="461" type="line"/>
+      <point x="584" y="526"/>
+      <point x="588" y="622"/>
+      <point x="585" y="660" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

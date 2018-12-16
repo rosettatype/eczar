@@ -4,6 +4,7 @@
   <unicode hex="0902"/>
   <outline>
     <contour>
+      <point x="0" y="730" type="curve"/>
       <point x="37" y="755"/>
       <point x="78" y="807"/>
       <point x="95" y="851" type="curve"/>
@@ -15,10 +16,15 @@
       <point x="-124" y="825" type="curve"/>
       <point x="-98" y="789"/>
       <point x="-39" y="745"/>
-      <point x="0" y="730" type="curve"/>
     </contour>
     <contour>
       <point x="0" y="670" type="move" name="_abvmBINDU"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:54:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -11,18 +11,18 @@
       <point x="241" y="689" type="line"/>
     </contour>
     <contour>
-      <point x="481" y="439" type="line"/>
-      <point x="475" y="468" type="line"/>
-      <point x="93" y="468" type="line"/>
       <point x="50" y="425" type="line"/>
       <point x="56" y="396" type="line"/>
       <point x="438" y="396" type="line"/>
+      <point x="481" y="439" type="line"/>
+      <point x="475" y="468" type="line"/>
+      <point x="93" y="468" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:11:21 +0000</string>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
     </dict>

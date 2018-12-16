@@ -4,23 +4,23 @@
   <unicode hex="00A2"/>
   <outline>
     <contour>
+      <point x="210" y="605" type="line"/>
       <point x="210" y="454" type="line"/>
       <point x="272" y="454" type="line"/>
       <point x="272" y="605" type="line"/>
-      <point x="210" y="605" type="line"/>
     </contour>
     <contour>
+      <point x="210" y="36" type="line"/>
       <point x="210" y="-115" type="line"/>
       <point x="272" y="-115" type="line"/>
       <point x="272" y="36" type="line"/>
-      <point x="210" y="36" type="line"/>
     </contour>
-    <component base="c" yOffset="29" yScale="0.916"/>
+    <component base="c" yScale="0.916" yOffset="29"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:11:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>c</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

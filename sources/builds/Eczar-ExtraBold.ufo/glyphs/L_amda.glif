@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lamda" format="1">
+  <advance width="741"/>
+  <unicode hex="039B"/>
+  <outline>
+    <contour>
+      <point x="254" y="645" type="line"/>
+      <point x="492" y="0" type="line"/>
+      <point x="713" y="0" type="line"/>
+      <point x="436" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="32" type="curve"/>
+      <point x="-14" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="79" y="91" type="line"/>
+      <point x="41" y="73"/>
+      <point x="8" y="54"/>
+    </contour>
+    <contour>
+      <point x="136" y="79" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="274" y="55" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="32" type="curve"/>
+      <point x="394" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+      <point x="487" y="91" type="line"/>
+      <point x="449" y="73"/>
+      <point x="416" y="54"/>
+    </contour>
+    <contour>
+      <point x="291" y="646" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="400" y="628" type="line"/>
+    </contour>
+    <contour>
+      <point x="619" y="79" type="line"/>
+      <point x="616" y="0" type="line"/>
+      <point x="756" y="0" type="line"/>
+      <point x="757" y="55" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:01:00 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pi" format="1">
+  <advance width="795"/>
+  <unicode hex="03A0"/>
+  <outline>
+    <contour>
+      <point x="111" y="658" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="263" y="0" type="line"/>
+      <point x="263" y="658" type="line"/>
+    </contour>
+    <contour>
+      <point x="26" y="32" type="curve"/>
+      <point x="32" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="125" y="79" type="line"/>
+      <point x="90" y="65"/>
+      <point x="55" y="50"/>
+    </contour>
+    <contour>
+      <point x="218" y="71" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="356" y="51" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="32" type="curve"/>
+      <point x="446" y="0" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="539" y="79" type="line"/>
+      <point x="503" y="65"/>
+      <point x="469" y="50"/>
+    </contour>
+    <contour>
+      <point x="34" y="607" type="line"/>
+      <point x="172" y="587" type="line"/>
+      <point x="175" y="658" type="line"/>
+      <point x="35" y="658" type="line"/>
+    </contour>
+    <contour>
+      <point x="631" y="71" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="768" y="0" type="line"/>
+      <point x="769" y="51" type="line"/>
+    </contour>
+    <contour>
+      <point x="525" y="658" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="676" y="0" type="line"/>
+      <point x="676" y="658" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="658" type="line"/>
+      <point x="222" y="575" type="line"/>
+      <point x="540" y="575" type="line"/>
+      <point x="540" y="658" type="line"/>
+    </contour>
+    <contour>
+      <point x="661" y="658" type="line"/>
+      <point x="662" y="579" type="line"/>
+      <point x="698" y="593"/>
+      <point x="732" y="608"/>
+      <point x="761" y="626" type="curve"/>
+      <point x="755" y="658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:16:21 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

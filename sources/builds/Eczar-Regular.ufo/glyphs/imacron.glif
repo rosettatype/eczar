@@ -4,21 +4,21 @@
   <unicode hex="012B"/>
   <outline>
     <contour>
-      <point x="97" y="651"/>
-      <point x="54" y="646"/>
       <point x="15" y="626" type="curve"/>
       <point x="21" y="582" type="line"/>
       <point x="249" y="582" type="line"/>
       <point x="296" y="616" type="line"/>
       <point x="291" y="651" type="line"/>
       <point x="128" y="651" type="line"/>
+      <point x="97" y="651"/>
+      <point x="54" y="646"/>
     </contour>
     <component base="dotlessi" xOffset="26"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:11:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>i</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

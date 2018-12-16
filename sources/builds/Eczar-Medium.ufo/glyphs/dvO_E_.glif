@@ -4,12 +4,18 @@
   <unicode hex="0973"/>
   <outline>
     <contour>
-      <point x="595" y="795" type="line"/>
       <point x="595" y="584" type="line"/>
       <point x="645" y="556" type="line"/>
       <point x="671" y="566" type="line"/>
       <point x="671" y="795" type="line"/>
+      <point x="595" y="795" type="line"/>
     </contour>
     <component base="dvA"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -4,20 +4,26 @@
   <unicode hex="0946"/>
   <outline>
     <contour>
-      <point x="-615" y="1056" type="line"/>
-      <point x="-615" y="626"/>
-      <point x="-225" y="855"/>
       <point x="-215" y="642" type="curve"/>
       <point x="-104" y="642" type="line"/>
       <point x="-107" y="1083"/>
       <point x="-476" y="819"/>
       <point x="-511" y="1066" type="curve"/>
-    </contour>
-    <contour>
-      <point x="11" y="670" type="move" name="abvmBINDU"/>
+      <point x="-615" y="1056" type="line"/>
+      <point x="-615" y="626"/>
+      <point x="-225" y="855"/>
     </contour>
     <contour>
       <point x="-165" y="475" type="move" name="_abvmTOP"/>
     </contour>
+    <contour>
+      <point x="11" y="670" type="move" name="abvmBINDU"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:01:00 +0000</string>
+    </dict>
+  </lib>
 </glyph>

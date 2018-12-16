@@ -3,12 +3,26 @@
   <advance width="276"/>
   <outline>
     <contour>
-      <point x="302" y="538" type="line"/>
-      <point x="315" y="565" type="line"/>
-      <point x="277" y="624" type="line"/>
-      <point x="-26" y="624" type="line"/>
-      <point x="-39" y="596" type="line"/>
-      <point x="0" y="538" type="line"/>
+      <point x="97" y="611" type="curve"/>
+      <point x="161" y="611" type="line"/>
+      <point x="129" y="654"/>
+      <point x="120" y="687"/>
+      <point x="120" y="715" type="curve"/>
+      <point x="120" y="780"/>
+      <point x="169" y="826"/>
+      <point x="239" y="826" type="curve"/>
+      <point x="328" y="826"/>
+      <point x="401" y="752"/>
+      <point x="499" y="647" type="curve"/>
+      <point x="542" y="686" type="line"/>
+      <point x="405" y="853"/>
+      <point x="310" y="924"/>
+      <point x="201" y="924" type="curve"/>
+      <point x="95" y="924"/>
+      <point x="21" y="858"/>
+      <point x="21" y="764" type="curve"/>
+      <point x="21" y="712"/>
+      <point x="43" y="659"/>
     </contour>
     <contour>
       <point x="85" y="10" type="line"/>
@@ -19,29 +33,21 @@
       <point x="85" y="571" type="line"/>
     </contour>
     <contour>
-      <point x="542" y="686" type="line"/>
-      <point x="405" y="853"/>
-      <point x="310" y="924"/>
-      <point x="201" y="924" type="curve" smooth="yes"/>
-      <point x="95" y="924"/>
-      <point x="21" y="858"/>
-      <point x="21" y="764" type="curve" smooth="yes"/>
-      <point x="21" y="712"/>
-      <point x="43" y="659"/>
-      <point x="97" y="611" type="curve"/>
-      <point x="161" y="611" type="line"/>
-      <point x="129" y="654"/>
-      <point x="120" y="687"/>
-      <point x="120" y="715" type="curve" smooth="yes"/>
-      <point x="120" y="780"/>
-      <point x="169" y="826"/>
-      <point x="239" y="826" type="curve" smooth="yes"/>
-      <point x="328" y="826"/>
-      <point x="401" y="752"/>
-      <point x="499" y="647" type="curve"/>
+      <point x="-39" y="596" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="302" y="538" type="line"/>
+      <point x="315" y="565" type="line"/>
+      <point x="277" y="624" type="line"/>
+      <point x="-26" y="624" type="line"/>
     </contour>
     <contour>
       <point x="542" y="686" type="move" name="abvmTOP"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+    </dict>
+  </lib>
 </glyph>

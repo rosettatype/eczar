@@ -4,42 +4,42 @@
   <unicode hex="006C"/>
   <outline>
     <contour>
+      <point x="91" y="689" type="line"/>
       <point x="91" y="0" type="line"/>
       <point x="236" y="0" type="line"/>
       <point x="236" y="692" type="line"/>
       <point x="187" y="736" type="line"/>
-      <point x="91" y="689" type="line"/>
     </contour>
     <contour>
+      <point x="15" y="34" type="curve"/>
+      <point x="18" y="0" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="130" y="78" type="line"/>
+      <point x="97" y="70"/>
+      <point x="48" y="53"/>
+    </contour>
+    <contour>
+      <point x="186" y="91" type="curve"/>
+      <point x="169" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="309" y="49" type="line"/>
+      <point x="276" y="69"/>
+      <point x="225" y="83"/>
+    </contour>
+    <contour>
+      <point x="16" y="653" type="line"/>
       <point x="125" y="641" type="line"/>
       <point x="191" y="681" type="line"/>
       <point x="187" y="736" type="line"/>
       <point x="126" y="734"/>
       <point x="61" y="721"/>
       <point x="9" y="701" type="curve"/>
-      <point x="16" y="653" type="line"/>
-    </contour>
-    <contour>
-      <point x="305" y="0" type="line"/>
-      <point x="309" y="49" type="line"/>
-      <point x="276" y="69"/>
-      <point x="225" y="83"/>
-      <point x="186" y="91" type="curve"/>
-      <point x="169" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="119" y="0" type="line"/>
-      <point x="130" y="78" type="line"/>
-      <point x="97" y="70"/>
-      <point x="48" y="53"/>
-      <point x="15" y="34" type="curve"/>
-      <point x="18" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="158" y="735" type="move" name="top"/>
     </contour>
     <contour>
       <point x="172" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="158" y="735" type="move" name="top"/>
     </contour>
     <contour>
       <point x="311" y="468" type="move" name="topright"/>
@@ -47,8 +47,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:16:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>n</string>
       <key>public.markColor</key>

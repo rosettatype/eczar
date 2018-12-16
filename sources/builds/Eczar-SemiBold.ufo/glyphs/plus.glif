@@ -4,24 +4,24 @@
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="334" y="293" type="line"/>
-      <point x="334" y="482" type="line"/>
-      <point x="237" y="482" type="line"/>
-      <point x="237" y="293" type="line"/>
-      <point x="56" y="293" type="line"/>
-      <point x="56" y="205" type="line"/>
       <point x="237" y="205" type="line"/>
       <point x="237" y="16" type="line"/>
       <point x="334" y="16" type="line"/>
       <point x="334" y="205" type="line"/>
       <point x="514" y="205" type="line"/>
       <point x="514" y="293" type="line"/>
+      <point x="334" y="293" type="line"/>
+      <point x="334" y="482" type="line"/>
+      <point x="237" y="482" type="line"/>
+      <point x="237" y="293" type="line"/>
+      <point x="56" y="293" type="line"/>
+      <point x="56" y="205" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:16:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>minus</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

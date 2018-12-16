@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lenistilde" format="1">
+  <advance width="315"/>
+  <unicode hex="1FCF"/>
+  <outline>
+    <component base="grTilde" xOffset="17" yOffset="220"/>
+    <component base="lenis" xOffset="-2"/>
+    <contour>
+      <point x="198" y="471" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:15:42 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

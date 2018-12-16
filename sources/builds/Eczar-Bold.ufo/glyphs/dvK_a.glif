@@ -4,13 +4,29 @@
   <unicode hex="0915"/>
   <outline>
     <contour>
-      <point x="241" y="469" type="line"/>
-      <point x="104" y="493"/>
-      <point x="20" y="404"/>
-      <point x="20" y="304" type="curve" smooth="yes"/>
-      <point x="20" y="168"/>
-      <point x="175" y="87"/>
-      <point x="280" y="87" type="curve" smooth="yes"/>
+      <point x="518" y="103" type="curve"/>
+      <point x="630" y="-14" type="line"/>
+      <point x="733" y="54"/>
+      <point x="796" y="136"/>
+      <point x="796" y="230" type="curve"/>
+      <point x="796" y="343"/>
+      <point x="706" y="445"/>
+      <point x="597" y="445" type="curve"/>
+      <point x="500" y="445"/>
+      <point x="429" y="361"/>
+      <point x="381" y="272" type="curve"/>
+      <point x="445" y="146" type="line"/>
+      <point x="500" y="229"/>
+      <point x="578" y="299"/>
+      <point x="625" y="299" type="curve"/>
+      <point x="650" y="299"/>
+      <point x="660" y="283"/>
+      <point x="660" y="263" type="curve"/>
+      <point x="660" y="215"/>
+      <point x="599" y="164"/>
+    </contour>
+    <contour>
+      <point x="280" y="87" type="curve"/>
       <point x="345" y="87"/>
       <point x="386" y="118"/>
       <point x="425" y="163" type="curve"/>
@@ -20,19 +36,17 @@
       <point x="193" y="203" type="curve"/>
       <point x="150" y="256"/>
       <point x="188" y="353"/>
-      <point x="275" y="353" type="curve" smooth="yes"/>
+      <point x="275" y="353" type="curve"/>
       <point x="314" y="353"/>
       <point x="355" y="333"/>
       <point x="402" y="300" type="curve"/>
       <point x="421" y="374" type="line"/>
-    </contour>
-    <contour>
-      <point x="850" y="538" type="line"/>
-      <point x="871" y="580" type="line"/>
-      <point x="815" y="655" type="line"/>
-      <point x="-36" y="655" type="line"/>
-      <point x="-57" y="613" type="line"/>
-      <point x="0" y="538" type="line"/>
+      <point x="241" y="469" type="line"/>
+      <point x="104" y="493"/>
+      <point x="20" y="404"/>
+      <point x="20" y="304" type="curve"/>
+      <point x="20" y="168"/>
+      <point x="175" y="87"/>
     </contour>
     <contour>
       <point x="329" y="19" type="line"/>
@@ -43,32 +57,15 @@
       <point x="329" y="590" type="line"/>
     </contour>
     <contour>
-      <point x="445" y="146" type="line"/>
-      <point x="500" y="229"/>
-      <point x="578" y="299"/>
-      <point x="625" y="299" type="curve" smooth="yes"/>
-      <point x="650" y="299"/>
-      <point x="660" y="283"/>
-      <point x="660" y="263" type="curve" smooth="yes"/>
-      <point x="660" y="215"/>
-      <point x="599" y="164"/>
-      <point x="518" y="103" type="curve"/>
-      <point x="630" y="-14" type="line"/>
-      <point x="733" y="54"/>
-      <point x="796" y="136"/>
-      <point x="796" y="230" type="curve" smooth="yes"/>
-      <point x="796" y="343"/>
-      <point x="706" y="445"/>
-      <point x="597" y="445" type="curve" smooth="yes"/>
-      <point x="500" y="445"/>
-      <point x="429" y="361"/>
-      <point x="381" y="272" type="curve"/>
+      <point x="-57" y="613" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="850" y="538" type="line"/>
+      <point x="871" y="580" type="line"/>
+      <point x="815" y="655" type="line"/>
+      <point x="-36" y="655" type="line"/>
     </contour>
     <contour>
       <point x="404" y="660" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="433" y="473" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="444" y="660" type="move" name="abvmCANDRABINDU"/>
@@ -77,7 +74,16 @@
       <point x="743" y="660" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="433" y="473" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="309" y="1" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:51:22 +0000</string>
+    </dict>
+  </lib>
 </glyph>

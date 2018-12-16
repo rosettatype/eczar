@@ -8,16 +8,22 @@
       <point x="353" y="650" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="485" y="472" type="move" name="abvmTOP"/>
-    </contour>
-    <contour>
       <point x="370" y="650" type="move" name="abvmCANDRABINDU"/>
     </contour>
     <contour>
       <point x="715" y="650" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="485" y="472" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="398" y="-188" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:53:37 +0000</string>
+    </dict>
+  </lib>
 </glyph>

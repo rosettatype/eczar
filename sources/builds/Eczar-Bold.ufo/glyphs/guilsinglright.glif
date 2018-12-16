@@ -4,19 +4,19 @@
   <unicode hex="203A"/>
   <outline>
     <contour>
-      <point x="144" y="476" type="line"/>
-      <point x="61" y="420" type="line"/>
-      <point x="153" y="253" type="line"/>
       <point x="54" y="95" type="line"/>
       <point x="142" y="33" type="line"/>
       <point x="309" y="214" type="line"/>
       <point x="309" y="293" type="line"/>
+      <point x="144" y="476" type="line"/>
+      <point x="61" y="420" type="line"/>
+      <point x="153" y="253" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:51:22 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=|</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

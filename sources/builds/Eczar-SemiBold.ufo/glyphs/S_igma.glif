@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma" format="1">
+  <advance width="624"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="31" y="64" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="491" y="102" type="line"/>
+      <point x="128" y="98" type="line"/>
+      <point x="144" y="44" type="line"/>
+      <point x="392" y="349" type="line"/>
+      <point x="196" y="614" type="line"/>
+      <point x="143" y="585" type="line"/>
+      <point x="537" y="560" type="line"/>
+      <point x="562" y="658" type="line"/>
+      <point x="70" y="658" type="line"/>
+      <point x="35" y="593" type="line"/>
+      <point x="263" y="291" type="line"/>
+      <point x="254" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="24" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="567" y="53"/>
+      <point x="577" y="162"/>
+      <point x="575" y="218" type="curve"/>
+      <point x="491" y="225" type="line"/>
+    </contour>
+    <contour>
+      <point x="435" y="631" type="line"/>
+      <point x="462" y="468" type="line"/>
+      <point x="547" y="468" type="line"/>
+      <point x="560" y="533"/>
+      <point x="565" y="619"/>
+      <point x="562" y="658" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:16:21 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

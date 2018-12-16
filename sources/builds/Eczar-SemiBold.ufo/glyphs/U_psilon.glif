@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilon" format="1">
+  <advance width="667"/>
+  <unicode hex="03A5"/>
+  <outline>
+    <contour>
+      <point x="251" y="164" type="curve"/>
+      <point x="403" y="182" type="line"/>
+      <point x="403" y="370"/>
+      <point x="494" y="566"/>
+      <point x="580" y="584" type="curve"/>
+      <point x="569" y="582" type="line"/>
+      <point x="659" y="582" type="line"/>
+      <point x="672" y="625" type="line"/>
+      <point x="645" y="647"/>
+      <point x="599" y="665"/>
+      <point x="560" y="665" type="curve"/>
+      <point x="460" y="665"/>
+      <point x="368" y="535"/>
+      <point x="336" y="287" type="curve"/>
+      <point x="349" y="293" type="line"/>
+      <point x="337" y="456" type="line"/>
+      <point x="288" y="600"/>
+      <point x="226" y="665"/>
+      <point x="139" y="665" type="curve"/>
+      <point x="92" y="665"/>
+      <point x="40" y="645"/>
+      <point x="-2" y="615" type="curve"/>
+      <point x="11" y="573" type="line"/>
+      <point x="103" y="580" type="line"/>
+      <point x="82" y="582" type="line"/>
+      <point x="168" y="554"/>
+      <point x="251" y="343"/>
+    </contour>
+    <contour>
+      <point x="164" y="32" type="curve"/>
+      <point x="170" y="0" type="line"/>
+      <point x="264" y="0" type="line"/>
+      <point x="263" y="79" type="line"/>
+      <point x="228" y="65"/>
+      <point x="193" y="50"/>
+    </contour>
+    <contour>
+      <point x="356" y="71" type="line"/>
+      <point x="353" y="0" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="494" y="51" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="294" type="line"/>
+      <point x="251" y="0" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="403" y="294" type="line"/>
+    </contour>
+    <contour>
+      <point x="331" y="350" type="line"/>
+      <point x="329" y="280" type="line"/>
+      <point x="365" y="280" type="line"/>
+      <point x="365" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="-80" y="343" type="move" name="left"/>
+    </contour>
+    <contour>
+      <point x="341" y="650" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:16:42 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

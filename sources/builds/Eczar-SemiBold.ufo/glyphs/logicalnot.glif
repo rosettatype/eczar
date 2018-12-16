@@ -10,16 +10,16 @@
       <point x="536" y="273" type="line"/>
     </contour>
     <contour>
-      <point x="536" y="273" type="line"/>
       <point x="439" y="273" type="line"/>
       <point x="439" y="0" type="line"/>
       <point x="536" y="0" type="line"/>
+      <point x="536" y="273" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:16:21 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>minus</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

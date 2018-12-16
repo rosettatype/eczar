@@ -8,4 +8,10 @@
       <point x="-141" y="468" type="move" name="_abvmTOP"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:46:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

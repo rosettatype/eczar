@@ -3,12 +3,10 @@
   <advance width="297"/>
   <unicode hex="00A1"/>
   <outline>
-    <component base="exclam" yOffset="467" yScale="-1"/>
+    <component base="exclam" yScale="-1" yOffset="467"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=|exclam</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

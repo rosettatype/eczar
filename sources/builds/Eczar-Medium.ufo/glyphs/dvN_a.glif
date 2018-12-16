@@ -12,34 +12,31 @@
       <point x="375" y="571" type="line"/>
     </contour>
     <contour>
-      <point x="595" y="538" type="line"/>
-      <point x="608" y="565" type="line"/>
-      <point x="569" y="624" type="line"/>
-      <point x="-26" y="624" type="line"/>
-      <point x="-39" y="596" type="line"/>
-      <point x="0" y="538" type="line"/>
-    </contour>
-    <contour>
-      <point x="413" y="384" type="line"/>
-      <point x="107" y="384" type="line"/>
-      <point x="138" y="285" type="line"/>
-      <point x="435" y="285" type="line"/>
-    </contour>
-    <contour>
-      <point x="33" y="334" type="line"/>
-      <point x="54" y="268"/>
-      <point x="107" y="194"/>
       <point x="158" y="156" type="curve"/>
       <point x="212" y="179" type="line"/>
       <point x="212" y="340" type="line"/>
       <point x="145" y="384" type="line"/>
       <point x="73" y="384" type="line"/>
+      <point x="33" y="334" type="line"/>
+      <point x="54" y="268"/>
+      <point x="107" y="194"/>
+    </contour>
+    <contour>
+      <point x="107" y="384" type="line"/>
+      <point x="138" y="285" type="line"/>
+      <point x="435" y="285" type="line"/>
+      <point x="413" y="384" type="line"/>
+    </contour>
+    <contour>
+      <point x="-39" y="596" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="595" y="538" type="line"/>
+      <point x="608" y="565" type="line"/>
+      <point x="569" y="624" type="line"/>
+      <point x="-26" y="624" type="line"/>
     </contour>
     <contour>
       <point x="425" y="640" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="424" y="470" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="409" y="640" type="move" name="abvmCANDRABINDU"/>
@@ -48,7 +45,16 @@
       <point x="616" y="640" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="424" y="470" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="360" y="4" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+    </dict>
+  </lib>
 </glyph>

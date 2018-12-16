@@ -3,32 +3,29 @@
   <advance width="971"/>
   <outline>
     <contour>
-      <point x="449" y="538" type="line"/>
-      <point x="458" y="558" type="line"/>
-      <point x="428" y="608" type="line"/>
-      <point x="202" y="608" type="line"/>
-      <point x="193" y="588" type="line"/>
-      <point x="223" y="538" type="line"/>
-    </contour>
-    <contour>
-      <point x="489" y="398" type="line"/>
-      <point x="459" y="369"/>
-      <point x="398" y="311"/>
-      <point x="329" y="311" type="curve" smooth="yes"/>
       <point x="178" y="311" type="line"/>
       <point x="179" y="242" type="line"/>
       <point x="330" y="242" type="line" smooth="yes"/>
       <point x="411" y="242"/>
       <point x="486" y="304"/>
       <point x="512" y="335" type="curve"/>
+      <point x="489" y="398" type="line"/>
+      <point x="459" y="369"/>
+      <point x="398" y="311"/>
+      <point x="329" y="311" type="curve"/>
+    </contour>
+    <contour>
+      <point x="193" y="588" type="line"/>
+      <point x="223" y="538" type="line"/>
+      <point x="449" y="538" type="line"/>
+      <point x="458" y="558" type="line"/>
+      <point x="428" y="608" type="line"/>
+      <point x="202" y="608" type="line"/>
     </contour>
     <component base="dvRa"/>
     <component base="dvTRa" xOffset="407"/>
     <contour>
       <point x="836" y="630" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="836" y="468" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="821" y="630" type="move" name="abvmCANDRABINDU"/>
@@ -37,7 +34,16 @@
       <point x="991" y="630" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="836" y="468" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="786" y="5" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:11:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

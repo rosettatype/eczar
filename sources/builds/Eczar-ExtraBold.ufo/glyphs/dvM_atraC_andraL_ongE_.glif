@@ -4,12 +4,12 @@
   <unicode hex="0955"/>
   <outline>
     <contour>
+      <point x="-65" y="621" type="line"/>
+      <point x="0" y="538" type="line"/>
       <point x="413" y="538" type="line"/>
       <point x="438" y="587" type="line"/>
       <point x="373" y="670" type="line"/>
       <point x="-40" y="670" type="line"/>
-      <point x="-65" y="621" type="line"/>
-      <point x="0" y="538" type="line"/>
     </contour>
     <component base="dvMatraCandraE" xOffset="369"/>
   </outline>

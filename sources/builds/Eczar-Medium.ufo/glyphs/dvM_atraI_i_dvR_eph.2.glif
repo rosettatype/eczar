@@ -3,33 +3,39 @@
   <advance width="276"/>
   <outline>
     <contour>
+      <point x="139" y="592" type="curve"/>
       <point x="175" y="592" type="line"/>
       <point x="144" y="642"/>
       <point x="129" y="691"/>
-      <point x="129" y="729" type="curve" smooth="yes"/>
+      <point x="129" y="729" type="curve"/>
       <point x="129" y="797"/>
       <point x="173" y="840"/>
-      <point x="230" y="840" type="curve" smooth="yes"/>
+      <point x="230" y="840" type="curve"/>
       <point x="254" y="840"/>
       <point x="280" y="832"/>
       <point x="304" y="817" type="curve"/>
       <point x="323" y="864" type="line"/>
       <point x="291" y="906"/>
       <point x="247" y="927"/>
-      <point x="203" y="927" type="curve" smooth="yes"/>
+      <point x="203" y="927" type="curve"/>
       <point x="129" y="927"/>
       <point x="66" y="868"/>
-      <point x="66" y="776" type="curve" smooth="yes"/>
+      <point x="66" y="776" type="curve"/>
       <point x="66" y="719"/>
       <point x="90" y="644"/>
-      <point x="139" y="592" type="curve"/>
     </contour>
     <component base="dvMatraIi.2"/>
     <contour>
-      <point x="182" y="470" type="move" name="abvmTOP"/>
-    </contour>
-    <contour>
       <point x="245" y="606" type="move" name="abvmBINDU"/>
     </contour>
+    <contour>
+      <point x="182" y="470" type="move" name="abvmTOP"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:53:54 +0000</string>
+    </dict>
+  </lib>
 </glyph>

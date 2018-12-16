@@ -4,16 +4,56 @@
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="174" y="587" type="line"/>
-      <point x="177" y="654" type="line"/>
-      <point x="37" y="654" type="line"/>
-      <point x="36" y="605" type="line"/>
+      <point x="532" y="654" type="line"/>
+      <point x="532" y="0" type="line"/>
+      <point x="654" y="0" type="line"/>
+      <point x="654" y="654" type="line"/>
+    </contour>
+    <contour>
+      <point x="28" y="32" type="curve"/>
+      <point x="34" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="127" y="73" type="line"/>
+      <point x="93" y="61"/>
+      <point x="58" y="48"/>
+    </contour>
+    <contour>
+      <point x="192" y="67" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="329" y="0" type="line"/>
+      <point x="330" y="49" type="line"/>
     </contour>
     <contour>
       <point x="113" y="654" type="line"/>
       <point x="113" y="0" type="line"/>
       <point x="235" y="0" type="line"/>
       <point x="235" y="654" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="32" type="curve"/>
+      <point x="453" y="0" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="546" y="73" type="line"/>
+      <point x="512" y="61"/>
+      <point x="477" y="48"/>
+    </contour>
+    <contour>
+      <point x="611" y="67" type="line"/>
+      <point x="608" y="0" type="line"/>
+      <point x="748" y="0" type="line"/>
+      <point x="749" y="49" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="364" type="line"/>
+      <point x="208" y="286" type="line"/>
+      <point x="582" y="286" type="line"/>
+      <point x="582" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="36" y="605" type="line"/>
+      <point x="174" y="587" type="line"/>
+      <point x="177" y="654" type="line"/>
+      <point x="37" y="654" type="line"/>
     </contour>
     <contour>
       <point x="220" y="654" type="line"/>
@@ -24,16 +64,10 @@
       <point x="314" y="654" type="line"/>
     </contour>
     <contour>
-      <point x="456" y="654" type="line"/>
       <point x="455" y="605" type="line"/>
       <point x="593" y="587" type="line"/>
       <point x="596" y="654" type="line"/>
-    </contour>
-    <contour>
-      <point x="532" y="654" type="line"/>
-      <point x="532" y="0" type="line"/>
-      <point x="654" y="0" type="line"/>
-      <point x="654" y="654" type="line"/>
+      <point x="456" y="654" type="line"/>
     </contour>
     <contour>
       <point x="639" y="654" type="line"/>
@@ -44,40 +78,6 @@
       <point x="733" y="654" type="line"/>
     </contour>
     <contour>
-      <point x="208" y="364" type="line"/>
-      <point x="208" y="286" type="line"/>
-      <point x="582" y="286" type="line"/>
-      <point x="582" y="364" type="line"/>
-    </contour>
-    <contour>
-      <point x="93" y="61"/>
-      <point x="58" y="48"/>
-      <point x="28" y="32" type="curve"/>
-      <point x="34" y="0" type="line"/>
-      <point x="128" y="0" type="line"/>
-      <point x="127" y="73" type="line"/>
-    </contour>
-    <contour>
-      <point x="189" y="0" type="line"/>
-      <point x="329" y="0" type="line"/>
-      <point x="330" y="49" type="line"/>
-      <point x="192" y="67" type="line"/>
-    </contour>
-    <contour>
-      <point x="512" y="61"/>
-      <point x="477" y="48"/>
-      <point x="447" y="32" type="curve"/>
-      <point x="453" y="0" type="line"/>
-      <point x="547" y="0" type="line"/>
-      <point x="546" y="73" type="line"/>
-    </contour>
-    <contour>
-      <point x="608" y="0" type="line"/>
-      <point x="748" y="0" type="line"/>
-      <point x="749" y="49" type="line"/>
-      <point x="611" y="67" type="line"/>
-    </contour>
-    <contour>
       <point x="389" y="325" type="move" name="center"/>
     </contour>
     <contour>
@@ -86,8 +86,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>I</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

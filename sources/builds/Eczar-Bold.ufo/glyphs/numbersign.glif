@@ -4,34 +4,34 @@
   <unicode hex="0023"/>
   <outline>
     <contour>
-      <point x="127" y="0" type="line"/>
-      <point x="217" y="-11" type="line"/>
-      <point x="298" y="520" type="line"/>
-      <point x="208" y="530" type="line"/>
-    </contour>
-    <contour>
       <point x="326" y="0" type="line"/>
       <point x="416" y="-11" type="line"/>
       <point x="497" y="520" type="line"/>
       <point x="407" y="530" type="line"/>
     </contour>
     <contour>
-      <point x="83" y="324" type="line"/>
-      <point x="567" y="324" type="line"/>
-      <point x="567" y="407" type="line"/>
-      <point x="83" y="407" type="line"/>
-    </contour>
-    <contour>
+      <point x="54" y="207" type="line"/>
       <point x="54" y="122" type="line"/>
       <point x="538" y="122" type="line"/>
       <point x="538" y="207" type="line"/>
-      <point x="54" y="207" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="0" type="line"/>
+      <point x="217" y="-11" type="line"/>
+      <point x="298" y="520" type="line"/>
+      <point x="208" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="407" type="line"/>
+      <point x="83" y="324" type="line"/>
+      <point x="567" y="324" type="line"/>
+      <point x="567" y="407" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:51:22 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>minus</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

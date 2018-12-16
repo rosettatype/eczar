@@ -15,16 +15,16 @@
       <point x="231" y="662" type="line"/>
     </contour>
     <contour>
-      <point x="-2" y="662" type="line"/>
       <point x="-3" y="609" type="line"/>
       <point x="135" y="587" type="line"/>
       <point x="138" y="662" type="line"/>
+      <point x="-2" y="662" type="line"/>
     </contour>
     <contour>
+      <point x="350" y="36" type="line"/>
       <point x="447" y="1" type="line"/>
       <point x="675" y="662" type="line"/>
       <point x="557" y="662" type="line"/>
-      <point x="350" y="36" type="line"/>
     </contour>
     <contour>
       <point x="227" y="662" type="line"/>
@@ -35,10 +35,10 @@
       <point x="329" y="662" type="line"/>
     </contour>
     <contour>
-      <point x="448" y="662" type="line"/>
       <point x="447" y="609" type="line"/>
       <point x="585" y="587" type="line"/>
       <point x="588" y="662" type="line"/>
+      <point x="448" y="662" type="line"/>
     </contour>
     <contour>
       <point x="618" y="662" type="line"/>
@@ -51,8 +51,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:51:22 +0000</string>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
     </dict>

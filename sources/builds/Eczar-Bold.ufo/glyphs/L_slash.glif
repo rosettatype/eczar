@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="1">
-  <advance width="635"/>
+  <advance width="634"/>
   <unicode hex="0141"/>
   <outline>
     <contour>
-      <point x="27" y="277" type="line"/>
-      <point x="56" y="216" type="line"/>
-      <point x="421" y="386" type="line"/>
-      <point x="436" y="438" type="line"/>
-      <point x="420" y="462" type="line"/>
+      <point x="24" y="277" type="line"/>
+      <point x="53" y="216" type="line"/>
+      <point x="418" y="386" type="line"/>
+      <point x="433" y="438" type="line"/>
+      <point x="417" y="462" type="line"/>
     </contour>
-    <component base="L" xOffset="18"/>
+    <component base="L" xOffset="15"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:51:22 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>L</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

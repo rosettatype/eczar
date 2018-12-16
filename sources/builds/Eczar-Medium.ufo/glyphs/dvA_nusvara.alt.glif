@@ -3,6 +3,7 @@
   <advance width="0"/>
   <outline>
     <contour>
+      <point x="40" y="716" type="curve"/>
       <point x="64" y="732"/>
       <point x="90" y="767"/>
       <point x="101" y="795" type="curve"/>
@@ -14,10 +15,15 @@
       <point x="-41" y="777" type="curve"/>
       <point x="-25" y="754"/>
       <point x="14" y="726"/>
-      <point x="40" y="716" type="curve"/>
     </contour>
     <contour>
       <point x="0" y="655" type="move" name="_abvmTOP"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:53:53 +0000</string>
+    </dict>
+  </lib>
 </glyph>

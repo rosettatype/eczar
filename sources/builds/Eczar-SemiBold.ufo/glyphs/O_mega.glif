@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega" format="1">
+  <advance width="801"/>
+  <unicode hex="03A9"/>
+  <outline>
+    <contour>
+      <point x="37" y="103" type="line"/>
+      <point x="28" y="0" type="line"/>
+      <point x="347" y="0" type="line"/>
+      <point x="369" y="68" type="line"/>
+      <point x="279" y="158"/>
+      <point x="240" y="258"/>
+      <point x="240" y="380" type="curve"/>
+      <point x="240" y="468"/>
+      <point x="267" y="538"/>
+      <point x="309" y="576" type="curve"/>
+      <point x="333" y="585"/>
+      <point x="357" y="590"/>
+      <point x="382" y="590" type="curve"/>
+      <point x="488" y="590"/>
+      <point x="560" y="495"/>
+      <point x="560" y="356" type="curve"/>
+      <point x="560" y="243"/>
+      <point x="520" y="154"/>
+      <point x="436" y="68" type="curve"/>
+      <point x="458" y="0" type="line"/>
+      <point x="777" y="0" type="line"/>
+      <point x="768" y="103" type="line"/>
+      <point x="510" y="82" type="line"/>
+      <point x="524" y="68" type="line"/>
+      <point x="641" y="137"/>
+      <point x="722" y="258"/>
+      <point x="722" y="379" type="curve"/>
+      <point x="722" y="548"/>
+      <point x="583" y="678"/>
+      <point x="400" y="678" type="curve"/>
+      <point x="214" y="678"/>
+      <point x="78" y="547"/>
+      <point x="78" y="370" type="curve"/>
+      <point x="78" y="240"/>
+      <point x="160" y="123"/>
+      <point x="291" y="69" type="curve"/>
+      <point x="301" y="82" type="line"/>
+    </contour>
+    <contour>
+      <point x="27" y="0" type="curve"/>
+      <point x="139" y="24" type="line"/>
+      <point x="84" y="205" type="line"/>
+      <point x="15" y="199" type="line"/>
+      <point x="13" y="149"/>
+      <point x="19" y="61"/>
+    </contour>
+    <contour>
+      <point x="665" y="24" type="line"/>
+      <point x="777" y="0" type="line"/>
+      <point x="786" y="61"/>
+      <point x="791" y="149"/>
+      <point x="789" y="199" type="curve"/>
+      <point x="720" y="205" type="line"/>
+    </contour>
+    <contour>
+      <point x="402" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="31" y="343" type="move" name="left"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:16:21 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

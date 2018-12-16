@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rho" format="1">
+  <advance width="511"/>
+  <unicode hex="03C1"/>
+  <outline>
+    <contour>
+      <point x="34" y="-204" type="line"/>
+      <point x="63" y="-224" type="line"/>
+      <point x="114" y="-222"/>
+      <point x="170" y="-208"/>
+      <point x="195" y="-192" type="curve"/>
+      <point x="113" y="104" type="line"/>
+      <point x="128" y="123" type="line"/>
+      <point x="125" y="142"/>
+      <point x="124" y="166"/>
+      <point x="124" y="197" type="curve"/>
+      <point x="124" y="293"/>
+      <point x="189" y="350"/>
+      <point x="299" y="350" type="curve"/>
+      <point x="332" y="350"/>
+      <point x="367" y="346"/>
+      <point x="393" y="333" type="curve"/>
+      <point x="404" y="318"/>
+      <point x="409" y="293"/>
+      <point x="409" y="268" type="curve"/>
+      <point x="409" y="184"/>
+      <point x="341" y="127"/>
+      <point x="231" y="127" type="curve"/>
+      <point x="189" y="127"/>
+      <point x="147" y="137"/>
+      <point x="116" y="154" type="curve"/>
+      <point x="101" y="114" type="line"/>
+      <point x="140" y="33"/>
+      <point x="204" y="-20"/>
+      <point x="271" y="-20" type="curve"/>
+      <point x="387" y="-20"/>
+      <point x="488" y="103"/>
+      <point x="488" y="251" type="curve"/>
+      <point x="488" y="397"/>
+      <point x="398" y="497"/>
+      <point x="266" y="497" type="curve"/>
+      <point x="135" y="497"/>
+      <point x="44" y="389"/>
+      <point x="44" y="233" type="curve"/>
+      <point x="44" y="155"/>
+      <point x="43" y="103"/>
+      <point x="40" y="3" type="curve"/>
+    </contour>
+    <contour>
+      <point x="286" y="471" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:14:56 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

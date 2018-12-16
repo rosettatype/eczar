@@ -3,34 +3,34 @@
   <advance width="1559"/>
   <outline>
     <contour>
+      <point x="419" y="621" type="line"/>
+      <point x="484" y="538" type="line"/>
+      <point x="1228" y="538" type="line"/>
+      <point x="1253" y="587" type="line"/>
+      <point x="1188" y="670" type="line"/>
+      <point x="444" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="589" y="180" type="curve"/>
       <point x="637" y="258" type="line"/>
       <point x="582" y="340"/>
       <point x="542" y="362"/>
-      <point x="425" y="362" type="curve" smooth="yes"/>
+      <point x="425" y="362" type="curve"/>
       <point x="206" y="362" type="line"/>
       <point x="212" y="212" type="line"/>
       <point x="464" y="212" type="line" smooth="yes"/>
       <point x="522" y="212"/>
       <point x="545" y="206"/>
-      <point x="589" y="180" type="curve"/>
     </contour>
     <contour>
-      <point x="492" y="291" type="line"/>
-      <point x="517" y="205"/>
-      <point x="637" y="95"/>
       <point x="723" y="70" type="curve"/>
       <point x="788" y="107" type="line"/>
       <point x="788" y="307" type="line"/>
       <point x="721" y="349" type="line"/>
       <point x="528" y="349" type="line"/>
-    </contour>
-    <contour>
-      <point x="1228" y="538" type="line"/>
-      <point x="1253" y="587" type="line"/>
-      <point x="1188" y="670" type="line"/>
-      <point x="444" y="670" type="line"/>
-      <point x="419" y="621" type="line"/>
-      <point x="484" y="538" type="line"/>
+      <point x="492" y="291" type="line"/>
+      <point x="517" y="205"/>
+      <point x="637" y="95"/>
     </contour>
     <contour>
       <point x="615" y="227" type="line"/>
@@ -40,18 +40,15 @@
       <point x="599" y="599" type="line"/>
     </contour>
     <contour>
-      <point x="1003" y="349" type="line"/>
       <point x="675" y="349" type="line"/>
       <point x="706" y="188" type="line"/>
       <point x="1025" y="188" type="line"/>
+      <point x="1003" y="349" type="line"/>
     </contour>
     <component base="dvRa" xOffset="-10"/>
     <component base="dvYa" xOffset="878"/>
     <contour>
       <point x="1239" y="670" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="1384" y="475" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="1269" y="670" type="move" name="abvmCANDRABINDU"/>
@@ -60,7 +57,16 @@
       <point x="1689" y="670" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="1384" y="475" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="1279" y="0" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:01:00 +0000</string>
+    </dict>
+  </lib>
 </glyph>

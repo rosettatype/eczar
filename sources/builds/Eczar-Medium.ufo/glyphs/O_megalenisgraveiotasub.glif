@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegalenisgraveiotasub" format="1">
+  <advance width="790"/>
+  <unicode hex="1FAA"/>
+  <note>
+    
+  </note>
+  <outline>
+    <component base="Omega"/>
+    <component base="lenisgrave.case" xOffset="-122"/>
+    <component base="iotaadscript.case" xOffset="285"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:03:37 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

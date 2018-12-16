@@ -3,6 +3,7 @@
   <advance width="0"/>
   <outline>
     <contour>
+      <point x="-26" y="701" type="curve"/>
       <point x="4" y="722"/>
       <point x="39" y="765"/>
       <point x="53" y="802" type="curve"/>
@@ -14,11 +15,16 @@
       <point x="-129" y="780" type="curve"/>
       <point x="-107" y="750"/>
       <point x="-59" y="713"/>
-      <point x="-26" y="701" type="curve"/>
     </contour>
     <component base="dvMatraAi"/>
     <contour>
       <point x="-163" y="473" type="move" name="_abvmTOP"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:54:28 +0000</string>
+    </dict>
+  </lib>
 </glyph>

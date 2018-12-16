@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilongrave" format="1">
+  <advance width="641"/>
+  <unicode hex="1FEA"/>
+  <note>
+    
+  </note>
+  <outline>
+    <component base="Upsilon"/>
+    <component base="grGrave.case" xOffset="-223"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:06:23 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

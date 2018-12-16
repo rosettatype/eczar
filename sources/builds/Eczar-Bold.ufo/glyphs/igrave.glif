@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igrave" format="1">
-  <advance width="331"/>
+  <advance width="334"/>
   <unicode hex="00EC"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="gravecomb" xOffset="159" yOffset="-5"/>
+    <component base="gravecomb" xOffset="163" yOffset="-5"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:51:04 +0000</string>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
     </dict>

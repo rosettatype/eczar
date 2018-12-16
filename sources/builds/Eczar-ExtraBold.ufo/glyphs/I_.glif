@@ -4,30 +4,30 @@
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="317" y="0" type="line"/>
-      <point x="317" y="666" type="line"/>
       <point x="107" y="666" type="line"/>
       <point x="107" y="0" type="line"/>
+      <point x="317" y="0" type="line"/>
+      <point x="317" y="666" type="line"/>
     </contour>
     <contour>
+      <point x="22" y="32" type="curve"/>
+      <point x="28" y="0" type="line"/>
       <point x="122" y="0" type="line"/>
       <point x="121" y="91" type="line"/>
       <point x="83" y="73"/>
       <point x="50" y="54"/>
-      <point x="22" y="32" type="curve"/>
-      <point x="28" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="405" y="0" type="line"/>
-      <point x="406" y="55" type="line"/>
       <point x="268" y="79" type="line"/>
       <point x="265" y="0" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="406" y="55" type="line"/>
     </contour>
     <contour>
-      <point x="31" y="666" type="line"/>
       <point x="30" y="611" type="line"/>
       <point x="168" y="587" type="line"/>
       <point x="171" y="666" type="line"/>
+      <point x="31" y="666" type="line"/>
     </contour>
     <contour>
       <point x="302" y="666" type="line"/>
@@ -46,8 +46,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:01:00 +0000</string>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
     </dict>

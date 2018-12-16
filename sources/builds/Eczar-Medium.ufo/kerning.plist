@@ -1080,6 +1080,32 @@
 		<key>X</key>
 		<integer>-30</integer>
 	</dict>
+	<key>Beta</key>
+	<dict>
+		<key>Chi</key>
+		<integer>-30</integer>
+		<key>Omega</key>
+		<real>-11.25</real>
+		<key>lamda</key>
+		<real>-17.5</real>
+		<key>paragraph</key>
+		<integer>10</integer>
+		<key>quotesingle</key>
+		<integer>40</integer>
+	</dict>
+	<key>Chi</key>
+	<dict>
+		<key>Tau</key>
+		<integer>-20</integer>
+		<key>beta</key>
+		<integer>-15</integer>
+		<key>pi</key>
+		<integer>-25</integer>
+		<key>tau</key>
+		<real>-57.5</real>
+		<key>theta</key>
+		<real>-27.5</real>
+	</dict>
 	<key>F</key>
 	<dict>
 		<key>@MMK_R_A</key>
@@ -1129,6 +1155,29 @@
 		<key>X</key>
 		<integer>-40</integer>
 	</dict>
+	<key>Gamma</key>
+	<dict>
+		<key>Chi</key>
+		<integer>-40</integer>
+		<key>Omega</key>
+		<real>-57.5</real>
+		<key>asterisk</key>
+		<real>37.5</real>
+		<key>comma</key>
+		<real>-22.5</real>
+		<key>lamda</key>
+		<real>-11.25</real>
+		<key>lownumeralsign</key>
+		<integer>-40</integer>
+		<key>paragraph</key>
+		<integer>50</integer>
+		<key>pi</key>
+		<integer>-50</integer>
+		<key>quotesingle</key>
+		<integer>80</integer>
+		<key>tau</key>
+		<real>-47.5</real>
+	</dict>
 	<key>J</key>
 	<dict>
 		<key>@MMK_R_A</key>
@@ -1153,6 +1202,23 @@
 		<integer>-20</integer>
 		<key>@MMK_R_z</key>
 		<integer>-20</integer>
+	</dict>
+	<key>Kappa</key>
+	<dict>
+		<key>Omega</key>
+		<integer>-10</integer>
+		<key>Tau</key>
+		<integer>-20</integer>
+		<key>beta</key>
+		<real>-17.5</real>
+		<key>pi</key>
+		<integer>-25</integer>
+		<key>quotesingle</key>
+		<integer>10</integer>
+		<key>tau</key>
+		<real>-57.5</real>
+		<key>theta</key>
+		<real>-32.5</real>
 	</dict>
 	<key>P</key>
 	<dict>
@@ -1196,6 +1262,23 @@
 		<key>@MMK_R_Y</key>
 		<integer>-55</integer>
 	</dict>
+	<key>Tau</key>
+	<dict>
+		<key>Chi</key>
+		<integer>-20</integer>
+		<key>asterisk</key>
+		<real>37.5</real>
+		<key>lownumeralsign</key>
+		<integer>-30</integer>
+		<key>paragraph</key>
+		<integer>50</integer>
+		<key>pi</key>
+		<integer>-40</integer>
+		<key>quotesingle</key>
+		<integer>80</integer>
+		<key>tau</key>
+		<integer>-30</integer>
+	</dict>
 	<key>X</key>
 	<dict>
 		<key>@MMK_R_A</key>
@@ -1230,6 +1313,43 @@
 		<integer>-50</integer>
 		<key>@MMK_R_v</key>
 		<integer>-50</integer>
+	</dict>
+	<key>beta</key>
+	<dict>
+		<key>Chi</key>
+		<real>-22.5</real>
+		<key>comma</key>
+		<integer>-30</integer>
+		<key>period</key>
+		<integer>-30</integer>
+		<key>quotesingle</key>
+		<integer>20</integer>
+	</dict>
+	<key>chi</key>
+	<dict>
+		<key>Chi</key>
+		<integer>-40</integer>
+		<key>Tau</key>
+		<real>-37.5</real>
+		<key>comma</key>
+		<integer>-10</integer>
+		<key>lamda</key>
+		<real>-22.5</real>
+		<key>paragraph</key>
+		<integer>40</integer>
+		<key>period</key>
+		<integer>-80</integer>
+	</dict>
+	<key>delta</key>
+	<dict>
+		<key>asterisk</key>
+		<integer>30</integer>
+		<key>comma</key>
+		<integer>-30</integer>
+		<key>period</key>
+		<integer>-30</integer>
+		<key>quotesingle</key>
+		<integer>30</integer>
 	</dict>
 	<key>dvB</key>
 	<dict>
@@ -2062,6 +2182,13 @@
 		<key>zero</key>
 		<integer>-20</integer>
 	</dict>
+	<key>finalsigma</key>
+	<dict>
+		<key>comma</key>
+		<integer>-20</integer>
+		<key>paragraph</key>
+		<integer>50</integer>
+	</dict>
 	<key>five</key>
 	<dict>
 		<key>eight</key>
@@ -2081,6 +2208,33 @@
 		<integer>10</integer>
 		<key>zero</key>
 		<integer>-25</integer>
+	</dict>
+	<key>kaisymbol</key>
+	<dict>
+		<key>quotesingle</key>
+		<integer>25</integer>
+	</dict>
+	<key>kappa</key>
+	<dict>
+		<key>comma</key>
+		<integer>-15</integer>
+		<key>paragraph</key>
+		<integer>30</integer>
+		<key>quotesingle</key>
+		<integer>25</integer>
+	</dict>
+	<key>lamda</key>
+	<dict>
+		<key>Tau</key>
+		<real>-57.5</real>
+		<key>paragraph</key>
+		<integer>-30</integer>
+		<key>pi</key>
+		<integer>-15</integer>
+		<key>quotesingle</key>
+		<integer>-20</integer>
+		<key>tau</key>
+		<integer>-50</integer>
 	</dict>
 	<key>nine</key>
 	<dict>
@@ -2106,6 +2260,21 @@
 	<dict>
 		<key>@MMK_R_z</key>
 		<integer>0</integer>
+	</dict>
+	<key>pi</key>
+	<dict>
+		<key>Chi</key>
+		<integer>-15</integer>
+		<key>Tau</key>
+		<integer>-25</integer>
+		<key>comma</key>
+		<real>-22.5</real>
+		<key>lamda</key>
+		<real>-17.5</real>
+		<key>paragraph</key>
+		<integer>40</integer>
+		<key>quotesingle</key>
+		<real>42.5</real>
 	</dict>
 	<key>q</key>
 	<dict>
@@ -2144,6 +2313,21 @@
 		<key>zero</key>
 		<integer>-20</integer>
 	</dict>
+	<key>sigma</key>
+	<dict>
+		<key>Chi</key>
+		<integer>-35</integer>
+		<key>Tau</key>
+		<integer>-15</integer>
+		<key>comma</key>
+		<integer>-45</integer>
+		<key>lamda</key>
+		<integer>-25</integer>
+		<key>paragraph</key>
+		<integer>40</integer>
+		<key>quotesingle</key>
+		<integer>30</integer>
+	</dict>
 	<key>six</key>
 	<dict>
 		<key>eight</key>
@@ -2152,6 +2336,34 @@
 		<integer>-10</integer>
 		<key>zero</key>
 		<integer>-10</integer>
+	</dict>
+	<key>tau</key>
+	<dict>
+		<key>Chi</key>
+		<integer>-30</integer>
+		<key>Tau</key>
+		<integer>-15</integer>
+		<key>comma</key>
+		<integer>-50</integer>
+		<key>paragraph</key>
+		<integer>40</integer>
+		<key>period</key>
+		<integer>-20</integer>
+		<key>quotesingle</key>
+		<real>42.5</real>
+	</dict>
+	<key>theta</key>
+	<dict>
+		<key>Chi</key>
+		<integer>-20</integer>
+		<key>comma</key>
+		<real>-31.25</real>
+		<key>paragraph</key>
+		<integer>20</integer>
+		<key>period</key>
+		<integer>-30</integer>
+		<key>quotesingle</key>
+		<integer>30</integer>
 	</dict>
 	<key>three</key>
 	<dict>
@@ -2177,6 +2389,21 @@
 		<key>zero</key>
 		<integer>-40</integer>
 	</dict>
+	<key>xi</key>
+	<dict>
+		<key>Tau</key>
+		<integer>40</integer>
+		<key>asterisk</key>
+		<integer>55</integer>
+		<key>beta</key>
+		<integer>20</integer>
+		<key>delta</key>
+		<real>7.5</real>
+		<key>paragraph</key>
+		<integer>35</integer>
+		<key>quotesingle</key>
+		<integer>70</integer>
+	</dict>
 	<key>zero</key>
 	<dict>
 		<key>eight</key>
@@ -2193,6 +2420,23 @@
 		<integer>-30</integer>
 		<key>two</key>
 		<integer>-20</integer>
+	</dict>
+	<key>zeta</key>
+	<dict>
+		<key>Chi</key>
+		<integer>25</integer>
+		<key>Tau</key>
+		<integer>60</integer>
+		<key>asterisk</key>
+		<real>67.5</real>
+		<key>beta</key>
+		<integer>20</integer>
+		<key>delta</key>
+		<real>12.5</real>
+		<key>paragraph</key>
+		<real>47.5</real>
+		<key>quotesingle</key>
+		<integer>85</integer>
 	</dict>
 </dict>
 </plist>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Imacron" format="1">
-  <advance width="381"/>
+  <advance width="377"/>
   <unicode hex="012A"/>
   <outline>
     <contour>
-      <point x="113" y="800"/>
-      <point x="70" y="795"/>
-      <point x="31" y="775" type="curve"/>
-      <point x="37" y="721" type="line"/>
-      <point x="305" y="721" type="line"/>
-      <point x="352" y="759" type="line"/>
-      <point x="347" y="800" type="line"/>
-      <point x="144" y="800" type="line"/>
+      <point x="28" y="775" type="curve"/>
+      <point x="34" y="721" type="line"/>
+      <point x="302" y="721" type="line"/>
+      <point x="349" y="759" type="line"/>
+      <point x="344" y="800" type="line"/>
+      <point x="141" y="800" type="line"/>
+      <point x="110" y="800"/>
+      <point x="67" y="795"/>
     </contour>
-    <component base="I" xOffset="11"/>
+    <component base="I" xOffset="8"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>I</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="1">
-  <advance width="697"/>
+  <advance width="664"/>
   <unicode hex="00D8"/>
   <outline>
     <contour>
+      <point x="112" y="-48" type="line"/>
       <point x="178" y="-84" type="line"/>
       <point x="590" y="696" type="line"/>
       <point x="525" y="735" type="line"/>
-      <point x="112" y="-48" type="line"/>
     </contour>
     <component base="O"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

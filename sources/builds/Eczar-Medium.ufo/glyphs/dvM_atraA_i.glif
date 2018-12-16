@@ -4,22 +4,6 @@
   <unicode hex="0948"/>
   <outline>
     <contour>
-      <point x="-506" y="710" type="line"/>
-      <point x="-419" y="765"/>
-      <point x="-359" y="767"/>
-      <point x="-295" y="705" type="curve" smooth="yes"/>
-      <point x="-154" y="566" type="line"/>
-      <point x="-119" y="585" type="line"/>
-      <point x="-272" y="762" type="line" smooth="yes"/>
-      <point x="-372" y="877"/>
-      <point x="-468" y="878"/>
-      <point x="-562" y="806" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-449" y="910" type="line"/>
-      <point x="-329" y="960"/>
-      <point x="-268" y="931"/>
-      <point x="-220" y="799" type="curve" smooth="yes"/>
       <point x="-147" y="598" type="line"/>
       <point x="-154" y="566" type="line"/>
       <point x="-97" y="595" type="line"/>
@@ -27,12 +11,34 @@
       <point x="-243" y="1060"/>
       <point x="-378" y="1075"/>
       <point x="-495" y="1018" type="curve"/>
+      <point x="-449" y="910" type="line"/>
+      <point x="-329" y="960"/>
+      <point x="-268" y="931"/>
+      <point x="-220" y="799" type="curve"/>
     </contour>
     <contour>
-      <point x="-37" y="625" type="move" name="abvmBINDU"/>
+      <point x="-295" y="705" type="curve"/>
+      <point x="-154" y="566" type="line"/>
+      <point x="-119" y="585" type="line"/>
+      <point x="-272" y="762" type="line" smooth="yes"/>
+      <point x="-372" y="877"/>
+      <point x="-468" y="878"/>
+      <point x="-562" y="806" type="curve"/>
+      <point x="-506" y="710" type="line"/>
+      <point x="-419" y="765"/>
+      <point x="-359" y="767"/>
     </contour>
     <contour>
       <point x="-148" y="470" type="move" name="_abvmTOP"/>
     </contour>
+    <contour>
+      <point x="-37" y="625" type="move" name="abvmBINDU"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+    </dict>
+  </lib>
 </glyph>

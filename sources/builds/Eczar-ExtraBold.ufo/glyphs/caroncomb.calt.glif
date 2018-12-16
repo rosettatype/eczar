@@ -3,15 +3,15 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="0" y="639" type="line"/>
-      <point x="55" y="631"/>
-      <point x="40" y="554"/>
       <point x="-20" y="461" type="curve"/>
       <point x="40" y="414" type="line"/>
       <point x="161" y="509"/>
       <point x="219" y="646"/>
       <point x="143" y="755" type="curve"/>
       <point x="0" y="694" type="line"/>
+      <point x="0" y="639" type="line"/>
+      <point x="55" y="631"/>
+      <point x="40" y="554"/>
     </contour>
     <contour>
       <point x="0" y="585" type="move" name="_topright"/>
@@ -19,8 +19,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:01:00 +0000</string>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
     </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="1">
-  <advance width="477"/>
+  <advance width="476"/>
   <unicode hex="201D"/>
   <outline>
     <component base="quoteright"/>
@@ -8,8 +8,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:51:01 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>quoteright</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

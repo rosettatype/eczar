@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gbreve" format="1">
-  <advance width="683"/>
+  <advance width="687"/>
   <unicode hex="011E"/>
   <outline>
     <component base="G"/>
-    <component base="brevecomb.case" xOffset="345"/>
+    <component base="brevecomb.case" xOffset="349"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:04 +0000</string>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
     </dict>

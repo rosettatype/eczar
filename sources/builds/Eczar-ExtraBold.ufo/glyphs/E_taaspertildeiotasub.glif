@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etaaspertildeiotasub" format="1">
+  <advance width="855"/>
+  <unicode hex="1F9F"/>
+  <note>
+    
+  </note>
+  <outline>
+    <component base="Eta"/>
+    <component base="aspertilde.case" xOffset="-250"/>
+    <component base="iotaadscript.case" xOffset="313"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:56:40 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

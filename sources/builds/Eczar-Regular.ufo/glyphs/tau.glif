@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="1">
+  <advance width="503"/>
+  <unicode hex="03C4"/>
+  <note>
+    
+  </note>
+  <outline>
+    <contour>
+      <point x="297" y="-14" type="curve"/>
+      <point x="343" y="-14"/>
+      <point x="390" y="21"/>
+      <point x="408" y="71" type="curve"/>
+      <point x="395" y="99" type="line"/>
+      <point x="234" y="81" type="line"/>
+      <point x="267" y="57" type="line"/>
+      <point x="284" y="427" type="line"/>
+      <point x="192" y="422" type="line"/>
+      <point x="211" y="164" type="line" smooth="yes"/>
+      <point x="219" y="49"/>
+      <point x="245" y="-14"/>
+    </contour>
+    <contour>
+      <point x="-8" y="370" type="curve"/>
+      <point x="13" y="341" type="line"/>
+      <point x="84" y="387" type="line"/>
+      <point x="472" y="383" type="line"/>
+      <point x="481" y="403" type="line"/>
+      <point x="482" y="431"/>
+      <point x="477" y="465"/>
+      <point x="468" y="483" type="curve"/>
+      <point x="317" y="468" type="line"/>
+      <point x="98" y="468" type="line"/>
+      <point x="58" y="457"/>
+      <point x="17" y="419"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:11:21 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
