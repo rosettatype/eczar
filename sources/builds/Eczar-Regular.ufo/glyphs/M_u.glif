@@ -21,7 +21,7 @@
         <integer>1</integer>
       </array>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.97,0.9,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2168,6 +2168,35 @@
 		<key>zero</key>
 		<integer>-10</integer>
 	</dict>
+	<key>space</key>
+	<dict>
+		<key>@MMK_R_Alphalenisgrave</key>
+		<integer>50</integer>
+		<key>@MMK_R_Alphalenistilde</key>
+		<integer>45</integer>
+		<key>@MMK_R_Epsilonlenisgrave</key>
+		<integer>225</integer>
+		<key>@MMK_R_Epsilonwithtonos</key>
+		<integer>65</integer>
+		<key>@MMK_R_Etalenistilde</key>
+		<integer>240</integer>
+		<key>@MMK_R_Omegalenisgrave</key>
+		<integer>175</integer>
+		<key>@MMK_R_Omegalenistilde</key>
+		<integer>175</integer>
+		<key>@MMK_R_Omegawithtonos</key>
+		<integer>10</integer>
+		<key>@MMK_R_Omicronlenisgrave</key>
+		<integer>200</integer>
+		<key>@MMK_R_Omicronwithtonos</key>
+		<integer>20</integer>
+		<key>@MMK_R_Upsilonaspergrave</key>
+		<integer>180</integer>
+		<key>@MMK_R_Upsilonwithtonos</key>
+		<integer>55</integer>
+		<key>Upsilonaspertilde</key>
+		<integer>200</integer>
+	</dict>
 	<key>tau</key>
 	<dict>
 		<key>Chi</key>

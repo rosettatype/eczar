@@ -5,6 +5,28 @@
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 		<string>µ/dvKSsRa/Upsilon/gamma/theta/nu</string>
+		<string>E ! /Epsilonwithtonos ! /Etawithtonos ! /Iotawithtonos ! /Omicronwithtonos 
+E! /Upsilonwithtonos 
+! /Omegawithtonos ! /Epsilonlenis ! /Epsilonasper ! /Epsilonlenisgrave ! /Epsilonaspergrave 
+! /Epsilonlenisacute ! /Epsilonasperacute ! /Epsilongrave ! /Epsilonacute ! /Etalenis 
+! /Etaasper ! /Etalenisgrave ! /Etaaspergrave ! /Etalenisacute 
+! /Etaasperacute 
+! /Etalenistilde ! /Etaaspertilde ! /Etagrave ! /Etaacute 
+! /Etalenisiotasub 
+! /Etaasperiotasub ! /Etalenisgraveiotasub ! /Etaaspergraveiotasub ! /Etalenisacuteiotasub 
+! /Etaasperacuteiotasub 
+! /Etalenistildeiotasub ! /Etaaspertildeiotasub ! /Iotalenis ! /Iotaasper ! /Iotalenisgrave 
+! /Iotaaspergrave 
+! /Iotalenisacute ! /Iotaasperacute ! /Iotalenistilde ! /Iotaaspertilde ! /Iotagrave ! /Iotaacute 
+! /Omicronlenis 
+! /Omicronasper  /Omicronlenisgrave ! /Omicronaspergrave ! /Omicronlenisacute ! /Omicronasperacute 
+! /Omicrongrave 
+! /Omicronacute ! /Rhoasper ! /Upsilonasper ! /Upsilonaspergrave ! /Upsilonasperacute 
+! /Upsilonaspertilde ! /Upsilongrave ! /Upsilonacute ! /Omegalenis ! /Omegaasper 
+! /Omegalenisgrave ! /Omegaaspergrave ! /Omegalenisacute ! /Omegaasperacute 
+! /Omegalenistilde ! /Omegaaspertilde ! /Omegagrave ! /Omegaacute ! /Omegalenisiotasub 
+! /Omegaasperiotasub ! /Omegalenisgraveiotasub ! /Omegaaspergraveiotasub ! /Omegalenisacuteiotasub 
+! /Omegaasperacuteiotasub ! /Omegalenistildeiotasub ! /Omegaaspertildeiotasub</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>

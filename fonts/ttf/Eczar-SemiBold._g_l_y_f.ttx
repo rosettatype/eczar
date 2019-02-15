@@ -3440,7 +3440,7 @@
     </TTGlyph>
 
     <TTGlyph name="Rhoasper" xMin="-162" yMin="0" xMax="616" yMax="666">
-      <component glyphName="Rho" x="0" y="0" flags="0x204"/>
+      <component glyphName="Rho" x="0" y="0" flags="0x4"/>
       <component glyphName="asper.case" x="-194" y="0" flags="0x4"/>
     </TTGlyph>
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rhoasper" format="1">
-  <advance width="631"/>
+  <advance width="632"/>
   <unicode hex="1FEC"/>
   <note>
     
@@ -11,8 +11,27 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Rho</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>asper.case</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-12-16 01:14:56 +0000</string>
+      <string>2019-02-15 23:11:34 +0000</string>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.4</real>

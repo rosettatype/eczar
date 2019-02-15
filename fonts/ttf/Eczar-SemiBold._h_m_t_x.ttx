@@ -190,7 +190,7 @@
     <mtx name="Rcaron" width="692" lsb="26"/>
     <mtx name="Rcommaaccent" width="692" lsb="26"/>
     <mtx name="Rho" width="631" lsb="26"/>
-    <mtx name="Rhoasper" width="631" lsb="-162"/>
+    <mtx name="Rhoasper" width="632" lsb="-162"/>
     <mtx name="S" width="578" lsb="52"/>
     <mtx name="Sacute" width="578" lsb="52"/>
     <mtx name="Scaron" width="578" lsb="52"/>

@@ -5,6 +5,32 @@
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 		<string>µ/dvKSsRa/Upsilon/gamma/theta/nu</string>
+		<string>E ! /Alphawithtonos ! /Alphalenis ! /Alphaasper ! /Alphaacute 
+! /Alphalenisiotasub ! /Alphaasperiotasub ! /Alphagrave 
+! /Alphalenisgrave ! /Alphaaspergrave  ! /Alphalenisacute ! /Alphaasperacute 
+! /Alphalenisgraveiotasub ! /Alphaaspergraveiotasub ! /Alphalenisacuteiotasub ! /Alphaasperacuteiotasub 
+! /Alphalenistilde ! /Alphaaspertilde ! /Alphalenistildeiotasub ! /Alphaaspertildeiotasub 
+E ! /Epsilonwithtonos ! /Epsilonlenis ! /Epsilonasper ! /Epsilongrave ! /Epsilonacute 
+! /Epsilonlenisgrave ! /Epsilonaspergrave ! /Epsilonlenisacute ! /Epsilonasperacute 
+! /Etawithtonos ! /Etalenis ! /Etaasper ! /Etagrave 
+! /Etaacute ! /Etalenisiotasub ! /Etaasperiotasub 
+! /Etalenisgrave ! /Etaaspergrave ! /Etalenisacute ! /Etaasperacute ! /Etalenisgraveiotasub 
+! /Etaaspergraveiotasub ! /Etalenisacuteiotasub ! /Etaasperacuteiotasub 
+! /Etalenistilde ! /Etaaspertilde ! /Etalenistildeiotasub ! /Etaaspertildeiotasub 
+! /Iotawithtonos ! /Iotalenis ! /Iotaasper ! /Iotagrave ! /Iotaacute 
+! /Iotalenisgrave ! /Iotaaspergrave ! /Iotalenisacute ! /Iotaasperacute 
+! /Iotalenistilde ! /Iotaaspertilde 
+! /Omicronwithtonos ! /Omicronlenis ! /Omicronasper ! /Omicrongrave ! /Omicronacute 
+! /Omicronlenisgrave ! /Omicronaspergrave ! /Omicronlenisacute ! /Omicronasperacute 
+E ! /Upsilonwithtonos ! /Upsilonasper ! /Upsilongrave ! /Upsilonacute 
+! /Upsilonaspergrave ! /Upsilonasperacute 
+! /Upsilonaspertilde 
+! /Omegawithtonos ! /Omegalenis ! /Omegaasper ! /Omegagrave 
+! /Omegaacute ! /Omegalenisiotasub  ! /Omegaasperiotasub 
+! /Omegalenisgrave ! /Omegaaspergrave ! /Omegalenisacute ! /Omegaasperacute 
+! /Omegalenisgraveiotasub ! /Omegaaspergraveiotasub ! /Omegalenisacuteiotasub ! /Omegaasperacuteiotasub 
+! /Omegalenistilde ! /Omegaaspertilde ! /Omegalenistildeiotasub ! /Omegaaspertildeiotasub 
+! /Rhoasper</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>

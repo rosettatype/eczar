@@ -1,4 +1,4 @@
-# Created: Sun Dec 16 01:24:51 2018
+# Created: Fri Feb 15 23:25:21 2019
 # PS Name: Eczar-SemiBold
 # MinKern: +/- 3 inclusive
 # exported from Defcon
@@ -41,8 +41,13 @@
 @MMK_L_y = [y yacute ydieresis];
 @MMK_L_z = [z zacute zdotaccent zcaron];
 @MMK_R_A = [A Agrave Aacute Acircumflex Atilde Adieresis Aring AE Amacron Abreve Aogonek];
+@MMK_R_Alphalenisgrave = [Alphalenisgrave Alphaaspergrave Alphalenisacute Alphaasperacute Alphalenisgraveiotasub Alphaaspergraveiotasub Alphalenisacuteiotasub Alphaasperacuteiotasub];
+@MMK_R_Alphalenistilde = [Alphalenistilde Alphaaspertilde Alphalenistildeiotasub Alphaaspertildeiotasub];
 @MMK_R_Da = [dvTta dvTtha dvDdha dvDa dvRha dvDRa dvTtTtYa dvTthTthYa dvDBRa dvDRYa dvDVYa dvDVRa dvTtKa dvTtTta dvTtTtha dvTtDdha dvTtYa dvTtVa dvTthTtha dvTthYa dvTthVa dvDdhDdha dvDdhYa dvDdhVa dvDGa dvDGha dvDNa dvDBa dvDVa dvDa_dvMatraU dvDa_dvMatraUu dvDa_dvMatraVocalicR dvDBa_dvMatraVocalicR dvDVa_dvMatraVocalicR];
 @MMK_R_Dda = [dvI dvIi dvNga dvJha dvDda dvHa dvDddha dvDdda dvJhRa dvDhRa dvHRa dvNgKRa dvDdDdYa dvDDYa dvDDRa dvDhVa dvHMYa dvHMYa.ss06 dvNgKa dvNgGa dvNgGRa dvNgGha dvNgGhRa dvNgMa dvNgYa dvDdKa dvDdGa dvDdTta dvDdDda dvDdDdha dvDdYa dvDdVa dvDDa dvDYa dvHNna dvHNa dvHMa dvHYa dvHLa dvHVa dvDhDha dvDhNa dvDa_dvMatraVocalicR.ss06 dvHa_dvMatraVocalicR dvHa_dvMatraU dvHa_dvMatraUu dvIi_dvAnusvara];
+@MMK_R_Epsilonlenisgrave = [Epsilonlenisgrave Epsilonaspergrave Epsilonlenisacute Epsilonasperacute Etalenisgrave Etaaspergrave Etalenisacute Etaasperacute Etalenisgraveiotasub Etaaspergraveiotasub Etalenisacuteiotasub Etaasperacuteiotasub Iotalenisgrave Iotaaspergrave Iotalenisacute Iotaasperacute];
+@MMK_R_Epsilonwithtonos = [Epsilonwithtonos Etawithtonos Iotawithtonos Epsilonlenis Epsilonasper Epsilongrave Epsilonacute Etalenis Etaasper Etagrave Etaacute Etalenisiotasub Etaasperiotasub Iotalenis Iotaasper Iotagrave Iotaacute Rhoasper];
+@MMK_R_Etalenistilde = [Etalenistilde Etaaspertilde Etalenistildeiotasub Etaaspertildeiotasub Iotalenistilde Iotaaspertilde];
 @MMK_R_Gha = [dvGha dvDha dvGhRa dvGhhRa dvDhNYa dvGhNa dvGh dvDh dvGhR dvDhR];
 @MMK_R_I = [B D E F H I K L M N P R Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Thorn Dcaron Dcroat Emacron Edotaccent Eogonek Ecaron Imacron Iogonek Idotaccent Kcommaaccent Lacute Lcommaaccent Lcaron Lslash Nacute Ncommaaccent Ncaron Racute Rcommaaccent Rcaron ruble];
 @MMK_R_Ja = [dvJa dvZa dvZha dvJja dvJRa dvZRa dvJJa dvJNa dvJMa dvJYa dvZYa dvZZa dvJ dvJ.alt dvZ];
@@ -51,11 +56,18 @@
 @MMK_R_Ma = [dvGa dvJha.NEP dvBha dvMa dvGhha dvGga dvGRa dvBhRa dvMRa dvGRYa dvBhRYa dvGDhYa dvGDhVa dvGNYa dvGBhYa dvMBYa dvMBhYa dvMBhRa dvMBhVa dvGNa dvBhNa dvBhBha dvMDda dvMNa dvMBha dvMSha dvG dvJh.NEP dvBh dvM dvGhh dvMBh];
 @MMK_R_Na = [dvNa dvNnna];
 @MMK_R_O = [C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash Cacute Ccaron Gbreve Gcommaaccent Omacron Ohungarumlaut OE];
+@MMK_R_Omegalenisgrave = [Omegalenisgrave Omegaaspergrave Omegalenisacute Omegaasperacute Omegalenisgraveiotasub Omegaaspergraveiotasub Omegalenisacuteiotasub Omegaasperacuteiotasub];
+@MMK_R_Omegalenistilde = [Omegalenistilde Omegaaspertilde Omegalenistildeiotasub Omegaaspertildeiotasub];
+@MMK_R_Omegawithtonos = [Omegawithtonos Omegalenis Omegaasper Omegagrave Omegaacute Omegalenisiotasub Omegaasperiotasub];
+@MMK_R_Omicronlenisgrave = [Omicronlenisgrave Omicronaspergrave Omicronlenisacute Omicronasperacute];
+@MMK_R_Omicronwithtonos = [Omicronwithtonos Omicronlenis Omicronasper Omicrongrave Omicronacute];
 @MMK_R_Pa = [dvNna dvPa dvPha dvSsa dvFa dvPRa dvPhRa dvSsRa dvFRa dvDdhRYa dvDGRa dvPTta dvPTtha dvPTtYa dvPTthYa dvSsTtYa dvSsTthYa dvPTYa dvPDda dvPTha dvPNa dvPSha dvPhGa dvPhCa dvPhTha dvPhNa dvPhSha dvFTa dvFSa dvFZa dvFFa dvNn dvP dvPh dvPh.alt dvSs dvF dvF.alt dvPR dvSsR];
 @MMK_R_Ra = [dvKha dvRa dvRra dvSa dvKhha dvKhRa dvSRa dvKhhRa dvKhNa dvSNa dvSMa dvKhhTa dvKhhMa dvKhhYa dvKhhVa dvKhhSha dvKhhSa dvS dvKhh dvSR];
 @MMK_R_S = [dollar S Sacute Scedilla Scaron Scommaaccent];
 @MMK_R_T = [T Tcedilla Tcaron Tcommaaccent];
 @MMK_R_U = [U Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek];
+@MMK_R_Upsilonaspergrave = [Upsilonaspergrave Upsilonasperacute];
+@MMK_R_Upsilonwithtonos = [Upsilonwithtonos Upsilonasper Upsilongrave Upsilonacute];
 @MMK_R_V = [V W];
 @MMK_R_Va = [dvBa dvVa dvBba dvBRa dvVRa dvQRa dvBJYa dvBDhVa dvBBhRa dvBLYa dvBNa dvVNa dvB dvV dvVR];
 @MMK_R_Y = [Y Yacute Ydieresis];
@@ -360,6 +372,7 @@ pos sigma quotesingle 35;
 pos six eight 10;
 pos six nine -10;
 pos six zero -10;
+pos space Upsilonaspertilde 340;
 pos tau Chi -30;
 pos tau Tau -15;
 pos tau comma -50;
@@ -653,6 +666,18 @@ pos q @MMK_R_l -20;
 pos q @MMK_R_o -20;
 pos quoteright @MMK_R_a -40;
 pos quoteright @MMK_R_b 40;
+pos space @MMK_R_Alphalenisgrave 100;
+pos space @MMK_R_Alphalenistilde 120;
+pos space @MMK_R_Epsilonlenisgrave 270;
+pos space @MMK_R_Epsilonwithtonos 85;
+pos space @MMK_R_Etalenistilde 280;
+pos space @MMK_R_Omegalenisgrave 210;
+pos space @MMK_R_Omegalenistilde 235;
+pos space @MMK_R_Omegawithtonos 20;
+pos space @MMK_R_Omicronlenisgrave 260;
+pos space @MMK_R_Omicronwithtonos 65;
+pos space @MMK_R_Upsilonaspergrave 260;
+pos space @MMK_R_Upsilonwithtonos 70;
 
 # group, glyph and group, group:
 
