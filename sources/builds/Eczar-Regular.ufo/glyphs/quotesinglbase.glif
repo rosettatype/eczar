@@ -18,6 +18,8 @@
           <string>quoteright</string>
         </dict>
       </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:54:28 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>quoteright</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

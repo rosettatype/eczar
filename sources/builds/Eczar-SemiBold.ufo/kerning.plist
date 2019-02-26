@@ -43,6 +43,59 @@
 		<key>X</key>
 		<integer>-50</integer>
 	</dict>
+	<key>@MMK_L_Alpha</key>
+	<dict>
+		<key>@MMK_R_Iota</key>
+		<integer>-30</integer>
+		<key>@MMK_R_Omicron</key>
+		<integer>-15</integer>
+		<key>@MMK_R_Upsilon</key>
+		<real>-107.5</real>
+		<key>@MMK_R_epsilon</key>
+		<integer>-20</integer>
+		<key>@MMK_R_eta</key>
+		<integer>-35</integer>
+		<key>@MMK_R_gamma</key>
+		<integer>-60</integer>
+		<key>@MMK_R_iota</key>
+		<integer>-20</integer>
+		<key>@MMK_R_iotadieresis</key>
+		<integer>-20</integer>
+		<key>@MMK_R_iotadieresistonos</key>
+		<integer>-20</integer>
+		<key>@MMK_R_omicron</key>
+		<integer>-20</integer>
+		<key>@MMK_R_quotesright</key>
+		<integer>-70</integer>
+		<key>@MMK_R_rho</key>
+		<integer>-5</integer>
+		<key>@MMK_R_upsilon</key>
+		<integer>-40</integer>
+		<key>@MMK_R_zeta</key>
+		<integer>-35</integer>
+		<key>Chi</key>
+		<integer>-50</integer>
+		<key>Omega</key>
+		<integer>-5</integer>
+		<key>Tau</key>
+		<integer>-70</integer>
+		<key>Xi</key>
+		<integer>-30</integer>
+		<key>asterisk</key>
+		<integer>-90</integer>
+		<key>beta</key>
+		<integer>-5</integer>
+		<key>paragraph</key>
+		<integer>-50</integer>
+		<key>pi</key>
+		<integer>-20</integer>
+		<key>quotesingle</key>
+		<integer>-60</integer>
+		<key>tau</key>
+		<integer>-60</integer>
+		<key>theta</key>
+		<integer>-30</integer>
+	</dict>
 	<key>@MMK_L_C</key>
 	<dict>
 		<key>@MMK_R_A</key>
@@ -104,6 +157,45 @@
 		<integer>-20</integer>
 		<key>@MMK_R_z</key>
 		<integer>-10</integer>
+	</dict>
+	<key>@MMK_L_Epsilon</key>
+	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-20</integer>
+		<key>@MMK_R_Omicron</key>
+		<integer>10</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-20</integer>
+		<key>@MMK_R_epsilon</key>
+		<integer>-15</integer>
+		<key>@MMK_R_eta</key>
+		<real>-12.5</real>
+		<key>@MMK_R_gamma</key>
+		<real>-17.5</real>
+		<key>@MMK_R_iota</key>
+		<integer>-10</integer>
+		<key>@MMK_R_omicron</key>
+		<real>-17.5</real>
+		<key>@MMK_R_rho</key>
+		<integer>-15</integer>
+		<key>@MMK_R_upsilon</key>
+		<integer>-10</integer>
+		<key>@MMK_R_zeta</key>
+		<integer>-10</integer>
+		<key>Omega</key>
+		<integer>-30</integer>
+		<key>beta</key>
+		<real>-12.5</real>
+		<key>paragraph</key>
+		<integer>15</integer>
+		<key>pi</key>
+		<integer>-10</integer>
+		<key>quotesingle</key>
+		<integer>50</integer>
+		<key>tau</key>
+		<real>-22.5</real>
+		<key>theta</key>
+		<real>-16.5</real>
 	</dict>
 	<key>@MMK_L_G</key>
 	<dict>
@@ -200,6 +292,47 @@
 		<integer>-36</integer>
 		<key>J</key>
 		<integer>-20</integer>
+	</dict>
+	<key>@MMK_L_Iota</key>
+	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-30</integer>
+		<key>@MMK_R_Iota</key>
+		<integer>-20</integer>
+		<key>@MMK_R_Omicron</key>
+		<integer>-10</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-30</integer>
+		<key>@MMK_R_Zeta</key>
+		<integer>-30</integer>
+		<key>@MMK_R_epsilon</key>
+		<integer>-25</integer>
+		<key>@MMK_R_eta</key>
+		<real>-22.5</real>
+		<key>@MMK_R_gamma</key>
+		<integer>-25</integer>
+		<key>@MMK_R_iota</key>
+		<integer>-30</integer>
+		<key>@MMK_R_omicron</key>
+		<integer>-35</integer>
+		<key>@MMK_R_rho</key>
+		<integer>-25</integer>
+		<key>@MMK_R_upsilon</key>
+		<integer>-25</integer>
+		<key>@MMK_R_zeta</key>
+		<real>-7.5</real>
+		<key>Omega</key>
+		<integer>-20</integer>
+		<key>Tau</key>
+		<integer>-30</integer>
+		<key>beta</key>
+		<integer>-15</integer>
+		<key>pi</key>
+		<real>-17.5</real>
+		<key>quotesingle</key>
+		<integer>60</integer>
+		<key>tau</key>
+		<real>-32.5</real>
 	</dict>
 	<key>@MMK_L_K</key>
 	<dict>
@@ -326,6 +459,46 @@
 		<key>X</key>
 		<integer>-30</integer>
 	</dict>
+	<key>@MMK_L_Omega</key>
+	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>5</integer>
+		<key>@MMK_R_Iota</key>
+		<integer>-30</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-60</integer>
+		<key>@MMK_R_Zeta</key>
+		<integer>-15</integer>
+		<key>@MMK_R_quotesright</key>
+		<integer>-30</integer>
+		<key>asterisk</key>
+		<integer>-20</integer>
+		<key>quotesingle</key>
+		<integer>-10</integer>
+	</dict>
+	<key>@MMK_L_Omicron</key>
+	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-40</integer>
+		<key>@MMK_R_Omicron</key>
+		<integer>40</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-25</integer>
+		<key>@MMK_R_rho</key>
+		<real>-7.5</real>
+		<key>Chi</key>
+		<integer>-30</integer>
+		<key>Tau</key>
+		<integer>-20</integer>
+		<key>lamda</key>
+		<integer>-15</integer>
+		<key>lownumeralsign</key>
+		<integer>-30</integer>
+		<key>paragraph</key>
+		<integer>35</integer>
+		<key>quotesingle</key>
+		<integer>45</integer>
+	</dict>
 	<key>@MMK_L_R</key>
 	<dict>
 		<key>@MMK_R_I</key>
@@ -368,6 +541,43 @@
 		<integer>-10</integer>
 		<key>J</key>
 		<integer>-30</integer>
+	</dict>
+	<key>@MMK_L_Rho</key>
+	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-70</integer>
+		<key>@MMK_R_Iota</key>
+		<integer>-30</integer>
+		<key>@MMK_R_Omicron</key>
+		<integer>5</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-40</integer>
+		<key>@MMK_R_Zeta</key>
+		<integer>-20</integer>
+		<key>@MMK_R_epsilon</key>
+		<integer>-20</integer>
+		<key>@MMK_R_iota</key>
+		<integer>-10</integer>
+		<key>@MMK_R_omicron</key>
+		<real>-27.5</real>
+		<key>@MMK_R_rho</key>
+		<real>-27.5</real>
+		<key>@MMK_R_zeta</key>
+		<integer>-5</integer>
+		<key>Chi</key>
+		<integer>-40</integer>
+		<key>Omega</key>
+		<integer>-15</integer>
+		<key>Tau</key>
+		<integer>-10</integer>
+		<key>beta</key>
+		<real>-7.5</real>
+		<key>lamda</key>
+		<integer>-25</integer>
+		<key>paragraph</key>
+		<integer>55</integer>
+		<key>quotesingle</key>
+		<integer>55</integer>
 	</dict>
 	<key>@MMK_L_S</key>
 	<dict>
@@ -471,6 +681,61 @@
 		<integer>-40</integer>
 		<key>X</key>
 		<integer>-20</integer>
+	</dict>
+	<key>@MMK_L_Upsilon</key>
+	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-80</integer>
+		<key>@MMK_R_Iota</key>
+		<real>-22.5</real>
+		<key>@MMK_R_Omicron</key>
+		<integer>-25</integer>
+		<key>@MMK_R_Zeta</key>
+		<integer>-30</integer>
+		<key>@MMK_R_epsilon</key>
+		<real>-62.5</real>
+		<key>@MMK_R_eta</key>
+		<integer>-65</integer>
+		<key>@MMK_R_gamma</key>
+		<integer>-65</integer>
+		<key>@MMK_R_iota</key>
+		<real>-42.5</real>
+		<key>@MMK_R_iotadieresis</key>
+		<real>62.5</real>
+		<key>@MMK_R_iotadieresistonos</key>
+		<integer>100</integer>
+		<key>@MMK_R_omicron</key>
+		<real>-67.5</real>
+		<key>@MMK_R_rho</key>
+		<real>-62.5</real>
+		<key>@MMK_R_upsilon</key>
+		<integer>-55</integer>
+		<key>Chi</key>
+		<integer>-30</integer>
+		<key>Omega</key>
+		<integer>-60</integer>
+		<key>Xi</key>
+		<integer>-20</integer>
+		<key>asterisk</key>
+		<real>47.5</real>
+		<key>beta</key>
+		<real>-12.5</real>
+		<key>comma</key>
+		<integer>-50</integer>
+		<key>delta</key>
+		<real>-17.5</real>
+		<key>lownumeralsign</key>
+		<integer>-60</integer>
+		<key>paragraph</key>
+		<integer>30</integer>
+		<key>pi</key>
+		<real>-57.5</real>
+		<key>quotesingle</key>
+		<integer>70</integer>
+		<key>tau</key>
+		<integer>-70</integer>
+		<key>theta</key>
+		<real>-17.5</real>
 	</dict>
 	<key>@MMK_L_V</key>
 	<dict>
@@ -612,6 +877,45 @@
 		<key>X</key>
 		<integer>-30</integer>
 	</dict>
+	<key>@MMK_L_Zeta</key>
+	<dict>
+		<key>@MMK_R_Iota</key>
+		<integer>-20</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-20</integer>
+		<key>@MMK_R_epsilon</key>
+		<real>-8.5</real>
+		<key>@MMK_R_eta</key>
+		<real>-12.5</real>
+		<key>@MMK_R_gamma</key>
+		<real>-22.5</real>
+		<key>@MMK_R_iota</key>
+		<integer>-20</integer>
+		<key>@MMK_R_omicron</key>
+		<real>-12.5</real>
+		<key>@MMK_R_rho</key>
+		<integer>-20</integer>
+		<key>@MMK_R_upsilon</key>
+		<integer>-15</integer>
+		<key>Chi</key>
+		<integer>-30</integer>
+		<key>Omega</key>
+		<integer>-20</integer>
+		<key>Tau</key>
+		<integer>-20</integer>
+		<key>beta</key>
+		<real>-17.5</real>
+		<key>paragraph</key>
+		<integer>15</integer>
+		<key>pi</key>
+		<real>-17.5</real>
+		<key>quotesingle</key>
+		<integer>50</integer>
+		<key>tau</key>
+		<real>-27.5</real>
+		<key>theta</key>
+		<real>-12.5</real>
+	</dict>
 	<key>@MMK_L_a</key>
 	<dict>
 		<key>@MMK_R_I</key>
@@ -675,6 +979,44 @@
 		<key>X</key>
 		<integer>-40</integer>
 	</dict>
+	<key>@MMK_L_epsilon</key>
+	<dict>
+		<key>@MMK_R_Iota</key>
+		<integer>-10</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-35</integer>
+		<key>@MMK_R_omicron</key>
+		<integer>-5</integer>
+		<key>@MMK_R_rho</key>
+		<integer>-5</integer>
+		<key>@MMK_R_zeta</key>
+		<real>-17.5</real>
+		<key>Chi</key>
+		<integer>-25</integer>
+		<key>Tau</key>
+		<real>-37.5</real>
+		<key>paragraph</key>
+		<integer>25</integer>
+		<key>period</key>
+		<integer>-20</integer>
+		<key>quotesingle</key>
+		<integer>30</integer>
+	</dict>
+	<key>@MMK_L_eta</key>
+	<dict>
+		<key>@MMK_R_Iota</key>
+		<integer>-20</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-55</integer>
+		<key>@MMK_R_quotesright</key>
+		<integer>-40</integer>
+		<key>Chi</key>
+		<integer>-10</integer>
+		<key>Tau</key>
+		<integer>-55</integer>
+		<key>asterisk</key>
+		<integer>-30</integer>
+	</dict>
 	<key>@MMK_L_f</key>
 	<dict>
 		<key>@MMK_R_a</key>
@@ -717,6 +1059,39 @@
 		<key>X</key>
 		<integer>-30</integer>
 	</dict>
+	<key>@MMK_L_gamma</key>
+	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-40</integer>
+		<key>@MMK_R_Iota</key>
+		<integer>-15</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-40</integer>
+		<key>@MMK_R_Zeta</key>
+		<integer>-20</integer>
+		<key>@MMK_R_epsilon</key>
+		<integer>-9</integer>
+		<key>@MMK_R_omicron</key>
+		<integer>-10</integer>
+		<key>@MMK_R_rho</key>
+		<real>-22.5</real>
+		<key>@MMK_R_zeta</key>
+		<integer>-15</integer>
+		<key>Chi</key>
+		<integer>-50</integer>
+		<key>Tau</key>
+		<integer>-30</integer>
+		<key>comma</key>
+		<integer>-60</integer>
+		<key>lamda</key>
+		<integer>-25</integer>
+		<key>paragraph</key>
+		<integer>40</integer>
+		<key>period</key>
+		<integer>-80</integer>
+		<key>quotesingle</key>
+		<integer>35</integer>
+	</dict>
 	<key>@MMK_L_i</key>
 	<dict>
 		<key>@MMK_R_T</key>
@@ -729,6 +1104,85 @@
 		<integer>-10</integer>
 		<key>@MMK_R_g</key>
 		<integer>-10</integer>
+	</dict>
+	<key>@MMK_L_iota</key>
+	<dict>
+		<key>@MMK_R_Iota</key>
+		<real>-12.5</real>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-45</integer>
+		<key>@MMK_R_omicron</key>
+		<integer>-5</integer>
+		<key>@MMK_R_quotesright</key>
+		<integer>-20</integer>
+		<key>@MMK_R_zeta</key>
+		<integer>-15</integer>
+		<key>Tau</key>
+		<integer>-30</integer>
+		<key>paragraph</key>
+		<real>27.5</real>
+	</dict>
+	<key>@MMK_L_iotadieresis</key>
+	<dict>
+		<key>@MMK_R_Iota</key>
+		<integer>45</integer>
+		<key>@MMK_R_Upsilon</key>
+		<real>72.5</real>
+		<key>@MMK_R_iotadieresis</key>
+		<integer>120</integer>
+		<key>@MMK_R_iotadieresistonos</key>
+		<integer>170</integer>
+		<key>@MMK_R_parenthesis</key>
+		<integer>50</integer>
+		<key>@MMK_R_quotesright</key>
+		<integer>60</integer>
+		<key>@MMK_R_zeta</key>
+		<integer>60</integer>
+		<key>Tau</key>
+		<integer>75</integer>
+		<key>asterisk</key>
+		<integer>105</integer>
+		<key>beta</key>
+		<integer>15</integer>
+		<key>delta</key>
+		<integer>10</integer>
+		<key>lamda</key>
+		<real>52.5</real>
+		<key>paragraph</key>
+		<integer>60</integer>
+		<key>theta</key>
+		<real>17.5</real>
+	</dict>
+	<key>@MMK_L_iotadieresistonos</key>
+	<dict>
+		<key>@MMK_R_Iota</key>
+		<real>77.5</real>
+		<key>@MMK_R_Upsilon</key>
+		<real>107.5</real>
+		<key>@MMK_R_iotadieresis</key>
+		<integer>175</integer>
+		<key>@MMK_R_iotadieresistonos</key>
+		<integer>230</integer>
+		<key>@MMK_R_parenthesis</key>
+		<integer>85</integer>
+		<key>@MMK_R_quotesright</key>
+		<integer>90</integer>
+		<key>@MMK_R_zeta</key>
+		<real>107.5</real>
+		<key>Tau</key>
+		<integer>110</integer>
+		<key>asterisk</key>
+		<integer>140</integer>
+		<key>beta</key>
+		<integer>55</integer>
+		<key>delta</key>
+		<real>57.5</real>
+		<key>lamda</key>
+		<integer>100</integer>
+		<key>paragraph</key>
+		<integer>90</integer>
+		<key>theta</key>
+		<integer>55</integer>
 	</dict>
 	<key>@MMK_L_j</key>
 	<dict>
@@ -871,6 +1325,89 @@
 		<key>quoteright</key>
 		<integer>-30</integer>
 	</dict>
+	<key>@MMK_L_omicron</key>
+	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-20</integer>
+		<key>@MMK_R_Iota</key>
+		<real>-37.5</real>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-65</integer>
+		<key>@MMK_R_quotesright</key>
+		<integer>-20</integer>
+		<key>@MMK_R_rho</key>
+		<real>-15.5</real>
+		<key>Chi</key>
+		<integer>-50</integer>
+		<key>Tau</key>
+		<integer>-65</integer>
+		<key>asterisk</key>
+		<integer>-40</integer>
+		<key>chi</key>
+		<integer>-25</integer>
+		<key>comma</key>
+		<integer>-30</integer>
+		<key>lamda</key>
+		<integer>-15</integer>
+		<key>period</key>
+		<integer>-30</integer>
+		<key>quotesingle</key>
+		<integer>-5</integer>
+	</dict>
+	<key>@MMK_L_parenthesis</key>
+	<dict>
+		<key>@MMK_R_HangOneAlpha</key>
+		<integer>10</integer>
+		<key>@MMK_R_HangOneIota</key>
+		<integer>170</integer>
+		<key>@MMK_R_HangOneOmega</key>
+		<integer>90</integer>
+		<key>@MMK_R_HangOneOmicron</key>
+		<integer>135</integer>
+		<key>@MMK_R_HangTwoAlpha</key>
+		<integer>170</integer>
+		<key>@MMK_R_HangTwoIota</key>
+		<integer>350</integer>
+		<key>@MMK_R_HangTwoOmega</key>
+		<integer>270</integer>
+		<key>@MMK_R_HangTwoOmicron</key>
+		<integer>315</integer>
+		<key>@MMK_R_iotadieresis</key>
+		<integer>45</integer>
+		<key>@MMK_R_iotadieresistonos</key>
+		<integer>75</integer>
+	</dict>
+	<key>@MMK_L_quoteleft</key>
+	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-70</integer>
+		<key>@MMK_R_HangOneAlpha</key>
+		<integer>10</integer>
+		<key>@MMK_R_HangOneIota</key>
+		<integer>175</integer>
+		<key>@MMK_R_HangOneOmega</key>
+		<integer>95</integer>
+		<key>@MMK_R_HangOneOmicron</key>
+		<integer>140</integer>
+		<key>@MMK_R_HangTwoAlpha</key>
+		<integer>175</integer>
+		<key>@MMK_R_HangTwoIota</key>
+		<integer>350</integer>
+		<key>@MMK_R_HangTwoOmega</key>
+		<integer>275</integer>
+		<key>@MMK_R_HangTwoOmicron</key>
+		<integer>325</integer>
+		<key>@MMK_R_iotadieresis</key>
+		<integer>60</integer>
+		<key>@MMK_R_iotadieresistonos</key>
+		<integer>75</integer>
+		<key>@MMK_R_omicron</key>
+		<integer>-20</integer>
+		<key>@MMK_R_rho</key>
+		<integer>-35</integer>
+		<key>Omega</key>
+		<integer>-40</integer>
+	</dict>
 	<key>@MMK_L_r</key>
 	<dict>
 		<key>@MMK_R_A</key>
@@ -920,6 +1457,25 @@
 		<integer>-60</integer>
 		<key>quoteright</key>
 		<integer>-40</integer>
+	</dict>
+	<key>@MMK_L_space</key>
+	<dict>
+		<key>@MMK_R_HangOneAlpha</key>
+		<integer>15</integer>
+		<key>@MMK_R_HangOneIota</key>
+		<integer>195</integer>
+		<key>@MMK_R_HangOneOmega</key>
+		<integer>120</integer>
+		<key>@MMK_R_HangOneOmicron</key>
+		<integer>165</integer>
+		<key>@MMK_R_HangTwoAlpha</key>
+		<integer>185</integer>
+		<key>@MMK_R_HangTwoIota</key>
+		<integer>360</integer>
+		<key>@MMK_R_HangTwoOmega</key>
+		<integer>280</integer>
+		<key>@MMK_R_HangTwoOmicron</key>
+		<integer>335</integer>
 	</dict>
 	<key>@MMK_L_t</key>
 	<dict>
@@ -1080,6 +1636,16 @@
 	</dict>
 	<key>Beta</key>
 	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-40</integer>
+		<key>@MMK_R_Omicron</key>
+		<integer>20</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-30</integer>
+		<key>@MMK_R_iota</key>
+		<integer>-15</integer>
+		<key>@MMK_R_rho</key>
+		<integer>-10</integer>
 		<key>Chi</key>
 		<integer>-30</integer>
 		<key>Omega</key>
@@ -1093,6 +1659,28 @@
 	</dict>
 	<key>Chi</key>
 	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-30</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-30</integer>
+		<key>@MMK_R_Zeta</key>
+		<integer>-20</integer>
+		<key>@MMK_R_epsilon</key>
+		<integer>-35</integer>
+		<key>@MMK_R_eta</key>
+		<integer>-30</integer>
+		<key>@MMK_R_gamma</key>
+		<integer>-55</integer>
+		<key>@MMK_R_iota</key>
+		<integer>-30</integer>
+		<key>@MMK_R_omicron</key>
+		<integer>-30</integer>
+		<key>@MMK_R_rho</key>
+		<integer>-5</integer>
+		<key>@MMK_R_upsilon</key>
+		<integer>-35</integer>
+		<key>@MMK_R_zeta</key>
+		<integer>-15</integer>
 		<key>Tau</key>
 		<integer>-20</integer>
 		<key>beta</key>
@@ -1155,6 +1743,30 @@
 	</dict>
 	<key>Gamma</key>
 	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-100</integer>
+		<key>@MMK_R_Iota</key>
+		<integer>-30</integer>
+		<key>@MMK_R_Omicron</key>
+		<integer>-20</integer>
+		<key>@MMK_R_Zeta</key>
+		<integer>-30</integer>
+		<key>@MMK_R_epsilon</key>
+		<integer>-55</integer>
+		<key>@MMK_R_eta</key>
+		<integer>-40</integer>
+		<key>@MMK_R_gamma</key>
+		<integer>-40</integer>
+		<key>@MMK_R_iota</key>
+		<integer>-35</integer>
+		<key>@MMK_R_iotadieresis</key>
+		<integer>65</integer>
+		<key>@MMK_R_omicron</key>
+		<integer>-60</integer>
+		<key>@MMK_R_rho</key>
+		<integer>-65</integer>
+		<key>@MMK_R_upsilon</key>
+		<integer>-35</integer>
 		<key>Chi</key>
 		<integer>-40</integer>
 		<key>Omega</key>
@@ -1203,6 +1815,28 @@
 	</dict>
 	<key>Kappa</key>
 	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-30</integer>
+		<key>@MMK_R_Omicron</key>
+		<integer>-30</integer>
+		<key>@MMK_R_Upsilon</key>
+		<real>-22.5</real>
+		<key>@MMK_R_Zeta</key>
+		<integer>-20</integer>
+		<key>@MMK_R_epsilon</key>
+		<real>-32.5</real>
+		<key>@MMK_R_eta</key>
+		<real>-37.5</real>
+		<key>@MMK_R_gamma</key>
+		<integer>-65</integer>
+		<key>@MMK_R_iota</key>
+		<real>-32.5</real>
+		<key>@MMK_R_omicron</key>
+		<real>-42.5</real>
+		<key>@MMK_R_upsilon</key>
+		<integer>-45</integer>
+		<key>@MMK_R_zeta</key>
+		<integer>-20</integer>
 		<key>Omega</key>
 		<integer>-10</integer>
 		<key>Tau</key>
@@ -1262,6 +1896,30 @@
 	</dict>
 	<key>Tau</key>
 	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-50</integer>
+		<key>@MMK_R_Iota</key>
+		<integer>-10</integer>
+		<key>@MMK_R_Omicron</key>
+		<integer>-10</integer>
+		<key>@MMK_R_Zeta</key>
+		<integer>-20</integer>
+		<key>@MMK_R_epsilon</key>
+		<integer>-45</integer>
+		<key>@MMK_R_eta</key>
+		<integer>-30</integer>
+		<key>@MMK_R_gamma</key>
+		<integer>-30</integer>
+		<key>@MMK_R_iota</key>
+		<integer>-30</integer>
+		<key>@MMK_R_iotadieresis</key>
+		<integer>65</integer>
+		<key>@MMK_R_omicron</key>
+		<integer>-45</integer>
+		<key>@MMK_R_rho</key>
+		<integer>-55</integer>
+		<key>@MMK_R_upsilon</key>
+		<integer>-25</integer>
 		<key>Chi</key>
 		<integer>-20</integer>
 		<key>asterisk</key>
@@ -1314,6 +1972,14 @@
 	</dict>
 	<key>beta</key>
 	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-20</integer>
+		<key>@MMK_R_gamma</key>
+		<integer>-10</integer>
+		<key>@MMK_R_quotesright</key>
+		<integer>-10</integer>
+		<key>@MMK_R_upsilon</key>
+		<integer>-10</integer>
 		<key>Chi</key>
 		<integer>-25</integer>
 		<key>comma</key>
@@ -1325,6 +1991,20 @@
 	</dict>
 	<key>chi</key>
 	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-50</integer>
+		<key>@MMK_R_Iota</key>
+		<integer>-15</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-40</integer>
+		<key>@MMK_R_Zeta</key>
+		<integer>-20</integer>
+		<key>@MMK_R_epsilon</key>
+		<integer>-15</integer>
+		<key>@MMK_R_omicron</key>
+		<integer>-25</integer>
+		<key>@MMK_R_rho</key>
+		<integer>-5</integer>
 		<key>Chi</key>
 		<integer>-40</integer>
 		<key>Tau</key>
@@ -1340,6 +2020,8 @@
 	</dict>
 	<key>delta</key>
 	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-25</integer>
 		<key>asterisk</key>
 		<integer>40</integer>
 		<key>comma</key>
@@ -2212,6 +2894,16 @@
 	</dict>
 	<key>kappa</key>
 	<dict>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-35</integer>
+		<key>@MMK_R_epsilon</key>
+		<integer>-5</integer>
+		<key>@MMK_R_omicron</key>
+		<integer>-10</integer>
+		<key>@MMK_R_rho</key>
+		<integer>-10</integer>
+		<key>@MMK_R_zeta</key>
+		<integer>-10</integer>
 		<key>comma</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
@@ -2221,6 +2913,18 @@
 	</dict>
 	<key>lamda</key>
 	<dict>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-60</integer>
+		<key>@MMK_R_eta</key>
+		<integer>-25</integer>
+		<key>@MMK_R_gamma</key>
+		<integer>-50</integer>
+		<key>@MMK_R_quotesright</key>
+		<integer>-70</integer>
+		<key>@MMK_R_upsilon</key>
+		<integer>-30</integer>
+		<key>@MMK_R_zeta</key>
+		<integer>-10</integer>
 		<key>Tau</key>
 		<integer>-65</integer>
 		<key>paragraph</key>
@@ -2259,6 +2963,14 @@
 	</dict>
 	<key>pi</key>
 	<dict>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-35</integer>
+		<key>@MMK_R_epsilon</key>
+		<integer>-10</integer>
+		<key>@MMK_R_omicron</key>
+		<real>-7.5</real>
+		<key>@MMK_R_rho</key>
+		<real>-12.5</real>
 		<key>Chi</key>
 		<integer>-20</integer>
 		<key>Tau</key>
@@ -2311,6 +3023,16 @@
 	</dict>
 	<key>sigma</key>
 	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-50</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>-35</integer>
+		<key>@MMK_R_epsilon</key>
+		<real>-8.5</real>
+		<key>@MMK_R_omicron</key>
+		<integer>-10</integer>
+		<key>@MMK_R_rho</key>
+		<real>-17.5</real>
 		<key>Chi</key>
 		<integer>-40</integer>
 		<key>Tau</key>
@@ -2333,37 +3055,18 @@
 		<key>zero</key>
 		<integer>-10</integer>
 	</dict>
-	<key>space</key>
-	<dict>
-		<key>@MMK_R_Alphalenisgrave</key>
-		<integer>100</integer>
-		<key>@MMK_R_Alphalenistilde</key>
-		<integer>120</integer>
-		<key>@MMK_R_Epsilonlenisgrave</key>
-		<integer>270</integer>
-		<key>@MMK_R_Epsilonwithtonos</key>
-		<integer>85</integer>
-		<key>@MMK_R_Etalenistilde</key>
-		<integer>280</integer>
-		<key>@MMK_R_Omegalenisgrave</key>
-		<integer>210</integer>
-		<key>@MMK_R_Omegalenistilde</key>
-		<integer>235</integer>
-		<key>@MMK_R_Omegawithtonos</key>
-		<integer>20</integer>
-		<key>@MMK_R_Omicronlenisgrave</key>
-		<integer>260</integer>
-		<key>@MMK_R_Omicronwithtonos</key>
-		<integer>65</integer>
-		<key>@MMK_R_Upsilonaspergrave</key>
-		<integer>260</integer>
-		<key>@MMK_R_Upsilonwithtonos</key>
-		<integer>70</integer>
-		<key>Upsilonaspertilde</key>
-		<integer>340</integer>
-	</dict>
 	<key>tau</key>
 	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-25</integer>
+		<key>@MMK_R_Upsilon</key>
+		<real>-32.5</real>
+		<key>@MMK_R_epsilon</key>
+		<integer>-10</integer>
+		<key>@MMK_R_omicron</key>
+		<real>-12.5</real>
+		<key>@MMK_R_rho</key>
+		<integer>-15</integer>
 		<key>Chi</key>
 		<integer>-30</integer>
 		<key>Tau</key>
@@ -2379,6 +3082,8 @@
 	</dict>
 	<key>theta</key>
 	<dict>
+		<key>@MMK_R_Alpha</key>
+		<integer>-20</integer>
 		<key>Chi</key>
 		<integer>-20</integer>
 		<key>comma</key>
@@ -2416,6 +3121,20 @@
 	</dict>
 	<key>xi</key>
 	<dict>
+		<key>@MMK_R_Iota</key>
+		<integer>15</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>25</integer>
+		<key>@MMK_R_iotadieresis</key>
+		<integer>110</integer>
+		<key>@MMK_R_omicron</key>
+		<integer>-5</integer>
+		<key>@MMK_R_parenthesis</key>
+		<integer>20</integer>
+		<key>@MMK_R_quotesright</key>
+		<integer>20</integer>
+		<key>@MMK_R_zeta</key>
+		<integer>25</integer>
 		<key>Tau</key>
 		<integer>40</integer>
 		<key>asterisk</key>
@@ -2448,6 +3167,26 @@
 	</dict>
 	<key>zeta</key>
 	<dict>
+		<key>@MMK_R_Iota</key>
+		<integer>25</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>45</integer>
+		<key>@MMK_R_epsilon</key>
+		<real>-12.5</real>
+		<key>@MMK_R_gamma</key>
+		<integer>-10</integer>
+		<key>@MMK_R_iotadieresis</key>
+		<integer>130</integer>
+		<key>@MMK_R_omicron</key>
+		<integer>-25</integer>
+		<key>@MMK_R_parenthesis</key>
+		<integer>30</integer>
+		<key>@MMK_R_quotesright</key>
+		<integer>40</integer>
+		<key>@MMK_R_upsilon</key>
+		<integer>-20</integer>
+		<key>@MMK_R_zeta</key>
+		<integer>35</integer>
 		<key>Chi</key>
 		<integer>25</integer>
 		<key>Tau</key>

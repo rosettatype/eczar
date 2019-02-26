@@ -8,6 +8,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:55:12 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>quoteleft</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

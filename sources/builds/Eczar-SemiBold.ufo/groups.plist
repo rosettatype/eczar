@@ -15,6 +15,34 @@
 		<string>Abreve</string>
 		<string>Aogonek</string>
 	</array>
+	<key>@MMK_L_Alpha</key>
+	<array>
+		<string>Alpha</string>
+		<string>Delta</string>
+		<string>Lamda</string>
+		<string>Alphawithtonos</string>
+		<string>Alphalenis</string>
+		<string>Alphaasper</string>
+		<string>Alphalenisgrave</string>
+		<string>Alphaaspergrave</string>
+		<string>Alphalenisacute</string>
+		<string>Alphaasperacute</string>
+		<string>Alphalenistilde</string>
+		<string>Alphaaspertilde</string>
+		<string>Alphagrave</string>
+		<string>Alphaacute</string>
+		<string>Alphabreve</string>
+		<string>Alphawithmacron</string>
+		<string>Alphaiotasub</string>
+		<string>Alphalenisiotasub</string>
+		<string>Alphaasperiotasub</string>
+		<string>Alphalenisgraveiotasub</string>
+		<string>Alphaaspergraveiotasub</string>
+		<string>Alphalenisacuteiotasub</string>
+		<string>Alphaasperacuteiotasub</string>
+		<string>Alphalenistildeiotasub</string>
+		<string>Alphaaspertildeiotasub</string>
+	</array>
 	<key>@MMK_L_C</key>
 	<array>
 		<string>C</string>
@@ -89,6 +117,20 @@
 		<string>Ecaron</string>
 		<string>OE</string>
 	</array>
+	<key>@MMK_L_Epsilon</key>
+	<array>
+		<string>Epsilon</string>
+		<string>Xi</string>
+		<string>Epsilonwithtonos</string>
+		<string>Epsilonlenis</string>
+		<string>Epsilonasper</string>
+		<string>Epsilonlenisgrave</string>
+		<string>Epsilonaspergrave</string>
+		<string>Epsilonlenisacute</string>
+		<string>Epsilonasperacute</string>
+		<string>Epsilongrave</string>
+		<string>Epsilonacute</string>
+	</array>
 	<key>@MMK_L_G</key>
 	<array>
 		<string>G</string>
@@ -126,6 +168,48 @@
 		<string>Nacute</string>
 		<string>Ncommaaccent</string>
 		<string>Ncaron</string>
+	</array>
+	<key>@MMK_L_Iota</key>
+	<array>
+		<string>Eta</string>
+		<string>Iota</string>
+		<string>Mu</string>
+		<string>Nu</string>
+		<string>Pi</string>
+		<string>Etawithtonos</string>
+		<string>Iotawithtonos</string>
+		<string>Iotadieresis</string>
+		<string>Etalenis</string>
+		<string>Etaasper</string>
+		<string>Etalenisgrave</string>
+		<string>Etaaspergrave</string>
+		<string>Etalenisacute</string>
+		<string>Etaasperacute</string>
+		<string>Etalenistilde</string>
+		<string>Etaaspertilde</string>
+		<string>Etagrave</string>
+		<string>Etaacute</string>
+		<string>Etaiotasub</string>
+		<string>Etalenisiotasub</string>
+		<string>Etaasperiotasub</string>
+		<string>Etalenisgraveiotasub</string>
+		<string>Etaaspergraveiotasub</string>
+		<string>Etalenisacuteiotasub</string>
+		<string>Etaasperacuteiotasub</string>
+		<string>Etalenistildeiotasub</string>
+		<string>Etaaspertildeiotasub</string>
+		<string>Iotalenis</string>
+		<string>Iotaasper</string>
+		<string>Iotalenisgrave</string>
+		<string>Iotaaspergrave</string>
+		<string>Iotalenisacute</string>
+		<string>Iotaasperacute</string>
+		<string>Iotalenistilde</string>
+		<string>Iotaaspertilde</string>
+		<string>Iotagrave</string>
+		<string>Iotaacute</string>
+		<string>Iotabreve</string>
+		<string>Iotawithmacron</string>
 	</array>
 	<key>@MMK_L_K</key>
 	<array>
@@ -216,12 +300,56 @@
 		<string>Omacron</string>
 		<string>Ohungarumlaut</string>
 	</array>
+	<key>@MMK_L_Omega</key>
+	<array>
+		<string>Omega</string>
+		<string>Omegawithtonos</string>
+		<string>Omegalenis</string>
+		<string>Omegaasper</string>
+		<string>Omegalenisgrave</string>
+		<string>Omegaaspergrave</string>
+		<string>Omegalenisacute</string>
+		<string>Omegaasperacute</string>
+		<string>Omegalenistilde</string>
+		<string>Omegaaspertilde</string>
+		<string>Omegagrave</string>
+		<string>Omegaacute</string>
+		<string>Omegaiotasub</string>
+		<string>Omegalenisiotasub</string>
+		<string>Omegaasperiotasub</string>
+		<string>Omegalenisgraveiotasub</string>
+		<string>Omegaaspergraveiotasub</string>
+		<string>Omegalenisacuteiotasub</string>
+		<string>Omegaasperacuteiotasub</string>
+		<string>Omegalenistildeiotasub</string>
+		<string>Omegaaspertildeiotasub</string>
+	</array>
+	<key>@MMK_L_Omicron</key>
+	<array>
+		<string>Theta</string>
+		<string>Omicron</string>
+		<string>Phi</string>
+		<string>Omicronwithtonos</string>
+		<string>Omicronlenis</string>
+		<string>Omicronasper</string>
+		<string>Omicronlenisgrave</string>
+		<string>Omicronaspergrave</string>
+		<string>Omicronlenisacute</string>
+		<string>Omicronasperacute</string>
+		<string>Omicrongrave</string>
+		<string>Omicronacute</string>
+	</array>
 	<key>@MMK_L_R</key>
 	<array>
 		<string>R</string>
 		<string>Racute</string>
 		<string>Rcommaaccent</string>
 		<string>Rcaron</string>
+	</array>
+	<key>@MMK_L_Rho</key>
+	<array>
+		<string>Rho</string>
+		<string>Rhoasper</string>
 	</array>
 	<key>@MMK_L_S</key>
 	<array>
@@ -271,6 +399,21 @@
 		<string>Uhungarumlaut</string>
 		<string>Uogonek</string>
 	</array>
+	<key>@MMK_L_Upsilon</key>
+	<array>
+		<string>Upsilon</string>
+		<string>Psi</string>
+		<string>Upsilonwithtonos</string>
+		<string>Upsilondieresis</string>
+		<string>Upsilonasper</string>
+		<string>Upsilonaspergrave</string>
+		<string>Upsilonasperacute</string>
+		<string>Upsilonaspertilde</string>
+		<string>Upsilongrave</string>
+		<string>Upsilonacute</string>
+		<string>Upsilonbreve</string>
+		<string>Upsilonwithmacron</string>
+	</array>
 	<key>@MMK_L_V</key>
 	<array>
 		<string>V</string>
@@ -293,6 +436,11 @@
 		<string>Zacute</string>
 		<string>Zdotaccent</string>
 		<string>Zcaron</string>
+	</array>
+	<key>@MMK_L_Zeta</key>
+	<array>
+		<string>Zeta</string>
+		<string>Sigma</string>
 	</array>
 	<key>@MMK_L_a</key>
 	<array>
@@ -328,6 +476,47 @@
 		<string>ecaron</string>
 		<string>oe</string>
 	</array>
+	<key>@MMK_L_epsilon</key>
+	<array>
+		<string>epsilon</string>
+		<string>epsilonwithtonos</string>
+		<string>epsilonlenis</string>
+		<string>epsilonasper</string>
+		<string>epsilonlenisgrave</string>
+		<string>epsilonaspergrave</string>
+		<string>epsilonlenisacute</string>
+		<string>epsilonasperacute</string>
+		<string>epsilongrave</string>
+		<string>epsilonacute</string>
+	</array>
+	<key>@MMK_L_eta</key>
+	<array>
+		<string>eta</string>
+		<string>etawithtonos</string>
+		<string>etalenis</string>
+		<string>etaasper</string>
+		<string>etalenisgrave</string>
+		<string>etaaspergrave</string>
+		<string>etalenisacute</string>
+		<string>etaasperacute</string>
+		<string>etalenistilde</string>
+		<string>etaaspertilde</string>
+		<string>etagrave</string>
+		<string>etaacute</string>
+		<string>etatilde</string>
+		<string>etaiotasub</string>
+		<string>etagraveiotasub</string>
+		<string>etaacuteiotasub</string>
+		<string>etalenisiotasub</string>
+		<string>etaasperiotasub</string>
+		<string>etalenisgraveiotasub</string>
+		<string>etaaspergraveiotasub</string>
+		<string>etalenisacuteiotasub</string>
+		<string>etaasperacuteiotasub</string>
+		<string>etalenistildeiotasub</string>
+		<string>etaaspertildeiotasub</string>
+		<string>etatildeiotasub</string>
+	</array>
 	<key>@MMK_L_f</key>
 	<array>
 		<string>f</string>
@@ -338,6 +527,11 @@
 		<string>g</string>
 		<string>gbreve</string>
 		<string>gcommaaccent</string>
+	</array>
+	<key>@MMK_L_gamma</key>
+	<array>
+		<string>gamma</string>
+		<string>nu</string>
 	</array>
 	<key>@MMK_L_i</key>
 	<array>
@@ -350,6 +544,62 @@
 		<string>iogonek</string>
 		<string>dotlessi</string>
 		<string>f_i.liga</string>
+	</array>
+	<key>@MMK_L_iota</key>
+	<array>
+		<string>alpha</string>
+		<string>iota</string>
+		<string>mu</string>
+		<string>iotawithtonos</string>
+		<string>alphawithtonos</string>
+		<string>alphalenis</string>
+		<string>alphaasper</string>
+		<string>alphalenisgrave</string>
+		<string>alphaaspergrave</string>
+		<string>alphalenisacute</string>
+		<string>alphaasperacute</string>
+		<string>alphalenistilde</string>
+		<string>alphaaspertilde</string>
+		<string>alphagrave</string>
+		<string>alphaacute</string>
+		<string>alphatilde</string>
+		<string>alphabreve</string>
+		<string>alphawithmacron</string>
+		<string>alphaiotasub</string>
+		<string>alphagraveiotasub</string>
+		<string>alphaacuteiotasub</string>
+		<string>alphalenisiotasub</string>
+		<string>alphaasperiotasub</string>
+		<string>alphalenisgraveiotasub</string>
+		<string>alphaaspergraveiotasub</string>
+		<string>alphalenisacuteiotasub</string>
+		<string>alphaasperacuteiotasub</string>
+		<string>alphalenistildeiotasub</string>
+		<string>alphaaspertildeiotasub</string>
+		<string>alphatildeiotasub</string>
+		<string>iotalenis</string>
+		<string>iotaasper</string>
+		<string>iotalenisgrave</string>
+		<string>iotaaspergrave</string>
+		<string>iotalenisacute</string>
+		<string>iotaasperacute</string>
+		<string>iotalenistilde</string>
+		<string>iotaaspertilde</string>
+		<string>iotagrave</string>
+		<string>iotaacute</string>
+	</array>
+	<key>@MMK_L_iotadieresis</key>
+	<array>
+		<string>iotadieresis</string>
+		<string>iotatilde</string>
+		<string>iotawithmacron</string>
+		<string>iotadieresistilde</string>
+	</array>
+	<key>@MMK_L_iotadieresistonos</key>
+	<array>
+		<string>iotadieresisandtonos</string>
+		<string>iotadieresisgrave</string>
+		<string>iotadieresisacute</string>
 	</array>
 	<key>@MMK_L_j</key>
 	<array>
@@ -401,6 +651,79 @@
 		<string>ohungarumlaut</string>
 		<string>f_b.liga</string>
 	</array>
+	<key>@MMK_L_omicron</key>
+	<array>
+		<string>omicron</string>
+		<string>rho</string>
+		<string>upsilon</string>
+		<string>phi</string>
+		<string>psi</string>
+		<string>omega</string>
+		<string>upsilonwithtonos</string>
+		<string>upsilondieresis</string>
+		<string>upsilondieresisandtonos</string>
+		<string>omicronwithtonos</string>
+		<string>omegawithtonos</string>
+		<string>omicronlenis</string>
+		<string>omicronasper</string>
+		<string>omicronlenisgrave</string>
+		<string>omicronaspergrave</string>
+		<string>omicronlenisacute</string>
+		<string>omicronasperacute</string>
+		<string>omicrongrave</string>
+		<string>omicronacute</string>
+		<string>rholenis</string>
+		<string>rhoasper</string>
+		<string>upsilonlenis</string>
+		<string>upsilonasper</string>
+		<string>upsilonlenisgrave</string>
+		<string>upsilonaspergrave</string>
+		<string>upsilonlenisacute</string>
+		<string>upsilonasperacute</string>
+		<string>upsilonlenistilde</string>
+		<string>upsilonaspertilde</string>
+		<string>upsilongrave</string>
+		<string>upsilonacute</string>
+		<string>upsilontilde</string>
+		<string>upsilonbreve</string>
+		<string>upsilonwithmacron</string>
+		<string>upsilondieresisgrave</string>
+		<string>upsilondieresisacute</string>
+		<string>upsilondieresistilde</string>
+		<string>omegalenis</string>
+		<string>omegaasper</string>
+		<string>omegalenisgrave</string>
+		<string>omegaaspergrave</string>
+		<string>omegalenisacute</string>
+		<string>omegaasperacute</string>
+		<string>omegalenistilde</string>
+		<string>omegaaspertilde</string>
+		<string>omegagrave</string>
+		<string>omegaacute</string>
+		<string>omegatilde</string>
+		<string>omegaiotasub</string>
+		<string>omegagraveiotasub</string>
+		<string>omegaacuteiotasub</string>
+		<string>omegalenisiotasub</string>
+		<string>omegaasperiotasub</string>
+		<string>omegalenisgraveiotasub</string>
+		<string>omegaaspergraveiotasub</string>
+		<string>omegalenisacuteiotasub</string>
+		<string>omegaasperacuteiotasub</string>
+		<string>omegalenistildeiotasub</string>
+		<string>omegaaspertildeiotasub</string>
+		<string>omegatildeiotasub</string>
+	</array>
+	<key>@MMK_L_parenthesis</key>
+	<array>
+		<string>parenleft</string>
+		<string>bracketleft</string>
+	</array>
+	<key>@MMK_L_quoteleft</key>
+	<array>
+		<string>quoteleft</string>
+		<string>quotedblleft</string>
+	</array>
 	<key>@MMK_L_r</key>
 	<array>
 		<string>r</string>
@@ -415,6 +738,73 @@
 		<string>scedilla</string>
 		<string>scaron</string>
 		<string>scommaaccent</string>
+	</array>
+	<key>@MMK_L_space</key>
+	<array>
+		<string>space</string>
+		<string>nbspace</string>
+		<string>enspace</string>
+		<string>emspace</string>
+		<string>thinspace</string>
+		<string>exclam</string>
+		<string>quotedbl</string>
+		<string>numbersign</string>
+		<string>percent</string>
+		<string>ampersand</string>
+		<string>quotesingle</string>
+		<string>asterisk</string>
+		<string>comma</string>
+		<string>hyphen</string>
+		<string>period</string>
+		<string>slash</string>
+		<string>zero</string>
+		<string>one</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>nine</string>
+		<string>colon</string>
+		<string>semicolon</string>
+		<string>question</string>
+		<string>at</string>
+		<string>backslash</string>
+		<string>underscore</string>
+		<string>braceleft</string>
+		<string>bar</string>
+		<string>braceright</string>
+		<string>exclamdown</string>
+		<string>brokenbar</string>
+		<string>section</string>
+		<string>guillemetleft</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
+		<string>foursuperior</string>
+		<string>paragraph</string>
+		<string>periodcentered</string>
+		<string>onesuperior</string>
+		<string>guillemetright</string>
+		<string>onequarter</string>
+		<string>onehalf</string>
+		<string>threequarters</string>
+		<string>questiondown</string>
+		<string>endash</string>
+		<string>emdash</string>
+		<string>quotesinglbase</string>
+		<string>quotedblbase</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
+		<string>bullet</string>
+		<string>ellipsis</string>
+		<string>perthousand</string>
+		<string>guilsinglleft</string>
+		<string>guilsinglright</string>
+		<string>fraction</string>
+		<string>anoteleia</string>
+		<string>lownumeralsign</string>
 	</array>
 	<key>@MMK_L_t</key>
 	<array>
@@ -472,23 +862,11 @@
 		<string>Abreve</string>
 		<string>Aogonek</string>
 	</array>
-	<key>@MMK_R_Alphalenisgrave</key>
+	<key>@MMK_R_Alpha</key>
 	<array>
-		<string>Alphalenisgrave</string>
-		<string>Alphaaspergrave</string>
-		<string>Alphalenisacute</string>
-		<string>Alphaasperacute</string>
-		<string>Alphalenisgraveiotasub</string>
-		<string>Alphaaspergraveiotasub</string>
-		<string>Alphalenisacuteiotasub</string>
-		<string>Alphaasperacuteiotasub</string>
-	</array>
-	<key>@MMK_R_Alphalenistilde</key>
-	<array>
-		<string>Alphalenistilde</string>
-		<string>Alphaaspertilde</string>
-		<string>Alphalenistildeiotasub</string>
-		<string>Alphaaspertildeiotasub</string>
+		<string>Alpha</string>
+		<string>Delta</string>
+		<string>Lamda</string>
 	</array>
 	<key>@MMK_R_Da</key>
 	<array>
@@ -577,30 +955,35 @@
 		<string>dvHa_dvMatraUu</string>
 		<string>dvIi_dvAnusvara</string>
 	</array>
-	<key>@MMK_R_Epsilonlenisgrave</key>
+	<key>@MMK_R_Gha</key>
 	<array>
-		<string>Epsilonlenisgrave</string>
-		<string>Epsilonaspergrave</string>
-		<string>Epsilonlenisacute</string>
-		<string>Epsilonasperacute</string>
-		<string>Etalenisgrave</string>
-		<string>Etaaspergrave</string>
-		<string>Etalenisacute</string>
-		<string>Etaasperacute</string>
-		<string>Etalenisgraveiotasub</string>
-		<string>Etaaspergraveiotasub</string>
-		<string>Etalenisacuteiotasub</string>
-		<string>Etaasperacuteiotasub</string>
-		<string>Iotalenisgrave</string>
-		<string>Iotaaspergrave</string>
-		<string>Iotalenisacute</string>
-		<string>Iotaasperacute</string>
+		<string>dvGha</string>
+		<string>dvDha</string>
+		<string>dvGhRa</string>
+		<string>dvGhhRa</string>
+		<string>dvDhNYa</string>
+		<string>dvGhNa</string>
+		<string>dvGh</string>
+		<string>dvDh</string>
+		<string>dvGhR</string>
+		<string>dvDhR</string>
 	</array>
-	<key>@MMK_R_Epsilonwithtonos</key>
+	<key>@MMK_R_HangOneAlpha</key>
+	<array>
+		<string>Alphawithtonos</string>
+		<string>Alphalenis</string>
+		<string>Alphaasper</string>
+		<string>Alphagrave</string>
+		<string>Alphaacute</string>
+		<string>Alphalenisiotasub</string>
+		<string>Alphaasperiotasub</string>
+	</array>
+	<key>@MMK_R_HangOneIota</key>
 	<array>
 		<string>Epsilonwithtonos</string>
 		<string>Etawithtonos</string>
 		<string>Iotawithtonos</string>
+		<string>Upsilonwithtonos</string>
 		<string>Epsilonlenis</string>
 		<string>Epsilonasper</string>
 		<string>Epsilongrave</string>
@@ -616,28 +999,92 @@
 		<string>Iotagrave</string>
 		<string>Iotaacute</string>
 		<string>Rhoasper</string>
+		<string>Upsilonasper</string>
+		<string>Upsilongrave</string>
+		<string>Upsilonacute</string>
 	</array>
-	<key>@MMK_R_Etalenistilde</key>
+	<key>@MMK_R_HangOneOmega</key>
 	<array>
+		<string>Omegawithtonos</string>
+		<string>Omegalenis</string>
+		<string>Omegaasper</string>
+		<string>Omegagrave</string>
+		<string>Omegaacute</string>
+		<string>Omegalenisiotasub</string>
+		<string>Omegaasperiotasub</string>
+	</array>
+	<key>@MMK_R_HangOneOmicron</key>
+	<array>
+		<string>Omicronwithtonos</string>
+		<string>Omicronlenis</string>
+		<string>Omicronasper</string>
+		<string>Omicrongrave</string>
+		<string>Omicronacute</string>
+	</array>
+	<key>@MMK_R_HangTwoAlpha</key>
+	<array>
+		<string>Alphalenisgrave</string>
+		<string>Alphaaspergrave</string>
+		<string>Alphalenisacute</string>
+		<string>Alphaasperacute</string>
+		<string>Alphalenistilde</string>
+		<string>Alphaaspertilde</string>
+		<string>Alphalenisgraveiotasub</string>
+		<string>Alphaaspergraveiotasub</string>
+		<string>Alphalenisacuteiotasub</string>
+		<string>Alphaasperacuteiotasub</string>
+		<string>Alphalenistildeiotasub</string>
+		<string>Alphaaspertildeiotasub</string>
+	</array>
+	<key>@MMK_R_HangTwoIota</key>
+	<array>
+		<string>Epsilonlenisgrave</string>
+		<string>Epsilonaspergrave</string>
+		<string>Epsilonlenisacute</string>
+		<string>Epsilonasperacute</string>
+		<string>Etalenisgrave</string>
+		<string>Etaaspergrave</string>
+		<string>Etalenisacute</string>
+		<string>Etaasperacute</string>
 		<string>Etalenistilde</string>
 		<string>Etaaspertilde</string>
+		<string>Etalenisgraveiotasub</string>
+		<string>Etaaspergraveiotasub</string>
+		<string>Etalenisacuteiotasub</string>
+		<string>Etaasperacuteiotasub</string>
 		<string>Etalenistildeiotasub</string>
 		<string>Etaaspertildeiotasub</string>
+		<string>Iotalenisgrave</string>
+		<string>Iotaaspergrave</string>
+		<string>Iotalenisacute</string>
+		<string>Iotaasperacute</string>
 		<string>Iotalenistilde</string>
 		<string>Iotaaspertilde</string>
+		<string>Upsilonaspergrave</string>
+		<string>Upsilonasperacute</string>
+		<string>Upsilonaspertilde</string>
 	</array>
-	<key>@MMK_R_Gha</key>
+	<key>@MMK_R_HangTwoOmega</key>
 	<array>
-		<string>dvGha</string>
-		<string>dvDha</string>
-		<string>dvGhRa</string>
-		<string>dvGhhRa</string>
-		<string>dvDhNYa</string>
-		<string>dvGhNa</string>
-		<string>dvGh</string>
-		<string>dvDh</string>
-		<string>dvGhR</string>
-		<string>dvDhR</string>
+		<string>Omegalenisgrave</string>
+		<string>Omegaaspergrave</string>
+		<string>Omegalenisacute</string>
+		<string>Omegaasperacute</string>
+		<string>Omegalenistilde</string>
+		<string>Omegaaspertilde</string>
+		<string>Omegalenisgraveiotasub</string>
+		<string>Omegaaspergraveiotasub</string>
+		<string>Omegalenisacuteiotasub</string>
+		<string>Omegaasperacuteiotasub</string>
+		<string>Omegalenistildeiotasub</string>
+		<string>Omegaaspertildeiotasub</string>
+	</array>
+	<key>@MMK_R_HangTwoOmicron</key>
+	<array>
+		<string>Omicronlenisgrave</string>
+		<string>Omicronaspergrave</string>
+		<string>Omicronlenisacute</string>
+		<string>Omicronasperacute</string>
 	</array>
 	<key>@MMK_R_I</key>
 	<array>
@@ -685,6 +1132,20 @@
 		<string>Rcommaaccent</string>
 		<string>Rcaron</string>
 		<string>ruble</string>
+	</array>
+	<key>@MMK_R_Iota</key>
+	<array>
+		<string>Beta</string>
+		<string>Gamma</string>
+		<string>Epsilon</string>
+		<string>Eta</string>
+		<string>Iota</string>
+		<string>Kappa</string>
+		<string>Mu</string>
+		<string>Nu</string>
+		<string>Pi</string>
+		<string>Rho</string>
+		<string>Iotadieresis</string>
 	</array>
 	<key>@MMK_R_Ja</key>
 	<array>
@@ -835,48 +1296,11 @@
 		<string>Ohungarumlaut</string>
 		<string>OE</string>
 	</array>
-	<key>@MMK_R_Omegalenisgrave</key>
+	<key>@MMK_R_Omicron</key>
 	<array>
-		<string>Omegalenisgrave</string>
-		<string>Omegaaspergrave</string>
-		<string>Omegalenisacute</string>
-		<string>Omegaasperacute</string>
-		<string>Omegalenisgraveiotasub</string>
-		<string>Omegaaspergraveiotasub</string>
-		<string>Omegalenisacuteiotasub</string>
-		<string>Omegaasperacuteiotasub</string>
-	</array>
-	<key>@MMK_R_Omegalenistilde</key>
-	<array>
-		<string>Omegalenistilde</string>
-		<string>Omegaaspertilde</string>
-		<string>Omegalenistildeiotasub</string>
-		<string>Omegaaspertildeiotasub</string>
-	</array>
-	<key>@MMK_R_Omegawithtonos</key>
-	<array>
-		<string>Omegawithtonos</string>
-		<string>Omegalenis</string>
-		<string>Omegaasper</string>
-		<string>Omegagrave</string>
-		<string>Omegaacute</string>
-		<string>Omegalenisiotasub</string>
-		<string>Omegaasperiotasub</string>
-	</array>
-	<key>@MMK_R_Omicronlenisgrave</key>
-	<array>
-		<string>Omicronlenisgrave</string>
-		<string>Omicronaspergrave</string>
-		<string>Omicronlenisacute</string>
-		<string>Omicronasperacute</string>
-	</array>
-	<key>@MMK_R_Omicronwithtonos</key>
-	<array>
-		<string>Omicronwithtonos</string>
-		<string>Omicronlenis</string>
-		<string>Omicronasper</string>
-		<string>Omicrongrave</string>
-		<string>Omicronacute</string>
+		<string>Theta</string>
+		<string>Omicron</string>
+		<string>Phi</string>
 	</array>
 	<key>@MMK_R_Pa</key>
 	<array>
@@ -972,17 +1396,11 @@
 		<string>Uhungarumlaut</string>
 		<string>Uogonek</string>
 	</array>
-	<key>@MMK_R_Upsilonaspergrave</key>
+	<key>@MMK_R_Upsilon</key>
 	<array>
-		<string>Upsilonaspergrave</string>
-		<string>Upsilonasperacute</string>
-	</array>
-	<key>@MMK_R_Upsilonwithtonos</key>
-	<array>
-		<string>Upsilonwithtonos</string>
-		<string>Upsilonasper</string>
-		<string>Upsilongrave</string>
-		<string>Upsilonacute</string>
+		<string>Upsilon</string>
+		<string>Psi</string>
+		<string>Upsilondieresis</string>
 	</array>
 	<key>@MMK_R_V</key>
 	<array>
@@ -1039,6 +1457,11 @@
 		<string>Zdotaccent</string>
 		<string>Zcaron</string>
 	</array>
+	<key>@MMK_R_Zeta</key>
+	<array>
+		<string>Zeta</string>
+		<string>Sigma</string>
+	</array>
 	<key>@MMK_R_a</key>
 	<array>
 		<string>a</string>
@@ -1058,6 +1481,47 @@
 		<string>b</string>
 		<string>thorn</string>
 	</array>
+	<key>@MMK_R_epsilon</key>
+	<array>
+		<string>epsilon</string>
+		<string>epsilonwithtonos</string>
+		<string>epsilonlenis</string>
+		<string>epsilonasper</string>
+		<string>epsilonlenisgrave</string>
+		<string>epsilonaspergrave</string>
+		<string>epsilonlenisacute</string>
+		<string>epsilonasperacute</string>
+		<string>epsilongrave</string>
+		<string>epsilonacute</string>
+	</array>
+	<key>@MMK_R_eta</key>
+	<array>
+		<string>eta</string>
+		<string>etawithtonos</string>
+		<string>etalenis</string>
+		<string>etaasper</string>
+		<string>etalenisgrave</string>
+		<string>etaaspergrave</string>
+		<string>etalenisacute</string>
+		<string>etaasperacute</string>
+		<string>etalenistilde</string>
+		<string>etaaspertilde</string>
+		<string>etagrave</string>
+		<string>etaacute</string>
+		<string>etatilde</string>
+		<string>etaiotasub</string>
+		<string>etagraveiotasub</string>
+		<string>etaacuteiotasub</string>
+		<string>etalenisiotasub</string>
+		<string>etaasperiotasub</string>
+		<string>etalenisgraveiotasub</string>
+		<string>etaaspergraveiotasub</string>
+		<string>etalenisacuteiotasub</string>
+		<string>etaasperacuteiotasub</string>
+		<string>etalenistildeiotasub</string>
+		<string>etaaspertildeiotasub</string>
+		<string>etatildeiotasub</string>
+	</array>
 	<key>@MMK_R_f</key>
 	<array>
 		<string>f</string>
@@ -1076,6 +1540,42 @@
 		<string>g</string>
 		<string>gbreve</string>
 		<string>gcommaaccent</string>
+	</array>
+	<key>@MMK_R_gamma</key>
+	<array>
+		<string>gamma</string>
+		<string>nu</string>
+		<string>chi</string>
+	</array>
+	<key>@MMK_R_iota</key>
+	<array>
+		<string>iota</string>
+		<string>kappa</string>
+		<string>mu</string>
+		<string>iotawithtonos</string>
+		<string>iotalenis</string>
+		<string>iotaasper</string>
+		<string>iotalenisgrave</string>
+		<string>iotaaspergrave</string>
+		<string>iotalenisacute</string>
+		<string>iotaasperacute</string>
+		<string>iotalenistilde</string>
+		<string>iotaaspertilde</string>
+		<string>iotagrave</string>
+		<string>iotaacute</string>
+	</array>
+	<key>@MMK_R_iotadieresis</key>
+	<array>
+		<string>iotadieresis</string>
+		<string>iotatilde</string>
+		<string>iotawithmacron</string>
+		<string>iotadieresistilde</string>
+	</array>
+	<key>@MMK_R_iotadieresistonos</key>
+	<array>
+		<string>iotadieresisandtonos</string>
+		<string>iotadieresisgrave</string>
+		<string>iotadieresisacute</string>
 	</array>
 	<key>@MMK_R_j</key>
 	<array>
@@ -1145,6 +1645,92 @@
 		<string>ohungarumlaut</string>
 		<string>oe</string>
 	</array>
+	<key>@MMK_R_omicron</key>
+	<array>
+		<string>alpha</string>
+		<string>delta</string>
+		<string>omicron</string>
+		<string>finalsigma</string>
+		<string>sigma</string>
+		<string>phi</string>
+		<string>omega</string>
+		<string>omicronwithtonos</string>
+		<string>omegawithtonos</string>
+		<string>alphawithtonos</string>
+		<string>alphalenis</string>
+		<string>alphaasper</string>
+		<string>alphalenisgrave</string>
+		<string>alphaaspergrave</string>
+		<string>alphalenisacute</string>
+		<string>alphaasperacute</string>
+		<string>alphalenistilde</string>
+		<string>alphaaspertilde</string>
+		<string>alphagrave</string>
+		<string>alphaacute</string>
+		<string>alphatilde</string>
+		<string>alphabreve</string>
+		<string>alphawithmacron</string>
+		<string>alphaiotasub</string>
+		<string>alphagraveiotasub</string>
+		<string>alphaacuteiotasub</string>
+		<string>alphalenisiotasub</string>
+		<string>alphaasperiotasub</string>
+		<string>alphalenisgraveiotasub</string>
+		<string>alphaaspergraveiotasub</string>
+		<string>alphalenisacuteiotasub</string>
+		<string>alphaasperacuteiotasub</string>
+		<string>alphalenistildeiotasub</string>
+		<string>alphaaspertildeiotasub</string>
+		<string>alphatildeiotasub</string>
+		<string>omicronlenis</string>
+		<string>omicronasper</string>
+		<string>omicronlenisgrave</string>
+		<string>omicronaspergrave</string>
+		<string>omicronlenisacute</string>
+		<string>omicronasperacute</string>
+		<string>omicrongrave</string>
+		<string>omicronacute</string>
+		<string>omegalenis</string>
+		<string>omegaasper</string>
+		<string>omegalenisgrave</string>
+		<string>omegaaspergrave</string>
+		<string>omegalenisacute</string>
+		<string>omegaasperacute</string>
+		<string>omegalenistilde</string>
+		<string>omegaaspertilde</string>
+		<string>omegagrave</string>
+		<string>omegaacute</string>
+		<string>omegatilde</string>
+		<string>omegaiotasub</string>
+		<string>omegagraveiotasub</string>
+		<string>omegaacuteiotasub</string>
+		<string>omegalenisiotasub</string>
+		<string>omegaasperiotasub</string>
+		<string>omegalenisgraveiotasub</string>
+		<string>omegaaspergraveiotasub</string>
+		<string>omegalenisacuteiotasub</string>
+		<string>omegaasperacuteiotasub</string>
+		<string>omegalenistildeiotasub</string>
+		<string>omegaaspertildeiotasub</string>
+		<string>omegatildeiotasub</string>
+	</array>
+	<key>@MMK_R_parenthesis</key>
+	<array>
+		<string>parenright</string>
+		<string>bracketright</string>
+	</array>
+	<key>@MMK_R_quotesright</key>
+	<array>
+		<string>quoteright</string>
+		<string>quotedblright</string>
+		<string>numeralsign</string>
+	</array>
+	<key>@MMK_R_rho</key>
+	<array>
+		<string>rho</string>
+		<string>rholenis</string>
+		<string>rhoasper</string>
+	</array>
 	<key>@MMK_R_s</key>
 	<array>
 		<string>s</string>
@@ -1172,6 +1758,30 @@
 		<string>uhungarumlaut</string>
 		<string>uogonek</string>
 	</array>
+	<key>@MMK_R_upsilon</key>
+	<array>
+		<string>upsilon</string>
+		<string>psi</string>
+		<string>upsilonwithtonos</string>
+		<string>upsilondieresis</string>
+		<string>upsilondieresisandtonos</string>
+		<string>upsilonlenis</string>
+		<string>upsilonasper</string>
+		<string>upsilonlenisgrave</string>
+		<string>upsilonaspergrave</string>
+		<string>upsilonlenisacute</string>
+		<string>upsilonasperacute</string>
+		<string>upsilonlenistilde</string>
+		<string>upsilonaspertilde</string>
+		<string>upsilongrave</string>
+		<string>upsilonacute</string>
+		<string>upsilontilde</string>
+		<string>upsilonbreve</string>
+		<string>upsilonwithmacron</string>
+		<string>upsilondieresisgrave</string>
+		<string>upsilondieresisacute</string>
+		<string>upsilondieresistilde</string>
+	</array>
 	<key>@MMK_R_v</key>
 	<array>
 		<string>v</string>
@@ -1193,6 +1803,11 @@
 		<string>zacute</string>
 		<string>zdotaccent</string>
 		<string>zcaron</string>
+	</array>
+	<key>@MMK_R_zeta</key>
+	<array>
+		<string>zeta</string>
+		<string>xi</string>
 	</array>
 </dict>
 </plist>
