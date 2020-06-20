@@ -752,10 +752,6 @@ feature pres {
 #----------------------------------------------------------------------------
 # Above base substitutions
 
-lookup ABVS_changeCandrabindu {
-	sub dvCandrabindu by dvAnusvara;
-} ABVS_changeCandrabindu;
-
 lookup ABVS_insertRephAnusvara {
 	sub dvMatraI by dvMatraI dvReph_dvAnusvara.alt;
 	sub dvMatraI.1 by dvMatraI.1 dvReph_dvAnusvara.alt;
@@ -836,16 +832,6 @@ feature abvs {
 	lookup ABVS_MatraIContext {	
 		include(dvMatraI.pres.fea);
 	} ABVS_MatraIContext;
-	
-	lookup ABVS_replaceCandrabindu {
-		lookupflag MarkAttachmentType @MK_dvMarksAbove;
-
-		sub @dvMatraI @dvHalfForms @dvHalfForms [@dvConsonants @dvConjuncts] dvCandrabindu' lookup ABVS_changeCandrabindu;
-		sub @dvMatraI @dvHalfForms [@dvConsonants @dvConjuncts] dvCandrabindu' lookup ABVS_changeCandrabindu;
-		sub @dvMatraI [@dvConsonants @dvConjuncts] dvCandrabindu' lookup ABVS_changeCandrabindu;
-		sub [dvReph dvMatraShortE dvMatraE dvMatraAi dvMatraShortO dvMatraO dvMatraAu dvMatraOOE dvMatraAW dvMatraIi] dvCandrabindu' lookup ABVS_changeCandrabindu;
-		sub [dvShortA dvShortE dvAi dvShortO dvO dvOE dvOOE dvAW dvAu] dvCandrabindu' lookup ABVS_changeCandrabindu;
-	} ABVS_replaceCandrabindu;
 
 	lookup ABVS_matraLigatures {
 		sub dvReph [dvAnusvara dvAnusvara.alt dvAnusvara.calt] by dvReph_dvAnusvara;
