@@ -3,10 +3,26 @@
   <advance width="569"/>
   <outline>
     <contour>
-      <point x="386" y="236" type="line"/>
       <point x="87" y="12" type="line"/>
       <point x="161" y="-48" type="line"/>
       <point x="422" y="158" type="line"/>
+      <point x="386" y="236" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="178" type="curve"/>
+      <point x="212" y="201" type="line"/>
+      <point x="212" y="362" type="line"/>
+      <point x="145" y="406" type="line"/>
+      <point x="73" y="406" type="line"/>
+      <point x="33" y="357" type="line"/>
+      <point x="54" y="291"/>
+      <point x="107" y="217"/>
+    </contour>
+    <contour>
+      <point x="107" y="406" type="line"/>
+      <point x="138" y="308" type="line"/>
+      <point x="435" y="308" type="line"/>
+      <point x="413" y="406" type="line"/>
     </contour>
     <contour>
       <point x="375" y="10" type="line"/>
@@ -17,34 +33,15 @@
       <point x="375" y="571" type="line"/>
     </contour>
     <contour>
+      <point x="-39" y="596" type="line"/>
+      <point x="0" y="538" type="line"/>
       <point x="595" y="538" type="line"/>
       <point x="608" y="565" type="line"/>
       <point x="569" y="624" type="line"/>
       <point x="-26" y="624" type="line"/>
-      <point x="-39" y="596" type="line"/>
-      <point x="0" y="538" type="line"/>
-    </contour>
-    <contour>
-      <point x="413" y="406" type="line"/>
-      <point x="107" y="406" type="line"/>
-      <point x="138" y="308" type="line"/>
-      <point x="435" y="308" type="line"/>
-    </contour>
-    <contour>
-      <point x="33" y="357" type="line"/>
-      <point x="54" y="291"/>
-      <point x="107" y="217"/>
-      <point x="158" y="178" type="curve"/>
-      <point x="212" y="201" type="line"/>
-      <point x="212" y="362" type="line"/>
-      <point x="145" y="406" type="line"/>
-      <point x="73" y="406" type="line"/>
     </contour>
     <contour>
       <point x="425" y="640" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="424" y="470" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="409" y="640" type="move" name="abvmCANDRABINDU"/>
@@ -53,7 +50,16 @@
       <point x="616" y="640" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="424" y="470" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="360" y="-40" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+    </dict>
+  </lib>
 </glyph>

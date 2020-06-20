@@ -3,40 +3,46 @@
   <advance width="595"/>
   <outline>
     <contour>
-      <point x="575" y="-219" type="line"/>
-      <point x="429" y="-238"/>
-      <point x="337" y="-311"/>
-      <point x="337" y="-393" type="curve" smooth="yes"/>
-      <point x="337" y="-479"/>
-      <point x="434" y="-554"/>
-      <point x="534" y="-554" type="curve" smooth="yes"/>
+      <point x="534" y="-554" type="curve"/>
       <point x="589" y="-554"/>
       <point x="640" y="-532"/>
       <point x="685" y="-491" type="curve"/>
       <point x="633" y="-389" type="line"/>
       <point x="595" y="-421"/>
       <point x="532" y="-453"/>
-      <point x="487" y="-453" type="curve" smooth="yes"/>
+      <point x="487" y="-453" type="curve"/>
       <point x="459" y="-453"/>
       <point x="441" y="-440"/>
-      <point x="441" y="-419" type="curve" smooth="yes"/>
+      <point x="441" y="-419" type="curve"/>
       <point x="441" y="-375"/>
       <point x="522" y="-340"/>
       <point x="594" y="-321" type="curve"/>
       <point x="594" y="-243" type="line"/>
+      <point x="575" y="-219" type="line"/>
+      <point x="429" y="-238"/>
+      <point x="337" y="-311"/>
+      <point x="337" y="-393" type="curve"/>
+      <point x="337" y="-479"/>
+      <point x="434" y="-554"/>
     </contour>
     <component base="dvDBa"/>
-    <contour>
-      <point x="395" y="650" type="move" name="abvmCANDRABINDU"/>
-    </contour>
     <contour>
       <point x="388" y="650" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="418" y="472" type="move" name="abvmTOP"/>
+      <point x="395" y="650" type="move" name="abvmCANDRABINDU"/>
     </contour>
     <contour>
       <point x="645" y="650" type="move" name="abvmCANDRABINDU2"/>
     </contour>
+    <contour>
+      <point x="418" y="472" type="move" name="abvmTOP"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:55:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -4,15 +4,21 @@
   <unicode hex="0954"/>
   <outline>
     <contour>
-      <point x="-10" y="898" type="line"/>
-      <point x="-74" y="975" type="line"/>
-      <point x="-116" y="975" type="line"/>
       <point x="-299" y="791" type="line"/>
       <point x="-231" y="720" type="line"/>
       <point x="-189" y="720" type="line"/>
+      <point x="-10" y="898" type="line"/>
+      <point x="-74" y="975" type="line"/>
+      <point x="-116" y="975" type="line"/>
     </contour>
     <contour>
       <point x="-155" y="475" type="move" name="_abvmTOP"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:01:00 +0000</string>
+    </dict>
+  </lib>
 </glyph>

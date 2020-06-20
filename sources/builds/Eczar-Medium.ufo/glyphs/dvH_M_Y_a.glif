@@ -3,22 +3,22 @@
   <advance width="1435"/>
   <outline>
     <contour>
-      <point x="507" y="276" type="line"/>
-      <point x="531" y="213"/>
-      <point x="604" y="133"/>
+      <point x="417" y="596" type="line"/>
+      <point x="456" y="538" type="line"/>
+      <point x="950" y="538" type="line"/>
+      <point x="963" y="565" type="line"/>
+      <point x="924" y="624" type="line"/>
+      <point x="430" y="624" type="line"/>
+    </contour>
+    <contour>
       <point x="661" y="105" type="curve"/>
       <point x="713" y="129" type="line"/>
       <point x="713" y="283" type="line"/>
       <point x="646" y="319" type="line"/>
       <point x="529" y="319" type="line"/>
-    </contour>
-    <contour>
-      <point x="950" y="538" type="line"/>
-      <point x="963" y="565" type="line"/>
-      <point x="924" y="624" type="line"/>
-      <point x="430" y="624" type="line"/>
-      <point x="417" y="596" type="line"/>
-      <point x="456" y="538" type="line"/>
+      <point x="507" y="276" type="line"/>
+      <point x="531" y="213"/>
+      <point x="604" y="133"/>
     </contour>
     <contour>
       <point x="608" y="253" type="line"/>
@@ -28,18 +28,15 @@
       <point x="594" y="571" type="line"/>
     </contour>
     <contour>
-      <point x="938" y="318" type="line"/>
       <point x="610" y="318" type="line"/>
       <point x="641" y="222" type="line"/>
       <point x="965" y="222" type="line"/>
+      <point x="938" y="318" type="line"/>
     </contour>
     <component base="dvH"/>
     <component base="dvYa" xOffset="824"/>
     <contour>
       <point x="1156" y="640" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="1290" y="470" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="1182" y="640" type="move" name="abvmCANDRABINDU"/>
@@ -48,7 +45,16 @@
       <point x="1482" y="640" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="1290" y="470" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="1226" y="4" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:53:36 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -3,25 +3,11 @@
   <advance width="677"/>
   <outline>
     <contour>
-      <point x="544" y="453" type="line"/>
-      <point x="219" y="453" type="line"/>
-      <point x="110" y="453"/>
-      <point x="65" y="409"/>
-      <point x="65" y="351" type="curve" smooth="yes"/>
-      <point x="65" y="309"/>
-      <point x="89" y="263"/>
-      <point x="127" y="228" type="curve"/>
-      <point x="279" y="182" type="line" smooth="yes"/>
-      <point x="341" y="163"/>
-      <point x="355" y="133"/>
-      <point x="355" y="109" type="curve" smooth="yes"/>
-      <point x="355" y="46"/>
-      <point x="258" y="16"/>
       <point x="178" y="38" type="curve"/>
       <point x="224" y="-46" type="line"/>
       <point x="315" y="-67"/>
       <point x="425" y="-24"/>
-      <point x="425" y="72" type="curve" smooth="yes"/>
+      <point x="425" y="72" type="curve"/>
       <point x="425" y="135"/>
       <point x="378" y="208"/>
       <point x="313" y="262" type="curve"/>
@@ -30,6 +16,37 @@
       <point x="157" y="372"/>
       <point x="229" y="372" type="curve"/>
       <point x="544" y="372" type="line"/>
+      <point x="544" y="453" type="line"/>
+      <point x="219" y="453" type="line"/>
+      <point x="110" y="453"/>
+      <point x="65" y="409"/>
+      <point x="65" y="351" type="curve"/>
+      <point x="65" y="309"/>
+      <point x="89" y="263"/>
+      <point x="127" y="228" type="curve"/>
+      <point x="279" y="182" type="line" smooth="yes"/>
+      <point x="341" y="163"/>
+      <point x="355" y="133"/>
+      <point x="355" y="109" type="curve"/>
+      <point x="355" y="46"/>
+      <point x="258" y="16"/>
+    </contour>
+    <contour>
+      <point x="208" y="-46" type="curve"/>
+      <point x="208" y="-10" type="line"/>
+      <point x="204" y="14" type="line"/>
+      <point x="125" y="105" type="line"/>
+      <point x="92" y="97" type="line"/>
+      <point x="63" y="-15" type="line"/>
+      <point x="90" y="-35"/>
+      <point x="172" y="-51"/>
+    </contour>
+    <contour>
+      <point x="143" y="-20" type="line"/>
+      <point x="363" y="-221" type="line"/>
+      <point x="415" y="-171" type="line"/>
+      <point x="414" y="-154" type="line"/>
+      <point x="192" y="-5" type="line"/>
     </contour>
     <contour>
       <point x="504" y="5" type="line"/>
@@ -40,35 +57,15 @@
       <point x="504" y="562" type="line"/>
     </contour>
     <contour>
+      <point x="-30" y="588" type="line"/>
+      <point x="0" y="538" type="line"/>
       <point x="698" y="538" type="line"/>
       <point x="707" y="558" type="line"/>
       <point x="677" y="608" type="line"/>
       <point x="-21" y="608" type="line"/>
-      <point x="-30" y="588" type="line"/>
-      <point x="0" y="538" type="line"/>
-    </contour>
-    <contour>
-      <point x="414" y="-154" type="line"/>
-      <point x="192" y="-5" type="line"/>
-      <point x="143" y="-20" type="line"/>
-      <point x="363" y="-221" type="line"/>
-      <point x="415" y="-171" type="line"/>
-    </contour>
-    <contour>
-      <point x="208" y="-10" type="line"/>
-      <point x="204" y="14" type="line"/>
-      <point x="125" y="105" type="line"/>
-      <point x="92" y="97" type="line"/>
-      <point x="63" y="-15" type="line"/>
-      <point x="90" y="-35"/>
-      <point x="172" y="-51"/>
-      <point x="208" y="-46" type="curve"/>
     </contour>
     <contour>
       <point x="542" y="630" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="542" y="468" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="527" y="630" type="move" name="abvmCANDRABINDU"/>
@@ -77,7 +74,16 @@
       <point x="697" y="630" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="542" y="468" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="384" y="-154" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:11:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

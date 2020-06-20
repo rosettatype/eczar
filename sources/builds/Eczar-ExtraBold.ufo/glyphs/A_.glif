@@ -4,16 +4,38 @@
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="30" y="0" type="line"/>
-      <point x="168" y="0" type="line"/>
-      <point x="400" y="628" type="line"/>
-      <point x="291" y="646" type="line"/>
-    </contour>
-    <contour>
       <point x="254" y="645" type="line"/>
       <point x="492" y="0" type="line"/>
       <point x="713" y="0" type="line"/>
       <point x="436" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="32" type="curve"/>
+      <point x="-14" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="79" y="91" type="line"/>
+      <point x="41" y="73"/>
+      <point x="8" y="54"/>
+    </contour>
+    <contour>
+      <point x="136" y="79" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="274" y="55" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="32" type="curve"/>
+      <point x="394" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+      <point x="487" y="91" type="line"/>
+      <point x="449" y="73"/>
+      <point x="416" y="54"/>
+    </contour>
+    <contour>
+      <point x="291" y="646" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="400" y="628" type="line"/>
     </contour>
     <contour>
       <point x="184" y="254" type="line"/>
@@ -22,32 +44,10 @@
       <point x="517" y="254" type="line"/>
     </contour>
     <contour>
-      <point x="41" y="73"/>
-      <point x="8" y="54"/>
-      <point x="-20" y="32" type="curve"/>
-      <point x="-14" y="0" type="line"/>
-      <point x="80" y="0" type="line"/>
-      <point x="79" y="91" type="line"/>
-    </contour>
-    <contour>
-      <point x="133" y="0" type="line"/>
-      <point x="273" y="0" type="line"/>
-      <point x="274" y="55" type="line"/>
-      <point x="136" y="79" type="line"/>
-    </contour>
-    <contour>
-      <point x="449" y="73"/>
-      <point x="416" y="54"/>
-      <point x="388" y="32" type="curve"/>
-      <point x="394" y="0" type="line"/>
-      <point x="498" y="0" type="line"/>
-      <point x="487" y="91" type="line"/>
-    </contour>
-    <contour>
+      <point x="619" y="79" type="line"/>
       <point x="616" y="0" type="line"/>
       <point x="756" y="0" type="line"/>
       <point x="757" y="55" type="line"/>
-      <point x="619" y="79" type="line"/>
     </contour>
     <contour>
       <point x="718" y="0" type="move" name="ogonek"/>
@@ -58,10 +58,10 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:52:46 +0000</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.97,0.9,0,1</string>
     </dict>
   </lib>
 </glyph>

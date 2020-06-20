@@ -4,13 +4,13 @@
   <unicode hex="0302"/>
   <outline>
     <contour>
+      <point x="-186" y="579" type="line"/>
       <point x="-121" y="529" type="line"/>
       <point x="1" y="643" type="line"/>
       <point x="139" y="534" type="line"/>
       <point x="194" y="587" type="line"/>
       <point x="63" y="743" type="line"/>
       <point x="-52" y="743" type="line"/>
-      <point x="-186" y="579" type="line"/>
     </contour>
     <contour>
       <point x="0" y="473" type="move" name="_top"/>
@@ -18,10 +18,10 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:51:22 +0000</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.97,0.9,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -4,7 +4,6 @@
   <unicode hex="2264"/>
   <outline>
     <contour>
-      <point x="70" y="402" type="line"/>
       <point x="78" y="332" type="line"/>
       <point x="477" y="144" type="line"/>
       <point x="521" y="223" type="line"/>
@@ -12,6 +11,7 @@
       <point x="207" y="374" type="line"/>
       <point x="521" y="534" type="line"/>
       <point x="477" y="610" type="line"/>
+      <point x="70" y="402" type="line"/>
     </contour>
     <contour>
       <point x="54" y="89" type="line"/>
@@ -22,14 +22,14 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:51:22 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>minus</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>minus</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.97,0.9,0,1</string>
     </dict>
   </lib>
 </glyph>

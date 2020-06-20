@@ -9,22 +9,14 @@
       <point x="437" y="235" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="45" y="282" type="line"/>
-      <point x="64" y="227"/>
-      <point x="125" y="168"/>
       <point x="177" y="138" type="curve"/>
       <point x="225" y="158" type="line"/>
       <point x="225" y="286" type="line"/>
       <point x="164" y="321" type="line"/>
       <point x="73" y="321" type="line"/>
-    </contour>
-    <contour>
-      <point x="341" y="538" type="line"/>
-      <point x="350" y="558" type="line"/>
-      <point x="320" y="608" type="line"/>
-      <point x="-21" y="608" type="line"/>
-      <point x="-30" y="588" type="line"/>
-      <point x="0" y="538" type="line"/>
+      <point x="45" y="282" type="line"/>
+      <point x="64" y="227"/>
+      <point x="125" y="168"/>
     </contour>
     <contour>
       <point x="146" y="273" type="line"/>
@@ -33,12 +25,17 @@
       <point x="167" y="551" type="line"/>
       <point x="142" y="562" type="line"/>
     </contour>
+    <contour>
+      <point x="-30" y="588" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="341" y="538" type="line"/>
+      <point x="350" y="558" type="line"/>
+      <point x="320" y="608" type="line"/>
+      <point x="-21" y="608" type="line"/>
+    </contour>
     <component base="dvYa" xOffset="320"/>
     <contour>
       <point x="642" y="630" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="772" y="468" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="667" y="630" type="move" name="abvmCANDRABINDU"/>
@@ -47,7 +44,16 @@
       <point x="927" y="630" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="772" y="468" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="722" y="5" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:54:28 +0000</string>
+    </dict>
+  </lib>
 </glyph>

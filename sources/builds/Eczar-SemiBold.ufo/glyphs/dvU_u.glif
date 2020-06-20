@@ -4,34 +4,34 @@
   <unicode hex="090A"/>
   <outline>
     <contour>
-      <point x="845" y="538" type="line"/>
-      <point x="862" y="573" type="line"/>
-      <point x="815" y="639" type="line"/>
-      <point x="309" y="639" type="line"/>
-      <point x="292" y="605" type="line"/>
-      <point x="340" y="538" type="line"/>
-    </contour>
-    <contour>
+      <point x="579" y="113" type="curve"/>
       <point x="670" y="13" type="line"/>
       <point x="753" y="72"/>
       <point x="803" y="137"/>
-      <point x="803" y="213" type="curve" smooth="yes"/>
+      <point x="803" y="213" type="curve"/>
       <point x="803" y="309"/>
       <point x="724" y="404"/>
-      <point x="623" y="404" type="curve" smooth="yes"/>
+      <point x="623" y="404" type="curve"/>
       <point x="556" y="404"/>
       <point x="494" y="362"/>
       <point x="430" y="285" type="curve"/>
       <point x="503" y="183" type="line"/>
       <point x="563" y="257"/>
       <point x="622" y="298"/>
-      <point x="661" y="298" type="curve" smooth="yes"/>
+      <point x="661" y="298" type="curve"/>
       <point x="687" y="298"/>
       <point x="701" y="281"/>
-      <point x="701" y="261" type="curve" smooth="yes"/>
+      <point x="701" y="261" type="curve"/>
       <point x="701" y="219"/>
       <point x="638" y="160"/>
-      <point x="579" y="113" type="curve"/>
+    </contour>
+    <contour>
+      <point x="292" y="605" type="line"/>
+      <point x="340" y="538" type="line"/>
+      <point x="845" y="538" type="line"/>
+      <point x="862" y="573" type="line"/>
+      <point x="815" y="639" type="line"/>
+      <point x="309" y="639" type="line"/>
     </contour>
     <component base="dvU"/>
     <contour>
@@ -41,4 +41,10 @@
       <point x="385" y="650" type="move" name="abvmCANDRABINDU"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:55:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

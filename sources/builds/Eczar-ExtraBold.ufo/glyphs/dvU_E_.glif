@@ -12,4 +12,10 @@
       <point x="708" y="670" type="move" name="abvmCANDRABINDU"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:54:13 +0000</string>
+    </dict>
+  </lib>
 </glyph>

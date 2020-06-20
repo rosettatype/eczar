@@ -8,16 +8,33 @@
       <point x="960" y="660" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
-      <point x="1101" y="473" type="move" name="abvmTOP"/>
-    </contour>
-    <contour>
       <point x="989" y="660" type="move" name="abvmCANDRABINDU"/>
     </contour>
     <contour>
       <point x="1369" y="660" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="1101" y="473" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="1010" y="-41" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvYa.post</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:50:53 +0000</string>
+    </dict>
+  </lib>
 </glyph>

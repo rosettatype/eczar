@@ -41,6 +41,8 @@
 		<integer>650</integer>
 		<integer>670</integer>
 	</array>
+	<key>postscriptFontName</key>
+	<string>Eczar-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-231</integer>

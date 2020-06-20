@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endash" format="1">
-  <advance width="586"/>
+  <advance width="588"/>
   <unicode hex="2013"/>
   <outline>
     <contour>
-      <point x="117" y="328"/>
-      <point x="74" y="321"/>
-      <point x="35" y="302" type="curve"/>
-      <point x="41" y="217" type="line"/>
-      <point x="486" y="217" type="line"/>
-      <point x="533" y="270" type="line"/>
-      <point x="528" y="328" type="line"/>
-      <point x="148" y="328" type="line"/>
+      <point x="34" y="302" type="curve"/>
+      <point x="40" y="217" type="line"/>
+      <point x="485" y="217" type="line"/>
+      <point x="532" y="270" type="line"/>
+      <point x="527" y="328" type="line"/>
+      <point x="147" y="328" type="line"/>
+      <point x="116" y="328"/>
+      <point x="73" y="321"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:52:46 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>hyphen</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>hyphen</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.97,0.9,0,1</string>
     </dict>
   </lib>
 </glyph>

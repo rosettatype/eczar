@@ -4,14 +4,6 @@
   <unicode hex="093E"/>
   <outline>
     <contour>
-      <point x="302" y="538" type="line"/>
-      <point x="315" y="565" type="line"/>
-      <point x="277" y="624" type="line"/>
-      <point x="-26" y="624" type="line"/>
-      <point x="-39" y="596" type="line"/>
-      <point x="0" y="538" type="line"/>
-    </contour>
-    <contour>
       <point x="82" y="10" type="line"/>
       <point x="159" y="-36" type="line"/>
       <point x="191" y="-24" type="line"/>
@@ -20,13 +12,27 @@
       <point x="82" y="571" type="line"/>
     </contour>
     <contour>
-      <point x="15" y="640" type="move" name="abvmBINDU"/>
+      <point x="-39" y="596" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="302" y="538" type="line"/>
+      <point x="315" y="565" type="line"/>
+      <point x="277" y="624" type="line"/>
+      <point x="-26" y="624" type="line"/>
     </contour>
     <contour>
-      <point x="136" y="470" type="move" name="abvmTOP"/>
+      <point x="15" y="640" type="move" name="abvmBINDU"/>
     </contour>
     <contour>
       <point x="8" y="640" type="move" name="abvmCANDRABINDU"/>
     </contour>
+    <contour>
+      <point x="136" y="470" type="move" name="abvmTOP"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+    </dict>
+  </lib>
 </glyph>

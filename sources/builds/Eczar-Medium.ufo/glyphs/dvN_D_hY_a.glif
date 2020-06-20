@@ -3,37 +3,34 @@
   <advance width="1271"/>
   <outline>
     <contour>
-      <point x="275" y="538" type="line"/>
-      <point x="288" y="565" type="line"/>
-      <point x="249" y="624" type="line"/>
-      <point x="-26" y="624" type="line"/>
-      <point x="-39" y="596" type="line"/>
-      <point x="0" y="538" type="line"/>
-    </contour>
-    <contour>
-      <point x="8" y="306" type="line"/>
-      <point x="29" y="240"/>
-      <point x="82" y="166"/>
       <point x="133" y="127" type="curve"/>
       <point x="187" y="150" type="line"/>
       <point x="187" y="311" type="line"/>
       <point x="120" y="355" type="line"/>
       <point x="48" y="355" type="line"/>
+      <point x="8" y="306" type="line"/>
+      <point x="29" y="240"/>
+      <point x="82" y="166"/>
     </contour>
     <contour>
-      <point x="431" y="285" type="line"/>
-      <point x="395" y="355" type="line"/>
       <point x="82" y="355" type="line"/>
       <point x="113" y="258" type="line"/>
       <point x="413" y="258" type="line"/>
+      <point x="431" y="285" type="line"/>
+      <point x="395" y="355" type="line"/>
+    </contour>
+    <contour>
+      <point x="-39" y="596" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="275" y="538" type="line"/>
+      <point x="288" y="565" type="line"/>
+      <point x="249" y="624" type="line"/>
+      <point x="-26" y="624" type="line"/>
     </contour>
     <component base="dvDh" xOffset="235"/>
     <component base="dvYa" xOffset="661"/>
     <contour>
       <point x="993" y="640" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="1126" y="470" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="1019" y="640" type="move" name="abvmCANDRABINDU"/>
@@ -42,7 +39,16 @@
       <point x="1319" y="640" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="1126" y="470" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="1063" y="4" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+    </dict>
+  </lib>
 </glyph>

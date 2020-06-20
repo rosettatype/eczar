@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="1">
-  <advance width="768"/>
+  <advance width="769"/>
   <unicode hex="0077"/>
   <outline>
+    <contour>
+      <point x="283" y="457" type="line"/>
+      <point x="445" y="-3" type="line"/>
+      <point x="484" y="-11"/>
+      <point x="551" y="-9"/>
+      <point x="593" y="5" type="curve"/>
+      <point x="748" y="475" type="line"/>
+      <point x="598" y="475" type="line"/>
+      <point x="538" y="110" type="line"/>
+      <point x="530" y="110" type="line"/>
+      <point x="511" y="212" type="line"/>
+      <point x="423" y="471" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="459" type="line"/>
+      <point x="169" y="-3" type="line"/>
+      <point x="209" y="-10"/>
+      <point x="277" y="-9"/>
+      <point x="317" y="5" type="curve"/>
+      <point x="390" y="176" type="line"/>
+      <point x="412" y="274" type="line"/>
+      <point x="355" y="329" type="line"/>
+      <point x="277" y="110" type="line"/>
+      <point x="269" y="110" type="line"/>
+      <point x="245" y="212" type="line"/>
+      <point x="161" y="475" type="line"/>
+    </contour>
     <contour>
       <point x="-22" y="423" type="line"/>
       <point x="130" y="354" type="line"/>
@@ -18,23 +45,10 @@
       <point x="234" y="475" type="line"/>
     </contour>
     <contour>
-      <point x="748" y="475" type="line"/>
-      <point x="598" y="475" type="line"/>
-      <point x="538" y="110" type="line"/>
-      <point x="530" y="110" type="line"/>
-      <point x="511" y="212" type="line"/>
-      <point x="423" y="471" type="line"/>
-      <point x="283" y="457" type="line"/>
-      <point x="445" y="-3" type="line"/>
-      <point x="484" y="-11"/>
-      <point x="551" y="-9"/>
-      <point x="593" y="5" type="curve"/>
-    </contour>
-    <contour>
+      <point x="529" y="423" type="line"/>
       <point x="663" y="373" type="line"/>
       <point x="669" y="475" type="line"/>
       <point x="530" y="475" type="line"/>
-      <point x="529" y="423" type="line"/>
     </contour>
     <contour>
       <point x="644" y="475" type="line"/>
@@ -45,33 +59,19 @@
       <point x="773" y="475" type="line"/>
     </contour>
     <contour>
-      <point x="355" y="329" type="line"/>
-      <point x="277" y="110" type="line"/>
-      <point x="269" y="110" type="line"/>
-      <point x="245" y="212" type="line"/>
-      <point x="161" y="475" type="line"/>
-      <point x="13" y="459" type="line"/>
-      <point x="169" y="-3" type="line"/>
-      <point x="209" y="-10"/>
-      <point x="277" y="-9"/>
-      <point x="317" y="5" type="curve"/>
-      <point x="390" y="176" type="line"/>
-      <point x="412" y="274" type="line"/>
-    </contour>
-    <contour>
       <point x="375" y="468" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:55:12 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>v</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>v</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.97,0.9,0,1</string>
     </dict>
   </lib>
 </glyph>

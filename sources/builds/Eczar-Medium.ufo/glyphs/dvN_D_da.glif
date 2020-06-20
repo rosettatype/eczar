@@ -3,36 +3,33 @@
   <advance width="875"/>
   <outline>
     <contour>
-      <point x="347" y="538" type="line"/>
-      <point x="360" y="565" type="line"/>
-      <point x="321" y="624" type="line"/>
-      <point x="-26" y="624" type="line"/>
-      <point x="-39" y="596" type="line"/>
-      <point x="0" y="538" type="line"/>
-    </contour>
-    <contour>
-      <point x="16" y="341" type="line"/>
-      <point x="37" y="275"/>
-      <point x="90" y="201"/>
       <point x="141" y="162" type="curve"/>
       <point x="195" y="185" type="line"/>
       <point x="195" y="346" type="line"/>
       <point x="128" y="390" type="line"/>
       <point x="56" y="390" type="line"/>
+      <point x="16" y="341" type="line"/>
+      <point x="37" y="275"/>
+      <point x="90" y="201"/>
     </contour>
     <contour>
-      <point x="423" y="320" type="line"/>
-      <point x="387" y="390" type="line"/>
       <point x="89" y="390" type="line"/>
       <point x="120" y="294" type="line"/>
       <point x="405" y="294" type="line"/>
+      <point x="423" y="320" type="line"/>
+      <point x="387" y="390" type="line"/>
+    </contour>
+    <contour>
+      <point x="-39" y="596" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="347" y="538" type="line"/>
+      <point x="360" y="565" type="line"/>
+      <point x="321" y="624" type="line"/>
+      <point x="-26" y="624" type="line"/>
     </contour>
     <component base="dvDda" xOffset="273"/>
     <contour>
       <point x="731" y="640" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="730" y="470" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="715" y="640" type="move" name="abvmCANDRABINDU"/>
@@ -41,7 +38,27 @@
       <point x="922" y="640" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="730" y="470" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="588" y="-44" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvDda</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:53:36 +0000</string>
+    </dict>
+  </lib>
 </glyph>

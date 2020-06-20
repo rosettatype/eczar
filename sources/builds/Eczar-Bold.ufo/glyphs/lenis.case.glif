@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lenis.case" format="1">
+  <advance width="290"/>
+  <outline>
+    <contour>
+      <point x="-1" y="455" type="curve"/>
+      <point x="34" y="407" type="line"/>
+      <point x="111" y="441"/>
+      <point x="162" y="510"/>
+      <point x="162" y="574" type="curve"/>
+      <point x="162" y="614"/>
+      <point x="138" y="658"/>
+      <point x="80" y="672" type="curve"/>
+      <point x="42" y="656"/>
+      <point x="13" y="620"/>
+      <point x="6" y="575" type="curve"/>
+      <point x="57" y="536" type="line"/>
+      <point x="56" y="508"/>
+      <point x="36" y="485"/>
+    </contour>
+    <contour>
+      <point x="158" y="343" type="move" name="_left"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:46:59 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

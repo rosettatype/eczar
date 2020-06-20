@@ -4,23 +4,23 @@
   <unicode hex="0111"/>
   <outline>
     <contour>
-      <point x="599" y="568" type="line"/>
-      <point x="593" y="603" type="line"/>
-      <point x="261" y="603" type="line"/>
       <point x="218" y="567" type="line"/>
       <point x="224" y="532" type="line"/>
       <point x="556" y="532" type="line"/>
+      <point x="599" y="568" type="line"/>
+      <point x="593" y="603" type="line"/>
+      <point x="261" y="603" type="line"/>
     </contour>
     <component base="d"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:50:53 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>d</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.97,0.9,0,1</string>
     </dict>
   </lib>
 </glyph>

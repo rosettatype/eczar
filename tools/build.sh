@@ -117,7 +117,7 @@ do
 				mv $FONT.S $FONT
 			fi
 			# autohint
-			ttfautohint $FONT $FONT.AH --hinting-range-max=96 --ignore-restrictions --strong-stem-width=G --increase-x-height=14
+			ttfautohint $FONT $FONT.AH --hinting-range-max=96 --ignore-restrictions --stem-width-mode=qsq --increase-x-height=14
 			rm $FONT
 			mv $FONT.AH $FONT
 			cd ..

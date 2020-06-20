@@ -4,10 +4,11 @@
   <unicode hex="2019"/>
   <outline>
     <contour>
+      <point x="40" y="476" type="curve"/>
       <point x="81" y="426" type="line"/>
       <point x="178" y="470"/>
       <point x="248" y="549"/>
-      <point x="248" y="627" type="curve" smooth="yes"/>
+      <point x="248" y="627" type="curve"/>
       <point x="248" y="664"/>
       <point x="230" y="725"/>
       <point x="151" y="754" type="curve"/>
@@ -17,15 +18,14 @@
       <point x="108" y="592" type="line"/>
       <point x="99" y="543"/>
       <point x="75" y="508"/>
-      <point x="40" y="476" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:52:46 +0000</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.97,0.9,0,1</string>
     </dict>
   </lib>
 </glyph>

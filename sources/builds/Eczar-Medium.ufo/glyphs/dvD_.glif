@@ -5,4 +5,10 @@
     <component base="dvDa"/>
     <component base="dvHalant" xOffset="553" yOffset="-159"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-11-22 14:22:04 +0000</string>
+    </dict>
+  </lib>
 </glyph>

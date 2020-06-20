@@ -3,36 +3,33 @@
   <advance width="850"/>
   <outline>
     <contour>
+      <point x="-30" y="588" type="line"/>
+      <point x="0" y="538" type="line"/>
       <point x="409" y="538" type="line"/>
       <point x="418" y="558" type="line"/>
       <point x="388" y="608" type="line"/>
       <point x="-21" y="608" type="line"/>
-      <point x="-30" y="588" type="line"/>
-      <point x="0" y="538" type="line"/>
     </contour>
     <contour>
-      <point x="42" y="300" type="line"/>
-      <point x="65" y="241"/>
-      <point x="109" y="181"/>
       <point x="148" y="144" type="curve"/>
       <point x="196" y="163" type="line"/>
       <point x="196" y="302" type="line"/>
       <point x="129" y="347" type="line"/>
       <point x="83" y="347" type="line"/>
+      <point x="42" y="300" type="line"/>
+      <point x="65" y="241"/>
+      <point x="109" y="181"/>
     </contour>
     <contour>
-      <point x="420" y="291" type="line"/>
-      <point x="394" y="347" type="line"/>
       <point x="96" y="347" type="line"/>
       <point x="127" y="271" type="line"/>
       <point x="406" y="271" type="line"/>
+      <point x="420" y="291" type="line"/>
+      <point x="394" y="347" type="line"/>
     </contour>
     <component base="dvDRa" xOffset="285"/>
     <contour>
       <point x="695" y="630" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="695" y="468" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="680" y="630" type="move" name="abvmCANDRABINDU"/>
@@ -41,7 +38,16 @@
       <point x="850" y="630" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="695" y="468" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="752" y="-136" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:54:28 +0000</string>
+    </dict>
+  </lib>
 </glyph>

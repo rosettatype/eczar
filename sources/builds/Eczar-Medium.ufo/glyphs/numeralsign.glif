@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numeralsign" format="1">
+  <advance width="265"/>
+  <unicode hex="0374"/>
+  <outline>
+    <contour>
+      <point x="48" y="538" type="line"/>
+      <point x="106" y="516" type="line"/>
+      <point x="216" y="715" type="line"/>
+      <point x="215" y="738" type="line"/>
+      <point x="191" y="759"/>
+      <point x="149" y="776"/>
+      <point x="109" y="775" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:53:36 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

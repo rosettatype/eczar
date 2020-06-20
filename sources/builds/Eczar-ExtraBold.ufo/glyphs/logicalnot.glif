@@ -10,22 +10,22 @@
       <point x="540" y="282" type="line"/>
     </contour>
     <contour>
-      <point x="540" y="282" type="line"/>
       <point x="423" y="282" type="line"/>
       <point x="423" y="0" type="line"/>
       <point x="540" y="0" type="line"/>
+      <point x="540" y="282" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:01:00 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>minus</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>minus</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.97,0.9,0,1</string>
     </dict>
   </lib>
 </glyph>

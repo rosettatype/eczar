@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega" format="1">
+  <advance width="790"/>
+  <unicode hex="03A9"/>
+  <outline>
+    <contour>
+      <point x="43" y="90" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="356" y="64" type="line"/>
+      <point x="257" y="154"/>
+      <point x="214" y="252"/>
+      <point x="214" y="378" type="curve"/>
+      <point x="214" y="466"/>
+      <point x="244" y="542"/>
+      <point x="292" y="580" type="curve"/>
+      <point x="319" y="590"/>
+      <point x="346" y="596"/>
+      <point x="375" y="596" type="curve"/>
+      <point x="493" y="596"/>
+      <point x="574" y="497"/>
+      <point x="574" y="351" type="curve"/>
+      <point x="574" y="238"/>
+      <point x="532" y="152"/>
+      <point x="438" y="64" type="curve"/>
+      <point x="459" y="0" type="line"/>
+      <point x="764" y="0" type="line"/>
+      <point x="751" y="90" type="line"/>
+      <point x="505" y="74" type="line"/>
+      <point x="509" y="56" type="line"/>
+      <point x="625" y="124"/>
+      <point x="706" y="249"/>
+      <point x="706" y="372" type="curve"/>
+      <point x="706" y="542"/>
+      <point x="572" y="674"/>
+      <point x="395" y="674" type="curve"/>
+      <point x="217" y="674"/>
+      <point x="82" y="541"/>
+      <point x="82" y="366" type="curve"/>
+      <point x="82" y="231"/>
+      <point x="163" y="114"/>
+      <point x="295" y="57" type="curve"/>
+      <point x="292" y="74" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="0" type="curve"/>
+      <point x="123" y="32" type="line"/>
+      <point x="79" y="194" type="line"/>
+      <point x="18" y="189" type="line"/>
+      <point x="16" y="141"/>
+      <point x="21" y="56"/>
+    </contour>
+    <contour>
+      <point x="671" y="32" type="line"/>
+      <point x="765" y="0" type="line"/>
+      <point x="773" y="56"/>
+      <point x="779" y="141"/>
+      <point x="777" y="189" type="curve"/>
+      <point x="716" y="194" type="line"/>
+    </contour>
+    <contour>
+      <point x="399" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="8" y="343" type="move" name="left"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:53:36 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

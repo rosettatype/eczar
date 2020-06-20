@@ -4,25 +4,25 @@
   <unicode hex="203A"/>
   <outline>
     <contour>
-      <point x="151" y="480" type="line"/>
-      <point x="59" y="415" type="line"/>
-      <point x="148" y="253" type="line"/>
       <point x="52" y="99" type="line"/>
       <point x="151" y="29" type="line"/>
       <point x="327" y="207" type="line"/>
       <point x="327" y="299" type="line"/>
+      <point x="151" y="480" type="line"/>
+      <point x="59" y="415" type="line"/>
+      <point x="148" y="253" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:52:46 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=|</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=|guilsinglleft</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.97,0.9,0,1</string>
     </dict>
   </lib>
 </glyph>

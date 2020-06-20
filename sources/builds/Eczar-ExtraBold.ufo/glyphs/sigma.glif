@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sigma" format="1">
+  <advance width="627"/>
+  <unicode hex="03C3"/>
+  <outline>
+    <contour>
+      <point x="252" y="-20" type="curve"/>
+      <point x="385" y="-20"/>
+      <point x="487" y="76"/>
+      <point x="487" y="202" type="curve"/>
+      <point x="487" y="255"/>
+      <point x="471" y="304"/>
+      <point x="437" y="352" type="curve"/>
+      <point x="353" y="331" type="line"/>
+      <point x="377" y="313"/>
+      <point x="391" y="287"/>
+      <point x="391" y="261" type="curve"/>
+      <point x="391" y="214"/>
+      <point x="321" y="183"/>
+      <point x="215" y="183" type="curve"/>
+      <point x="161" y="183"/>
+      <point x="138" y="186"/>
+      <point x="118" y="196" type="curve"/>
+      <point x="111" y="202"/>
+      <point x="107" y="212"/>
+      <point x="107" y="224" type="curve"/>
+      <point x="107" y="270"/>
+      <point x="172" y="291"/>
+      <point x="313" y="291" type="curve"/>
+      <point x="442" y="291" type="line"/>
+      <point x="588" y="277" type="line"/>
+      <point x="617" y="325" type="line"/>
+      <point x="619" y="372"/>
+      <point x="602" y="457"/>
+      <point x="582" y="500" type="curve"/>
+      <point x="381" y="482" type="line"/>
+      <point x="281" y="482" type="line" smooth="yes"/>
+      <point x="122" y="482"/>
+      <point x="15" y="379"/>
+      <point x="15" y="229" type="curve"/>
+      <point x="15" y="80"/>
+      <point x="111" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:52:46 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

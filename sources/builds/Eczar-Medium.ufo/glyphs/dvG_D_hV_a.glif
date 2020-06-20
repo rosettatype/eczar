@@ -3,22 +3,14 @@
   <advance width="1344"/>
   <outline>
     <contour>
-      <point x="36" y="279" type="line"/>
-      <point x="57" y="216"/>
-      <point x="132" y="147"/>
       <point x="193" y="118" type="curve"/>
       <point x="245" y="142" type="line"/>
       <point x="245" y="286" type="line"/>
       <point x="183" y="323" type="line"/>
       <point x="66" y="323" type="line"/>
-    </contour>
-    <contour>
-      <point x="341" y="538" type="line"/>
-      <point x="354" y="565" type="line"/>
-      <point x="315" y="624" type="line"/>
-      <point x="-26" y="624" type="line"/>
-      <point x="-39" y="596" type="line"/>
-      <point x="0" y="538" type="line"/>
+      <point x="36" y="279" type="line"/>
+      <point x="57" y="216"/>
+      <point x="132" y="147"/>
     </contour>
     <contour>
       <point x="138" y="257" type="line"/>
@@ -27,13 +19,18 @@
       <point x="171" y="555" type="line"/>
       <point x="136" y="571" type="line"/>
     </contour>
+    <contour>
+      <point x="-39" y="596" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="341" y="538" type="line"/>
+      <point x="354" y="565" type="line"/>
+      <point x="315" y="624" type="line"/>
+      <point x="-26" y="624" type="line"/>
+    </contour>
     <component base="dvDh" xOffset="303"/>
     <component base="dvVa" xOffset="754"/>
     <contour>
       <point x="1200" y="640" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="1199" y="470" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="1184" y="640" type="move" name="abvmCANDRABINDU"/>
@@ -42,7 +39,27 @@
       <point x="1392" y="640" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="1199" y="470" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="1135" y="4" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvDh</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:53:36 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,4 +1,4 @@
-# Created: Mon Mar 14 13:45:03 2016
+# Created: Tue Feb 26 17:56:20 2019
 # PS Name: Eczar-SemiBold
 # MM Inst: None
 # exported from Defcon
@@ -6,29 +6,47 @@
 # NOTE: The markClass declarations can be found in the file 'markclasses.fea'.
 
 lookup MARK_BASE_bottom {
+	@bGC_Eta_bottom = [Eta Omega];
 	@bGC_T_bottom = [T n];
+	pos base @bGC_Eta_bottom <anchor 402 0> mark @MC_bottom;
 	pos base @bGC_T_bottom <anchor 323 0> mark @MC_bottom;
-	pos base C <anchor 328 0> mark @MC_bottom;
+	pos base Alpha <anchor 335 0> mark @MC_bottom;
+	pos base C <anchor 331 0> mark @MC_bottom;
 	pos base D <anchor 181 0> mark @MC_bottom;
 	pos base E <anchor 311 0> mark @MC_bottom;
-	pos base F <anchor 174 0> mark @MC_bottom;
-	pos base G <anchor 348 0> mark @MC_bottom;
+	pos base F <anchor 173 0> mark @MC_bottom;
+	pos base G <anchor 351 0> mark @MC_bottom;
 	pos base K <anchor 387 0> mark @MC_bottom;
 	pos base L <anchor 302 0> mark @MC_bottom;
 	pos base N <anchor 389 0> mark @MC_bottom;
 	pos base R <anchor 336 0> mark @MC_bottom;
 	pos base S <anchor 285 0> mark @MC_bottom;
 	pos base ae <anchor 315 0> mark @MC_bottom;
+	pos base alpha <anchor 239 0> mark @MC_bottom;
 	pos base c <anchor 246 0> mark @MC_bottom;
 	pos base e <anchor 257 0> mark @MC_bottom;
+	pos base eta <anchor 154 0> mark @MC_bottom;
 	pos base euro <anchor 412 0> mark @MC_bottom;
 	pos base k <anchor 304 0> mark @MC_bottom;
 	pos base l <anchor 172 0> mark @MC_bottom;
 	pos base oe <anchor 601 0> mark @MC_bottom;
+	pos base omega <anchor 344 0> mark @MC_bottom;
 	pos base r <anchor 188 0> mark @MC_bottom;
 	pos base t <anchor 194 0> mark @MC_bottom;
-	pos base trademark <anchor 254 180> mark @MC_bottom;
+	pos base trademark <anchor 257 180> mark @MC_bottom;
 } MARK_BASE_bottom;
+
+
+lookup MARK_BASE_left {
+	pos base Alpha <anchor 140 343> mark @MC_left;
+	pos base Epsilon <anchor -51 343> mark @MC_left;
+	pos base Eta <anchor -53 343> mark @MC_left;
+	pos base Iota <anchor -54 343> mark @MC_left;
+	pos base Omega <anchor 31 343> mark @MC_left;
+	pos base Omicron <anchor -25 343> mark @MC_left;
+	pos base Rho <anchor -39 343> mark @MC_left;
+	pos base Upsilon <anchor -80 343> mark @MC_left;
+} MARK_BASE_left;
 
 
 lookup MARK_BASE_ogonek {
@@ -46,19 +64,21 @@ lookup MARK_BASE_ogonek {
 
 
 lookup MARK_BASE_top {
+	@bGC_A_top = [A Alpha];
 	@bGC_O_top = [O Y];
 	@bGC_e_top = [e o oslash];
+	pos base @bGC_A_top <anchor 347 650> mark @MC_top;
 	pos base @bGC_O_top <anchor 337 650> mark @MC_top;
 	pos base @bGC_e_top <anchor 255 468> mark @MC_top;
-	pos base A <anchor 347 650> mark @MC_top;
-	pos base AE <anchor 537 650> mark @MC_top;
-	pos base C <anchor 328 650> mark @MC_top;
+	pos base AE <anchor 515 650> mark @MC_top;
+	pos base C <anchor 331 650> mark @MC_top;
 	pos base D <anchor 342 650> mark @MC_top;
 	pos base E <anchor 311 650> mark @MC_top;
-	pos base F <anchor 174 390> mark @MC_top;
-	pos base G <anchor 348 650> mark @MC_top;
+	pos base F <anchor 173 390> mark @MC_top;
+	pos base G <anchor 351 650> mark @MC_top;
 	pos base H <anchor 402 650> mark @MC_top;
 	pos base I <anchor 188 650> mark @MC_top;
+	pos base Iota <anchor 190 650> mark @MC_top;
 	pos base J <anchor 203 650> mark @MC_top;
 	pos base K <anchor 363 650> mark @MC_top;
 	pos base L <anchor 195 650> mark @MC_top;
@@ -67,21 +87,30 @@ lookup MARK_BASE_top {
 	pos base S <anchor 297 650> mark @MC_top;
 	pos base T <anchor 323 650> mark @MC_top;
 	pos base U <anchor 370 650> mark @MC_top;
-	pos base W <anchor 486 650> mark @MC_top;
+	pos base Upsilon <anchor 341 650> mark @MC_top;
+	pos base W <anchor 482 650> mark @MC_top;
 	pos base a <anchor 259 468> mark @MC_top;
 	pos base ae <anchor 315 281> mark @MC_top;
+	pos base alpha <anchor 299 471> mark @MC_top;
 	pos base c <anchor 254 468> mark @MC_top;
 	pos base dotlessi <anchor 149 468> mark @MC_top;
+	pos base epsilon <anchor 269 471> mark @MC_top;
+	pos base eta <anchor 315 471> mark @MC_top;
 	pos base euro <anchor 412 650> mark @MC_top;
 	pos base g <anchor 261 468> mark @MC_top;
 	pos base h <anchor 133 710> mark @MC_top;
+	pos base iota <anchor 153 471> mark @MC_top;
 	pos base j <anchor 90 300> mark @MC_top;
 	pos base l <anchor 158 735> mark @MC_top;
 	pos base n <anchor 311 468> mark @MC_top;
 	pos base oe <anchor 599 468> mark @MC_top;
+	pos base omega <anchor 355 471> mark @MC_top;
+	pos base omicron <anchor 280 471> mark @MC_top;
 	pos base r <anchor 250 468> mark @MC_top;
-	pos base trademark <anchor 254 466> mark @MC_top;
+	pos base rho <anchor 286 471> mark @MC_top;
+	pos base trademark <anchor 257 466> mark @MC_top;
 	pos base u <anchor 282 468> mark @MC_top;
+	pos base upsilon <anchor 274 471> mark @MC_top;
 	pos base w <anchor 375 468> mark @MC_top;
 	pos base y <anchor 273 468> mark @MC_top;
 	pos base z <anchor 260 468> mark @MC_top;

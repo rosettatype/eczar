@@ -11,32 +11,32 @@
       <point x="250" y="689" type="line"/>
     </contour>
     <contour>
-      <point x="490" y="439" type="line"/>
-      <point x="484" y="468" type="line"/>
-      <point x="102" y="468" type="line"/>
-      <point x="59" y="425" type="line"/>
-      <point x="65" y="396" type="line"/>
-      <point x="447" y="396" type="line"/>
-    </contour>
-    <contour>
-      <point x="481" y="162" type="line"/>
-      <point x="475" y="191" type="line"/>
-      <point x="93" y="191" type="line"/>
       <point x="50" y="148" type="line"/>
       <point x="56" y="119" type="line"/>
       <point x="438" y="119" type="line"/>
+      <point x="481" y="162" type="line"/>
+      <point x="475" y="191" type="line"/>
+      <point x="93" y="191" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="425" type="line"/>
+      <point x="65" y="396" type="line"/>
+      <point x="447" y="396" type="line"/>
+      <point x="490" y="439" type="line"/>
+      <point x="484" y="468" type="line"/>
+      <point x="102" y="468" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:54:28 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>dagger</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>dagger</string>
       <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>0.97,0.9,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -3,18 +3,14 @@
   <advance width="1125"/>
   <outline>
     <contour>
-      <point x="473" y="538" type="line"/>
-      <point x="498" y="587" type="line"/>
-      <point x="433" y="670" type="line"/>
-      <point x="-40" y="670" type="line"/>
-      <point x="-65" y="621" type="line"/>
-      <point x="0" y="538" type="line"/>
-    </contour>
-    <contour>
+      <point x="344" y="79" type="curve"/>
+      <point x="394" y="79"/>
+      <point x="437" y="97"/>
+      <point x="473" y="129" type="curve"/>
       <point x="374" y="274" type="line"/>
       <point x="352" y="245"/>
       <point x="311" y="230"/>
-      <point x="272" y="230" type="curve" smooth="yes"/>
+      <point x="272" y="230" type="curve"/>
       <point x="255" y="230"/>
       <point x="239" y="233"/>
       <point x="227" y="239" type="curve"/>
@@ -24,17 +20,18 @@
       <point x="30" y="354" type="line" smooth="yes"/>
       <point x="30" y="226"/>
       <point x="202" y="79"/>
-      <point x="344" y="79" type="curve" smooth="yes"/>
-      <point x="394" y="79"/>
-      <point x="437" y="97"/>
-      <point x="473" y="129" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-65" y="621" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="473" y="538" type="line"/>
+      <point x="498" y="587" type="line"/>
+      <point x="433" y="670" type="line"/>
+      <point x="-40" y="670" type="line"/>
     </contour>
     <component base="dvSha" xOffset="268"/>
     <contour>
       <point x="795" y="670" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="950" y="475" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="785" y="670" type="move" name="abvmCANDRABINDU"/>
@@ -43,7 +40,27 @@
       <point x="1255" y="670" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="950" y="475" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="845" y="-95" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvSha</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:52:46 +0000</string>
+    </dict>
+  </lib>
 </glyph>

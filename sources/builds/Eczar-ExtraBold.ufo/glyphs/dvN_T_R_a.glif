@@ -3,36 +3,33 @@
   <advance width="1001"/>
   <outline>
     <contour>
-      <point x="380" y="538" type="line"/>
-      <point x="405" y="587" type="line"/>
-      <point x="340" y="670" type="line"/>
-      <point x="-40" y="670" type="line"/>
-      <point x="-65" y="621" type="line"/>
-      <point x="0" y="538" type="line"/>
-    </contour>
-    <contour>
-      <point x="7" y="392" type="line"/>
-      <point x="20" y="306"/>
-      <point x="101" y="190"/>
       <point x="190" y="146" type="curve"/>
       <point x="262" y="182" type="line"/>
       <point x="262" y="408" type="line"/>
       <point x="195" y="450" type="line"/>
       <point x="43" y="450" type="line"/>
+      <point x="7" y="392" type="line"/>
+      <point x="20" y="306"/>
+      <point x="101" y="190"/>
     </contour>
     <contour>
-      <point x="481" y="339" type="line"/>
-      <point x="417" y="450" type="line"/>
       <point x="139" y="450" type="line"/>
       <point x="170" y="294" type="line"/>
       <point x="454" y="294" type="line"/>
+      <point x="481" y="339" type="line"/>
+      <point x="417" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="-65" y="621" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="380" y="538" type="line"/>
+      <point x="405" y="587" type="line"/>
+      <point x="340" y="670" type="line"/>
+      <point x="-40" y="670" type="line"/>
     </contour>
     <component base="dvTRa" xOffset="336"/>
     <contour>
       <point x="831" y="670" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="826" y="475" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="811" y="670" type="move" name="abvmCANDRABINDU"/>
@@ -41,7 +38,27 @@
       <point x="1131" y="670" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="826" y="475" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="721" y="0" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvTRa</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:01:00 +0000</string>
+    </dict>
+  </lib>
 </glyph>

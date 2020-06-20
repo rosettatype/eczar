@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.11">
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.29">
   <GlyphOrder src="Eczar-Regular.GlyphOrder.ttx"/>
   <head src="Eczar-Regular._h_e_a_d.ttx"/>
   <hhea src="Eczar-Regular._h_h_e_a.ttx"/>
@@ -19,4 +19,5 @@
   <GDEF src="Eczar-Regular.G_D_E_F_.ttx"/>
   <GPOS src="Eczar-Regular.G_P_O_S_.ttx"/>
   <GSUB src="Eczar-Regular.G_S_U_B_.ttx"/>
+  <DSIG src="Eczar-Regular.D_S_I_G_.ttx"/>
 </ttFont>

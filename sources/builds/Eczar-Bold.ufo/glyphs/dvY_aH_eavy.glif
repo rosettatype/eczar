@@ -4,17 +4,14 @@
   <unicode hex="097A"/>
   <outline>
     <contour>
+      <point x="190" y="401" type="line"/>
       <point x="434" y="188" type="line"/>
       <point x="519" y="221" type="line"/>
       <point x="280" y="429" type="line"/>
-      <point x="190" y="401" type="line"/>
     </contour>
     <component base="dvYa"/>
     <contour>
       <point x="351" y="660" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="493" y="473" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="380" y="660" type="move" name="abvmCANDRABINDU"/>
@@ -23,7 +20,16 @@
       <point x="760" y="660" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="493" y="473" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="401" y="1" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:50:53 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegaacuteiotasub" format="1">
+  <advance width="675"/>
+  <unicode hex="1FF4"/>
+  <note>
+    
+  </note>
+  <outline>
+    <component base="grAcute" xOffset="192"/>
+    <component base="iotaadscript" xOffset="222"/>
+    <component base="omega"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:53:36 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -3,19 +3,25 @@
   <advance width="484"/>
   <outline>
     <contour>
+      <point x="238" y="359" type="line"/>
+      <point x="239" y="210" type="line"/>
+      <point x="612" y="210" type="line"/>
+      <point x="602" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="428" y="621" type="line"/>
+      <point x="493" y="538" type="line"/>
       <point x="509" y="538" type="line"/>
       <point x="534" y="587" type="line"/>
       <point x="469" y="670" type="line"/>
       <point x="453" y="670" type="line"/>
-      <point x="428" y="621" type="line"/>
-      <point x="493" y="538" type="line"/>
-    </contour>
-    <contour>
-      <point x="612" y="210" type="line"/>
-      <point x="602" y="359" type="line"/>
-      <point x="238" y="359" type="line"/>
-      <point x="239" y="210" type="line"/>
     </contour>
     <component base="dvRa" xOffset="-10"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:52:46 +0000</string>
+    </dict>
+  </lib>
 </glyph>

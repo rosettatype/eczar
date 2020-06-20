@@ -5,4 +5,10 @@
     <component base="dvI"/>
     <component base="dvReph_dvAnusvara" xOffset="544"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:53:36 +0000</string>
+    </dict>
+  </lib>
 </glyph>

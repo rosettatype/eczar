@@ -9,22 +9,14 @@
       <point x="470" y="248" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="26" y="306" type="line"/>
-      <point x="50" y="235"/>
-      <point x="139" y="156"/>
       <point x="208" y="128" type="curve"/>
       <point x="264" y="157" type="line"/>
       <point x="264" y="316" type="line"/>
       <point x="200" y="354" type="line"/>
       <point x="58" y="354" type="line"/>
-    </contour>
-    <contour>
-      <point x="380" y="538" type="line"/>
-      <point x="397" y="573" type="line"/>
-      <point x="350" y="639" type="line"/>
-      <point x="-31" y="639" type="line"/>
-      <point x="-48" y="605" type="line"/>
-      <point x="-1" y="538" type="line"/>
+      <point x="26" y="306" type="line"/>
+      <point x="50" y="235"/>
+      <point x="139" y="156"/>
     </contour>
     <contour>
       <point x="136" y="270" type="line"/>
@@ -33,12 +25,17 @@
       <point x="176" y="560" type="line"/>
       <point x="130" y="581" type="line"/>
     </contour>
+    <contour>
+      <point x="-48" y="605" type="line"/>
+      <point x="-1" y="538" type="line"/>
+      <point x="380" y="538" type="line"/>
+      <point x="397" y="573" type="line"/>
+      <point x="350" y="639" type="line"/>
+      <point x="-31" y="639" type="line"/>
+    </contour>
     <component base="dvYa" xOffset="350"/>
     <contour>
       <point x="692" y="650" type="move" name="abvmBINDU"/>
-    </contour>
-    <contour>
-      <point x="829" y="472" type="move" name="abvmTOP"/>
     </contour>
     <contour>
       <point x="719" y="650" type="move" name="abvmCANDRABINDU"/>
@@ -47,7 +44,16 @@
       <point x="1059" y="650" type="move" name="abvmCANDRABINDU2"/>
     </contour>
     <contour>
+      <point x="829" y="472" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
       <point x="752" y="3" type="move" name="blwmBOTTOM"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:55:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>
