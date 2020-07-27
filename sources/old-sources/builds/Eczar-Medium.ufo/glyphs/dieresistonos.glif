@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="1">
+  <advance width="340"/>
+  <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="127" y="544" type="line"/>
+      <point x="174" y="530" type="line"/>
+      <point x="258" y="727" type="line"/>
+      <point x="255" y="750" type="line"/>
+      <point x="231" y="767"/>
+      <point x="193" y="777"/>
+      <point x="158" y="774" type="curve"/>
+    </contour>
+    <contour>
+      <point x="33" y="550" type="curve"/>
+      <point x="65" y="565"/>
+      <point x="85" y="590"/>
+      <point x="95" y="624" type="curve"/>
+      <point x="87" y="658"/>
+      <point x="57" y="684"/>
+      <point x="21" y="698" type="curve"/>
+      <point x="-12" y="681"/>
+      <point x="-39" y="652"/>
+      <point x="-43" y="612" type="curve"/>
+      <point x="-28" y="581"/>
+      <point x="-4" y="561"/>
+    </contour>
+    <contour>
+      <point x="334" y="550" type="curve"/>
+      <point x="366" y="565"/>
+      <point x="386" y="590"/>
+      <point x="396" y="624" type="curve"/>
+      <point x="388" y="658"/>
+      <point x="358" y="684"/>
+      <point x="322" y="698" type="curve"/>
+      <point x="289" y="681"/>
+      <point x="262" y="652"/>
+      <point x="258" y="612" type="curve"/>
+      <point x="273" y="581"/>
+      <point x="297" y="561"/>
+    </contour>
+    <contour>
+      <point x="175" y="470" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

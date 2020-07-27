@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvZha" format="1">
+  <advance width="693"/>
+  <unicode hex="0979"/>
+  <outline>
+    <component base="dvJa"/>
+    <component base="dvNukta" xOffset="199" yOffset="78"/>
+    <component base="dvNukta" xOffset="296" yOffset="-31"/>
+    <component base="dvNukta" xOffset="382" yOffset="78"/>
+    <contour>
+      <point x="549" y="640" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="533" y="640" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="740" y="640" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="548" y="470" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="464" y="-213" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvNukta</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dvNukta</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>dvNukta</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:53:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

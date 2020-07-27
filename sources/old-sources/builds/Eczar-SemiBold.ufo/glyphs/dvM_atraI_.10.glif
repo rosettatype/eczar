@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraI.10" format="1">
+  <advance width="290"/>
+  <outline>
+    <contour>
+      <point x="96" y="624" type="curve"/>
+      <point x="174" y="624" type="line"/>
+      <point x="152" y="657"/>
+      <point x="146" y="681"/>
+      <point x="146" y="703" type="curve"/>
+      <point x="146" y="805"/>
+      <point x="273" y="862"/>
+      <point x="469" y="862" type="curve"/>
+      <point x="705" y="862"/>
+      <point x="1012" y="780"/>
+      <point x="1310" y="663" type="curve"/>
+      <point x="1348" y="721" type="line"/>
+      <point x="950" y="903"/>
+      <point x="625" y="977"/>
+      <point x="401" y="977" type="curve"/>
+      <point x="154" y="977"/>
+      <point x="26" y="893"/>
+      <point x="26" y="772" type="curve"/>
+      <point x="26" y="726"/>
+      <point x="44" y="677"/>
+    </contour>
+    <contour>
+      <point x="80" y="14" type="line"/>
+      <point x="176" y="-40" type="line"/>
+      <point x="215" y="-23" type="line"/>
+      <point x="215" y="493" type="line"/>
+      <point x="126" y="560" type="line"/>
+      <point x="80" y="581" type="line"/>
+    </contour>
+    <contour>
+      <point x="-48" y="605" type="line"/>
+      <point x="-1" y="538" type="line"/>
+      <point x="320" y="538" type="line"/>
+      <point x="337" y="573" type="line"/>
+      <point x="289" y="639" type="line"/>
+      <point x="-31" y="639" type="line"/>
+    </contour>
+    <contour>
+      <point x="1348" y="721" type="move" name="abvmTOP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:16:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

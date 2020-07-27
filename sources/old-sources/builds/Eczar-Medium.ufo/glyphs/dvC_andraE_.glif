@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvCandraE" format="1">
+  <advance width="571"/>
+  <unicode hex="090D"/>
+  <outline>
+    <component base="dvE"/>
+    <component base="dvMatraCandraE" xOffset="476" yOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvMatraCandraE</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

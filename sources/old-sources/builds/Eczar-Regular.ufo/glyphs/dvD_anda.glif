@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDanda" format="1">
+  <advance width="438"/>
+  <unicode hex="0964"/>
+  <outline>
+    <contour>
+      <point x="222" y="3" type="line"/>
+      <point x="279" y="-45" type="line"/>
+      <point x="303" y="-38" type="line"/>
+      <point x="303" y="583" type="line"/>
+      <point x="246" y="631" type="line"/>
+      <point x="222" y="624" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:11:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

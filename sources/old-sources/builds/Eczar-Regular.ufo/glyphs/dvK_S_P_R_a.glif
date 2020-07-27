@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvKSPRa" format="1">
+  <advance width="1527"/>
+  <outline>
+    <component base="dvK"/>
+    <component base="dvS" xOffset="575"/>
+    <component base="dvPRa" xOffset="962"/>
+    <contour>
+      <point x="1262" y="630" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="1277" y="630" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1547" y="630" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="1392" y="468" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="1342" y="-15" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvS</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:46:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

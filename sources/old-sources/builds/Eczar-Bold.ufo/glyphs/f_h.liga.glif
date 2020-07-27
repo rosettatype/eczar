@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_h.liga" format="1">
+  <advance width="1032"/>
+  <outline>
+    <contour>
+      <point x="87" y="529" type="curve"/>
+      <point x="87" y="0" type="line"/>
+      <point x="261" y="0" type="line"/>
+      <point x="261" y="437" type="line"/>
+      <point x="263" y="465" type="line"/>
+      <point x="216" y="624" type="line"/>
+      <point x="527" y="594" type="line"/>
+      <point x="594" y="737" type="line"/>
+      <point x="300" y="737" type="line" smooth="yes"/>
+      <point x="186" y="737"/>
+      <point x="87" y="656"/>
+    </contour>
+    <contour>
+      <point x="21" y="35" type="curve"/>
+      <point x="23" y="0" type="line"/>
+      <point x="135" y="0" type="line"/>
+      <point x="145" y="83" type="line"/>
+      <point x="107" y="74"/>
+      <point x="59" y="57"/>
+    </contour>
+    <contour>
+      <point x="223" y="103" type="curve"/>
+      <point x="198" y="0" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="346" y="49" type="line"/>
+      <point x="309" y="75"/>
+      <point x="265" y="93"/>
+    </contour>
+    <contour>
+      <point x="11" y="415" type="curve"/>
+      <point x="13" y="360" type="line"/>
+      <point x="201" y="362" type="line"/>
+      <point x="214" y="431" type="line"/>
+      <point x="147" y="491" type="line"/>
+      <point x="103" y="468"/>
+      <point x="57" y="444"/>
+    </contour>
+    <contour>
+      <point x="207" y="473" type="line"/>
+      <point x="207" y="360" type="line"/>
+      <point x="317" y="360" type="line"/>
+      <point x="368" y="424" type="line"/>
+      <point x="366" y="473" type="line"/>
+    </contour>
+    <component base="h" xOffset="390"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:50:53 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

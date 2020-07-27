@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvPhCa" format="1">
+  <advance width="1297"/>
+  <outline>
+    <contour>
+      <point x="321" y="129" type="curve"/>
+      <point x="375" y="129"/>
+      <point x="429" y="162"/>
+      <point x="469" y="227" type="curve"/>
+      <point x="379" y="360" type="line"/>
+      <point x="358" y="299"/>
+      <point x="315" y="263"/>
+      <point x="264" y="263" type="curve"/>
+      <point x="242" y="263"/>
+      <point x="225" y="271"/>
+      <point x="213" y="284" type="curve"/>
+      <point x="213" y="490" type="line"/>
+      <point x="108" y="564" type="line"/>
+      <point x="44" y="590" type="line"/>
+      <point x="44" y="394" type="line" smooth="yes"/>
+      <point x="44" y="269"/>
+      <point x="208" y="129"/>
+    </contour>
+    <contour>
+      <point x="346" y="19" type="line"/>
+      <point x="460" y="-43" type="line"/>
+      <point x="506" y="-21" type="line"/>
+      <point x="506" y="490" type="line"/>
+      <point x="402" y="564" type="line"/>
+      <point x="346" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="407" y="275" type="curve"/>
+      <point x="475" y="149" type="line"/>
+      <point x="517" y="238"/>
+      <point x="607" y="319"/>
+      <point x="706" y="319" type="curve"/>
+      <point x="753" y="319" type="line"/>
+      <point x="782" y="449" type="line"/>
+      <point x="672" y="449" type="line" smooth="yes"/>
+      <point x="556" y="449"/>
+      <point x="471" y="388"/>
+    </contour>
+    <contour>
+      <point x="-57" y="613" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="718" y="538" type="line"/>
+      <point x="739" y="580" type="line"/>
+      <point x="682" y="655" type="line"/>
+      <point x="-36" y="655" type="line"/>
+    </contour>
+    <contour>
+      <point x="977" y="72" type="curve"/>
+      <point x="1044" y="72"/>
+      <point x="1097" y="97"/>
+      <point x="1136" y="143" type="curve"/>
+      <point x="1077" y="317" type="line"/>
+      <point x="1045" y="241"/>
+      <point x="940" y="179"/>
+      <point x="856" y="198" type="curve"/>
+      <point x="834" y="262"/>
+      <point x="876" y="334"/>
+      <point x="954" y="353" type="curve"/>
+      <point x="815" y="434" type="line"/>
+      <point x="745" y="404"/>
+      <point x="696" y="353"/>
+      <point x="696" y="288" type="curve"/>
+      <point x="696" y="223"/>
+      <point x="744" y="163"/>
+      <point x="807" y="124" type="curve"/>
+      <point x="855" y="93"/>
+      <point x="917" y="72"/>
+    </contour>
+    <contour>
+      <point x="762" y="346" type="line"/>
+      <point x="793" y="333" type="line"/>
+      <point x="1004" y="333" type="line"/>
+      <point x="1025" y="374" type="line"/>
+      <point x="973" y="449" type="line"/>
+      <point x="693" y="449" type="line"/>
+      <point x="669" y="346" type="line"/>
+    </contour>
+    <contour>
+      <point x="1062" y="19" type="line"/>
+      <point x="1176" y="-43" type="line"/>
+      <point x="1222" y="-21" type="line"/>
+      <point x="1222" y="490" type="line"/>
+      <point x="1118" y="564" type="line"/>
+      <point x="1062" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="529" y="613" type="line"/>
+      <point x="585" y="538" type="line"/>
+      <point x="1333" y="538" type="line"/>
+      <point x="1354" y="580" type="line"/>
+      <point x="1298" y="655" type="line"/>
+      <point x="550" y="655" type="line"/>
+    </contour>
+    <contour>
+      <point x="1136" y="660" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="1117" y="660" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1400" y="660" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="1132" y="473" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="1041" y="1" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:50:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

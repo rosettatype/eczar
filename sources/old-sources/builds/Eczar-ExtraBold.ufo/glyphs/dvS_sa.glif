@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSsa" format="1">
+  <advance width="663"/>
+  <unicode hex="0937"/>
+  <outline>
+    <contour>
+      <point x="350" y="104" type="curve"/>
+      <point x="439" y="104"/>
+      <point x="525" y="167"/>
+      <point x="569" y="301" type="curve"/>
+      <point x="421" y="410" type="line"/>
+      <point x="421" y="297"/>
+      <point x="326" y="257"/>
+      <point x="262" y="257" type="curve"/>
+      <point x="247" y="257"/>
+      <point x="234" y="259"/>
+      <point x="222" y="263" type="curve"/>
+      <point x="222" y="558" type="line"/>
+      <point x="148" y="598" type="line"/>
+      <point x="30" y="599" type="line"/>
+      <point x="30" y="378" type="line" smooth="yes"/>
+      <point x="30" y="237"/>
+      <point x="220" y="104"/>
+    </contour>
+    <contour>
+      <point x="126" y="616" type="line"/>
+      <point x="389" y="240" type="line"/>
+      <point x="455" y="271" type="line"/>
+      <point x="196" y="642" type="line"/>
+    </contour>
+    <contour>
+      <point x="407" y="23" type="line"/>
+      <point x="539" y="-46" type="line"/>
+      <point x="593" y="-19" type="line"/>
+      <point x="593" y="486" type="line"/>
+      <point x="473" y="568" type="line"/>
+      <point x="407" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="-65" y="621" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="703" y="538" type="line"/>
+      <point x="728" y="587" type="line"/>
+      <point x="663" y="670" type="line"/>
+      <point x="-40" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="670" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="373" y="670" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="773" y="670" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="488" y="475" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="383" y="0" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:52:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraShortE" format="1">
+  <advance width="0"/>
+  <unicode hex="0946"/>
+  <outline>
+    <contour>
+      <point x="-190" y="622" type="curve"/>
+      <point x="-109" y="622" type="line"/>
+      <point x="-117" y="1012"/>
+      <point x="-448" y="749"/>
+      <point x="-489" y="991" type="curve"/>
+      <point x="-563" y="981" type="line"/>
+      <point x="-540" y="604"/>
+      <point x="-200" y="840"/>
+    </contour>
+    <contour>
+      <point x="-152" y="472" type="move" name="_abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="-14" y="640" type="move" name="abvmBINDU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:16:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

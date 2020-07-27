@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asper.case" format="1">
+  <advance width="340"/>
+  <outline>
+    <contour>
+      <point x="140" y="414" type="curve"/>
+      <point x="165" y="450" type="line"/>
+      <point x="128" y="482"/>
+      <point x="112" y="505"/>
+      <point x="109" y="537" type="curve"/>
+      <point x="160" y="577" type="line"/>
+      <point x="154" y="615"/>
+      <point x="136" y="643"/>
+      <point x="100" y="660" type="curve"/>
+      <point x="54" y="649"/>
+      <point x="28" y="611"/>
+      <point x="28" y="571" type="curve"/>
+      <point x="28" y="513"/>
+      <point x="69" y="448"/>
+    </contour>
+    <contour>
+      <point x="117" y="343" type="move" name="_left"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvChYa" format="1">
+  <advance width="1456"/>
+  <outline>
+    <contour>
+      <point x="818" y="224" type="line"/>
+      <point x="914" y="135" type="line"/>
+      <point x="1082" y="138"/>
+      <point x="1159" y="197"/>
+      <point x="1159" y="271" type="curve"/>
+      <point x="1159" y="359"/>
+      <point x="1049" y="495"/>
+      <point x="898" y="495" type="curve"/>
+      <point x="631" y="495" type="line"/>
+      <point x="606" y="436" type="line"/>
+      <point x="671" y="333" type="line"/>
+      <point x="861" y="333" type="line" smooth="yes"/>
+      <point x="927" y="333"/>
+      <point x="984" y="336"/>
+      <point x="984" y="313" type="curve"/>
+      <point x="984" y="290"/>
+      <point x="924" y="281"/>
+      <point x="839" y="276" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1119" y="-7" type="curve"/>
+      <point x="1178" y="-7"/>
+      <point x="1211" y="12"/>
+      <point x="1263" y="56" type="curve"/>
+      <point x="1202" y="239" type="line"/>
+      <point x="1174" y="170"/>
+      <point x="1102" y="125"/>
+      <point x="1023" y="117" type="curve"/>
+      <point x="1009" y="140"/>
+      <point x="987" y="193"/>
+      <point x="983" y="219" type="curve"/>
+      <point x="818" y="224" type="line"/>
+      <point x="895" y="60"/>
+      <point x="1008" y="-7"/>
+    </contour>
+    <contour>
+      <point x="1200" y="-27" type="line"/>
+      <point x="1332" y="-96" type="line"/>
+      <point x="1386" y="-69" type="line"/>
+      <point x="1386" y="486" type="line"/>
+      <point x="1266" y="568" type="line"/>
+      <point x="1200" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="710" y="621" type="line"/>
+      <point x="775" y="538" type="line"/>
+      <point x="1496" y="538" type="line"/>
+      <point x="1521" y="587" type="line"/>
+      <point x="1456" y="670" type="line"/>
+      <point x="735" y="670" type="line"/>
+    </contour>
+    <component base="dvCh"/>
+    <contour>
+      <point x="1136" y="670" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="1166" y="670" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1586" y="670" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="1281" y="475" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="1176" y="-50" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:01:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

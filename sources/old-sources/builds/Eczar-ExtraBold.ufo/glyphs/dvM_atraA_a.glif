@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraAa" format="1">
+  <advance width="316"/>
+  <unicode hex="093E"/>
+  <outline>
+    <contour>
+      <point x="60" y="23" type="line"/>
+      <point x="192" y="-46" type="line"/>
+      <point x="246" y="-19" type="line"/>
+      <point x="246" y="486" type="line"/>
+      <point x="126" y="568" type="line"/>
+      <point x="60" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="-65" y="621" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="356" y="538" type="line"/>
+      <point x="381" y="587" type="line"/>
+      <point x="316" y="670" type="line"/>
+      <point x="-40" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="28" y="670" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="18" y="670" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="143" y="475" type="move" name="abvmTOP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:01:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDoubleDanda" format="1">
+  <advance width="760"/>
+  <unicode hex="0965"/>
+  <outline>
+    <component base="dvDanda"/>
+    <component base="dvDanda" xOffset="275"/>
+  </outline>
+</glyph>

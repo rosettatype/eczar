@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDdhVa" format="1">
+  <advance width="588"/>
+  <outline>
+    <contour>
+      <point x="269" y="32" type="curve"/>
+      <point x="345" y="48" type="line"/>
+      <point x="431" y="37" type="line"/>
+      <point x="494" y="62"/>
+      <point x="523" y="114"/>
+      <point x="523" y="158" type="curve"/>
+      <point x="523" y="219"/>
+      <point x="467" y="308"/>
+      <point x="382" y="308" type="curve"/>
+      <point x="319" y="308"/>
+      <point x="270" y="260"/>
+      <point x="270" y="201" type="curve"/>
+      <point x="270" y="177"/>
+      <point x="278" y="151"/>
+      <point x="294" y="127" type="curve"/>
+      <point x="373" y="74" type="line"/>
+      <point x="386" y="83" type="line"/>
+      <point x="361" y="117"/>
+      <point x="348" y="144"/>
+      <point x="348" y="174" type="curve"/>
+      <point x="348" y="222"/>
+      <point x="383" y="248"/>
+      <point x="416" y="248" type="curve"/>
+      <point x="445" y="248"/>
+      <point x="468" y="227"/>
+      <point x="468" y="193" type="curve"/>
+      <point x="468" y="135"/>
+      <point x="403" y="93"/>
+      <point x="314" y="93" type="curve"/>
+      <point x="275" y="93"/>
+      <point x="219" y="101"/>
+      <point x="182" y="123" type="curve"/>
+      <point x="145" y="156"/>
+      <point x="125" y="196"/>
+      <point x="125" y="239" type="curve"/>
+      <point x="125" y="308"/>
+      <point x="178" y="361"/>
+      <point x="287" y="361" type="curve"/>
+      <point x="451" y="361" type="line"/>
+      <point x="388" y="444" type="line"/>
+      <point x="277" y="444" type="line" smooth="yes"/>
+      <point x="119" y="444"/>
+      <point x="47" y="360"/>
+      <point x="47" y="275" type="curve"/>
+      <point x="47" y="177"/>
+      <point x="141" y="65"/>
+    </contour>
+    <contour>
+      <point x="288" y="-199" type="curve"/>
+      <point x="342" y="-199"/>
+      <point x="387" y="-172"/>
+      <point x="415" y="-129" type="curve"/>
+      <point x="385" y="-51" type="line"/>
+      <point x="363" y="-116"/>
+      <point x="251" y="-162"/>
+      <point x="193" y="-133" type="curve"/>
+      <point x="185" y="-122"/>
+      <point x="179" y="-106"/>
+      <point x="179" y="-87" type="curve"/>
+      <point x="179" y="-4"/>
+      <point x="291" y="45"/>
+      <point x="416" y="24" type="curve"/>
+      <point x="407" y="51" type="line"/>
+      <point x="245" y="71" type="line"/>
+      <point x="170" y="69"/>
+      <point x="113" y="6"/>
+      <point x="113" y="-56" type="curve"/>
+      <point x="113" y="-133"/>
+      <point x="203" y="-199"/>
+    </contour>
+    <contour>
+      <point x="381" y="-227" type="line"/>
+      <point x="435" y="-257" type="line"/>
+      <point x="454" y="-249" type="line"/>
+      <point x="454" y="84" type="line"/>
+      <point x="381" y="82" type="line"/>
+    </contour>
+    <contour>
+      <point x="-30" y="588" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="609" y="538" type="line"/>
+      <point x="618" y="558" type="line"/>
+      <point x="588" y="608" type="line"/>
+      <point x="-21" y="608" type="line"/>
+    </contour>
+    <contour>
+      <point x="373" y="372" type="line"/>
+      <point x="451" y="361" type="line"/>
+      <point x="451" y="500" type="line"/>
+      <point x="393" y="551" type="line"/>
+      <point x="373" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="413" y="630" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="398" y="630" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="588" y="630" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="423" y="468" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="359" y="-223" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:54:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

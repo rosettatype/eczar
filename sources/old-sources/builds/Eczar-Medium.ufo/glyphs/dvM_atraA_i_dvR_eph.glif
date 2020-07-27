@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraAi_dvReph" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-127" y="599" type="curve"/>
+      <point x="-154" y="566" type="line"/>
+      <point x="-80" y="587" type="line"/>
+      <point x="-103" y="628"/>
+      <point x="-116" y="667"/>
+      <point x="-116" y="706" type="curve"/>
+      <point x="-116" y="778"/>
+      <point x="-73" y="827"/>
+      <point x="-9" y="827" type="curve"/>
+      <point x="22" y="827"/>
+      <point x="50" y="816"/>
+      <point x="77" y="795" type="curve"/>
+      <point x="97" y="842" type="line"/>
+      <point x="67" y="892"/>
+      <point x="20" y="918"/>
+      <point x="-28" y="918" type="curve"/>
+      <point x="-96" y="918"/>
+      <point x="-167" y="865"/>
+      <point x="-167" y="770" type="curve"/>
+      <point x="-167" y="713"/>
+      <point x="-140" y="635"/>
+    </contour>
+    <component base="dvMatraAi"/>
+    <contour>
+      <point x="-148" y="470" type="move" name="_abvmTOP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAcute" format="1">
+  <advance width="0"/>
+  <unicode hex="0954"/>
+  <outline>
+    <contour>
+      <point x="-277" y="772" type="line"/>
+      <point x="-219" y="712" type="line"/>
+      <point x="-183" y="712" type="line"/>
+      <point x="-10" y="881" type="line"/>
+      <point x="-64" y="948" type="line"/>
+      <point x="-101" y="948" type="line"/>
+    </contour>
+    <contour>
+      <point x="-143" y="473" type="move" name="_abvmTOP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:51:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

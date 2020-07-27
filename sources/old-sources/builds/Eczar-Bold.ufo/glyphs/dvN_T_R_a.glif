@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNTRa" format="1">
+  <advance width="966"/>
+  <outline>
+    <contour>
+      <point x="172" y="161" type="curve"/>
+      <point x="238" y="192" type="line"/>
+      <point x="238" y="397" type="line"/>
+      <point x="171" y="439" type="line"/>
+      <point x="45" y="439" type="line"/>
+      <point x="8" y="384" type="line"/>
+      <point x="24" y="305"/>
+      <point x="95" y="203"/>
+    </contour>
+    <contour>
+      <point x="121" y="439" type="line"/>
+      <point x="152" y="303" type="line"/>
+      <point x="435" y="303" type="line"/>
+      <point x="459" y="342" type="line"/>
+      <point x="404" y="439" type="line"/>
+    </contour>
+    <contour>
+      <point x="-57" y="613" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="367" y="538" type="line"/>
+      <point x="388" y="580" type="line"/>
+      <point x="332" y="655" type="line"/>
+      <point x="-36" y="655" type="line"/>
+    </contour>
+    <component base="dvTRa" xOffset="326"/>
+    <contour>
+      <point x="804" y="660" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="786" y="660" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1068" y="660" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="801" y="473" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="709" y="1" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvTRa</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:51:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

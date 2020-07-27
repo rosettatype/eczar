@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grAcute.case" format="1">
+  <advance width="315"/>
+  <outline>
+    <contour>
+      <point x="-1" y="432" type="line"/>
+      <point x="52" y="411" type="line"/>
+      <point x="162" y="604" type="line"/>
+      <point x="160" y="632" type="line"/>
+      <point x="138" y="650"/>
+      <point x="94" y="668"/>
+      <point x="56" y="665" type="curve"/>
+    </contour>
+    <contour>
+      <point x="132" y="343" type="move" name="_left"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:15:38 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

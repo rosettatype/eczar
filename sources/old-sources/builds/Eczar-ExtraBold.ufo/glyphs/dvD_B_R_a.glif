@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDBRa" format="1">
+  <advance width="639"/>
+  <outline>
+    <contour>
+      <point x="239" y="-367" type="line"/>
+      <point x="362" y="-427" type="line"/>
+      <point x="541" y="-176" type="line"/>
+      <point x="471" y="-78" type="line" smooth="yes"/>
+    </contour>
+    <component base="dvDBa"/>
+    <contour>
+      <point x="409" y="670" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="399" y="670" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="739" y="670" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="446" y="475" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="484" y="-388" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:52:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

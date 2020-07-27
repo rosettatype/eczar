@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvShortA" format="1">
+  <advance width="898"/>
+  <unicode hex="0904"/>
+  <outline>
+    <component base="dvA"/>
+    <component base="dvMatraShortE" xOffset="882"/>
+    <contour>
+      <point x="888" y="670" type="move" name="abvmBINDU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:54:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

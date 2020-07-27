@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAnusvara.calt" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-91" y="713" type="curve"/>
+      <point x="-61" y="733"/>
+      <point x="-29" y="774"/>
+      <point x="-15" y="809" type="curve"/>
+      <point x="-34" y="834"/>
+      <point x="-75" y="871"/>
+      <point x="-110" y="885" type="curve"/>
+      <point x="-139" y="867"/>
+      <point x="-170" y="827"/>
+      <point x="-189" y="788" type="curve"/>
+      <point x="-169" y="760"/>
+      <point x="-122" y="725"/>
+    </contour>
+    <contour>
+      <point x="0" y="660" type="move" name="_abvmBINDU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:53:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

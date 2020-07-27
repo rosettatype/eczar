@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraAu" format="1">
+  <advance width="276"/>
+  <unicode hex="094C"/>
+  <outline>
+    <contour>
+      <point x="46" y="776" type="curve"/>
+      <point x="131" y="567" type="line"/>
+      <point x="171" y="587" type="line"/>
+      <point x="92" y="820" type="line" smooth="yes"/>
+      <point x="18" y="1036"/>
+      <point x="-112" y="1052"/>
+      <point x="-229" y="995" type="curve"/>
+      <point x="-183" y="888" type="line"/>
+      <point x="-63" y="937"/>
+      <point x="-7" y="907"/>
+    </contour>
+    <contour>
+      <point x="82" y="10" type="line"/>
+      <point x="159" y="-36" type="line"/>
+      <point x="191" y="-24" type="line"/>
+      <point x="191" y="497" type="line"/>
+      <point x="117" y="555" type="line"/>
+      <point x="82" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="-29" y="682" type="curve"/>
+      <point x="112" y="566" type="line"/>
+      <point x="147" y="585" type="line"/>
+      <point x="-6" y="739" type="line" smooth="yes"/>
+      <point x="-113" y="847"/>
+      <point x="-202" y="856"/>
+      <point x="-296" y="784" type="curve"/>
+      <point x="-240" y="688" type="line"/>
+      <point x="-153" y="743"/>
+      <point x="-97" y="740"/>
+    </contour>
+    <contour>
+      <point x="-39" y="596" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="302" y="538" type="line"/>
+      <point x="315" y="565" type="line"/>
+      <point x="277" y="624" type="line"/>
+      <point x="-26" y="624" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="625" type="move" name="abvmBINDU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

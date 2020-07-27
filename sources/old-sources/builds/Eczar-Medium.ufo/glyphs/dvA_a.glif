@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAa" format="1">
+  <advance width="1057"/>
+  <unicode hex="0906"/>
+  <outline>
+    <component base="dvA"/>
+    <component base="dvMatraAa" xOffset="781"/>
+    <contour>
+      <point x="784" y="640" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="778" y="640" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvMatraAa</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:53:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAvagraha" format="1">
+  <advance width="590"/>
+  <unicode hex="093D"/>
+  <outline>
+    <contour>
+      <point x="330" y="-23" type="curve"/>
+      <point x="437" y="-23"/>
+      <point x="509" y="51"/>
+      <point x="509" y="144" type="curve"/>
+      <point x="509" y="243"/>
+      <point x="427" y="305"/>
+      <point x="338" y="352" type="curve"/>
+      <point x="272" y="388"/>
+      <point x="211" y="409"/>
+      <point x="211" y="447" type="curve"/>
+      <point x="211" y="472"/>
+      <point x="238" y="484"/>
+      <point x="294" y="484" type="curve"/>
+      <point x="469" y="484" type="line"/>
+      <point x="488" y="518" type="line"/>
+      <point x="438" y="598" type="line"/>
+      <point x="275" y="598" type="line" smooth="yes"/>
+      <point x="153" y="598"/>
+      <point x="95" y="543"/>
+      <point x="95" y="472" type="curve"/>
+      <point x="95" y="386"/>
+      <point x="178" y="339"/>
+      <point x="270" y="286" type="curve"/>
+      <point x="345" y="244"/>
+      <point x="395" y="217"/>
+      <point x="395" y="165" type="curve"/>
+      <point x="395" y="117"/>
+      <point x="353" y="88"/>
+      <point x="305" y="88" type="curve"/>
+      <point x="250" y="88"/>
+      <point x="191" y="128"/>
+      <point x="150" y="243" type="curve"/>
+      <point x="72" y="195" type="line"/>
+      <point x="115" y="74"/>
+      <point x="209" y="-23"/>
+    </contour>
+    <contour>
+      <point x="303" y="650" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="320" y="650" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:16:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

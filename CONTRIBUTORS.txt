@@ -10,3 +10,4 @@
 # Name <email address>
 
 David Březina <david@rosettatype.com> @MrBrezina
+Rosalie Wagner <mail@rosaliewagner.com> @RosaWagner

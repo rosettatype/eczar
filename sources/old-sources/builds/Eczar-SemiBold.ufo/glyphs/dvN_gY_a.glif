@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNgYa" format="1">
+  <advance width="1304"/>
+  <outline>
+    <contour>
+      <point x="364" y="-58" type="curve"/>
+      <point x="486" y="-58"/>
+      <point x="561" y="22"/>
+      <point x="561" y="117" type="curve"/>
+      <point x="561" y="203"/>
+      <point x="498" y="281"/>
+      <point x="396" y="311" type="curve"/>
+      <point x="222" y="259" type="line"/>
+      <point x="206" y="273"/>
+      <point x="195" y="288"/>
+      <point x="195" y="305" type="curve"/>
+      <point x="195" y="337"/>
+      <point x="230" y="356"/>
+      <point x="279" y="356" type="curve"/>
+      <point x="513" y="356" type="line"/>
+      <point x="428" y="471" type="line"/>
+      <point x="251" y="471" type="line" smooth="yes"/>
+      <point x="136" y="471"/>
+      <point x="80" y="412"/>
+      <point x="80" y="349" type="curve"/>
+      <point x="80" y="265"/>
+      <point x="176" y="175"/>
+      <point x="304" y="139" type="curve"/>
+      <point x="450" y="191" type="line"/>
+      <point x="470" y="134"/>
+      <point x="415" y="62"/>
+      <point x="319" y="62" type="curve"/>
+      <point x="238" y="62"/>
+      <point x="159" y="111"/>
+      <point x="78" y="234" type="curve"/>
+      <point x="21" y="186" type="line"/>
+      <point x="137" y="16"/>
+      <point x="249" y="-58"/>
+    </contour>
+    <contour>
+      <point x="631" y="170" type="curve"/>
+      <point x="657" y="188"/>
+      <point x="687" y="226"/>
+      <point x="699" y="257" type="curve"/>
+      <point x="681" y="279"/>
+      <point x="645" y="313"/>
+      <point x="613" y="325" type="curve"/>
+      <point x="587" y="309"/>
+      <point x="559" y="273"/>
+      <point x="542" y="239" type="curve"/>
+      <point x="561" y="212"/>
+      <point x="602" y="181"/>
+    </contour>
+    <contour>
+      <point x="390" y="368" type="line"/>
+      <point x="512" y="356" type="line"/>
+      <point x="512" y="493" type="line"/>
+      <point x="423" y="560" type="line"/>
+      <point x="390" y="581" type="line"/>
+    </contour>
+    <contour>
+      <point x="-48" y="605" type="line"/>
+      <point x="-1" y="538" type="line"/>
+      <point x="749" y="538" type="line"/>
+      <point x="766" y="573" type="line"/>
+      <point x="718" y="639" type="line"/>
+      <point x="-31" y="639" type="line"/>
+    </contour>
+    <component base="dvYa.post" xOffset="655"/>
+    <contour>
+      <point x="1012" y="650" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="1040" y="650" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1379" y="650" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="1149" y="472" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="1072" y="-33" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:55:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y" format="1">
+  <advance width="503"/>
+  <unicode hex="0079"/>
+  <outline>
+    <contour>
+      <point x="53" y="-126" type="curve"/>
+      <point x="103" y="-217" type="line"/>
+      <point x="221" y="-146"/>
+      <point x="285" y="-53"/>
+      <point x="332" y="56" type="curve"/>
+      <point x="376" y="176"/>
+      <point x="428" y="336"/>
+      <point x="467" y="468" type="curve"/>
+      <point x="373" y="468" type="line"/>
+      <point x="349" y="346"/>
+      <point x="303" y="181"/>
+      <point x="261" y="67" type="curve"/>
+      <point x="242" y="67" type="line"/>
+      <point x="225" y="182" type="line"/>
+      <point x="129" y="468" type="line"/>
+      <point x="30" y="457" type="line"/>
+      <point x="186" y="27" type="line"/>
+      <point x="200" y="14"/>
+      <point x="222" y="2"/>
+      <point x="239" y="-4" type="curve"/>
+      <point x="187" y="-62"/>
+      <point x="124" y="-96"/>
+    </contour>
+    <contour>
+      <point x="-10" y="419" type="line"/>
+      <point x="111" y="412" type="line"/>
+      <point x="130" y="468" type="line"/>
+      <point x="-9" y="468" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="468" type="line"/>
+      <point x="108" y="397" type="line"/>
+      <point x="142" y="407"/>
+      <point x="175" y="418"/>
+      <point x="207" y="432" type="curve"/>
+      <point x="201" y="468" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="419" type="line"/>
+      <point x="423" y="412" type="line"/>
+      <point x="442" y="468" type="line"/>
+      <point x="303" y="468" type="line"/>
+    </contour>
+    <contour>
+      <point x="428" y="468" type="line"/>
+      <point x="414" y="397" type="line"/>
+      <point x="448" y="407"/>
+      <point x="481" y="418"/>
+      <point x="513" y="432" type="curve"/>
+      <point x="507" y="468" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="468" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:54:28 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>v</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

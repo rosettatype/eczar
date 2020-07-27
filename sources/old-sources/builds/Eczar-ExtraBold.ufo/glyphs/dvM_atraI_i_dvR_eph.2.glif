@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraIi_dvReph.2" format="1">
+  <advance width="316"/>
+  <outline>
+    <contour>
+      <point x="161" y="627" type="curve"/>
+      <point x="216" y="627" type="line"/>
+      <point x="180" y="675"/>
+      <point x="165" y="720"/>
+      <point x="165" y="758" type="curve"/>
+      <point x="165" y="828"/>
+      <point x="215" y="875"/>
+      <point x="275" y="875" type="curve"/>
+      <point x="302" y="875"/>
+      <point x="331" y="866"/>
+      <point x="358" y="845" type="curve"/>
+      <point x="383" y="931" type="line"/>
+      <point x="342" y="985"/>
+      <point x="284" y="1011"/>
+      <point x="228" y="1011" type="curve"/>
+      <point x="138" y="1011"/>
+      <point x="53" y="944"/>
+      <point x="53" y="825" type="curve"/>
+      <point x="53" y="749"/>
+      <point x="88" y="689"/>
+    </contour>
+    <component base="dvMatraIi.2"/>
+    <contour>
+      <point x="295" y="600" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="210" y="475" type="move" name="abvmTOP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:54:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

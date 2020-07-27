@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDa_dvMatraUu" format="1">
+  <advance width="573"/>
+  <outline>
+    <contour>
+      <point x="340" y="-2" type="curve"/>
+      <point x="378" y="-2"/>
+      <point x="421" y="9"/>
+      <point x="458" y="32" type="curve"/>
+      <point x="415" y="155" type="line"/>
+      <point x="375" y="102"/>
+      <point x="282" y="79"/>
+      <point x="208" y="107" type="curve"/>
+      <point x="169" y="134"/>
+      <point x="149" y="175"/>
+      <point x="149" y="216" type="curve"/>
+      <point x="149" y="266"/>
+      <point x="190" y="328"/>
+      <point x="286" y="328" type="curve"/>
+      <point x="449" y="328" type="line"/>
+      <point x="370" y="433" type="line"/>
+      <point x="260" y="433" type="line" smooth="yes"/>
+      <point x="107" y="433"/>
+      <point x="44" y="343"/>
+      <point x="44" y="255" type="curve"/>
+      <point x="44" y="110"/>
+      <point x="215" y="-2"/>
+    </contour>
+    <contour>
+      <point x="386" y="83" type="line"/>
+      <point x="445" y="-134" type="line"/>
+      <point x="529" y="-129" type="line"/>
+      <point x="447" y="123" type="line"/>
+    </contour>
+    <contour>
+      <point x="357" y="212" type="line"/>
+      <point x="391" y="24" type="line"/>
+      <point x="456" y="33" type="line"/>
+      <point x="491" y="54"/>
+      <point x="524" y="93"/>
+      <point x="536" y="123" type="curve"/>
+      <point x="435" y="246" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="370" type="line"/>
+      <point x="450" y="329" type="line"/>
+      <point x="450" y="489" type="line"/>
+      <point x="376" y="548" type="line"/>
+      <point x="344" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="-39" y="596" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="599" y="538" type="line"/>
+      <point x="612" y="565" type="line"/>
+      <point x="573" y="624" type="line"/>
+      <point x="-26" y="624" type="line"/>
+    </contour>
+    <component base="dvMatraUu" xOffset="576" yOffset="-73"/>
+    <contour>
+      <point x="373" y="640" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="389" y="640" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="594" y="640" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="400" y="470" type="move" name="abvmTOP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:53:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

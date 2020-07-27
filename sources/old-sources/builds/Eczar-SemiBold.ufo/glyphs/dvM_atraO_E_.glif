@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraOE" format="1">
+  <advance width="0"/>
+  <unicode hex="093A"/>
+  <outline>
+    <contour>
+      <point x="-205" y="593" type="line"/>
+      <point x="-140" y="559" type="line"/>
+      <point x="-112" y="572" type="line"/>
+      <point x="-112" y="815" type="line"/>
+      <point x="-205" y="815" type="line"/>
+    </contour>
+    <contour>
+      <point x="-154" y="472" type="move" name="_abvmTOP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:16:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

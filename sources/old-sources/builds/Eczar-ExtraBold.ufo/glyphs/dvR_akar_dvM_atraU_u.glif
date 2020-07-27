@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvRakar_dvMatraUu" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="dvRakar.small"/>
+    <component base="dvMatraUu.small" xOffset="246" yOffset="-280"/>
+    <contour>
+      <point x="1" y="0" type="move" name="_blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:54:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

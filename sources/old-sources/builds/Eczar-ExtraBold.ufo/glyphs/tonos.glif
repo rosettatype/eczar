@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="1">
+  <advance width="265"/>
+  <unicode hex="0384"/>
+  <outline>
+    <contour>
+      <point x="77" y="557" type="line"/>
+      <point x="146" y="531" type="line"/>
+      <point x="257" y="732" type="line"/>
+      <point x="253" y="770" type="line"/>
+      <point x="229" y="789"/>
+      <point x="170" y="811"/>
+      <point x="126" y="803" type="curve"/>
+    </contour>
+    <contour>
+      <point x="150" y="474" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:56:40 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

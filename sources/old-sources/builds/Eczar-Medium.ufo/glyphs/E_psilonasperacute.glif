@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilonasperacute" format="1">
+  <advance width="590"/>
+  <unicode hex="1F1D"/>
+  <note>
+    
+  </note>
+  <outline>
+    <component base="asperacute.case" xOffset="-233"/>
+    <component base="Epsilon"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:53:36 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

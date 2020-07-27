@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSMa" format="1">
+  <advance width="1148"/>
+  <outline>
+    <contour>
+      <point x="568" y="187" type="curve"/>
+      <point x="617" y="250" type="line"/>
+      <point x="563" y="335"/>
+      <point x="523" y="355"/>
+      <point x="405" y="355" type="curve"/>
+      <point x="203" y="355" type="line"/>
+      <point x="208" y="223" type="line"/>
+      <point x="445" y="223" type="line" smooth="yes"/>
+      <point x="504" y="223"/>
+      <point x="526" y="217"/>
+    </contour>
+    <component base="dvRa" xOffset="-8"/>
+    <component base="dvMa" xOffset="464"/>
+    <contour>
+      <point x="832" y="660" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="850" y="660" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1251" y="660" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="983" y="473" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="892" y="1" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvMa</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:50:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDBhYa" format="1">
+  <advance width="1401"/>
+  <outline>
+    <component base="dvDBha"/>
+    <component base="dvYa.post" xOffset="783"/>
+    <contour>
+      <point x="1122" y="640" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="1148" y="640" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1448" y="640" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="1256" y="470" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="1192" y="-24" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:53:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

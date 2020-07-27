@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvChRYa" format="1">
+  <advance width="1456"/>
+  <outline>
+    <component base="dvChYa"/>
+    <component base="dvRakar" xOffset="398" yOffset="22"/>
+    <contour>
+      <point x="1136" y="670" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="1166" y="670" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1586" y="670" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="1281" y="475" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="1176" y="-50" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvRakar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:54:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

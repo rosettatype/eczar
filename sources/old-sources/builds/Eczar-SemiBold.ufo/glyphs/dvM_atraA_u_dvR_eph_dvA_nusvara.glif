@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraAu_dvReph_dvAnusvara" format="1">
+  <advance width="290"/>
+  <outline>
+    <component base="dvMatraAa"/>
+    <component base="dvMatraAi_dvReph_dvAnusvara" xOffset="295"/>
+    <contour>
+      <point x="283" y="594" type="move" name="abvmBINDU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:53:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

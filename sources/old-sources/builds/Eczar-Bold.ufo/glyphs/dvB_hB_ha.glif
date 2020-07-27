@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvBhBha" format="1">
+  <advance width="1095"/>
+  <outline>
+    <contour>
+      <point x="181" y="239" type="line"/>
+      <point x="334" y="219" type="line"/>
+      <point x="334" y="448" type="line"/>
+      <point x="334" y="555"/>
+      <point x="220" y="678"/>
+      <point x="101" y="678" type="curve"/>
+      <point x="19" y="678"/>
+      <point x="-33" y="618"/>
+      <point x="-33" y="555" type="curve"/>
+      <point x="-33" y="506"/>
+      <point x="-2" y="456"/>
+      <point x="82" y="399" type="curve"/>
+      <point x="139" y="446" type="line"/>
+      <point x="76" y="494"/>
+      <point x="102" y="576"/>
+      <point x="163" y="566" type="curve"/>
+      <point x="176" y="550"/>
+      <point x="180" y="523"/>
+      <point x="180" y="495" type="curve"/>
+    </contour>
+    <contour>
+      <point x="276" y="80" type="curve"/>
+      <point x="336" y="113" type="line"/>
+      <point x="336" y="298" type="line"/>
+      <point x="269" y="338" type="line"/>
+      <point x="102" y="338" type="line"/>
+      <point x="68" y="285" type="line"/>
+      <point x="93" y="206"/>
+      <point x="199" y="106"/>
+    </contour>
+    <contour>
+      <point x="214" y="338" type="line"/>
+      <point x="245" y="202" type="line"/>
+      <point x="572" y="202" type="line"/>
+      <point x="527" y="338" type="line"/>
+    </contour>
+    <component base="dvBha" xOffset="401"/>
+    <contour>
+      <point x="934" y="660" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="915" y="660" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1197" y="660" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="930" y="473" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="839" y="1" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvBha</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:50:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

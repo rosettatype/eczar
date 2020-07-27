@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDdda" format="1">
+  <advance width="630"/>
+  <unicode hex="097E"/>
+  <outline>
+    <contour>
+      <point x="73" y="-159" type="line"/>
+      <point x="138" y="-242" type="line"/>
+      <point x="601" y="-242" type="line"/>
+      <point x="626" y="-193" type="line"/>
+      <point x="561" y="-110" type="line"/>
+      <point x="98" y="-110" type="line"/>
+    </contour>
+    <component base="dvDda"/>
+    <contour>
+      <point x="440" y="670" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="420" y="670" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="740" y="670" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="458" y="475" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="290" y="-262" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:52:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

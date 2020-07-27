@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="898"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="813" y="-20" type="curve"/>
+      <point x="856" y="3"/>
+      <point x="885" y="37"/>
+      <point x="898" y="82" type="curve"/>
+      <point x="886" y="127"/>
+      <point x="846" y="162"/>
+      <point x="798" y="183" type="curve"/>
+      <point x="750" y="158"/>
+      <point x="716" y="119"/>
+      <point x="708" y="66" type="curve"/>
+      <point x="730" y="24"/>
+      <point x="765" y="-4"/>
+    </contour>
+    <contour>
+      <point x="201" y="-20" type="curve"/>
+      <point x="244" y="3"/>
+      <point x="273" y="37"/>
+      <point x="286" y="82" type="curve"/>
+      <point x="274" y="127"/>
+      <point x="234" y="162"/>
+      <point x="186" y="183" type="curve"/>
+      <point x="138" y="158"/>
+      <point x="104" y="119"/>
+      <point x="96" y="66" type="curve"/>
+      <point x="118" y="24"/>
+      <point x="153" y="-4"/>
+    </contour>
+    <contour>
+      <point x="507" y="-20" type="curve"/>
+      <point x="550" y="3"/>
+      <point x="579" y="37"/>
+      <point x="592" y="82" type="curve"/>
+      <point x="580" y="127"/>
+      <point x="540" y="162"/>
+      <point x="492" y="183" type="curve"/>
+      <point x="444" y="158"/>
+      <point x="410" y="119"/>
+      <point x="402" y="66" type="curve"/>
+      <point x="424" y="24"/>
+      <point x="459" y="-4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:50:53 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>period</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

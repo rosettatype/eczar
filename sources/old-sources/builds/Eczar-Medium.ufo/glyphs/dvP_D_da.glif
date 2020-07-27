@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvPDda" format="1">
+  <advance width="861"/>
+  <outline>
+    <contour>
+      <point x="623" y="-50" type="curve"/>
+      <point x="728" y="-50"/>
+      <point x="814" y="16"/>
+      <point x="814" y="113" type="curve"/>
+      <point x="814" y="198"/>
+      <point x="747" y="274"/>
+      <point x="653" y="299" type="curve"/>
+      <point x="478" y="249" type="line"/>
+      <point x="455" y="267"/>
+      <point x="445" y="288"/>
+      <point x="445" y="307" type="curve"/>
+      <point x="445" y="339"/>
+      <point x="474" y="364"/>
+      <point x="533" y="364" type="curve"/>
+      <point x="760" y="364" type="line"/>
+      <point x="680" y="466" type="line"/>
+      <point x="520" y="466" type="line" smooth="yes"/>
+      <point x="401" y="466"/>
+      <point x="351" y="407"/>
+      <point x="351" y="346" type="curve"/>
+      <point x="351" y="263"/>
+      <point x="443" y="170"/>
+      <point x="558" y="146" type="curve"/>
+      <point x="714" y="197" type="line"/>
+      <point x="747" y="132"/>
+      <point x="690" y="49"/>
+      <point x="583" y="49" type="curve"/>
+      <point x="510" y="49"/>
+      <point x="437" y="86"/>
+      <point x="375" y="154" type="curve"/>
+      <point x="332" y="107" type="line"/>
+      <point x="425" y="-1"/>
+      <point x="534" y="-50"/>
+    </contour>
+    <contour>
+      <point x="299" y="155" type="curve"/>
+      <point x="353" y="155"/>
+      <point x="411" y="184"/>
+      <point x="455" y="250" type="curve"/>
+      <point x="392" y="344" type="line"/>
+      <point x="365" y="282"/>
+      <point x="307" y="247"/>
+      <point x="253" y="247" type="curve"/>
+      <point x="219" y="247"/>
+      <point x="188" y="261"/>
+      <point x="170" y="291" type="curve"/>
+      <point x="170" y="497" type="line"/>
+      <point x="96" y="555" type="line"/>
+      <point x="58" y="571" type="line"/>
+      <point x="58" y="391" type="line" smooth="yes"/>
+      <point x="58" y="270"/>
+      <point x="192" y="155"/>
+    </contour>
+    <contour>
+      <point x="-39" y="596" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="446" y="538" type="line"/>
+      <point x="459" y="565" type="line"/>
+      <point x="420" y="624" type="line"/>
+      <point x="-26" y="624" type="line"/>
+    </contour>
+    <contour>
+      <point x="220" y="596" type="line"/>
+      <point x="259" y="538" type="line"/>
+      <point x="887" y="538" type="line"/>
+      <point x="900" y="565" type="line"/>
+      <point x="861" y="624" type="line"/>
+      <point x="233" y="624" type="line"/>
+    </contour>
+    <contour>
+      <point x="660" y="377" type="line"/>
+      <point x="760" y="364" type="line"/>
+      <point x="760" y="497" type="line"/>
+      <point x="687" y="555" type="line"/>
+      <point x="660" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="717" y="640" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="701" y="640" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="909" y="640" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="716" y="470" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="576" y="-50" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:53:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

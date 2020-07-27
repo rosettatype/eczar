@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNSha" format="1">
+  <advance width="1198"/>
+  <outline>
+    <contour>
+      <point x="190" y="166" type="curve"/>
+      <point x="262" y="202" type="line"/>
+      <point x="262" y="428" type="line"/>
+      <point x="195" y="470" type="line"/>
+      <point x="43" y="470" type="line"/>
+      <point x="7" y="412" type="line"/>
+      <point x="20" y="326"/>
+      <point x="101" y="210"/>
+    </contour>
+    <contour>
+      <point x="139" y="470" type="line"/>
+      <point x="170" y="314" type="line"/>
+      <point x="544" y="314" type="line"/>
+      <point x="561" y="359" type="line"/>
+      <point x="497" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="-65" y="621" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="380" y="538" type="line"/>
+      <point x="405" y="587" type="line"/>
+      <point x="340" y="670" type="line"/>
+      <point x="-40" y="670" type="line"/>
+    </contour>
+    <component base="dvSha" xOffset="341"/>
+    <contour>
+      <point x="868" y="670" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="858" y="670" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1328" y="670" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="1023" y="475" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="918" y="-95" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:01:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

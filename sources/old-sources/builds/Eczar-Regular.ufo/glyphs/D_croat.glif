@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat" format="1">
+  <advance width="655"/>
+  <unicode hex="0110"/>
+  <outline>
+    <contour>
+      <point x="17" y="315" type="line"/>
+      <point x="23" y="286" type="line"/>
+      <point x="325" y="286" type="line"/>
+      <point x="368" y="329" type="line"/>
+      <point x="362" y="358" type="line"/>
+      <point x="60" y="358" type="line"/>
+    </contour>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:54:28 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>D</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

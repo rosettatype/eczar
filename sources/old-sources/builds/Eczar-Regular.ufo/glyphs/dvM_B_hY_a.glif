@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMBhYa" format="1">
+  <advance width="1291"/>
+  <outline>
+    <contour>
+      <point x="174" y="105" type="curve"/>
+      <point x="222" y="125" type="line"/>
+      <point x="222" y="263" type="line"/>
+      <point x="155" y="298" type="line"/>
+      <point x="64" y="298" type="line"/>
+      <point x="37" y="259" type="line"/>
+      <point x="61" y="204"/>
+      <point x="127" y="134"/>
+    </contour>
+    <contour>
+      <point x="122" y="298" type="line"/>
+      <point x="153" y="222" type="line"/>
+      <point x="472" y="222" type="line"/>
+      <point x="450" y="298" type="line"/>
+    </contour>
+    <contour>
+      <point x="139" y="262" type="line"/>
+      <point x="217" y="231" type="line"/>
+      <point x="210" y="500" type="line"/>
+      <point x="152" y="551" type="line"/>
+      <point x="126" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="-30" y="588" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="339" y="538" type="line"/>
+      <point x="348" y="558" type="line"/>
+      <point x="318" y="608" type="line"/>
+      <point x="-21" y="608" type="line"/>
+    </contour>
+    <component base="dvBh" xOffset="317"/>
+    <component base="dvYa" xOffset="704"/>
+    <contour>
+      <point x="1026" y="630" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="1051" y="630" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1311" y="630" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="1156" y="468" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="1106" y="5" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvBh</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:54:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

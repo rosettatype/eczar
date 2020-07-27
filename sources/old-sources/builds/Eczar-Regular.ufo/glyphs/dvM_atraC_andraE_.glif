@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraCandraE" format="1">
+  <advance width="0"/>
+  <unicode hex="0945"/>
+  <outline>
+    <contour>
+      <point x="-153" y="678" type="curve"/>
+      <point x="-82" y="678"/>
+      <point x="-24" y="725"/>
+      <point x="-5" y="818" type="curve"/>
+      <point x="-77" y="850" type="line"/>
+      <point x="-94" y="776"/>
+      <point x="-137" y="747"/>
+      <point x="-182" y="747" type="curve"/>
+      <point x="-229" y="747"/>
+      <point x="-282" y="779"/>
+      <point x="-325" y="853" type="curve"/>
+      <point x="-359" y="820" type="line"/>
+      <point x="-303" y="725"/>
+      <point x="-223" y="678"/>
+    </contour>
+    <contour>
+      <point x="-152" y="650" type="move" name="_abvmCANDRABINDU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:11:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

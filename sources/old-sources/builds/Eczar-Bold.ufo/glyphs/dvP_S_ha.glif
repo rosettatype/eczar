@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvPSha" format="1">
+  <advance width="1089"/>
+  <outline>
+    <contour>
+      <point x="329" y="89" type="curve"/>
+      <point x="374" y="89"/>
+      <point x="415" y="105"/>
+      <point x="450" y="134" type="curve"/>
+      <point x="365" y="260" type="line"/>
+      <point x="343" y="234"/>
+      <point x="305" y="220"/>
+      <point x="268" y="220" type="curve"/>
+      <point x="245" y="220"/>
+      <point x="222" y="227"/>
+      <point x="208" y="242" type="curve"/>
+      <point x="208" y="490" type="line"/>
+      <point x="103" y="564" type="line"/>
+      <point x="39" y="590" type="line"/>
+      <point x="39" y="352" type="line" smooth="yes"/>
+      <point x="39" y="226"/>
+      <point x="198" y="89"/>
+    </contour>
+    <contour>
+      <point x="-57" y="613" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="464" y="538" type="line"/>
+      <point x="485" y="580" type="line"/>
+      <point x="428" y="655" type="line"/>
+      <point x="-36" y="655" type="line"/>
+    </contour>
+    <component base="dvSha" xOffset="261"/>
+    <contour>
+      <point x="775" y="660" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="765" y="660" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1191" y="660" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="924" y="473" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="833" y="-82" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvSha</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:50:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

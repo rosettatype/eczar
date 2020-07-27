@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDd" format="1">
+  <advance width="602"/>
+  <outline>
+    <component base="dvDda"/>
+    <component base="dvHalant" xOffset="480" yOffset="-38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-11-22 14:22:04 +0000</string>
+    </dict>
+  </lib>
+</glyph>

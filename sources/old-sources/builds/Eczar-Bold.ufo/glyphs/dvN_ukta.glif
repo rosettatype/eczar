@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNukta" format="1">
+  <advance width="0"/>
+  <unicode hex="093C"/>
+  <outline>
+    <contour>
+      <point x="18" y="-206" type="curve"/>
+      <point x="51" y="-184"/>
+      <point x="85" y="-141"/>
+      <point x="100" y="-103" type="curve"/>
+      <point x="79" y="-76"/>
+      <point x="35" y="-36"/>
+      <point x="-2" y="-22" type="curve"/>
+      <point x="-34" y="-41"/>
+      <point x="-67" y="-84"/>
+      <point x="-87" y="-125" type="curve"/>
+      <point x="-65" y="-156"/>
+      <point x="-15" y="-193"/>
+    </contour>
+    <contour>
+      <point x="-1" y="-10" type="move" name="_blwmNUKTA"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:54:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

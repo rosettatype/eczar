@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lenisacute.case" format="1">
+  <advance width="265"/>
+  <outline>
+    <contour>
+      <point x="71" y="429" type="line"/>
+      <point x="140" y="403" type="line"/>
+      <point x="251" y="604" type="line"/>
+      <point x="247" y="642" type="line"/>
+      <point x="223" y="661"/>
+      <point x="164" y="683"/>
+      <point x="120" y="675" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-118" y="457" type="curve"/>
+      <point x="-78" y="403" type="line"/>
+      <point x="2" y="437"/>
+      <point x="58" y="508"/>
+      <point x="58" y="576" type="curve"/>
+      <point x="58" y="616"/>
+      <point x="35" y="662"/>
+      <point x="-29" y="678" type="curve"/>
+      <point x="-69" y="662"/>
+      <point x="-103" y="622"/>
+      <point x="-110" y="574" type="curve"/>
+      <point x="-59" y="535" type="line"/>
+      <point x="-60" y="509"/>
+      <point x="-81" y="486"/>
+    </contour>
+    <contour>
+      <point x="259" y="343" type="move" name="_left"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 00:56:40 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

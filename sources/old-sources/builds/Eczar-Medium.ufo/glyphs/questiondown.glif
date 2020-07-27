@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="602"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <component base="question" xScale="-1" yScale="-1" xOffset="593" yOffset="470"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:53:36 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>question</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>question</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

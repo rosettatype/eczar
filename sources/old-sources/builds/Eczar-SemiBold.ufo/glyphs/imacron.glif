@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="1">
+  <advance width="332"/>
+  <unicode hex="012B"/>
+  <outline>
+    <contour>
+      <point x="9" y="637" type="curve"/>
+      <point x="15" y="573" type="line"/>
+      <point x="273" y="573" type="line"/>
+      <point x="320" y="615" type="line"/>
+      <point x="315" y="662" type="line"/>
+      <point x="122" y="662" type="line"/>
+      <point x="91" y="662"/>
+      <point x="48" y="657"/>
+    </contour>
+    <component base="dotlessi" xOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:55:12 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

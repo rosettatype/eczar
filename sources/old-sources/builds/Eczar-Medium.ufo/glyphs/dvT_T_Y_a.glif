@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvTTYa" format="1">
+  <advance width="987"/>
+  <outline>
+    <contour>
+      <point x="261" y="-41" type="curve"/>
+      <point x="313" y="7" type="line"/>
+      <point x="217" y="102"/>
+      <point x="186" y="158"/>
+      <point x="186" y="208" type="curve"/>
+      <point x="186" y="278"/>
+      <point x="248" y="314"/>
+      <point x="314" y="314" type="curve"/>
+      <point x="356" y="314"/>
+      <point x="405" y="300"/>
+      <point x="451" y="265" type="curve"/>
+      <point x="483" y="360" type="line"/>
+      <point x="420" y="401"/>
+      <point x="362" y="421"/>
+      <point x="294" y="421" type="curve"/>
+      <point x="156" y="421"/>
+      <point x="80" y="340"/>
+      <point x="80" y="247" type="curve"/>
+      <point x="80" y="159"/>
+      <point x="149" y="66"/>
+    </contour>
+    <contour>
+      <point x="-20" y="393" type="line"/>
+      <point x="19" y="335" type="line"/>
+      <point x="316" y="336" type="line"/>
+      <point x="329" y="363" type="line"/>
+      <point x="290" y="421" type="line"/>
+      <point x="-7" y="420" type="line"/>
+    </contour>
+    <contour>
+      <point x="-39" y="596" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="473" y="538" type="line"/>
+      <point x="486" y="565" type="line"/>
+      <point x="447" y="624" type="line"/>
+      <point x="-26" y="624" type="line"/>
+    </contour>
+    <component base="dvYa" xOffset="376"/>
+    <contour>
+      <point x="708" y="640" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="734" y="640" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1034" y="640" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="842" y="470" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="778" y="4" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvYa</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvUUE" format="1">
+  <advance width="820"/>
+  <unicode hex="0977"/>
+  <outline>
+    <component base="dvA"/>
+    <component base="dvMatraUUE" xOffset="771"/>
+    <contour>
+      <point x="668" y="650" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="650" y="650" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:53:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

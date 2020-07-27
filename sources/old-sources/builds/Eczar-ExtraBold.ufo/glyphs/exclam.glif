@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="1">
+  <advance width="366"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="66" y="717" type="curve"/>
+      <point x="114" y="266" type="line"/>
+      <point x="251" y="266" type="line"/>
+      <point x="301" y="715" type="line"/>
+      <point x="242" y="742"/>
+      <point x="132" y="740"/>
+    </contour>
+    <contour>
+      <point x="196" y="-20" type="curve"/>
+      <point x="243" y="4"/>
+      <point x="274" y="42"/>
+      <point x="289" y="90" type="curve"/>
+      <point x="274" y="139"/>
+      <point x="230" y="179"/>
+      <point x="179" y="202" type="curve"/>
+      <point x="127" y="173"/>
+      <point x="89" y="132"/>
+      <point x="81" y="73" type="curve"/>
+      <point x="105" y="27"/>
+      <point x="143" y="-3"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:52:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

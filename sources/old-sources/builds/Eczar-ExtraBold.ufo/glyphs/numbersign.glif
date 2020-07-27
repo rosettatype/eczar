@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="621"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="321" y="0" type="line"/>
+      <point x="420" y="-12" type="line"/>
+      <point x="501" y="519" type="line"/>
+      <point x="402" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="212" type="line"/>
+      <point x="52" y="117" type="line"/>
+      <point x="540" y="117" type="line"/>
+      <point x="540" y="212" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="224" y="-12" type="line"/>
+      <point x="305" y="519" type="line"/>
+      <point x="206" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="407" type="line"/>
+      <point x="81" y="313" type="line"/>
+      <point x="569" y="313" type="line"/>
+      <point x="569" y="407" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:52:46 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>minus</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>minus</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

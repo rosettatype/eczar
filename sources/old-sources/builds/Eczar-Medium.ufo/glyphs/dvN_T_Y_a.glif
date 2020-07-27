@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvNTYa" format="1">
+  <advance width="1230"/>
+  <outline>
+    <component base="dvN"/>
+    <component base="dvTYa" xOffset="279"/>
+    <contour>
+      <point x="952" y="640" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="978" y="640" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1278" y="640" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="1085" y="470" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="1022" y="4" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvTYa</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:53:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

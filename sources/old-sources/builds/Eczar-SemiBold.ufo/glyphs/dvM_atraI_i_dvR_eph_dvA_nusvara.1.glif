@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraIi_dvReph_dvAnusvara.1" format="1">
+  <advance width="290"/>
+  <outline>
+    <contour>
+      <point x="255" y="675" type="curve"/>
+      <point x="279" y="691"/>
+      <point x="305" y="725"/>
+      <point x="316" y="753" type="curve"/>
+      <point x="301" y="773"/>
+      <point x="268" y="803"/>
+      <point x="239" y="814" type="curve"/>
+      <point x="214" y="800"/>
+      <point x="190" y="767"/>
+      <point x="175" y="736" type="curve"/>
+      <point x="192" y="713"/>
+      <point x="230" y="685"/>
+    </contour>
+    <component base="dvMatraIi_dvReph.1"/>
+    <contour>
+      <point x="262" y="604" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="192" y="472" type="move" name="abvmTOP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-11 15:53:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMatraU" format="1">
+  <advance width="0"/>
+  <unicode hex="0941"/>
+  <outline>
+    <contour>
+      <point x="-162" y="-289" type="curve"/>
+      <point x="-78" y="-289"/>
+      <point x="-12" y="-233"/>
+      <point x="-12" y="-152" type="curve"/>
+      <point x="-12" y="-67"/>
+      <point x="-83" y="16"/>
+      <point x="-171" y="16" type="curve"/>
+      <point x="-219" y="16"/>
+      <point x="-265" y="-9"/>
+      <point x="-294" y="-56" type="curve"/>
+      <point x="-222" y="-131" type="line"/>
+      <point x="-139" y="-49" type="line"/>
+      <point x="-109" y="-64"/>
+      <point x="-96" y="-88"/>
+      <point x="-96" y="-114" type="curve"/>
+      <point x="-96" y="-155"/>
+      <point x="-132" y="-199"/>
+      <point x="-196" y="-199" type="curve"/>
+      <point x="-277" y="-199"/>
+      <point x="-352" y="-131"/>
+      <point x="-447" y="-27" type="curve"/>
+      <point x="-493" y="-70" type="line"/>
+      <point x="-385" y="-199"/>
+      <point x="-270" y="-289"/>
+    </contour>
+    <contour>
+      <point x="-231" y="0" type="move" name="_blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:07:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

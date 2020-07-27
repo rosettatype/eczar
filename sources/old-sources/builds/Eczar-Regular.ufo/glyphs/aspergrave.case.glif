@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aspergrave.case" format="1">
+  <advance width="365"/>
+  <outline>
+    <contour>
+      <point x="19" y="603" type="line"/>
+      <point x="129" y="418" type="line"/>
+      <point x="164" y="435" type="line"/>
+      <point x="100" y="654" type="line"/>
+      <point x="68" y="653"/>
+      <point x="40" y="639"/>
+      <point x="19" y="621" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-33" y="418" type="curve"/>
+      <point x="-13" y="447" type="line"/>
+      <point x="-50" y="481"/>
+      <point x="-65" y="503"/>
+      <point x="-69" y="538" type="curve"/>
+      <point x="-17" y="578" type="line"/>
+      <point x="-23" y="613"/>
+      <point x="-36" y="637"/>
+      <point x="-71" y="654" type="curve"/>
+      <point x="-110" y="645"/>
+      <point x="-137" y="609"/>
+      <point x="-137" y="569" type="curve"/>
+      <point x="-137" y="515"/>
+      <point x="-101" y="452"/>
+    </contour>
+    <contour>
+      <point x="78" y="343" type="move" name="_left"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 01:11:21 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <integer>1</integer>
+        <real>0.8</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

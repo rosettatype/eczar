@@ -1,0 +1,244 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Devanagari shaping test</title>
+    <style>
+    @font-face {
+    	font-family: 'Eczar';
+    	src: url('Eczar-Regular.otf?xp');
+    	font-weight: normal;
+    	font-style: normal;
+    }
+    
+    body {
+      font-family: "Eczar";
+      font-weight: normal;
+      font-style: normal;
+    }
+    
+    #wrapper {
+      padding: 20px;
+    }
+    
+    p {
+      margin: 0;
+      margin-bottom: 1em;
+    }
+    h1 {      
+      font-size: 72px;
+      padding-bottom: 1em;
+      margin-bottom: 1em;
+      color: rgb(205,21,43);
+      border-bottom: 1px rgb(205,21,43) solid;
+      font-style: normal;
+    }
+    h2 {      
+      font-size: 40px;
+      margin-bottom: 1em;
+      color: #666;
+      font-style: normal;
+    }
+    .sample {
+      font-size: 96px;
+      line-height: 80px;
+      font-style: normal;
+    }
+    [contenteditable="true"] { padding: 10px; outline: 2px dashed #CCC; }
+    [contenteditable="true"]:hover { outline: 2px dashed #0090D2; }
+    
+    .tnum {
+      -webkit-font-feature-settings: "tnum" 1; /* No variation */
+         -moz-font-feature-settings: "tnum=1"; /* Firefox 4.0 to 14.0 */
+         -moz-font-feature-settings: "tnum"; /* Firefox 15.0 onwards */
+         -moz-font-feature-settings: "tnum" 1; /* Firefox 15.0 onwards explicitly set feature values */
+              font-feature-settings: "tnum"; /* No variation */
+  	}
+    .ss01 {
+      -webkit-font-feature-settings: "ss01" 1, "ss14" 1; /* No variation */
+         -moz-font-feature-settings: "ss01=1,ss14=1"; /* Firefox 4.0 to 14.0 */
+         -moz-font-feature-settings: "ss01", "ss14"; /* Firefox 15.0 onwards */
+         -moz-font-feature-settings: "ss01" 1, "ss14" 1; /* Firefox 15.0 onwards explicitly set feature values */
+              font-feature-settings: "ss01", "ss14"; /* No variation */
+  	}
+  	.ss02 { 
+      -webkit-font-feature-settings: "ss02" 1, "ss14" 1; /* No variation */
+         -moz-font-feature-settings: "ss02=1,ss14=1"; /* Firefox 4.0 to 14.0 */
+         -moz-font-feature-settings: "ss02", "ss14"; /* Firefox 15.0 onwards */
+         -moz-font-feature-settings: "ss02" 1, "ss14" 1; /* Firefox 15.0 onwards explicitly set feature values */
+              font-feature-settings: "ss02", "ss14"; /* No variation */
+  	}
+    .ss03 {
+      -webkit-font-feature-settings: "ss03" 1; /* No variation */
+         -moz-font-feature-settings: "ss03=1"; /* Firefox 4.0 to 14.0 */
+         -moz-font-feature-settings: "ss03"; /* Firefox 15.0 onwards */
+         -moz-font-feature-settings: "ss03" 1; /* Firefox 15.0 onwards explicitly set feature values */
+              font-feature-settings: "ss03"; /* No variation */
+  	}
+  	.ss05 {
+      -webkit-font-feature-settings: "ss05" 1; /* No variation */
+         -moz-font-feature-settings: "ss05=1"; /* Firefox 4.0 to 14.0 */
+         -moz-font-feature-settings: "ss05"; /* Firefox 15.0 onwards */
+         -moz-font-feature-settings: "ss05" 1; /* Firefox 15.0 onwards explicitly set feature values */
+              font-feature-settings: "ss05"; /* No variation */
+  	}
+  	.ss05tnum {
+      -webkit-font-feature-settings: "ss05" 1, "tnum" 1; /* No variation */
+         -moz-font-feature-settings: "ss05=1", "tnum=1"; /* Firefox 4.0 to 14.0 */
+         -moz-font-feature-settings: "ss05", "tnum"; /* Firefox 15.0 onwards */
+         -moz-font-feature-settings: "ss05" 1, "tnum" 1; /* Firefox 15.0 onwards explicitly set feature values */
+              font-feature-settings: "ss05", "tnum"; /* No variation */
+  	}
+  	.ss06 {
+      -webkit-font-feature-settings: "ss06" 1; /* No variation */
+         -moz-font-feature-settings: "ss06=1"; /* Firefox 4.0 to 14.0 */
+         -moz-font-feature-settings: "ss06"; /* Firefox 15.0 onwards */
+         -moz-font-feature-settings: "ss06" 1; /* Firefox 15.0 onwards explicitly set feature values */
+              font-feature-settings: "ss06" 1; /* No variation */
+  	}
+  	.ss14 {
+      -webkit-font-feature-settings: "ss14" 1; /* No variation */
+         -moz-font-feature-settings: "ss14=1"; /* Firefox 4.0 to 14.0 */
+         -moz-font-feature-settings: "ss14"; /* Firefox 15.0 onwards */
+         -moz-font-feature-settings: "ss14" 1; /* Firefox 15.0 onwards explicitly set feature values */
+              font-feature-settings: "ss14" 1; /* No variation */
+  	}
+    </style>
+</head>
+<body>
+  <div id="wrapper">
+    <h1>Devanagari shaping test</h1>
+    
+    <h2>Vowels and Consonants</h2>
+      <p class="sample" contenteditable="true">
+        ऄ अ आ इ ई उ ऊ ऋ ऌ ऍ ऎ ए ऐ ऑ ऒ ओ औ ॠ ॡ क ख ग घ ङ च छ ज झ ञ ट ठ ड ढ ण त थ द ध न ऩ प फ ब भ म य र ऱ ल ळ ऴ व श ष स ह क ख़ ग़ ज़ ड़ ढ़ फ़ य़ ॻ ॼ ॾ ॿ 
+      </p>
+      
+    <h2>Matras and marks</h2>
+      <p class="sample" contenteditable="true">
+        कि की कु कू कृ कॢ कॅ कॆ के कै कॉ कॊ को कौ कॄ कॣ क् कँ कं कः क़ ट्र र्क र्‍क ऽ
+      </p>    
+
+    <h2>Common syllables</h2>
+      <p class="sample" contenteditable="true">
+क्र ख्र ग्र घ्र च्र ज्र झ्र त्र थ्र द्र ध्र न्र प्र फ्र ब्र भ्र म्र य्र ल्र व्र श्र ष्र स्र ह्र क़्र ख़्र ग़्र ज़्र फ़्र य़्र क्ष्र क्ष ज्ञ द्र्य द्व्य ध्न्य न्न्य श्र्य ष्ट्व ह्म्य ट्ट ट्ठ ट्ढ ट्व ठ्ठ ड्ड ड्ढ ढ्ढ द्ग द्घ द्द द्ध द्न द्ब द्भ द्म द्य द्व ह्ण ह्न ह्म ह्य ह्ल ह्व क्ष्म्य क्स्प्र क्स्प्ल त्स्न्य न्स्म्य क्क्य क्त्य क्त्र क्त्व क्प्र क्व्य क्ष्म क्ष्य क्ष्व क्स्ट क्स्ड क्स्त क्ज्ञ ग्ध्य ग्ध्व ग्न्य ग्भ्य घ्ज्ञ च्च्य च्ज्ञ ज्ज्ञ ज्ज्य ज्ज्व ज्ञ्य ञ्च्य ञ्ज्य ञ्ज्ञ त्क्य त्क्र त्क्र त्क्व त्क्ष त्ख्न त्ख्र त्त्य त्त्व त्प्र त्प्ल त्प्ल त्म्य त्र्य त्स्न त्स्य त्स्व त्ज त्ञ त्थ न्क्स न्ज्य न्त्य न्त्र न्त्स न्थ्य न्थ्व न्द्र न्द्व न्ध्य न्ध्र न्ध्व न्प्र न्भ्य न्भ्व न्म्य न्स्ट न्स्य न्ह्य प्त्य फ्ज्ञ ब्ज्य ब्ध्व ब्भ्र ब्ल्य म्प्र म्ब्य म्ब्र म्भ्य म्भ्र म्भ्व ल्क्य ल्थ्य ल्द्र ल्ल्य ल्व्ड ल्ह्य ष्क्र ष्ण्य ष्प्र ष्म्य स्क्र स्क्र स्क्व स्त्य स्त्र स्त्व स्थ्य स्न्य स्प्र स्म्य क्क क्ख क्घ क्ङ क्च क्छ क्ज क्झ क्झ क्ञ क्ट क्ड क्ण क्त क्थ क्द क्ध क्न क्प क्फ क्भ क्म क्य क्ल क्ल क्व क्श क्ह क्स ख्ख ख्त ख्न ख्म ख्य ख्व ख्श ग्ग ग्घ ग्ज ग्ण ग्द ग्ध ग्न ग्ब ग्भ ग्म ग्य ग्ल ग्ल ग्व ग्स घ्ङ घ्च घ्छ घ्ड घ्थ घ्द घ्ध घ्न घ्भ घ्श घ्ह घ्म घ्य च्च च्छ च्झ च्झ च्ड च्थ च्ध च्न च्भ च्म च्य च्श च्ह ज्क ज्ख ज्ग ज्ज ज्झ ज्ट ज्ठ ज्ड ज्ढ ज्त ज्थ ज्द ज्न ज्ब ज्भ ज्म ज्य ज्व ज्स झ्ङ झ्छ झ्ड झ्न झ्भ त्मड ह्म्य झ्य स्त्व झ्श झ्ह ञ्च ञ्छ ञ्ज ञ्ङ ञ्ड ञ्भ ञ्श ञ्ह ण्ट ण्ठ ण्ड ण्ढ ण्ण ण्म ण्य ण्व त्क त्ख त्ट त्ठ त्त त्द त्ध त्प त्फ त्भ त्म त्य त्ल त्ल त्व त्स थ्घ थ्ङ थ्च थ्छ थ्ड थ्थ थ्ध थ्न थ्भ थ्य थ्व थ्श थ्ह ध्छ ध्ङ ध्च ध्ड ध्थ ध्ध ध्न ध्भ ध्म ध्य ध्व ध्श ध्ह न्क न्ग न्च न्छ न्ञ न्ट न्ड न्त न्थ न्द न्ध न्न न्प न्फ न्भ न्म न्य न्व न्श न्स न्ह प्ङ प्छ प्ट प्ड प्त प्थ प्ध प्न प्प प्फ प्भ प्म प्य प्ल प्ल प्व प्श प्स फ्ग फ्घ फ्ङ फ्च फ्छ फ्ज फ्झ फ्झ फ्ञ फ्ट फ्ड फ्त फ्थ फ्ध फ्न फ्प फ्फ फ्भ फ्य फ्ल फ्ल फ्श फ्ह ब्ज ब्झ ब्झ ब्त ब्द ब्ध ब्न ब्ब ब्भ ब्य ब्ल ब्व ब्श ब्स ब्ज़ भ्ङ भ्छ भ्ञ भ्ड भ्थ भ्ध भ्न भ्भ भ्य भ्ल भ्व भ्श भ्ह म्ङ म्च म्छ म्झ म्ञ म्ड म्त म्थ म्द म्ध म्न म्प म्ब म्भ म्म म्य म्ल म्व म्श म्स म्ह य्घ य्ङ य्छ य्ड य्थ य्ध य्न य्भ य्य य्श ल्क ल्ख ल्ग ल्घ ल्च ल्ज ल्ञ ल्ट ल्ठ ल्ड ल्ढ ल्त ल्थ ल्द ल्ध ल्प ल्न ल्फ ल्ब ल्भ ल्म ल्य ल्ल ल्व ल्श ल्स ल्ह ल्ज़ ळ्य व्न व्य व्ल व्व व्ह श्क श्च श्छ श्ट श्त श्न श्म श्य श्ल श्ल श्व श्श श्क़ ष्क ष्ट ष्ठ ष्ण ष्प ष्फ ष्म ष्य ष्व ष्ष स्क स्ख स्छ स्ज स्ट स्त स्थ स्द स्न स्प स्फ स्ब स्म स्य स्ल स्व स्स क़्त क़्फ क़्ब क़्म क़्क़ क़्फ़ ख़्त ख़्म ख़्य ख़्व ख़्श ख़्स ज़्य ज़्ज़ फ़्त फ़्स फ़्ज़ फ़्फ़
+      </p>
+
+    <h2>Half forms</h2>
+      <p class="sample" contenteditable="true">
+       क्‍◌ ख्‍◌ ग्‍◌ घ्‍◌ ङ्‍◌ च्‍◌ छ्‍◌ ज्‍◌ झ्‍◌ ञ्‍◌ ट्‍◌ ठ्‍◌ ड्‍◌ ढ्‍◌ ण्‍◌ त्‍◌ थ्‍◌ द्‍◌ ध्‍◌ न्‍◌ ऩ्‍◌ प्‍◌ फ्‍◌ ब्‍◌ भ्‍◌ म्‍◌ य्‍◌ र्‍◌ ऱ्‍◌ ल्‍◌ ळ्‍◌ ऴ्‍◌ व्‍◌ श्‍◌ ष्‍◌ स्‍◌ ह्‍◌ क्‍◌ ख़्‍◌ ग़्‍◌ ज़्‍◌ ड़्‍◌ ढ़्‍◌ फ़्‍◌ य़्‍◌ 
+      </p>
+
+    <h2>ABVS: matra ligatures</h2>
+      <p class="sample" contenteditable="true">
+        ईं
+        <br/>
+        र्कं र्के र्कें कै कैं र्कै र्कैं र्को र्कौ र्कों र्कौं 
+        र्की र्कीं
+      </p>
+
+    <h2>ABVS: extending matra I</h2>
+      <p class="sample" contenteditable="true">
+        क्स्प्लि  क्स्प्लिं क्स्प्लिँ र्क्स्प्लि र्क्स्प्लिं
+        <br />
+        पि  पिं र्पि र्पिं क्द्रि क्ढ्रि क्ड्रि
+      </p>
+
+    <h2>ABVS</h2>
+      <p class="sample" contenteditable="true">
+        ॲं ऍं ऑं कॉं कॕंक कॅं
+        ऄं ऎं ऐं ओं ऒं औं कॆं कें कैं  कॊं कों कौं कीं
+      <br/>
+        ॲँ ऍँ ऑँ कॉँ कॕँक कॅँ
+        ऄँ ऎँ ऐँ ओँ ऒँ औँ कॆँ केँ कैँ  कॊँ कोँ कौँ कीँ
+      </p>
+
+    <h2>BLWS & BLWM: matra ligatures and positioning</h2>
+      <p class="sample" contenteditable="true">
+        ट्रु ट्रू 
+        <br />
+        दु दू दृ रु रू शृ हृ हु हू
+        <br />
+        द्वृ द्रृ
+        <br />
+        झु ऩु ऴु व्रु घ्नु
+      	झू ऩू ऴू व्रू घ्नू
+      	<br />
+      	रृ रॄ लृ लॄ
+      </p> 
+
+    <h2>CCMP</h2>
+      <p class="sample" contenteditable="true">
+        कां कॉ काँ कॉं
+        पां पॉ पाँ टां
+      </p>
+      
+    <h2>Devanagari figures (default)</h2>
+      <p class="sample" contenteditable="true">
+        ० १ २ ३ ४ ५ ६ ७ ८ ९ (default)
+      </p>
+    
+    <h2>Devanagari figures (tabular)</h2>
+      <p class="sample tnum" contenteditable="true">
+        ० १ २ ३ ४ ५ ६ ७ ८ ९ (default tabular)
+      </p>
+    
+    <h2>Devanagari figures (alternative [ss05])</h2>
+      <p class="sample ss05" contenteditable="true">
+        ० १ २ ३ ४ ५ ६ ७ ८ ९ 
+      </p>
+    
+    <h2>Devanagari figures (alternative [ss05] tabular)</h2>
+      <p class="sample ss05tnum" contenteditable="true">
+        ० १ २ ३ ४ ५ ६ ७ ८ ९
+      </p>
+
+    <h2>LOCL: Marathi forms</h2>
+      <p class="sample" contenteditable="true" lang="mr">
+        ल श त्ल भ्ल ष्ल म्ल ल्ल व्ल स्ल ल्र ब्ल ल्क क्स्प्ल ल्क श्क
+        <br />
+        लि शि त्लि भ्लि ष्लि म्लि ल्लि व्लि स्लि ल्रि ब्लि ल्कि क्स्प्लि
+        <br />
+        र्लिं र्शिं र्त्लिं र्भ्लिं र्ष्लिं र्म्लिं र्ल्लिं र्व्लिं र्स्लिं र्ल्रिं र्ब्लिं र्ल्किं र्क्स्प्लिं
+      </p>
+    
+    <h2>LOCL: Nepali forms</h2>
+      <p class="sample" contenteditable="true" lang="ne">
+        झ क्झ च्झ फ्झ ब्झ झ्क
+        <br />
+        झि क्झि च्झि फ्झि ब्झि 
+        <br />
+        र्झिं र्क्झिं र्च्झिं र्फ्झिं र्ब्झिं
+      </p>
+
+    <h2>SS01: Marathi forms</h2>
+      <p class="sample ss01 ss14" contenteditable="true">
+        ल श त्ल भ्ल ष्ल म्ल ल्ल व्ल स्ल ल्र ब्ल ल्क क्स्प्ल ल्क श्क
+        <br />
+        लि शि त्लि भ्लि ष्लि म्लि ल्लि व्लि स्लि ल्रि ब्लि ल्कि क्स्प्लि
+        <br />
+        र्लिं र्शिं र्त्लिं र्भ्लिं र्ष्लिं र्म्लिं र्ल्लिं र्व्लिं र्स्लिं र्ल्रिं र्ब्लिं र्ल्किं र्क्स्प्लिं
+      </p>
+
+    <h2>SS02: Nepali forms</h2>
+      <p class="sample ss02 ss14" contenteditable="true">
+        झ क्झ च्झ फ्झ ब्झ झ्क
+        <br />
+        झि क्झि च्झि फ्झि ब्झि 
+        <br />
+        र्झिं र्क्झिं र्च्झिं र्फ्झिं र्ब्झिं
+      </p>
+            
+    <h2>SS03: Selected Sanskrit forms</h2>
+      <p class="sample ss03" contenteditable="true">
+      क्र क्क क्त क्व त्र त्र्क 
+      </p>
+
+    <h2>SS06: other alternates</h2>
+      <p class="sample ss06" contenteditable="true">
+      दृ ऋ ह्म्य 
+      </p>
+
+  </div>
+</body>
+</html>

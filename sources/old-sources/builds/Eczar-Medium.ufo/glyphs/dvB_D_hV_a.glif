@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvBDhVa" format="1">
+  <advance width="1410"/>
+  <outline>
+    <contour>
+      <point x="304" y="72" type="curve"/>
+      <point x="457" y="72"/>
+      <point x="565" y="209"/>
+      <point x="461" y="357" type="curve"/>
+      <point x="398" y="341" type="line"/>
+      <point x="457" y="230"/>
+      <point x="358" y="153"/>
+      <point x="257" y="153" type="curve"/>
+      <point x="227" y="153"/>
+      <point x="189" y="160"/>
+      <point x="163" y="178" type="curve"/>
+      <point x="98" y="255"/>
+      <point x="142" y="377"/>
+      <point x="264" y="377" type="curve"/>
+      <point x="321" y="377"/>
+      <point x="373" y="350"/>
+      <point x="438" y="294" type="curve"/>
+      <point x="461" y="357" type="line"/>
+      <point x="271" y="461" type="line"/>
+      <point x="147" y="492"/>
+      <point x="29" y="414"/>
+      <point x="29" y="298" type="curve"/>
+      <point x="29" y="170"/>
+      <point x="174" y="72"/>
+    </contour>
+    <contour>
+      <point x="169" y="385" type="line"/>
+      <point x="326" y="137" type="line"/>
+      <point x="369" y="166" type="line"/>
+      <point x="217" y="409" type="line"/>
+    </contour>
+    <contour>
+      <point x="-39" y="596" type="line"/>
+      <point x="0" y="538" type="line"/>
+      <point x="415" y="538" type="line"/>
+      <point x="428" y="565" type="line"/>
+      <point x="390" y="624" type="line"/>
+      <point x="-26" y="624" type="line"/>
+    </contour>
+    <component base="dvDhVa" xOffset="373"/>
+    <contour>
+      <point x="1266" y="640" type="move" name="abvmBINDU"/>
+    </contour>
+    <contour>
+      <point x="1250" y="640" type="move" name="abvmCANDRABINDU"/>
+    </contour>
+    <contour>
+      <point x="1457" y="640" type="move" name="abvmCANDRABINDU2"/>
+    </contour>
+    <contour>
+      <point x="1265" y="470" type="move" name="abvmTOP"/>
+    </contour>
+    <contour>
+      <point x="1201" y="4" type="move" name="blwmBOTTOM"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-02-26 16:53:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>
