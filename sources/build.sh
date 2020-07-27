@@ -18,15 +18,15 @@ echo ".
 GENERATING STATIC TTF
 ."
 mkdir -p ../fonts/ttf
-glyphs2ufo Eczar.glyphs --generate-GDEF
-fontmake -m Eczar.designspace -o ttf --output-dir ../fonts/ttf/
+glyphs2ufo $thisFont.glyphs --generate-GDEF
+fontmake -m $thisFont.designspace -o ttf --output-dir ../fonts/ttf/
 #fontmake -g $thisFont.glyphs -i -o ttf --output-dir ../fonts/ttf/
 
-#echo ".
-#GENERATING STATIC OTF
-#."
-#mkdir -p ../fonts/otf
-#fontmake -m Eczar.designspace -o ttf --output-dir ../fonts/otf/
+echo ".
+GENERATING STATIC OTF
+."
+mkdir -p ../fonts/otf
+fontmake -m $thisFont.designspace -o otf --output-dir ../fonts/otf/
 #fontmake -g $thisFont.glyphs -i -o otf --output-dir ../fonts/otf/
 
 #============================================================================
@@ -46,16 +46,16 @@ do
 	[ -f $ttf.fix ] && mv $ttf.fix $ttf
 done
 
-#echo ".
-#POST-PROCESSING OTF
-#."
-#otfs=$(ls ../fonts/otf/*.otf)
-#for otf in $otfs
-#do
-#	gftools fix-dsig -f $otf
-#done
+echo ".
+POST-PROCESSING OTF
+."
+otfs=$(ls ../fonts/otf/*.otf)
+for otf in $otfs
+do
+	gftools fix-dsig --autofix $otf
+done
 
-rm -rf master_ufo/ instance_ufo/
+rm -rf master_ufo/ instance_ufo/ *.ufo *.designspace
 
 echo ".
 COMPLETE!
