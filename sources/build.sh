@@ -44,6 +44,8 @@ do
 	[ -f $ttf.fix ] && mv $ttf.fix $ttf
 	gftools fix-hinting $ttf
 	[ -f $ttf.fix ] && mv $ttf.fix $ttf
+	gftools fix-weightclass $ttf
+	[ -f $ttf.fix ] && mv $ttf.fix $ttf
 done
 
 echo ".
