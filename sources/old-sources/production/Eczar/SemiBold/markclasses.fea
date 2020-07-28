@@ -1,0 +1,82 @@
+# Created: Tue Feb 26 17:56:20 2019
+# PS Name: Eczar-SemiBold
+# MM Inst: None
+# exported from Defcon
+
+@mGC_abvmBINDU_0_660 = [dvAnusvara dvAnusvara.calt];
+@mGC_abvmTOP_0_709 = [dvReph_dvAnusvara.alt dvReph.alt];
+@mGC_abvmTOP_n152_472 = [dvMatraShortE dvMatraShortE_dvAnusvara];
+@mGC_abvmTOP_n156_472 = [dvMatraE dvMatraAi dvMatraE_dvAnusvara dvMatraE_dvReph dvMatraE_dvReph_dvAnusvara dvMatraAi_dvAnusvara dvMatraAi_dvReph dvMatraAi_dvReph_dvAnusvara];
+@mGC_abvmTOP_n170_472 = [dvReph_dvAnusvara dvReph];
+@mGC_blwmBOTTOM_n233_0 = [dvMatraVocalicR dvMatraVocalicRr];
+@mGC_blwmBOTTOM_n262_0 = [dvMatraUE dvMatraUUE];
+@mGC_bottom_0_0 = [cedillacomb commaaccentcomb dotbelowcomb macronbelowcomb];
+@mGC_left_132_343 = [tonos.case lenis.case grAcute.case];
+@mGC_left_167_343 = [lenistilde.case aspertilde.case];
+@mGC_top_0_471 = [acutecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb tildecomb];
+@mGC_top_150_471 = [tonos grAcute];
+@mGC_top_171_471 = [lenisacute grTilde];
+@mGC_top_1_650 = [acutecomb.case macroncomb.case];
+@mGC_top_n1_471 = [brevecomb hungarumlautcomb.case];
+@mGC_top_n1_580 = [caroncomb.case circumflexcomb.case];
+@mGC_top_n1_650 = [brevecomb.case gravecomb.case tildecomb.case];
+
+markClass @mGC_abvmBINDU_0_660 <anchor 0 660> @MC_abvmBINDU;
+markClass @mGC_abvmTOP_0_709 <anchor 0 709> @MC_abvmTOP;
+markClass @mGC_abvmTOP_n152_472 <anchor -152 472> @MC_abvmTOP;
+markClass @mGC_abvmTOP_n156_472 <anchor -156 472> @MC_abvmTOP;
+markClass @mGC_abvmTOP_n170_472 <anchor -170 472> @MC_abvmTOP;
+markClass @mGC_blwmBOTTOM_n233_0 <anchor -233 0> @MC_blwmBOTTOM;
+markClass @mGC_blwmBOTTOM_n262_0 <anchor -262 0> @MC_blwmBOTTOM;
+markClass @mGC_bottom_0_0 <anchor 0 0> @MC_bottom;
+markClass @mGC_left_132_343 <anchor 132 343> @MC_left;
+markClass @mGC_left_167_343 <anchor 167 343> @MC_left;
+markClass @mGC_top_0_471 <anchor 0 471> @MC_top;
+markClass @mGC_top_150_471 <anchor 150 471> @MC_top;
+markClass @mGC_top_171_471 <anchor 171 471> @MC_top;
+markClass @mGC_top_1_650 <anchor 1 650> @MC_top;
+markClass @mGC_top_n1_471 <anchor -1 471> @MC_top;
+markClass @mGC_top_n1_580 <anchor -1 580> @MC_top;
+markClass @mGC_top_n1_650 <anchor -1 650> @MC_top;
+markClass asper.case <anchor 155 343> @MC_left;
+markClass asperacute <anchor 200 471> @MC_top;
+markClass asperacute.case <anchor 230 343> @MC_left;
+markClass aspergrave <anchor 208 471> @MC_top;
+markClass aspergrave.case <anchor 234 343> @MC_left;
+markClass aspertilde <anchor 206 471> @MC_top;
+markClass caroncomb.calt <anchor 0 597> @MC_topright;
+markClass dieresisacute <anchor 154 472> @MC_top;
+markClass dieresisgrave <anchor 184 471> @MC_top;
+markClass dieresistilde <anchor 178 471> @MC_top;
+markClass dieresistonos <anchor 167 472> @MC_top;
+markClass dvAnusvara.alt <anchor 0 660> @MC_abvmTOP;
+markClass dvCandrabindu <anchor -181 660> @MC_abvmCANDRABINDU;
+markClass dvCandrabindu.calt <anchor -101 660> @MC_abvmCANDRABINDU;
+markClass dvCandrabinduInverted <anchor -216 660> @MC_abvmCANDRABINDU;
+markClass dvCandrabinduInverted.calt <anchor -123 660> @MC_abvmCANDRABINDU;
+markClass dvHalant <anchor -176 -10> @MC_blwmBOTTOM;
+markClass dvHalant.small <anchor -174 -39> @MC_blwmBOTTOM;
+markClass dvMatraCandraE <anchor -166 660> @MC_abvmCANDRABINDU;
+markClass dvMatraCandraE.calt <anchor -90 660> @MC_abvmCANDRABINDU;
+markClass dvMatraOE <anchor -154 472> @MC_abvmTOP;
+markClass dvMatraU <anchor -253 0> @MC_blwmBOTTOM;
+markClass dvMatraU.small <anchor -252 0> @MC_blwmBOTTOM;
+markClass dvMatraUu <anchor -237 0> @MC_blwmBOTTOM;
+markClass dvMatraUu.small <anchor -207 0> @MC_blwmBOTTOM;
+markClass dvMatraVocalicL <anchor -55 0> @MC_blwmBOTTOM;
+markClass dvMatraVocalicLl <anchor -65 0> @MC_blwmBOTTOM;
+markClass dvMatraVocalicR.small <anchor -164 0> @MC_blwmBOTTOM;
+markClass dvNukta <anchor -2 -21> @MC_blwmNUKTA;
+markClass dvRakar_dvMatraU <anchor 0 0> @MC_blwmBOTTOM;
+markClass dvRakar_dvMatraUu <anchor 1 0> @MC_blwmBOTTOM;
+markClass grGrave <anchor 196 471> @MC_top;
+markClass lenis <anchor 186 471> @MC_top;
+markClass lenisacute.case <anchor 169 343> @MC_left;
+markClass lenisgrave <anchor 205 471> @MC_top;
+markClass lenisgrave.case <anchor 182 343> @MC_left;
+markClass lenistilde <anchor 198 471> @MC_top;
+markClass macroncomb <anchor 1 471> @MC_top;
+markClass ogonekcomb <anchor 0 9> @MC_ogonek;
+markClass ogonekcomb.case <anchor -1 10> @MC_ogonek;
+markClass ringcomb <anchor 0 650> @MC_top;
+
