@@ -843,7 +843,7 @@ lookup ABVS_insertAnusvara {
 feature abvs {
 	
 	lookup ABVS_MatraIContext {	
-		include(dvMatraI.pres.fea);
+		include(../dvMatraI.pres.fea);
 	} ABVS_MatraIContext;
 
 	lookup ABVS_matraLigatures {
@@ -1328,7 +1328,7 @@ feature ss14 {
 	lookup resetMatraI {
 		lookupflag IgnoreMarks;
 
-		include(dvMatraI.salt.fea);
+		include(../dvMatraI.salt.fea);
 	} resetMatraI;
 	
 	sub @dvMatraU_CXT dvMatraU' by dvMatraU.small;
@@ -1357,7 +1357,7 @@ feature kern {
 	lookup KERN_LTR {
 		lookupflag IgnoreMarks;
 		
-		include(kern.fea)
+		include(../kern.fea)
 	} KERN_LTR;	
 } kern;
 
@@ -1365,12 +1365,12 @@ feature dist { # Distances
 	lookup KERN_LTR;
 } dist;
 
-include(markclasses.fea);
+include(../markclasses.fea);
 feature abvm { # Above-base marks
-	include(abvm.fea);
+	include(../abvm.fea);
 } abvm;
 
 feature blwm { # Below-base marks
-	include(blwm.fea);
+	include(../blwm.fea);
 } blwm;
 
