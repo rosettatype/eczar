@@ -1356,29 +1356,3 @@ feature salt {
 	lookup SS05;
 } salt;
 
-
-
-#----------------------------------------------------------------------------
-# Kerning and mark positioning
-
-feature kern {
-	lookup KERN_LTR {
-		lookupflag IgnoreMarks;
-		
-		include(../fea/kern.fea)
-	} KERN_LTR;	
-} kern;
-
-feature dist { # Distances
-	lookup KERN_LTR;
-} dist;
-
-include(../fea/markclasses.fea);
-feature abvm { # Above-base marks
-	include(../fea/abvm.fea);
-} abvm;
-
-feature blwm { # Below-base marks
-	include(../fea/blwm.fea);
-} blwm;
-
