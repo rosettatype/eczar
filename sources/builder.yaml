@@ -1,0 +1,8 @@
+sources:
+  - Eczar.glyphs
+outputDir: "../release"
+buildStatic: true
+buildVariable: true
+buildTTF: false
+buildOTF: false
+buildWebfont: false
